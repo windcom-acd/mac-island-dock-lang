@@ -1,0 +1,1636 @@
+ (all apps)	 (todos)
+ (all monitors)	 (todos os monitores)
+ by caliberda	 por caliberda
+ events	 eventos
+ files	 arquivos
+ shortcuts imported	 atalhos importados
+ · HDR: SDR content	 · HDR: conteúdo SDR
+ · almost full	 · quase cheio
+ · click to hide	 · clique para esconder
+ · drag to move	 · arraste para mover
+ · hidden, click to show	 · escondido, clique para mostrar
+ · main island	 · ilha principal
+ · no sound	 · sem som
+ · on the island, Ctrl+drag works too	 · na ilha, Ctrl+arrastar também funciona
+ · plain color while Windows' energy saver is on	 · cor lisa enquanto a economia de energia do Windows está ligada
+ · plain color: Windows' transparency effects are off (Personalization > Colors)	 · cor lisa: os efeitos de transparência do Windows estão desligados (Personalização > Cores)
+ · press the new keys (Esc cancels)	 · pressione as novas teclas (Esc cancela)
+ · this island	 · esta ilha
+ · whkd isn't installed (winget install LGUG2Z.whkd)	 · o whkd não está instalado (winget install LGUG2Z.whkd)
+"Following the bell": out of the pill, as now; or at a point of the screen, sliding in from its nearest edge	"Seguindo o sino": saindo da pílula, como hoje; ou num ponto da tela, entrando pela borda mais perto
+"Follows the line": as wide as each line; the others keep the widest line's width. A longer line ends with …	"Segue a linha": da largura de cada linha; as outras mantêm a largura da linha mais larga. Uma linha maior termina em …
+%d items	%d itens
+%d of %d	%d de %d
+%s at %s	%s às %s
+%s couldn't run	%s não rodou
+%s ran	%s rodou
+%zu of %zu events	%zu de %zu eventos
+(the wheel turns the pages)	(a roda do mouse vira as páginas)
++  New event	+  Novo evento
++  New shortcut	+  Novo atalho
++ Add alarm	+ Adicionar alarme
++ Line	+ Linha
++ saves the current settings as a profile, to switch back to them later.	+ salva as configurações atuais como um perfil, para voltar a elas depois.
+.ics link or file path	Link ou caminho do .ics
+1 day	1 dia
+1 item	1 item
+10 min	10 min
+12 h AM/PM	12 h AM/PM
+2 min	2 min
+24 h	24 h
+30 days	30 dias
+30 s	30 s
+5-hour session	Sessão de 5 horas
+7 days	7 dias
+A Pomodoro ended	Um Pomodoro acabou
+A USB device plugged in	Um dispositivo USB conectado
+A Windows update came before Microsoft published the files Windhawk needs to change the taskbar (taskbar.dll %s). Until they're out, the dock and the taskbar's look stay off and the island keeps working. They come back by themselves at the next sign-in after that.	Uma atualização do Windows chegou antes de a Microsoft publicar os arquivos de que o Windhawk precisa para mudar a barra de tarefas (taskbar.dll %s). Até eles saírem, a dock e o visual da barra ficam desligados e a ilha continua funcionando. Depois disso, eles voltam sozinhos no próximo login.
+A banner closes when you click anywhere outside it and the island; calls, alarms and reminders stay until you answer them	Um aviso fecha quando você clica em qualquer lugar fora dele e da ilha; chamadas, alarmes e lembretes ficam até você responder
+A bolt over her and she's proud; with her care on, it gives her energy	Um raio sobre ela e ela fica orgulhosa; com os cuidados ligados, isso dá energia a ela
+A browser's download standing still shows paused	Download do navegador parado aparece pausado
+A bubble on the island says when Caps Lock is turned on or off	Um balão na ilha avisa quando o Caps Lock é ligado ou desligado
+A bubble on the island says when Num Lock is turned on or off	Um balão na ilha avisa quando o Num Lock é ligado ou desligado
+A card for each event: its switch, where its sound comes from and a play button. The three icons: the island's own sound, the Glass pack (25 small sound files, about 1.3 MB, downloaded once from jsDelivr's CDN, cdn.jsdelivr.net, the first time you pick it; only the files are asked for, nothing about you is sent) or a file of yours (.wav, .mp3...)	Um cartão para cada evento: o interruptor, de onde vem o som e um botão de tocar. Os três ícones: o som da própria ilha, o pacote Glass (25 arquivos de som pequenos, cerca de 1,3 MB, baixados uma vez da CDN do jsDelivr, cdn.jsdelivr.net, na primeira vez que você o escolhe; só os arquivos são pedidos, nada sobre você é enviado) ou um arquivo seu (.wav, .mp3...)
+A click on an item opens it; when you don't use it, the pill can shrink into a thin line	Um clique num item abre ele; quando você não a usa, a pílula pode encolher numa linha fina
+A click on the bell opens Windows' own notification center instead of the island's list	Um clique no sino abre a central de notificações do próprio Windows em vez da lista da ilha
+A cuddle, just one?	Um carinho, só um?
+A download finished	Um download terminou
+A drive was connected	Uma unidade foi conectada
+A file with all of it (agenda links too)	Um arquivo com tudo (os links das agendas também)
+A flash, and she's startled	Um flash, e ela se assusta
+A focus time ended	Um tempo de foco acabou
+A grid on the pill that opens all your apps, Store apps too, like macOS: search them by typing, your favorites first (the star), then all of them in alphabetical order	Uma grade na pílula que abre todos os seus apps, os da Store também, como no macOS: busque digitando, seus favoritos primeiro (a estrela), depois todos em ordem alfabética
+A line while a window is maximized	Uma linha com uma janela maximizada
+A line with the mouse away	Uma linha com o mouse longe
+A little document copies itself beside her	Um documentinho se copia ao lado dela
+A little fruit would be nice.	Uma frutinha cairia bem.
+A long title keeps scrolling while it plays	Título longo rolando enquanto toca
+A new notification	Uma notificação nova
+A new song	Uma música nova
+A notch with no items disappears, the one with the bell too. It comes back when an item or a notification comes to it, and while you drag items between the notches here. The strip kept on the screen stays the same	Um entalhe sem itens desaparece, inclusive o do sino. Ele volta quando chega um item ou uma notificação, e enquanto você arrasta itens entre os entalhes aqui. A faixa reservada na tela continua igual
+A notification with a one-time code (4 to 8 digits, like a sign-in or a bank code) gets a Copy code button on its banner and in the list. The code goes to the clipboard and stays out of its history	Uma notificação com um código de uso único (4 a 8 dígitos, como os de login ou do banco) ganha um botão Copiar código no banner e na lista. O código vai para a área de transferência e fica fora do histórico dela
+A notification's text stays on one line, and under the mouse it scrolls to its end and back instead of opening on up to three lines. With animations reduced or off, it opens on three lines as usual	O texto do aviso fica em uma linha e, sob o mouse, rola até o fim e volta, em vez de abrir em até três linhas. Com as animações reduzidas ou desligadas, abre em três linhas como sempre
+A picture for this icon	Uma imagem para este ícone
+A plug comes up beside her and she's curious	Um plugue aparece ao lado dela e ela fica curiosa
+A reminder, an alarm or a timer	Um lembrete, alarme ou timer
+A reminder, an alarm or a timer ending	Um lembrete, alarme ou timer acabando
+A right click on the island shows a gear: it opens these settings	Um clique com o botão direito na ilha mostra uma engrenagem: ela abre estas configurações
+A ring along the edge shows the charge: green above 40%, yellow down to 20%, red below. Not as the line, nor on the Bar style	Um anel na borda mostra a carga: verde acima de 40%, amarelo até 20%, vermelho abaixo. Não na linha nem no estilo Barra
+A screenshot	Um print de tela
+A screenshot was taken	Um print foi tirado
+A short notice with the cover, title and artist when the song changes (not for pauses or the first song); a click opens What's playing	Um aviso curto com a capa, o título e o artista quando a música muda (não em pausas nem na primeira música); um clique abre o que está tocando
+A sip of water?	Um golinho de água?
+A small light that lives on the pill as an item of its own: move it in the order like the others, in every style. Her eyes follow the mouse, she blinks, dances with the music of the apps you check and shows what the PC is doing; she rests when nothing moves. While she moves the island is drawn again up to 30 times a second: on a slow PC, her dance and Her eyes follow the mouse off make it lighter	Uma luzinha que mora na pílula como um item próprio: mude-a de lugar na ordem como os outros, em qualquer estilo. Os olhos dela seguem o mouse, ela pisca, dança com a música dos apps que você marcar e mostra o que o PC está fazendo; ela descansa quando nada se mexe. Enquanto ela se mexe, a ilha é redesenhada até 30 vezes por segundo: num PC lento, desligar a dança e Os olhos seguem o mouse deixa mais leve
+A sneeze	Espirro
+A sneeze, by herself	Um espirro, sozinha
+A sound for this event	Um som para este evento
+A summary of the PC, the island's settings and its last 300 log lines (the dock's are in Windhawk's log)	Um resumo do PC, as configurações da ilha e as últimas 300 linhas de log dela (as da dock ficam no log do Windhawk)
+A tap	Tapinha
+A task can be given a day. It shows under the task (red when it passed, not done), and the dated tasks come first, the soonest on top. Tasks without a date stay as they are	Uma tarefa pode ganhar um dia. Ele aparece embaixo da tarefa (em vermelho quando já passou e ela não foi feita), e as tarefas com data vêm primeiro, a mais próxima no topo. As tarefas sem data ficam como estão
+A title too long to fit scrolls across while it plays	Um título longo demais rola enquanto a música toca
+A to Z	De A a Z
+A yawn	Bocejo
+A yawn, by herself	Um bocejo, sozinha
+AI usage	Uso de IA
+Accent color	Cor de destaque
+Accessibility	Acessibilidade
+Add	Adicionar
+Add  (Enter)	Adicionar  (Enter)
+Add a folder	Adicionar pasta
+Add a separator line · drag it between icons, click it to remove	Adicionar uma linha separadora · arraste-a entre os ícones, clique para remover
+Add an open app	Adicionar um app aberto
+Add clocks in Windows' date and time settings (Additional clocks)	Adicione relógios nas configurações de data e hora do Windows (Relógios adicionais)
+Add controls	Adicionar controles
+Add note  (Ctrl+Enter)	Adicionar anotação  (Ctrl+Enter)
+Add provider	Incluir provedor
+Add the shortcuts you want to remember	Adicione os atalhos que você quer lembrar
+Added to your commands	Adicionado aos seus comandos
+Adds a button for sleep, restart and shut down	Adiciona um botão para suspender, reiniciar e desligar
+Adds a button that lists the keyboard shortcuts	Adiciona um botão que lista os atalhos do teclado
+Adds a button that mutes and unmutes the microphone	Adiciona um botão que silencia e reativa o microfone
+Adds a button that opens your quick notes	Adiciona um botão que abre suas anotações rápidas
+Adds a button that opens your to-do list	Adiciona um botão que abre sua lista de tarefas
+Adds a button that switches Windows between light and dark	Adiciona um botão que alterna o Windows entre claro e escuro
+Adds a button to switch profiles from the pill	Adiciona um botão para trocar de perfil pela pílula
+Adds a small arrow at the pill's end that hides it to its line	Põe uma setinha na ponta da pílula que a esconde na linha
+Adds a timer, a stopwatch and a Pomodoro to the pill	Adiciona timer, cronômetro e Pomodoro à pílula
+Adds a way to reach the tray icons of other apps from the pill	Adiciona um jeito de acessar os ícones da bandeja de outros apps pela pílula
+Adds the Recycle Bin to the pill	Adiciona a Lixeira à pílula
+Adds the day and the month to the clock	Acrescenta o dia e o mês ao relógio
+Adds the notifications bell to the pill	Adiciona o sino de notificações à pílula
+Adds the seconds to the time	Acrescenta os segundos à hora
+Adds the weekday to the clock	Acrescenta o dia da semana ao relógio
+Adds the year to the clock	Acrescenta o ano ao relógio
+Affection	Carinho
+After its app: stays	Depois do app: fica
+After its app: the one before	Depois do app: o de antes
+Again to put every setting back to its default (notes, tasks, events and profiles stay)	De novo para voltar todas as configurações ao padrão (anotações, tarefas, eventos e perfis ficam)
+Agendas	Agendas
+Ah… ah… achoo!	Ah… ah… atchim!
+Airplane mode	Modo avião
+Alarm	Alarme
+Alarms	Alarmes
+All	Todas
+All apps	Todos os apps
+All day	Dia todo
+All done	Tudo feito
+All files	Todos os arquivos
+All quiet here.	Tudo calmo por aqui.
+All reactions	Todas as reações
+All up to date	Tudo atualizado
+Already added	Já adicionada
+Also on the minimized line	Também na linha minimizada
+Also shows the title of the window in focus, like the page or the file open in it	Mostra também o título da janela em foco, como a página ou o arquivo aberto nela
+Always	Sempre
+Always on the pill, even with nothing playing	Sempre na pílula, mesmo sem nada tocando
+Always shown	Sempre visível
+Always, or only once what's in it weighs this much (it comes and goes by itself)	Sempre, ou só quando o que tem nela pesar isso (ela aparece e some sozinha)
+Amber	Âmbar
+An app appears here once it plays music; only the ones you check make her dance	Um app aparece aqui quando tocar música; só os marcados a fazem dançar
+An app appears here once it plays something	Um app aparece aqui quando tocar algo
+An arrow drops into her and she's proud; with her care on, it feeds her	Uma seta cai nela e ela fica orgulhosa; com os cuidados ligados, isso a alimenta
+Angry	Brava
+Animations	Animações
+App	App
+App in focus	App em foco
+Applies to every monitor, and the island restarts to apply it	Vale para todos os monitores, e a ilha reinicia para aplicar
+Apply	Aplicar
+Apps	Apps
+Apps (launcher)	Apps (lançador)
+Apps (winget, in a terminal)	Apps (winget, no terminal)
+Apps she dances to	Apps com que ela dança
+Apps that bring the visualizer	Apps que trazem o visualizador
+Apps that look for lyrics	Apps que buscam letras
+Apps with notifications	Apps com notificações
+Apps with unsaved work can stop it.	Apps com trabalho não salvo podem impedir.
+Are you working or just pretending?	Você tá trabalhando ou fingindo?
+Area that brings it back	Área que traz de volta
+Arguments (if any)	Argumentos (se tiver)
+Arguments (optional)	Argumentos (opcional)
+Ask before restarting, shutting down or signing out	Perguntar antes de reiniciar, desligar ou sair
+Ask every time	Perguntar sempre
+Ask the first time	Perguntar na primeira vez
+Asleep · Do not disturb is on	Dormindo · o Não perturbe está ligado
+Asleep · no mouse or keyboard for %s min	Dormindo · sem mouse nem teclado há %s min
+Attentive	Atento
+Audio visualizer	Visualizador de áudio
+Audio visualizer (bars moving with the sound)	Visualizador de áudio (barras que se mexem com o som)
+Auto	Auto
+Auto (light or dark)	Automático (claro ou escuro)
+Auto, inverted (the other way from Windows)	Automático invertido (o contrário do Windows)
+Automatic	Automático
+Available	Disponível
+BSP	BSP
+Back	Voltar
+Back to default	Restaurar padrão
+Back to focus	De volta ao foco
+Banner corners	Cantos do aviso
+Banner size	Tamanho do aviso
+Banner width	Largura do aviso
+Banners close on a click outside	Avisos fecham com um clique fora
+Banners even with the pill minimized	Avisos mesmo com a pílula minimizada
+Banners in the pill	Avisos na pílula
+Banners show each new notification coming out of the pill	Os avisos mostram cada notificação nova saindo da pílula
+Banners still appear while the pill is minimized to its line	Os avisos continuam aparecendo com a pílula minimizada na linha
+Bar	Barra
+Bar: along the whole top edge, like macOS' menu bar	Barra: ao longo de toda a borda de cima, como a barra de menus do macOS
+Bar: hide as its line too	Barra: esconder na linha também
+Bar: items at the screen's corners	Barra: itens nos cantos da tela
+Bar: items keep their side of the clock	Barra: itens ficam do seu lado do relógio
+Bars' height	Altura das barras
+Bars' width	Largura das barras
+Base frequency	Frequência base
+Battery	Bateria
+Battery charging	Carga da bateria
+Battery charging (own color)	Carga da bateria (cor própria)
+Battery percentage beside its icon	Porcentagem da bateria ao lado do ícone
+Black	Preto
+Blue	Azul
+Bluetooth	Bluetooth
+Bluetooth & devices	Bluetooth e dispositivos
+Bluetooth audio connected	Áudio Bluetooth conectado
+Bluetooth is off	Bluetooth desligado
+Bluish when lonely, warmer when the processor works hard or she is hungry, paler when thirsty or tired	Azulada quando carente, mais quente quando o processador trabalha pesado ou ela está com fome, mais pálida com sede ou cansada
+Bootstrap (online)	Bootstrap (online)
+Bored · nobody has played with her for %s h	Entediada · ninguém brinca com ela há %s h
+Bottom	Embaixo
+Bottom left	Embaixo à esquerda
+Bottom right	Embaixo à direita
+Break	Pausa
+Brightness	Brilho
+Brightness of external monitors (DDC/CI)	Brilho de monitores externos (DDC/CI)
+Brightness of external monitors turned off	Brilho dos monitores externos desligado
+Brings the visualizer	Traz o visualizador
+Browsers never tell the taskbar a download is paused or failed: one whose bar stands still for 30 s turns yellow	Os navegadores nunca avisam a barra de tarefas que um download pausou ou falhou: um com a barra parada por 30 s fica amarelo
+Bugs and ideas	Bugs e ideias
+Built-in display	Tela integrada
+Button on the island (its icon on the pill)	Botão na ilha (o ícone dele na pílula)
+Buttons on the pill	Botões na pílula
+By date modified	Pela data de modificação
+By name	Pelo nome
+By size	Pelo tamanho
+By type	Pelo tipo
+CPU temperature	Temperatura da CPU
+CPU, RAM and VRAM use	Uso de CPU, RAM e VRAM
+CPU, RAM, VRAM and GPU use	Uso de CPU, RAM, VRAM e GPU
+Cached	Em cache
+Calculator	Calculadora
+Calendar	Calendário
+Calendar full: delete past events in the gear	Calendário cheio: apague os eventos passados na engrenagem
+Calendar with today big	Calendário com o dia grande
+Calls and alarms silent in Do not disturb	Chamadas e alarmes em silêncio no Não incomodar
+Calm · nothing going on	Tranquila · nada acontecendo
+Camera	Câmera
+Cancel	Cancelar
+Caps Lock bubble	Aviso do Caps Lock
+Caps Lock off	Caps Lock desligado
+Caps Lock on	Caps Lock ligado
+Captions	Legendas
+Care pace	Ritmo dos cuidados
+Cast	Transmitir
+Center	Centro
+Change the order with Ctrl + drag on the island	Mudar a ordem com Ctrl + arrastar na ilha
+Changes are saved in the one in use · the pencil renames, saves or deletes	As mudanças ficam salvas no perfil em uso · o lápis renomeia, salva ou exclui
+Charger plugged in	Carregador
+Charging	Carregando
+Charging battery color	Cor da bateria carregando
+Charging battery color (own)	Cor da bateria carregando (própria)
+Check every	Verificar a cada
+Choose	Escolher
+Choose a JSON file	Escolha um arquivo JSON
+Choose a power plan	Escolha um plano de energia
+Choose a program or a file	Escolha um programa ou um arquivo
+Choose it…	Escolher…
+Choose the folder with your pictures	Escolha a pasta com suas imagens
+Choose...	Escolher...
+Chooses how many animations play, on every monitor	Escolhe quantas animações tocam, em todos os monitores
+Chooses which monitors show the island, with a map of your screens	Escolhe quais monitores mostram a ilha, com um mapa das suas telas
+Choose…	Escolher…
+Circle	Círculo
+City not found	Cidade não encontrada
+Claude Code (terminal)	Claude Code (terminal)
+Claude Code gives its limits to its status line, run in Git Bash: copy the line into its script, after it reads its input with input=$(cat) (see the README)	O Claude Code passa os limites para a linha de status dele, que roda no Git Bash: copie a linha para o script dela, depois que ele lê a entrada com input=$(cat) (veja o README)
+Claude Code tells its limits with a Pro or Max plan, after its first answer in a session	O Claude Code informa os limites com um plano Pro ou Max, depois da primeira resposta numa sessão
+Clear	Céu limpo
+Clear all	Limpar tudo
+Click (or press Space) when the ring reaches her. The beat follows the music that is playing, or is steady without it. 32 beats, and hits in a row are worth more.	Clique (ou aperte espaço) quando o anel encostar nela. O ritmo segue a música que está tocando, ou é fixo sem ela. 32 batidas, e acertos seguidos valem mais.
+Click a screen to choose where the island appears.	Clique numa tela para escolher onde a ilha aparece.
+Click a screen to place the main island there (alerts and tray).	Clique numa tela para pôr a ilha principal nela (avisos e bandeja).
+Click and press the keys	Clique e pressione as teclas
+Click to play	Clique para jogar
+Click to play again	Clique para jogar de novo
+Click to record	Clique para gravar
+Clicking a screenshot notice opens the picture in Explorer	Clicar no aviso de captura abre a imagem no Explorador
+Clicks go through the pill	Cliques passam pela pílula
+Clipboard	Área de transferência
+Clock	Relógio
+Clock against the screen's edge	Relógio colado na borda da tela
+Clock font	Fonte do relógio
+Clock in the middle (the other items move around it)	Relógio no meio (os outros itens se reorganizam em volta)
+Close it to finish	Feche para concluir
+Cloud jump	Pulo nas nuvens
+Clouds	Nuvens
+Codex	Codex
+Codex keeps its limits in its logs on this PC: they show after its next answer	O Codex guarda os limites nos logs dele neste PC: eles aparecem depois da próxima resposta dele
+Color filters	Filtros de cor
+Color for downloads and other apps	Cor dos downloads e outros apps
+Color for file copies	Cor das cópias de arquivos
+Color for the battery charging	Cor da carga da bateria
+Colors	Cores
+Colors following the app in front (its title bar or its icon)	Cores seguindo o app da frente (a barra de título ou o ícone)
+Colors: like Windows (light or dark with it), always light or always dark, or the colors of the app in front	Cores: como o Windows (claro ou escuro junto com ele), sempre claro ou sempre escuro, ou as cores do app da frente
+Columns	Colunas
+Command (cmd, without a window)	Comando (cmd, sem janela)
+Command line	Linha de comando
+Committed	Confirmada
+Compact (cover only)	Compacto (só a capa)
+Completed	Concluídas
+Compressed	Compactados
+Connect	Conectar
+Connected	Conectado
+Connecting...	Conectando...
+Content hidden	Conteúdo oculto
+Control Panel	Painel de Controle
+Control center	Central de controle
+Copy	Copiar
+Copy code	Copiar código
+Copy the line	Copiar a linha
+Copy verification codes	Copiar códigos de verificação
+Copying files	Copiando arquivos
+Copying or moving files	Copiando ou movendo arquivos
+Coral	Coral
+Cores / threads	Núcleos / threads
+Corners	Cantos
+Couldn't change the hotspot.	Não foi possível mudar o hotspot.
+Couldn't connect.	Não foi possível conectar.
+Couldn't connect. Check the password.	Não foi possível conectar. Confira a senha.
+Couldn't download it: click to try again	Não deu para baixar: clique para tentar de novo
+Couldn't download them: click it again to try	Não deu para baixar: clique de novo para tentar
+Couldn't empty it	Não deu para esvaziar
+Couldn't forget the network.	Não foi possível esquecer a rede.
+Couldn't reach lrclib.net	Não deu para acessar o lrclib.net
+Couldn't read it	Não foi possível ler
+Couldn't save in that folder	Não deu para salvar nessa pasta
+Counting the pixels on your screen.	Contando os pixels da tela.
+Counts down to Pomodoro's next part	Conta até a próxima parte do Pomodoro
+Counts down to alarms	Conta até os alarmes
+Counts down to events	Conta até os eventos
+Counts down to the timer's end	Conta até o fim do timer
+Cover and title	Capa e título
+Cover and title on the pill	Capa e título na pílula
+Cuddle	Carinho
+Current	Atual
+Custom	Personalizado
+Custom (JSON file)	Personalizado (arquivo JSON)
+Customize…	Personalizar…
+Cyan	Ciano
+Cycles through the pictures of a folder as your wallpaper	Alterna as imagens de uma pasta como papel de parede
+D M Y	D M A
+Dances with the music	Dança com a música
+Dancing · %s is playing	Dançando · %s está tocando
+Dark	Escuro
+Dark mode	Modo escuro
+Date	Data
+Date modified	Data de modificação
+Date order	Ordem da data
+Dates on tasks	Datas nas tarefas
+Day and month	Dia e mês
+Day of the week	Dia da semana
+Delete	Excluir
+Delete %zu past events?	Apagar %zu eventos passados?
+Delete it?	Excluir mesmo?
+Delete past events	Apagar eventos passados
+Desktop	Área de trabalho
+Details	Detalhes
+Details as cards	Detalhes em cartões
+Device	Dispositivo
+Device Manager	Gerenciador de Dispositivos
+Devices	Dispositivos
+Disconnect	Desconectar
+Disconnected	Desconectado
+Disconnecting...	Desconectando...
+Dismiss	Ignorar
+Display	Tela
+Display brightness	Brilho da tela
+Do not disturb	Não incomodar
+Do not disturb turned on or off	Não incomodar ligado ou desligado
+Do not disturb: silent	Não perturbe: sem som
+Documents	Documentos
+Don't stop now!	Não para, não!
+Download	Recebendo
+Download finished	Download terminou
+Download peak (1 min)	Pico recebendo (1 min)
+Download pictures from the web (goes online)	Baixar fotos da internet (acessa a internet)
+Downloading	Baixando
+Downloading the icons	Baixando os ícones
+Downloads	Downloads
+Downloads and other apps	Downloads e outros apps
+Downloads and other apps (own color)	Downloads e outros apps (cor própria)
+Downloads, installs and other apps' progress; red for an error, yellow paused	Downloads, instalações e o progresso dos outros apps; vermelho com erro, amarelo pausado
+Drag an icon to another notch or place	Arraste um ícone para outro entalhe ou lugar
+Drag an icon to change the order	Arraste um ícone para mudar a ordem
+Drag from one notch to another · click to hide	Arraste de um entalhe para outro · clique para esconder
+Drag the groups to reorder them, the minimize arrow stays last	Arraste os grupos para reordenar, a seta de minimizar fica por último
+Drag the pill to any spot on the screen (not with notches)	Arraste a pílula para qualquer ponto da tela (não com entalhes)
+Drag to change the order or to put one on the pill · middle click, or the pin after a moment on an icon: kept on the pill	Arraste para mudar a ordem ou levar um para a pílula · botão do meio, ou o alfinete após um instante no ícone: fica na pílula
+Drag to change the order · click to hide	Arraste para mudar a ordem · clique para esconder
+Dreaming of pixels.	Sonhando com pixels.
+Drinking	Beber
+Drive	Unidade
+Drizzle	Garoa
+Drop files on the pill to keep them here, then drag them into another app	Solte arquivos na pílula para guardá-los aqui, depois arraste para outro app
+Drop files on the pill to keep them there, then drag them out into another app later (their places are kept, not copies)	Solte arquivos na pílula para guardá-los ali e depois arraste para outro app (guarda onde eles estão, não cópias)
+Drop it, I've got it.	Pode soltar, eu levo.
+Duplicate	Duplicar
+Each bar sways on its own, softly, as loud as the sound; off, they jump with the beat	Cada barra balança sozinha, suave, conforme o volume; desligado, elas pulam com a batida
+Each new one opens the pill for a moment	Cada nova abre a pílula por alguns segundos
+Each notch hides alone instead of all at once (Fixed only)	Cada entalhe se esconde sozinho em vez de todos juntos (só estilo Fixa)
+Each screen has its own island	Cada tela tem a sua ilha
+Eating	Comer
+Edge	Borda
+Edge around	Borda em volta
+Edge distance	Distância da borda
+Edit	Editar
+Edit command	Editar comando
+Edit provider	Editar provedor
+Edit task	Editar tarefa
+Eight colors, Windows' accent or your own	Oito cores, o destaque do Windows ou a sua
+Eject	Ejetar
+Ejecting…	Ejetando…
+Emoji	Emoji
+Empty	Vazia
+Empty it? Click again	Esvaziar? Clique de novo
+Empty the bin	Esvaziar
+Emptying…	Esvaziando…
+Energy	Energia
+Energy, food, water and love go down slowly while you use the PC, and you look after her in her panel. She never goes away, never asks in full screen or Do not disturb, and makes no sound unless her sounds are on	Energia, comida, água e carinho baixam devagar enquanto você usa o PC, e você cuida dela no painel. Ela nunca vai embora, nunca pede nada em tela cheia ou no Não perturbe e não faz barulho, a não ser com os sons dela ligados
+English letters	Letras em inglês
+Error	Erro
+Essential	Essencial
+Essential: the clock, the battery, the control center, the volume, the notifications' bell and what's playing	Essencial: o relógio, a bateria, a central de controle, o volume, o sino das notificações e o que está tocando
+Ethernet	Cabo
+Even when minimized	Mesmo com a pílula minimizada
+Event	Evento
+Events in the calendar	Eventos no calendário
+Events, 	Eventos, 
+Every day	Todos os dias
+Every option explained step by step, the roadmap and your votes	Cada opção explicada passo a passo, o roadmap e os seus votos
+Everyday	Dia a dia
+Everyday: also the next event, the weather (goes online), the timer, your folders, the apps with notifications and the song's cover	Dia a dia: também o próximo evento, o clima (acessa a internet), o timer, suas pastas, os apps com notificações e a capa da música
+Everything	Tudo
+Everything: most of the items, from notes and tasks to the network's speed	Tudo: quase todos os itens, de anotações e tarefas à velocidade da rede
+Excuse me!	Com licença!
+Expanded card when the mouse rests on a live item	Cartão expandido ao parar o mouse num item ao vivo
+Export	Exportar
+Export the island's backup	Exportar o backup da ilha
+Extend	Estender
+Extra wide	Bem largo
+Fade	Esmaecer
+Fade the line after	Apagar a linha depois de
+Fan	Ventoinha
+Favorite moved or deleted	Favorito movido ou excluído
+Favorites	Favoritos
+Favorites are full	Os favoritos estão cheios
+Faísca	Faísca
+Faísca, a pet on the island	Faísca, um bichinho na ilha
+Feels like	Sensação de
+Fetches pictures for banners from the web, it needs an internet connection	Busca imagens dos avisos na web, precisa de conexão com a internet
+File Explorer	Explorador de Arquivos
+File copied	Arquivo copiado
+File copies	Cópias de arquivos
+File copies (own color)	Cópias de arquivos (cor própria)
+File moved	Arquivo movido
+Files	Arquivos
+Files are being copied	Arquivos sendo copiados
+Files are being moved	Arquivos sendo movidos
+Files copied or moved by Windows (its copy window)	Arquivos copiados ou movidos pelo Windows (a janela de cópia)
+Files dragged out	Arquivos arrastados para fora
+Files dragged out of the folders panel or the shelf into an app: copied or moved, or asked (the first time, remembered, or every time)	Arquivos arrastados do painel de pastas ou da prateleira para um app: copiados ou movidos, ou perguntado (na primeira vez, e lembrado, ou sempre)
+Files dragged out of the island are:	Arquivos arrastados para fora da ilha são:
+Fill	Fundo
+Fill animation	Animação do preenchimento
+Find the six pairs of the island's own icons. The shortest time wins.	Ache os seis pares com os ícones da própria ilha. Vale o menor tempo.
+Finding your location…	Procurando sua localização…
+Finish	Concluir
+Finish keeps all of it; Cancel puts back what was there before	Concluir mantém tudo isso; Cancelar volta o que havia antes
+Five small games with your best results, kept only on this PC (no internet)	Cinco joguinhos com os seus melhores resultados, guardados só neste PC (sem internet)
+Fixed	Fixa
+Fixed: joined to the top edge, keeping its room (the windows stay below it)	Fixa: presa na borda de cima, guardando o espaço dela (as janelas ficam abaixo)
+Floating	Flutuante
+Fluent (online)	Fluent (online)
+Focus	Foco
+Focused right along with you.	Concentrada junto com você.
+Focused · Pomodoro's focus time	Concentrada · tempo de foco do Pomodoro
+Fog	Neblina
+Fold the apps with notifications into an arrow (out when one comes, and under the mouse)	Recolher os apps com notificações numa seta (saem quando chega uma e com o mouse em cima)
+Folder	Pasta
+Folders	Pastas
+Folders and places	Pastas e locais
+Folders and places (your shortcuts)	Pastas e locais (seus atalhos)
+Folders mixed with files	Pastas junto com os arquivos
+Folds the app icons into an arrow, they come out for new ones or on hover	Recolhe os ícones dos apps numa seta, que saem com novidades ou ao passar o mouse
+Following the bell	Seguindo o sino
+Following the mouse is unavailable with notches on the main island.	Segue o mouse fica indisponível com entalhes na ilha principal.
+Follows Windows or forces a 24 hour or 12 hour clock	Segue o Windows ou força relógio de 24 ou de 12 horas
+Follows Windows' measurement system or forces Celsius or Fahrenheit	Segue o sistema de medidas do Windows ou força Celsius ou Fahrenheit
+Follows the line	Segue a linha
+Follows the mouse	Segue o mouse
+Food	Comida
+For OLED screens: the minimized line fades away after this long, back when the mouse reaches it	Para telas OLED: a linha minimizada some depois desse tempo e volta quando o mouse chega nela
+Forget	Esquecer
+Forget it?	Esquecer mesmo?
+Frames a second	Quadros por segundo
+Freezing drizzle	Garoa congelante
+Freezing rain	Chuva congelante
+Frequency	Frequência
+From square to fully round corners (not with the bar or notches)	De cantos retos a totalmente redondos (não com a barra ou entalhes)
+Frosted glass on the bar and the Fixed style's strip	Vidro fosco na barra e na faixa do estilo Fixa
+Frosted look for the bar and the Fixed strip, needs Windows transparency	Aparência fosca na barra e na faixa Fixa, precisa da transparência do Windows
+Fruit rain	Chuva de frutas
+Frustrated	Frustrada
+Full screen: silent	Tela cheia: sem som
+Fun	Diversão
+Game over	Fim
+Game: caught	Jogo: pegou
+Game: missed	Jogo: errou
+Game: new record	Jogo: recorde
+Games in exclusive full screen still draw over it. In some games it can cost some performance, or bother anti-cheat systems	Jogos em tela cheia exclusiva continuam por cima dela. Em alguns jogos pode custar desempenho ou incomodar sistemas anti-cheat
+Games in her panel	Joguinhos no painel dela
+Gap between the pill and the screen edge (not with the bar or notches)	Espaço entre a pílula e a borda da tela (não com a barra ou entalhes)
+Gives chosen apps their own icons, clock and order while they're in front (in the Island style, their own spot too). Each style has its own list	Dá a apps escolhidos ícones, relógio e ordem próprios enquanto estão na frente (no estilo Ilha, um lugar próprio também). Cada estilo tem a sua lista
+Glass	Vidro
+Glass blur	Desfoque do vidro
+Glass: see-through and blurred, like on macOS	Vidro: transparente e desfocado, como no macOS
+Glass: see-through and blurred, with a bright edge (Windows' blur: needs its transparency effects)	Vidro: transparente e desfocado, com borda de luz (desfoque do Windows: precisa dos efeitos de transparência dele)
+GlazeWM's workspaces	Áreas do GlazeWM
+GlazeWM: hide the workspaces without windows	GlazeWM: esconder as áreas de trabalho sem janelas
+GlazeWM: its workspaces on the pill (a click switches)	GlazeWM: as áreas de trabalho na pílula (um clique troca)
+Glow and hops can leave the island	Brilho e pulos podem sair da ilha
+Glow and particles	Brilho e partículas
+Glowing in my little corner.	Brilhando no meu cantinho.
+Got your file. I'll hold it.	Peguei o seu arquivo. Eu seguro.
+Graphics card temperature	Temperatura da placa de vídeo
+Graphics card use (GPU)	Uso da placa de vídeo (GPU)
+Graphite	Grafite
+Green	Verde
+Grid	Grade
+Grid columns	Colunas da grade
+Happy · a notification came	Feliz · chegou uma notificação
+Hard to read: too alike	Difícil de ler: cores parecidas
+Heavy rain	Chuva forte
+Hehe.	Hehe.
+Help translate the island	Ajude a traduzir a ilha
+Her color	A cor dela
+Her color changes with the mood	A cor muda com o humor
+Her eyes and body turn toward the mouse, more the closer it is	Os olhos e o corpo dela se viram para o mouse, mais quanto mais perto ele está
+Her eyes follow the mouse	Os olhos seguem o mouse
+Her glow, rings and hops may go past the island, also over a maximized app; off, she stays inside it	O brilho, os anéis e os pulos dela podem sair da ilha, também sobre um app maximizado; desligado, ela fica dentro dela
+Her light tints the island around her and flows through it in waves when she blinks, hops, dances or reacts	A luz dela colore a ilha em volta e corre por ela em ondas quando ela pisca, pula, dança ou reage
+Her own color	A cor própria dela
+Her size	O tamanho dela
+Her sounds off	Sons dela desligados
+Her volume	O volume dela
+Heroicons (online)	Heroicons (online)
+Hex	Hex
+Hey! That hurt.	Ei! Isso doeu.
+Hibernate	Hibernar
+Hidden, a small pill with the time stays instead of the line (the line while a window is under it). The Bar hidden with Win+J closes into it too	Escondida, fica uma pílula pequena com a hora no lugar da linha (a linha enquanto uma janela está embaixo dela). A Barra escondida com Win+J também vira essa pílula
+Hide a notch with nothing in it	Esconder o entalhe vazio
+Hide after	Esconder depois de
+Hide as its line until the mouse reaches it	Esconder na linha até o mouse chegar nela
+Hide each notch on its own (not all together)	Esconder cada entalhe sozinho (não todos juntos)
+Hide past events after	Ocultar eventos passados depois de
+Hide the Windows banners	Esconder os avisos do Windows
+Hide the numbers	Esconder os números
+Hides when the mouse leaves, or only while a window is maximized or over it	Esconde quando o mouse sai, ou só enquanto uma janela está maximizada ou por cima
+Hiding	Esconder
+Highlight behind the item under the mouse	Destaque atrás do item sob o mouse
+Hihi!	Hihi!
+Hmm, interesting.	Hmm, interessante.
+Hmph.	Hmpf.
+Hold Ctrl and drag an item on the island (in any style) to another place, or to another notch. Its items jiggle while Ctrl is held with the mouse on it	Segure Ctrl e arraste um item na ilha (em qualquer estilo) para outro lugar, ou para outro entalhe. Os itens tremem enquanto o Ctrl fica segurado com o mouse sobre ela
+Holding · something is dragged over the island	Segurando · algo está sendo arrastado sobre a ilha
+Holidays in the calendar (goes online)	Feriados no calendário (acessa a internet)
+Home folder	Pasta pessoal
+Horizontal stack	Pilha horizontal
+Hot · the graphics card at %s	Com calor · placa de vídeo em %s
+Hot · the memory at %s	Com calor · memória em %s
+Hot · the processor at %s	Com calor · processador em %s
+How big she is on the pill and on the line; above 100% she goes past the pill's edges	O tamanho dela na pílula e na linha; acima de 100% ela passa das bordas da pílula
+How big the banner is, its texts and buttons with it	O tamanho do aviso, com os textos e botões dele
+How big the line is on the pill	O tamanho da linha na pílula
+How big the previous, play and next buttons on the pill are, as far as the pill is tall	O tamanho dos botões de anterior, tocar e próxima na pílula, até onde a pílula é alta
+How busy the processor, the memory or the graphics card must be, for 5 seconds, before she shows it	O quanto o processador, a memória ou a placa de vídeo precisam trabalhar, por 5 segundos, antes que ela mostre
+How fast her needs come back as you use the PC: calm (about a day), normal (8 hours) or attentive (3 hours)	Com que rapidez ela volta a pedir enquanto você usa o PC: calmo (cerca de um dia), normal (8 horas) ou atento (3 horas)
+How it moves; paused it breathes, an error shakes, done flashes with a check, canceled drains back	Como ele se mexe; pausado respira, erro treme, concluído brilha com um visto, cancelado escorre de volta
+How loud all her sounds are	O quanto todos os sons dela tocam alto
+How many	Quantas
+How many files it keeps: the oldest goes when a new one comes	Quantos arquivos ela guarda: o mais antigo sai quando chega um novo
+How many icons show before the list starts to scroll	Quantos ícones aparecem antes de a lista começar a rolar
+How much of the AI agents' limits is used and when each starts over, read on this PC (no login and nothing online)	Quanto dos limites dos agentes de IA já foi usado e quando cada um recomeça, lido neste PC (sem login e nada online)
+How much the bars move with the sound (they follow the playing app's own sound)	O quanto as barras se mexem com o som (elas seguem o som do app que está tocando)
+How often she does something by herself while idle (looks around, hops, spins, stretches)	Com que frequência ela faz algo sozinha quando está parada (olha em volta, pula, gira, se espreguiça)
+How round the banner's corners are	O quanto os cantos do aviso são arredondados
+How round the notch curves are in the Fixed style	O quanto as curvas dos entalhes são arredondadas no estilo Fixa
+How solid the island's fill is, from see-through to full	Quão sólido é o fundo da ilha, de transparente a total
+How strongly the glass blurs what is behind it	O quanto o vidro desfoca o que está atrás
+How tall the bars can grow (as far as the pill allows)	Até que altura as barras podem crescer (até onde a pílula deixa)
+How the What's playing panel looks: the usual one, Pixel (Android), One UI (Samsung), Windows 11, or only the cover with the buttons over it. It opens from What's playing or the cover on the pill	Como fica o painel do que está tocando: o de sempre, Pixel (Android), One UI (Samsung), Windows 11, ou só a capa com os botões por cima. Ele abre pelo O que está tocando ou pela capa na pílula
+How visible the thin line is when the pill is hidden	Quão visível é a linha fina quando a pílula está escondida
+How visible the thin outline around the pill is	Quão visível é o contorno fino em volta da pílula
+How wide each bar is; the item grows with them	A largura de cada barra; o item cresce com elas
+How wide the banner is (a longer text fits on its lines)	A largura do aviso (um texto maior cabe nas linhas dele)
+Humidity	Umidade
+Hungry · food at %s	Com fome · comida em %s
+I give up. For today.	Desisto. Por hoje.
+I got such a fright!	Que susto!
+I like it!	Gostei!
+I'm all alone…	Fiquei sozinha…
+I'm bored…	Tô entediada…
+I'm drying up here.	Tô secando aqui.
+Icon	Ícone
+Icon and color	Ícone e cor
+Icon colors	Cores dos ícones
+Icon pack	Pacote de ícones
+Icon size	Tamanho dos ícones
+Iconoir (online)	Iconoir (online)
+Icons	Ícones
+Icons of the apps with notifications	Ícones dos apps com notificações
+Icons per app (Bar)	Ícones por app (Barra)
+Icons per app (Fixed style)	Ícones por app (estilo Fixa)
+Icons that aren't pinned	Ícones não fixados
+Ignored (not counted)	Ignorados (não contam)
+Import	Importar
+Import a backup of the island	Importar um backup da ilha
+Import a file	Importar arquivo
+Import shortcuts (like komorebi's whkdrc)	Importar atalhos (como o whkdrc do komorebi)
+In the bar, sends items to the screen corners: with the clock in the middle, the ones before it go to the left and the others to the right; without it, the first separator line of the order splits them. With two separator lines the bar has three parts instead: left corner, middle of the screen (the clock joins it) and right corner	Na barra, leva os itens aos cantos da tela: com o relógio no meio, os de antes dele vão para a esquerda e os outros para a direita; sem ele, a primeira linha separadora da ordem divide os itens. Com duas linhas separadoras a barra tem três partes: canto esquerdo, meio da tela (o relógio entra nele) e canto direito
+In the island's Do not disturb, calls, alarms and reminders don't ring either (they still show on the pill)	No Não incomodar da ilha, chamadas, alarmes e lembretes também não tocam (continuam aparecendo na pílula)
+In the pill	Na pílula
+In the pill with a sound, even in Do not disturb	Na pílula com som, também no Não incomodar
+In the terminal	No terminal
+In use	Em uso
+In use: close what's open on it	Em uso: feche o que está aberto nele
+Installed apps	Aplicativos instalados
+Instrumental	Instrumental
+Ionicons (online)	Ionicons (online)
+Island	Ilha
+Island backup (*.txt)	Backup da ilha (*.txt)
+Island font	Fonte da ilha
+Island memory	Memória da ilha
+Island settings	Configurações da ilha
+Island: a pill floating at the top, the windows go under it	Ilha: uma pílula flutuando no topo, as janelas passam por baixo dela
+It couldn't start.	Não deu para começar.
+It ended with an error (0x%08X). Turn the mod off and on in Windhawk to start it again.	Ela terminou com um erro (0x%08X). Desligue e ligue o mod no Windhawk para iniciá-la de novo.
+It failed (see the terminal)	Falhou (veja o terminal)
+It goes to the screen with the mouse	Vai para a tela onde está o mouse
+It runs only while the island is on. A time missed while the PC slept or the island was off isn't made up.	Só roda com a ilha ligada. Um horário perdido com o PC dormindo ou a ilha desligada não é recuperado depois.
+It's getting hot in here, huh?	Tá quente aqui, hein?
+Items in the bar	Itens na barra
+Items on the pill	Itens na pílula
+Its focus or break ending, while it runs	O fim do foco ou da pausa, enquanto ele roda
+Its look (profile):	A aparência dela (perfil):
+Its style, size, hiding and animations are in Windhawk's settings for this mod	Estilo, tamanho, esconder e animações ficam nas configurações do mod no Windhawk
+JSON file	Arquivo JSON
+Just one little game?	Só um joguinho?
+Just watching…	Só observando…
+Keep as it is	Manter como está
+Keep as it is: the items the pill had before	Manter como está: os itens que a pílula tinha antes
+Keep it open	Manter aberta
+Keep their list open	Manter a lista aberta
+Keeping an eye on you.	De olho em você.
+Keeps the note on the pill when no app has media; a click opens the panel	Mantém a nota na pílula quando nenhum app tem mídia; um clique abre o painel
+Keyboard language	Idioma do teclado
+Keyboard language (like Windows' input indicator)	Idioma do teclado (como o indicador do Windows)
+Keyboard shortcut (optional)	Atalho de teclado (opcional)
+Keyboard shortcuts	Atalhos do teclado
+Keyboard shortcuts button	Botão de atalhos do teclado
+Keys	Teclas
+Language of the island's texts (it starts again)	Idioma dos textos da ilha (ela reinicia)
+Language of the notes	Idioma das notas
+Language settings	Configurações de idioma
+Largest first	Maiores primeiro
+Later	Depois
+Leaves only the play and pause button on the pill, without previous and next	Deixa só o botão de tocar e pausar na pílula, sem anterior e próxima
+Leaves out GlazeWM workspaces that have no windows	Deixa de fora as áreas de trabalho do GlazeWM sem janelas
+Leaves out komorebi workspaces that have no windows	Deixa de fora as áreas do komorebi sem janelas
+Left	Esquerda
+Less round	Menos redondos
+Let go to add it to your commands	Solte para adicionar aos seus comandos
+Let go to put it on the shelf	Solte para pôr na prateleira
+Let's play?	Vamos brincar?
+Light	Claro
+Light and dark mode	Modo claro e escuro
+Light and dark mode button	Botão de modo claro e escuro
+Light and shadow like macOS 27	Luz e sombra como no macOS 27
+Light rain	Chuva fraca
+Lighter tint and livelier colors on the glass	Tinta mais leve e cores mais vivas no vidro
+Lights up the item the mouse is over	Acende o item em que o mouse está
+Like Ctrl+Shift+S, or Ctrl+K, Ctrl+S	Como Ctrl+Shift+S, ou Ctrl+K, Ctrl+S
+Like Windows	Como o Windows
+Like the island	Como a ilha
+Like the island: only the shapes of the emojis and of your pictures, in the island's colors. Their own: as they are	Como a ilha: só o formato dos emojis e das suas imagens, nas cores da ilha. As próprias: como são
+Like the other icons	Como os outros ícones
+Like the panels	Como os painéis
+Line added · drag it between icons, click it to remove	Linha adicionada · arraste-a entre os ícones, clique para remover
+Line opacity	Opacidade da linha
+Line that opens the island	Linha que abre a ilha
+Liquid wave	Onda líquida
+Listening · %s is playing	Ouvindo · %s está tocando
+Live activities like the iPhone's	Atividades ao vivo, como no iPhone
+Lively	Animada
+Loading...	Carregando...
+Location	Localização
+Location off or not allowed in Windows	Localização desligada ou não permitida no Windows
+Lock	Bloquear
+Lonely · love at %s	Carente · carinho em %s
+Long	Longa
+Long notification texts scroll under the mouse	Textos longos dos avisos rolam sob o mouse
+Longest line on the pill	Comprimento da linha na pílula
+Longest width the song title may take on the pill	Maior largura que o título da música pode ocupar na pílula
+Looking for networks...	Procurando redes...
+Looking for the lyrics…	Procurando a letra…
+Looking…	Procurando…
+Looks for lyrics	Busca letras
+Love	Carinho
+Low battery	Bateria fraca
+Low battery… same here.	Bateria fraca… eu também.
+Lucide (online)	Lucide (online)
+Lyrics are looked for only for songs (with an artist, 45 s to 20 min, not videos)	As letras só são buscadas para músicas (com artista, de 45 s a 20 min, sem vídeos)
+Lyrics are off for this app (in the settings, What's playing)	As letras estão desligadas para este app (nas configurações, O que está tocando)
+Lyrics as an icon	Letras como um ícone
+Lyrics color	Cor da letra
+Lyrics color (own)	Cor da letra (própria)
+Lyrics from lrclib.net	Letra do lrclib.net
+Lyrics replace the song title	A letra substitui o nome da música
+Lyrics size	Tamanho da letra
+Lyrics size on the pill	Tamanho da letra na pílula
+M D Y	M D A
+Made in Brazil, new versions bring fixes and what users ask for	Feito no Brasil, as versões novas trazem correções e o que os usuários pedem
+Magnifier	Lupa
+Main island	Ilha principal
+Makes her dance and react	A faz dançar e reagir
+Makes the What's playing panel bigger than the other panels; on a short screen it still fits and scrolls	Deixa o painel do que está tocando maior que os outros painéis; numa tela baixa ele continua cabendo e rola
+Makes the pill taller or shorter (not with the bar)	Deixa a pílula mais alta ou mais baixa (não com a barra)
+Manage profiles	Gerenciar perfis
+Marks holidays in the calendar, it needs an internet connection	Marca os feriados no calendário, precisa de conexão com a internet
+Material (online)	Material (online)
+Media buttons	Botões de mídia
+Media buttons on the pill	Botões de mídia na pílula
+Media buttons size	Tamanho dos botões de mídia
+Media panel size	Tamanho do painel de mídia
+Media panel style	Estilo do painel de mídia
+Memory	Memória
+Memory use (RAM)	Uso da memória (RAM)
+Merges an app's notifications into one icon, Phone Link's phone apps included	Reúne as notificações de um app em um ícone, inclusive os apps do celular do Vincular ao Celular
+Meteocons (colored)	Meteocons (coloridos)
+Microphone	Microfone
+Microphone button (mute)	Botão do microfone (silenciar)
+Microphone, camera and location in use	Microfone, câmera e localização em uso
+Microphone, camera and location in use (and which app)	Microfone, câmera e localização em uso (e qual app)
+Middle	Meio
+Minimize	Minimizar
+Minimize arrow at the end of the pill	Seta de minimizar no fim da pílula
+Missed	Perdido
+Mission accomplished.	Missão cumprida.
+Mistakes	Erros
+Mixer	Mixer
+Mobile data	Dados móveis
+Mobile hotspot	Hotspot móvel
+Monitor	Monitor
+Monitor 	Monitor 
+Monocle (the window in focus fills the screen)	Monocle (a janela em foco ocupa a tela)
+Month as a number (9/10)	Mês em número (9/10)
+More Windows controls	Mais controles do Windows
+More in Explorer	Mais no Explorador
+More options in: %s	Mais opções em: %s
+More, more!	Mais, mais!
+Mostly clear	Poucas nuvens
+Mouse away	Mouse longe
+Move	Mover
+Move the mouse (or the arrows) to catch fruit and drops: they feed her and quench her thirst. Letting one fall costs a life, and so does catching a rock or a bolt. Three lives.	Mexa o mouse (ou as setas) para pegar frutas e gotas: elas alimentam e matam a sede dela. Deixar uma cair custa uma vida, e pegar uma pedra ou um raio também. Três vidas.
+Move the mouse over her to pet her. Click to tap her (she doesn't like too many).	Passe o mouse em cima dela para fazer carinho. Clique para dar tapinhas (ela não gosta de muitos).
+Move the pill by dragging it	Mover a pílula arrastando
+Moved	Movidos
+Music	Músicas
+Muted	Mudo
+My head is so full right now.	Tô cheia de coisa na cabeça.
+My location	Minha localização
+My moves are sharp today.	Meus passos estão afiados hoje.
+My site, with my other projects and a Discord link	Meu site, com meus outros projetos e um link do Discord
+My tummy is rumbling.	Barriguinha roncando.
+Nailed it!	Arrasei!
+Name	Nome
+Name (like Downloads)	Nome (como Downloads)
+Name (optional)	Nome (opcional)
+Narrator	Narrador
+Narrow	Estreito
+Nearby networks appear once location access is on: click to turn on "Let desktop apps access your location"	As redes por perto aparecem quando o acesso à localização está ligado: clique para ligar "Permitir que aplicativos da área de trabalho acessem sua localização"
+Needs Windows' transparency effects: click to open Personalization > Colors	Precisa dos efeitos de transparência do Windows: clique para abrir Personalização > Cores
+Needs a fill on (downloads or charging)	Precisa de um preenchimento ligado (downloads ou carga)
+Needs the bar style and the clock in the middle	Precisa do estilo barra e do relógio no meio
+Needs the date or the year on the clock	Precisa da data ou do ano no relógio
+Needs the notches	Precisa dos entalhes
+Needs the notches (Fixed style)	Precisa dos entalhes (estilo Fixa)
+Needs “%s” on	Precisa de “%s” ligado
+Needs “%s” or “%s” on	Precisa de “%s” ou “%s” ligado
+Network	Rede
+Network & internet	Rede e internet
+Network cable	Cabo de rede
+Network connections	Conexões de rede
+Network name	Nome da rede
+Network speed	Velocidade da rede
+Network speed (up and down)	Velocidade da rede (envio e recebimento)
+Never	Nunca
+New command	Novo comando
+New desktop	Nova área de trabalho
+New notification	Nova notificação
+New record	Novo recorde
+New task	Nova tarefa
+Newest first	Mais recentes primeiro
+Next	Avançar
+Next event	Próximo evento
+Night light	Luz noturna
+Night light isn't available here	Luz noturna não está disponível aqui
+No Bluetooth	Sem Bluetooth
+No USB drives	Nenhum pendrive
+No Wi-Fi adapter	Sem adaptador de Wi-Fi
+No agendas yet.	Nenhuma agenda ainda.
+No alarms yet	Nenhum alarme ainda
+No apps found	Nenhum app encontrado
+No apps using this output	Nenhum app usando esta saída
+No date	Sem data
+No distractions.	Nada de distração.
+No events	Nenhum evento
+No icon's picture in that folder	Nenhuma imagem de ícone nessa pasta
+No internet	Sem internet
+No lyrics found for this song	Nenhuma letra encontrada para esta música
+No mistakes	Sem erros
+No notes yet	Nenhuma anotação ainda
+No notifications	Nenhuma notificação
+No paired devices	Nenhum dispositivo pareado
+No pictures in this folder	Nenhuma imagem nesta pasta
+No profile in use: click one to apply it	Nenhum perfil em uso: clique num para aplicar
+No profiles yet	Nenhum perfil ainda
+No record yet	Sem recorde ainda
+No reminder (the bell turns it on)	Sem lembrete (o sino liga)
+No settings match the search	Nenhuma configuração encontrada
+Nobody has talked to me in a while.	Faz tempo que ninguém fala comigo.
+Nobody plays with me anymore…	Ninguém mais brinca comigo…
+None found	Nenhum encontrado
+None yet: a program, a folder, a link or a command line, a click away	Nenhum ainda: um programa, uma pasta, um link ou uma linha de comando, a um clique
+Normal	Normal
+Not a backup of the island	Não é um backup da ilha
+Not an .ics link (Google: Secret address in iCal format)	Não é um link .ics (Google: Endereço secreto no formato iCal)
+Not available here	Indisponível aqui
+Not available on this PC	Não disponível neste PC
+Not checked yet	Ainda não verificado
+Not chosen	Não escolhido
+Not for the Bar style	Não no estilo Barra
+Not with the Liquid Glass	Não com o Liquid Glass
+Not with the notches	Não com os entalhes
+Not with the notches: each one keeps its place and items for every app	Não com os entalhes: cada um fica no seu lugar, com os mesmos itens para todos os apps
+Notch curves	Curvas dos entalhes
+Notches	Entalhes
+Notes	Anotações
+Notes button	Botão de anotações
+Nothing found	Nada encontrado
+Nothing in it	Vazia
+Nothing playing	Nada tocando
+Nothing to do	Nada pendente
+Nothing to do around here.	Nada pra fazer por aqui.
+Nothing to share	Nada para compartilhar
+Nothing waiting	Nada pendente
+Notice when switching desktops	Aviso ao trocar de área de trabalho
+Notification	Notificação
+Notifications	Notificações
+Notifications (bell)	Notificações (sino)
+Notifications too	Também as notificações
+Notify when a USB drive is plugged in	Avisar quando um pendrive for conectado
+Now	Agora
+Num Lock bubble	Aviso do Num Lock
+Num Lock off	Num Lock desligado
+Num Lock on	Num Lock ligado
+Number of columns in the icon grid (Grid style only)	Número de colunas da grade de ícones (só no estilo Grade)
+OK	OK
+Off until you turn it on. Every event below has its own switch and source; nothing plays over a full-screen app or with Do not disturb on	Desligado até você ligar. Cada evento abaixo tem o seu interruptor e a sua origem; nada toca sobre um app em tela cheia nem com Não incomodar ligado
+Off while “%s” is on	Desligado enquanto “%s” está ligado
+Off with no animations (“None”)	Desligado sem animações (“Nenhuma”)
+Off with only the cover on the pill	Desligado com só a capa na pílula
+Off with the bar style	Desligado no estilo barra
+Off with the items at the screen's corners	Desligado com os itens nos cantos da tela
+Off with the notches (Fixed style)	Desligado com os entalhes (estilo Fixa)
+Off, these actions run at the first click, with no question	Desligado, essas ações rodam no primeiro clique, sem perguntar
+Off: nothing is sent	Desligado: nada é enviado
+Off: only the app's icon peeks out of the line	Desligado: só o ícone do app aparece na linha
+Oldest first	Mais antigos primeiro
+On a laptop, the battery's percentage as it charges	Num notebook, a porcentagem da bateria enquanto carrega
+On battery	Na bateria
+On cloud nine…	Nas nuvens…
+On every monitor	Em todos os monitores
+On every notch	Em todos os entalhes
+On one monitor	Num monitor
+On the battery's notch or the pill	No entalhe da bateria ou na pílula
+On the beat	No ritmo
+On the monitor with the mouse	No monitor onde está o mouse
+On the shelf	Na prateleira
+On-screen keyboard	Teclado virtual
+Once	Uma vez
+Once per version, a notice from the pill opens this page	Uma vez por versão, um aviso da pílula abre esta página
+One UI (Samsung)	One UI (Samsung)
+One icon per app (Phone Link's phone apps together)	Um ícone por app (os apps do celular do Vincular ao Celular juntos)
+Only 16 commands can have a shortcut.	Só 16 comandos podem ter atalho.
+Only Claude Code in a terminal: the Claude desktop app doesn't leave its limits on this PC	Só o Claude Code no terminal: o app de desktop do Claude não deixa os limites neste PC
+Only a file on this computer	Só um arquivo deste computador
+Only a folder on this computer	Só uma pasta deste computador
+Only a picture on this computer	Só uma imagem deste computador
+Only an icon on the pill while the song has lyrics, instead of the line sung now; a click opens them	Só um ícone na pílula enquanto a música tem letra, no lugar da linha cantada; um clique abre a letra
+Only files on this PC can be shared, not folders	Só dá para compartilhar arquivos deste PC, não pastas
+Only for emoji and pictures of your own	Só para emoji e imagens suas
+Only for the Bar style	Só no estilo Barra
+Only for the Island style	Só no estilo Ilha
+Only for the notes below; the island keeps its language	Só para as notas abaixo; a ilha mantém o idioma dela
+Only https links or file paths	Só links https ou caminhos de arquivos
+Only on the main island: change it in its settings	Só na ilha principal: mude nas configurações dela
+Only play and pause	Só tocar e pausar
+Only the bar's items over what is behind it; with the frosted look, only the blur	Só os itens da barra sobre o que está atrás; com a aparência fosca, só o desfoque
+Only the clock when hidden	Só o relógio ao esconder
+Only the cover on the pill	Só a capa na pílula
+Only the main clock shows on the pill; the other clocks list when the mouse rests on it	Só o relógio principal aparece na pílula; os outros ficam numa lista quando o mouse para sobre ele
+Only with Your folder as the pack	Só com Sua pasta como pacote
+Only with the Glass off (it blurs them already), on the bar or on the Fixed style without notches and not hiding as a line	Só com o Vidro desligado (ele já desfoca), na barra ou no estilo Fixa sem entalhes e sem esconder como linha
+Only with the Grid style	Só com o estilo Grade
+Only with the icons opening in the pill	Só com os ícones abrindo na pílula
+Ooh, a notification!	Ui, uma notificação!
+Oops, I yawned.	Ops, bocejei.
+Opacity	Opacidade
+Open	Abrir
+Open Windhawk	Abrir o Windhawk
+Open Windows Update	Abrir o Windows Update
+Open Windows mixer	Abrir o mixer do Windows
+Open an app to give it a place	Abra um app para dar uma posição a ele
+Open in Explorer	Abrir no Explorador
+Open in terminal	Abrir no terminal
+Open it	Abrir
+Open panels with the mouse	Abrir painéis com o mouse
+Open something	Abrir algo
+Open the Windows notification center	Abrir a central de notificações do Windows
+Opens a panel with your folder and place shortcuts	Abre um painel com seus atalhos de pastas e locais
+Opens a program, a file, a folder, a link or a settings page, like the Run box (Win+R).	Abre um programa, arquivo, pasta, link ou página de configurações, como a caixa Executar (Win+R).
+Opens pickers for the fill, text and icon colors	Abre seletores para as cores de fundo, texto e ícones
+Opens the line	Abre a linha
+Opens the unpinned icons as a list in the pill, a grid or a named list	Abre os ícones não fixados como lista na pílula, grade ou lista com nomes
+Other apps' icons before scrolling	Ícones de outros apps antes de rolar
+Other apps' tray icons	Ícones dos outros apps
+Other files	Outros arquivos
+Output	Saída
+Overcast	Nublado
+Overdue	Atrasada
+PC screen only	Somente tela do PC
+Padding before the first item and after the last one	Margem antes do primeiro item e depois do último
+Panels and buttons	Painéis e botões
+Panels as wide as the island	Painéis na largura da ilha
+Panels open as wide as the island is	Os painéis abrem com a mesma largura da ilha
+Panels size	Tamanho dos painéis
+Partial	Parciais
+Partly cloudy	Parcialmente nublado
+Password	Senha
+Paste an .ics link (Google Calendar: Settings, your calendar, Secret address in iCal format) or a file's path.	Cole um link .ics (Google Agenda: Configurações, a sua agenda, Endereço secreto no formato iCal) ou o caminho de um arquivo.
+Pause	Pausar
+Paused	Pausado
+Paused (every monitor)	Pausado (todos os monitores)
+Personality	Personalidade
+Personalization	Personalização
+Phosphor (online)	Phosphor (online)
+Picks a color theme from the swatches	Escolhe um tema de cores entre as amostras
+Picks the screen spot for the pill, on a grid	Escolhe o ponto da tela para a pílula, em uma grade
+Picture copied	Imagem copiada
+Pictures	Imagens
+Pictures, videos and documents show a small preview, as in Explorer, in the folders panel and on the shelf	Fotos, vídeos e documentos mostram uma prévia pequena, como no Explorador, no painel de pastas e na prateleira
+Pill	Pílula
+Pill corners	Cantos da pílula
+Pill floats, Fixed keeps its room on the screen, Bar spans the edge	Pílula flutua, Fixa guarda seu espaço na tela, Barra ocupa a borda
+Pill height	Altura da pílula
+Pill items	Itens da pílula
+Pill switches in the panel	Chaves da pílula no painel
+Pin a folder to the island	Fixar uma pasta na ilha
+Pink	Rosa
+Pixel (Android)	Pixel (Android)
+Place	Posição
+Place (or drag the pill)	Posição (ou arraste a pílula)
+Place (the bar is at the top)	Posição (a barra fica no topo)
+Place (the notches are at the top)	Posição (os entalhes ficam no topo)
+Place and icons per app	Posição e ícones por app
+Plan: 	Plano: 
+Play	Jogar
+Plug me in?	Me liga na tomada?
+Point to a JSON file with "name" and "windows" (or a list of them) to show other services here	Aponte um arquivo JSON com "name" e "windows" (ou uma lista deles) para mostrar outros serviços aqui
+Pomodoro	Pomodoro
+Pomodoro finished	Pomodoro acabou
+Power	Energia
+Power button	Botão de desligar
+Power button (sleep, restart, shut down)	Botão de desligar (suspender, reiniciar, desligar)
+Power draw	Energia
+Power options	Opções de energia
+Power plan	Plano de energia
+Press	Gravar
+Press the keys	Pressione as teclas
+Press the keys (Tab moves on)…	Pressione as teclas (Tab continua)…
+Pressing Win+A opens the island's control center instead of Windows'	Apertar Win+A abre a central de controle da ilha em vez da do Windows
+Pressing Win+N opens the island's notifications instead of Windows'	Apertar Win+N abre as notificações da ilha em vez das do Windows
+Pressure	Pressão
+Privacy	Privacidade
+Processor	Processador
+Processor use (CPU)	Uso do processador (CPU)
+Profile 	Perfil 
+Profiles	Perfis
+Profiles button (switch profiles)	Botão de perfis (trocar de perfil)
+Program, file, folder, link or ms-settings:	Programa, arquivo, pasta, link ou ms-settings:
+Programs and Features	Programas e Recursos
+Project	Projetar
+Proud	Orgulhosa
+Puts a button on the pill that locks the PC	Põe na pílula um botão que bloqueia o PC
+Puts a button on the pill that opens Calculator	Põe na pílula um botão que abre a Calculadora
+Puts a button on the pill that opens File Explorer	Põe na pílula um botão que abre o Explorador de Arquivos
+Puts a button on the pill that opens Task Manager	Põe na pílula um botão que abre o Gerenciador de Tarefas
+Puts a button on the pill that opens Windows' Settings	Põe na pílula um botão que abre as Configurações do Windows
+Puts a button on the pill that opens the Start button's right-click menu (the one of Win+X)	Põe na pílula um botão que abre o menu do botão direito do Iniciar (o do Win+X)
+Puts a button on the pill that opens the accessibility options	Põe na pílula um botão que abre as opções de acessibilidade
+Puts a button on the pill that opens the clipboard history	Põe na pílula um botão que abre o histórico da área de transferência
+Puts a button on the pill that opens the emoji panel	Põe na pílula um botão que abre o painel de emojis
+Puts a button on the pill that opens the on-screen keyboard	Põe na pílula um botão que abre o teclado virtual
+Puts a button on the pill that shows or hides the touch keyboard	Põe na pílula um botão que mostra ou esconde o teclado touch
+Puts a button on the pill that shows the desktop	Põe na pílula um botão que mostra a área de trabalho
+Puts a button on the pill that takes a screenshot	Põe na pílula um botão que captura a tela
+Puts a button on the pill that turns live captions on	Põe na pílula um botão que ativa as legendas ao vivo
+Puts a button on the pill to cast the screen	Põe na pílula um botão para transmitir a tela
+Puts a button on the pill to choose the display mode	Põe na pílula um botão para escolher o modo de exibição
+Puts a button on the pill to start, stop or reload komorebi	Põe na pílula um botão para iniciar, parar ou recarregar o komorebi
+Puts a one-click Airplane mode button on the pill	Põe na pílula um botão de Modo avião de um clique
+Puts a one-click Bluetooth button on the pill	Põe na pílula um botão de Bluetooth de um clique
+Puts a one-click Mobile hotspot button on the pill	Põe na pílula um botão de Hotspot móvel de um clique
+Puts a one-click Night light button on the pill	Põe na pílula um botão de Luz noturna de um clique
+Puts a one-click Wi-Fi and network button on the pill	Põe na pílula um botão de Wi-Fi e rede de um clique
+Puts previous, play and next buttons right on the pill	Põe os botões de anterior, tocar e próxima direto na pílula
+Puts the clock in the middle with the other items around it	Põe o relógio no meio com os outros itens em volta
+Rain	Chuva
+Rain chance	Chance de chuva
+Rainbow	Arco-íris
+Reacts to what the PC is doing	Reage ao que o PC está fazendo
+Reading…	Lendo…
+Reads limits from a JSON file on this PC ({"name", "windows"})	Lê os limites de um arquivo JSON neste PC ({"name", "windows"})
+Record shortcut	Gravar atalho
+Record: %s	Recorde: %s
+Recycle Bin	Lixeira
+Recycle Bin appears	A lixeira aparece
+Red	Vermelho
+Reflex	Reflexo
+Remember my choice (it's in the island's settings)	Lembrar minha escolha (fica nas configurações da ilha)
+Reminder	Lembrete
+Repeat	Repetir
+Repeat all	Repetir tudo
+Repeat off	Repetir desligado
+Repeat one	Repetir uma
+Reply	Responder
+Report a bug or suggest an idea, GitHub tells you when it comes out	Relate um bug ou sugira uma ideia, o GitHub avisa quando sair
+Restart	Reiniciar
+Restart now?	Reiniciar agora?
+Resting the mouse on an item opens its panel, and it closes a moment after the mouse leaves. Buttons that do something still need a click; a click keeps the panel open	Parar o mouse num item abre o painel dele, que fecha logo depois que o mouse sai. Botões que fazem algo continuam pedindo um clique; um clique deixa o painel aberto
+Restore what changed	Restaurar o que mudou
+Resume	Continuar
+Reverse the wheel (up is the next song)	Inverter a roda (para cima é a próxima música)
+Right	Direita
+Ring with the battery's charge	Anel com a carga da bateria
+Room at the pill's ends	Espaço nas pontas da pílula
+Room between the bars	Espaço entre as barras
+Round	Rodada
+Rounds the corners where the bar meets the screen, like a screen's own round corners	Arredonda os cantos onde a barra encontra a tela, como os cantos redondos da própria tela
+Rows	Linhas
+Run a command line	Rodar uma linha de comando
+Run by itself, at a time	Rodar sozinho, em um horário
+Runs in cmd.exe without a window; a terminal shows only if it fails.	Roda no cmd.exe sem janela; um terminal só aparece se ele falhar.
+Sad · nobody has played with her for %s h	Triste · ninguém brinca com ela há %s h
+Safe to remove	Pode remover com segurança
+Same as main: changes here apply to it too · + creates this monitor's profile	Igual à principal: as mudanças aqui valem para ela também · + cria o perfil deste monitor
+Same as the main one	Igual à principal
+Save	Salvar
+Save  (Enter)	Salvar  (Enter)
+Save Windows' icons	Salvar ícones do Windows
+Save Windows' icons puts a picture of every icon in the folder, named after it (wifi.png, battery-5.png...): replace the ones you want, and they show a moment later	Salvar ícones do Windows coloca na pasta uma imagem de cada ícone, com o nome dele (wifi.png, battery-5.png...): troque as que quiser e elas aparecem logo depois
+Save current here	Salvar o atual nele
+Save current settings	Salvar as configurações atuais
+Save texts	Salvar textos
+Save the island's logs	Salvar os logs da ilha
+Save the island's texts to translate	Salvar os textos da ilha para traduzir
+Save...	Salvar...
+Saved ✓	Salvo ✓
+Saved.	Salvo.
+Saves a backup file or loads one; Reset puts every setting back to its default (clicked twice)	Salva um arquivo de backup ou carrega um; Redefinir volta todas as configurações ao padrão (dois cliques)
+Saves every text of the island in a file, in the language chosen if it isn't English, to translate or fix. Send it in a new issue at the Windhawk repository	Salva todos os textos da ilha em um arquivo, no idioma escolhido se não for inglês, para traduzir ou corrigir. Envie em uma nova issue no repositório do Windhawk
+Saving Windows' icons…	Salvando os ícones do Windows…
+Saving…	Salvando…
+Scales only the icons on the pill (their room too)	Dimensiona só os ícones da pílula (o espaço deles também)
+Scales only the texts on the pill: the clock, percentages and titles	Dimensiona só os textos da pílula: o relógio, os percentuais e os títulos
+Scales the control center, calendar and other panels	Dimensiona a central de controle, o calendário e outros painéis
+Scales the pill, icons and panels together	Dimensiona a pílula, os ícones e os painéis juntos
+Screen	Tela
+Screen brightness	Brilho da tela
+Screen brightness (the mouse wheel changes it)	Brilho da tela (a roda do mouse muda)
+Screens	Telas
+Screenshot	Print de tela
+Screenshot notifications open the picture (in Explorer)	Avisos de captura abrem a imagem (no Explorador)
+Scrolling	Rolagem
+Scrolling on the player skips songs instead of changing the volume	Rolar sobre o player troca de música em vez de mudar o volume
+Scrolling up skips to the next song and scrolling down to the one before, instead of the other way round	Rolar para cima pula para a próxima música e rolar para baixo volta à anterior, em vez do contrário
+Search	Buscar
+Search apps	Buscar apps
+Search here (a name or *.pdf)	Buscar aqui (um nome ou *.pdf)
+Search results	Resultados da busca
+Second screen only	Somente segunda tela
+Seconds	Segundos
+Seconds the pill waits after the mouse leaves before it hides	Segundos que a pílula espera após o mouse sair antes de esconder
+See it in a terminal	Ver no terminal
+See what's new in this version	Veja o que há de novo nesta versão
+See-through bar	Barra transparente
+See-through blurred pill with a bright edge, needs Windows transparency	Pílula transparente e desfocada com borda de luz, precisa da transparência do Windows
+See-through only on the desktop	Transparente só na área de trabalho
+Separator line · drag to move · click to remove	Linha separadora · arraste para mover · clique para remover
+Set a timer	Criar timer
+Set an alarm	Criar alarme
+Set up	Configurar
+Sets the order of day, month and year when the date shows	Define a ordem de dia, mês e ano quando a data aparece
+Settings	Configurações
+Settings back to their defaults	Configurações de volta ao padrão
+Share	Compartilhar
+Shared memory	Memória compartilhada
+She asked to play	Ela pediu para brincar
+She asks to play when bored	Ela pede para brincar quando entediada
+She giggles with a note	Ela ri com uma nota musical
+She jumps from cloud to cloud by herself; you only steer her sideways with the mouse or the arrows. Grey clouds vanish after a jump and some move.	Ela pula sozinha de nuvem em nuvem; você só a leva para os lados com o mouse ou as setas. Nuvens cinzas somem depois de um pulo e algumas andam.
+She jumps, startled, then smiles and sparkles	Ela pula de susto, depois sorri e solta faíscas
+She makes sounds	Ela faz sons
+She pants when the processor, the memory or the graphics card works hard, gets tired when the battery is low and keeps still during Pomodoro's focus	Ela ofega quando o processador, a memória ou a placa de vídeo trabalham pesado, fica cansada com a bateria fraca e quieta durante o foco do Pomodoro
+She reacts to everything below; off, choose each reaction	Ela reage a tudo isso; desligado, escolha cada reação
+She smiles as the Wi-Fi arcs come back	Ela sorri com os arcos do Wi-Fi voltando
+She woke up: you came back	Ela acordou: você voltou
+She's proud, and a check mark is drawn	Ela fica orgulhosa, e um sinal de certo é desenhado
+She's sad, with a question mark	Ela fica triste, com um ponto de interrogação
+She's startled by a ringing alarm mark	Ela se assusta com um sinal de alarme tocando
+Shelf	Prateleira
+Shelf for files	Prateleira de arquivos
+Shelf holds	A prateleira guarda
+Shh, nobody wakes me up now.	Shh, agora ninguém me acorda.
+Shh… focus mode.	Shh… modo foco.
+Short	Curta
+Short name	Nome curto
+Shortcut: let clicks through the pill	Atalho: deixar os cliques passarem pela pílula
+Shortcuts	Atalhos
+Shortcuts to programs and files (or command lines) you add, with their own icons, a click away in their panel; any of them can be a button on the pill or have a keyboard shortcut (set in its editor)	Atalhos para programas e arquivos (ou linhas de comando) que você adiciona, com os ícones deles, a um clique no painel; qualquer um pode virar um botão na pílula ou ter um atalho de teclado (no editor dele)
+Show	Mostrar
+Show %zu hidden	Mostrar %zu ocultos
+Show VLC 3 from its window's title	Mostrar o VLC 3 pelo título da janela
+Show a notice when the song changes	Mostrar um aviso quando a música muda
+Show all	Mostrar tudo
+Show desktop	Mostrar área de trabalho
+Show what they say	Mostrar o conteúdo
+Show what's copied (a bubble under the pill)	Mostrar o que foi copiado (um balão sob a pílula)
+Showers	Pancadas de chuva
+Shown under the mouse; up to 16 letters, empty is Faísca	Aparece sob o mouse; até 16 letras, vazio é Faísca
+Shows GlazeWM's workspaces on the pill, a dot each; a click switches to it	Mostra as áreas de trabalho do GlazeWM na pílula, uma bolinha cada; um clique troca para ela
+Shows a banner on the pill when a notification arrives	Mostra um aviso na pílula quando chega uma notificação
+Shows a bubble under the pill with what you just copied	Mostra um balão sob a pílula com o que você acabou de copiar
+Shows a mark and the app name while the mic, camera or location is used	Mostra uma marca e o nome do app enquanto microfone, câmera ou localização estão em uso
+Shows a notice each time a USB drive is plugged in	Mostra um aviso toda vez que um pendrive é conectado
+Shows a notice when the battery goes under 20% and under 10%	Mostra um aviso quando a bateria cai abaixo de 20% e de 10%
+Shows a notice when the charger is plugged in	Mostra um aviso quando o carregador é ligado
+Shows a notice when you turn Do not disturb on or off	Mostra um aviso quando você liga ou desliga o Não incomodar
+Shows a notice with the device's name when Bluetooth audio connects	Mostra um aviso com o nome do dispositivo quando um áudio Bluetooth conecta
+Shows an icon on the pill for each app with notifications	Mostra na pílula um ícone para cada app com notificações
+Shows an icon to open or eject plugged-in USB drives	Mostra um ícone para abrir ou ejetar pendrives conectados
+Shows bars that move with the sound that is playing	Mostra barras que se mexem com o som que está tocando
+Shows how busy the graphics card is; a click opens its panel	Mostra o quanto a placa de vídeo está ocupada; um clique abre o painel dela
+Shows how busy the processor is	Mostra o quanto o processador está ocupado
+Shows how long until the next event, alarm, timer or Pomodoro part	Mostra quanto falta para o próximo evento, alarme, timer ou parte do Pomodoro
+Shows how much memory is in use	Mostra quanta memória está em uso
+Shows how much video memory is in use	Mostra quanta memória de vídeo está em uso
+Shows komorebi's workspaces and layout on the pill, a menu changes it	Mostra as áreas e o layout do komorebi na pílula, um menu o troca
+Shows notices for the charger, low battery, Bluetooth audio and Do not disturb	Mostra avisos do carregador, bateria fraca, áudio Bluetooth e Não incomodar
+Shows pending app and Windows updates from winget and Windows Update	Mostra atualizações pendentes de apps e do Windows pelo winget e Windows Update
+Shows small bubbles with names and app notifications on hover	Mostra balões com nomes e notificações de apps ao passar o mouse
+Shows the battery icon on the pill	Mostra o ícone da bateria na pílula
+Shows the control center's icon, click for Wi-Fi, Bluetooth, volume and more	Mostra o ícone da central de controle, clique para Wi-Fi, Bluetooth, volume e mais
+Shows the cover and the song title on the pill	Mostra a capa e o título da música na pílula
+Shows the current keyboard language, like the Windows indicator	Mostra o idioma atual do teclado, como o indicador do Windows
+Shows the current upload and download speed	Mostra a velocidade atual de envio e recebimento
+Shows the extra clocks you added in Windows	Mostra os relógios adicionais que você incluiu no Windows
+Shows the graphics card's temperature when its driver gives it, in °C or °F like the weather	Mostra a temperatura da placa de vídeo quando o driver informa, em °C ou °F como o clima
+Shows the icon and name of the app in focus on this monitor	Mostra o ícone e o nome do app em foco neste monitor
+Shows the keys that let clicks through, click them to record a combination	Mostra as teclas que deixam os cliques passarem, clique nelas para gravar uma combinação
+Shows the minimize keys, click them to record a new combination	Mostra as teclas de minimizar, clique nelas para gravar outra combinação
+Shows the notifications	Mostra as notificações
+Shows the number and name of the virtual desktop for a moment when you switch to it, also when the island is minimized	Mostra o número e o nome da área de trabalho virtual por um instante quando você troca para ela, também com a ilha minimizada
+Shows the playing song or video with its cover and controls	Mostra a música ou o vídeo tocando com capa e controles
+Shows the processor's temperature when Windows reports one, in °C or °F like the weather	Mostra a temperatura do processador quando o Windows informa, em °C ou °F como o clima
+Shows the screen brightness, scroll the wheel on it to change	Mostra o brilho da tela, role a roda sobre ele para mudar
+Shows the time on the pill	Mostra a hora na pílula
+Shows the two switches at the end of the song's panel, for the buttons and for the cover and title on the pill. They stay in these settings either way	Mostra no fim do painel da música as duas chaves dos botões e da capa e título na pílula. Elas continuam nestas configurações de qualquer jeito
+Shows the virtual desktops, scroll the wheel on it to switch; a click opens their list, where the pencil renames one (Windows 11 24H2 and later)	Mostra as áreas de trabalho virtuais, role a roda sobre ele para trocar; um clique abre a lista delas, onde o lápis renomeia uma (Windows 11 24H2 ou mais novo)
+Shows the volume icon, click for the volume panel	Mostra o ícone de volume, clique para abrir o painel
+Shows the volume sliders, the link to Windows' mixer and the Mixer with each app's volume under the player in the song's panel. Turn off for a panel with only the player	Mostra os controles de volume, o atalho para o mixer do Windows e o Mixer com o volume de cada app embaixo do player, no painel da música. Desligue para o painel ficar só com o player
+Shows the weather, it needs an internet connection	Mostra o clima, precisa de conexão com a internet
+Shows this action in the power button's menu; if only one is on, a click on the button runs it	Mostra esta ação no menu do botão de energia; se só uma estiver ligada, um clique no botão a executa
+Shrinks the pill to a thin line on the screen edge when idle	Reduz a pílula a uma linha fina na borda da tela quando parada
+Shuffle	Aleatório
+Shut down	Desligar
+Shut down now?	Desligar agora?
+Sign out	Sair
+Sign out now?	Sair agora?
+Simple	Simples
+Size	Tamanho
+Skip	Pular
+Sky	Céu
+Sleep	Suspender
+Slide	Deslizar
+Smallest first	Menores primeiro
+Smooth bars (like the iPhone)	Barras suaves (como no iPhone)
+Smoothness of the animations, matching the screen or a fixed rate	Fluidez das animações, igual à tela ou em uma taxa fixa
+Snooze	Tocar de novo
+Snoozed: shows again in 5 minutes	Adiada: volta em 5 minutos
+Snow	Neve
+Snow showers	Pancadas de neve
+Something just came in!	Chegou coisa nova!
+Song changed	Música mudou
+Song lyrics	Letra da música
+Song lyrics (goes online: lrclib.net)	Letras das músicas (acessa a internet: lrclib.net)
+Sort by	Ordenar por
+Sound	Som
+Sound files	Arquivos de som
+Sound output	Saída de som
+Sound waves come out of her	Ondas de som saem dela
+Sounds of each event	Sons de cada evento
+Space	Espaço
+Speed	Velocidade
+Speeds up or slows down the animations, on every monitor	Acelera ou desacelera as animações, em todos os monitores
+Spinning like crazy.	Girando a mil.
+Splits the island into notches against the top edge, around the camera; the Island and Fixed styles each keep their own	Divide a ilha em entalhes na borda de cima, em volta da câmera; os estilos Ilha e Fixa guardam cada um o seu
+Square	Quadrados
+Stands the pill up on the left and right edges (not with notches)	Põe a pílula em pé nas bordas esquerda e direita (não com entalhes)
+Start	Iniciar
+Startled	Susto
+Starts over in	Recomeça em
+Status	Status
+Status notices: charger, low battery, Bluetooth audio, Do not disturb	Avisos de status: carregador, bateria fraca, áudio Bluetooth, Não incomodar
+Stay over borderless full-screen apps	Ficar sobre apps em tela cheia sem borda
+Sticky keys	Teclas de aderência
+Stop	Parar
+Stop keeping it open	Parar de manter aberta
+Stop poking me!	Para de cutucar!
+Stop, that tickles!	Para, que faz cócegas!
+Stopped	Parado
+Stops Windows' own banners so you only see the island's	Impede os avisos do próprio Windows para você ver só os da ilha
+Stopwatch	Cronômetro
+Style	Estilo
+Sure?	Certeza?
+Switches, adds, renames, updates or deletes your profiles	Troca, adiciona, renomeia, atualiza ou exclui seus perfis
+System	Sistema
+System alerts (the charger, a low battery, Bluetooth, Do not disturb and the desktop) show as a wide compact pill: the icon in a circle of its color at the left, the title, and the value at the right end (a battery as a small battery, a headset's as a ring). They keep their time and their queue	Os avisos do sistema (o carregador, bateria fraca, Bluetooth, Não incomodar e a área de trabalho) aparecem numa pílula larga e compacta: o ícone num círculo da sua cor à esquerda, o título e o valor na ponta direita (a bateria como uma bateria pequena, a de um fone como um anel). Mantêm o tempo e a fila
+System sounds (notifications)	Sons do sistema (notificações)
+Tabler (online)	Tabler (online)
+Take care of Faísca	Cuidar da Faísca
+Task	Tarefa
+Task Manager	Gerenciador de Tarefas
+Task view	Visão de tarefas
+Taskbar back to Windows' default for now	Barra de tarefas no padrão do Windows por enquanto
+Tasks	Tarefas
+Tasks button	Botão de tarefas
+Tasks with a date in the calendar	Tarefas com data no calendário
+Tell me what's new after an update	Avisar das novidades depois de atualizar
+Temperature	Temperatura
+Temperature unit	Unidade de temperatura
+Text	Texto
+Text size	Tamanho dos textos
+Texts in this language reviewed by %s	Textos neste idioma revisados por %s
+Texts to translate (*.json)	Textos para traduzir (*.json)
+That path is too long	Esse caminho é longo demais
+That sound off	Esse som desligado
+The Bar also shrinks to a thin line on the screen's edge when the mouse is away, and comes back as the mouse reaches the line. Windows then use the strip it kept, and the Bar shows over them	A Barra também encolhe numa linha fina na borda da tela quando o mouse está longe, e volta quando o mouse chega na linha. As janelas passam a usar a faixa que ela reservava, e a Barra aparece por cima delas
+The PC shuts down after it. Esc or a click stops it.	O PC desliga logo depois. Esc ou um clique cancela.
+The app in focus on this monitor (its icon and name)	O app em foco neste monitor (ícone e nome)
+The apps heard playing, also players without Windows' media controls; with some on, only they bring it. With none on, any sound does	Os apps ouvidos tocando, também players sem os controles de mídia do Windows; com alguns ligados, só eles o trazem. Sem nenhum ligado, qualquer som traz
+The apps seen playing; a click turns one's lyrics off, and nothing of its songs is sent to lrclib.net	Os apps vistos tocando; um clique desliga as letras de um, e nada das músicas dele é enviado ao lrclib.net
+The apps seen playing; only the ones you check make her dance and react to songs. Empty until an app plays	Os apps vistos tocando; só os que você marcar a fazem dançar e reagir às músicas. Vazio até um app tocar
+The apps' notifications come in a capsule like the pill: the photo or icon at the left, the name and the message on one line, the app's icon at the right. Under the mouse it opens to the whole text and the reply. Calls, alarms and reminders keep their buttons as they are	As notificações dos aplicativos chegam numa cápsula como a pílula: a foto ou o ícone à esquerda, o nome e a mensagem numa linha só, o ícone do app à direita. Com o mouse em cima, ela se abre no texto inteiro e na resposta. Chamadas, alarmes e lembretes mantêm seus botões como estão
+The bar at the top, or upright on the left or the right edge, its items one under the other; windows keep out of its strip	A barra no topo, ou em pé na borda esquerda ou direita, com os itens um embaixo do outro; as janelas ficam fora da faixa dela
+The bar doesn't minimize	A barra não minimiza
+The bar's inner corners	Cantos de dentro da barra
+The bar's side	Lado da barra
+The bars' color; the rainbow gives each bar its own, going around slowly	A cor das barras; o arco-íris dá a cada barra a sua, girando devagar
+The battery icon's color while it charges; green is the usual, like a phone's	A cor do ícone da bateria enquanto carrega; verde é o normal, como num celular
+The battery's charge while a laptop charges	A carga da bateria enquanto o notebook carrega
+The bell opens Windows' notification center	O sino abre a central de notificações do Windows
+The buttons on the panels	Os botões dos painéis
+The calendar marks the days that have a task due with a small dash, and lists those tasks with the day's events, where a tick completes them. Needs the dates on tasks	O calendário marca com um traço os dias que têm tarefa para entregar e lista essas tarefas com os eventos do dia, onde um clique no círculo as conclui. Precisa das datas nas tarefas
+The calendar opens as a card: today big at its left, the month beside it, buttons for the alarms, the timer and your agendas, and the day's events	O calendário abre como um cartão: o dia de hoje grande à esquerda, o mês ao lado, botões para os alarmes, o timer e suas agendas, e os eventos do dia
+The charger plugged in	O carregador conectado
+The charger was plugged in	O carregador foi ligado
+The clock on the pill and in the calendar, in a font of its own	O relógio na pílula e no calendário, numa fonte só dele
+The control center's buttons	Os botões da central de controle
+The cover's	A da capa
+The day's events and holidays under the month, the next ones and the button to add one. Off, the calendar shows only the clock and the month; reminders and the countdown keep working	Os eventos e feriados do dia sob o mês, os próximos e o botão para adicionar um. Desligado, o calendário mostra só o relógio e o mês; lembretes e a contagem continuam funcionando
+The dock is chosen in Windhawk, in this mod's settings: Taskbar (the dock, the Windows taskbar transparent or with only the apps, or unchanged); the island can't change it	A dock é escolhida no Windhawk, nas configurações deste mod: Barra de tarefas (a dock, a barra do Windows transparente ou só com os apps, ou sem mudanças); a ilha não consegue mudar isso
+The dock is optional: it takes the taskbar's place, and it's chosen in Windhawk	A dock é opcional: ela fica no lugar da barra de tarefas, e é escolhida no Windhawk
+The dock is set up in Windhawk	A dock é configurada no Windhawk
+The edge zone as wide as the pill	Zona da borda tão larga quanto a pílula
+The effect shown when the wallpaper changes	O efeito mostrado quando o papel de parede muda
+The favorite's drive isn't connected	A unidade do favorito não está conectada
+The folder with your icons	A pasta com seus ícones
+The folder with your wallpapers	A pasta com seus papéis de parede
+The glass gets a sheen, a beveled edge, light along its bottom and a soft shadow around it, and the panels' cards look like glass too (idea by Thiago Silva)	O vidro ganha brilho, borda chanfrada, luz na parte de baixo e uma sombra suave em volta, e os cartões dos painéis também parecem vidro (ideia de Thiago Silva)
+The graphics card is flying!	A placa de vídeo tá voando!
+The hotspot isn't available now.	O hotspot não está disponível agora.
+The icons'	A dos ícones
+The internet is back	A internet voltou
+The internet went away	A internet caiu
+The island follows the mouse between screens.	A ilha segue o mouse entre as telas.
+The island handles notifications and their sounds (Windows' stay quiet)	A ilha cuida das notificações e dos sons (as do Windows ficam quietas)
+The island is the pill at the top of the screen: the clock, the control center, your notifications and what's playing	A ilha é a pílula no topo da tela: o relógio, a central de controle, suas notificações e o que está tocando
+The island shows the notifications and plays their sounds, Windows stays quiet	A ilha mostra as notificações e toca os sons, o Windows fica quieto
+The island stopped working	A ilha parou de funcionar
+The island takes the color of the app in front	A ilha assume a cor do app que está na frente
+The island's	A da ilha
+The island's logs	Os logs da ilha
+The island's: no banners or sounds from it	O da ilha: sem avisos nem sons dela
+The items before the clock in the order stay at one corner and the others at the other, without changing sides as items come and go	Os itens antes do relógio na ordem ficam num canto e os outros no outro, sem trocar de lado quando itens entram e saem
+The keys below make the pill let clicks through to what's under it, and again take them back; it stays shown	As teclas abaixo fazem os cliques passarem pela pílula para o que está embaixo dela, e de novo voltam ao normal; ela continua visível
+The keys below send the island to its line, and again bring it back	As teclas abaixo levam a ilha para a linha, e de novo a trazem de volta
+The komorebi buttons also start and stop masir, so focus follows the mouse	Os botões do komorebi também iniciam e param o masir, e o foco segue o mouse
+The komorebi buttons also start and stop whkd, its shortcut helper	Os botões do komorebi também iniciam e param o whkd, o ajudante de atalhos
+The line sung now on the pill (place it in the order above), all of them in its panel. Each song's title and artist are sent to lrclib.net (songs only: not videos, voice messages or the apps turned off below)	A linha cantada agora na pílula (posicione na ordem acima), todas no painel dela. O título e o artista de cada música são enviados ao lrclib.net (só músicas: não vídeos, áudios de voz nem os apps desligados abaixo)
+The line's color, on the pill and lit in the panel	A cor da linha, na pílula e destacada no painel
+The list stays open after you click an icon (In the pill style)	A lista continua aberta depois de clicar em um ícone (estilo Na pílula)
+The memory is packed!	A memória tá lotada!
+The minimize arrow keeps the island open	A seta de minimizar mantém a ilha aberta
+The mod's site	Site do mod
+The mouse at the edge, anywhere along the pill's width, brings it back, also with the line invisible	O mouse na borda, em qualquer ponto da largura da pílula, traz ela de volta, também com a linha invisível
+The name has 1 to 32 characters (a letter outside English, like an accented one, counts as two or three).	O nome tem de 1 a 32 caracteres (uma letra fora do inglês, como uma acentuada, conta como duas ou três).
+The next alarm that's on	O próximo alarme ligado
+The one chosen on the map	A tela escolhida no mapa
+The password has 8 to 63 letters, numbers or symbols, without accents.	A senha tem de 8 a 63 letras, números ou símbolos, sem acentos.
+The password has at least 8 characters.	A senha tem pelo menos 8 caracteres.
+The pill can stay, or become a thin line while the mouse is away or while a window is maximized; the mouse on the line brings it back	A pílula pode ficar, ou virar uma linha fina enquanto o mouse está longe ou enquanto uma janela está maximizada; o mouse na linha a traz de volta
+The pill fills like a loading bar with downloads	A pílula enche como uma barra de carregamento com downloads
+The pill fills with the battery's charge while charging	A pílula enche com a carga da bateria enquanto carrega
+The pill glows with her	A pílula brilha com ela
+The pill lights up in several colors. Click (or press Space) only when it turns her color. Five rounds; the average counts, and each wrong click adds 300 ms to the total.	A pílula acende em várias cores. Clique (ou aperte espaço) só quando ela ficar da cor dela. Cinco rodadas; vale a média, e cada clique errado soma 300 ms ao total.
+The pill shows the song's cover without its title. Hover it to read the title	A pílula mostra a capa da música sem o título. Passe o mouse para ler o título
+The pill takes clicks again	A pílula volta a receber cliques
+The pill's and the panels' texts, in a font from your PC (click it again to pick another)	Os textos da pílula e dos painéis, numa fonte do seu PC (clique de novo para escolher outra)
+The pill's other items	Os outros itens da pílula
+The processor is sweating. So am I.	O processador tá suando. Eu também.
+The progress apps show on their taskbar button (downloads, copies, installs)	O progresso que os apps mostram no botão da barra de tarefas (downloads, cópias, instalações)
+The room between the bars; the item grows with it	O espaço entre as barras; o item cresce com ele
+The settings' own icons	Os ícones das próprias configurações
+The sky as emoji, with the icon pack chosen in the Icons tab, or with a set of weather pictures downloaded once when chosen (Meteocons in color, Weather Icons in one color)	O céu como emoji, com o pacote de ícones escolhido na aba Ícones, ou com um conjunto de imagens do clima baixado uma vez quando escolhido (Meteocons coloridos, Weather Icons de uma cor)
+The small pill with the time touches the screen's edge, straight on that side and as thin as its text, covering less of what's under it. The mouse on it opens the island as usual	A pequena pílula com a hora encosta na borda da tela, reta desse lado e fina como o texto, cobrindo menos do que está embaixo. O mouse sobre ela abre a ilha como sempre
+The song changed	A música mudou
+The text's	A do texto
+The timer fills the pill with color	O timer enche a pílula de cor
+The title and the text, in the pill and in this list	O título e o texto, na pílula e nesta lista
+The volume changed	O volume mudou
+The weather panel shows feels like, humidity, wind, UV, rain, pressure and clouds as small cards, like a phone's	O painel do clima mostra sensação, umidade, vento, UV, chuva, pressão e nuvens em cartões pequenos, como no celular
+The weather service didn't answer	O serviço do clima não respondeu
+The wheel on what's playing changes the song (not the volume)	A roda no que está tocando troca a música (não o volume)
+Their own	As próprias
+Their sliders talk to the monitor over its cable. Turn off if a monitor flickers or a dock or MST hub resets when the control center opens	Os controles deles falam com o monitor pelo cabo. Desligue se um monitor piscar ou se uma dock ou hub MST reiniciar ao abrir a central de controle
+Thinking about nothing. On purpose.	Pensando em nada. De propósito.
+Thirsty · water at %s	Com sede · água em %s
+This PC	Este Computador
+This assistant sets the main choices in a few steps, and each one changes the island at once; everything else is in the tabs on the left	Este assistente define as escolhas principais em poucos passos, e cada uma muda a ilha na hora; todo o resto fica nas abas à esquerda
+This computer has no battery	Este computador não tem bateria
+This isn't working.	Assim não dá.
+This monitor's profile: changes here apply to every monitor using it	Perfil deste monitor: as mudanças aqui valem para todo monitor que usa ele
+This one's good!	Essa é boa!
+Three	Três
+Thumbnails of the files	Miniaturas dos arquivos
+Thunderstorm	Trovoadas
+Thunderstorm with hail	Trovoadas com granizo
+Tiling	Tiling (organizar as janelas)
+Time (hour:minute)	Horário (hora:minuto)
+Time for a break	Hora da pausa
+Time format	Formato da hora
+Time until the next	Tempo até o próximo
+Time's up	Acabou o tempo
+Timer	Timer
+Timer on the minimized line	Timer na linha minimizada
+Timer, stopwatch and Pomodoro	Timer, cronômetro e Pomodoro
+Tips under the icons and buttons (their names, an app's notifications)	Dicas embaixo dos ícones e botões (os nomes, as notificações de um app)
+Tired · the battery at %s, unplugged	Cansada · bateria em %s, fora da tomada
+Title	Título
+Title width	Largura do título
+To talk to me and follow my projects	Para falar comigo e acompanhar meus projetos
+To use “%s”, change:	Para usar “%s”, mude:
+Today	Hoje
+Today's color	Cor de hoje
+Together for %s days	Juntas há %s dias
+Together for 1 day	Juntas há 1 dia
+Together since today	Juntas desde hoje
+Tomorrow	Amanhã
+Too many agendas	Agendas demais
+Top left	Em cima à esquerda
+Top right	Em cima à direita
+Topics	Tópicos
+Total	Total
+Touch keyboard	Teclado touch
+Transition	Transição
+Translucent glass: a lighter tint and livelier colors	Vidro translúcido: tinta mais leve e cores mais vivas
+Try again	Tentar de novo
+Try again, or share the file from Explorer	Tente de novo, ou compartilhe o arquivo pelo Explorador
+Turn it on once in Windows' settings: from then on the island switches it	Ligue uma vez nas configurações do Windows: depois disso a ilha passa a ligar e desligar
+Turn it up, I know this one.	Aumenta que essa eu sei.
+Turn on Claude Code, Codex or Custom in the settings	Ligue o Claude Code, o Codex ou o Personalizado nas configurações
+Turned off	Desativado
+Turned on	Ativado
+Turns the island's animations on or off, on every monitor	Liga ou desliga as animações da ilha, em todos os monitores
+Type	Tipo
+Type the command line.	Digite a linha de comando.
+Type the time as hours and minutes, like 08:30.	Digite o horário em horas e minutos, como 08:30.
+Type to filter the shortcuts…	Digite para filtrar os atalhos…
+Type what it opens.	Digite o que ele abre.
+Type your note here…	Escreva sua anotação aqui…
+USB connected	USB conectado
+USB drive	Unidade USB
+USB drive plugged in	Pendrive conectado
+USB drives	Pendrives
+USB drives icon on the pill (open or eject them)	Ícone dos pendrives na pílula (abrir ou ejetar)
+UV index	Índice UV
+Ugh.	Aff.
+Ultrawide vertical stack	Pilha vertical ultrawide
+Unavailable	Indisponível
+Up to 40 favorite files	Até 40 arquivos favoritos
+Upcoming events	Próximos eventos
+Upcoming holidays	Próximos feriados
+Update	Atualizar
+Update all	Atualizar tudo
+Update ticked	Atualizar marcados
+Updated %lld days ago	Atualizado há %lld dias
+Updated %lld h ago	Atualizado há %lld h
+Updated %lld min ago	Atualizado há %lld min
+Updated now	Atualizado agora
+Updates	Atualizações
+Updates (winget and Windows Update)	Atualizações (winget e Windows Update)
+Upload	Enviando
+Upload peak (1 min)	Pico enviando (1 min)
+Upright on the left and right edges	Em pé nas laterais
+Usage	Uso
+Use my location	Usar minha localização
+Utilization	Utilização
+VLC 3 doesn't tell Windows' media controls what it plays, so the island can't see it. With this on, while VLC makes sound, the island reads the song's name from VLC's window title, shows it with VLC's icon, and its buttons press play/pause, previous and next in VLC. No cover or time, and VLC must show the name in its window title (its default)	O VLC 3 não conta aos controles de mídia do Windows o que está tocando, então a ilha não o vê. Com isto ligado, enquanto o VLC faz som, a ilha lê o nome da música no título da janela do VLC, mostra com o ícone do VLC, e os botões dela apertam tocar/pausar, anterior e próximo no VLC. Sem capa nem tempo, e o VLC precisa mostrar o nome no título da janela (o padrão dele)
+Vertical stack	Pilha vertical
+Vertical stack, main on the right	Pilha vertical, principal à direita
+Vice (neon sunset)	Vice (pôr do sol neon)
+Video memory in use (VRAM)	Memória de vídeo em uso (VRAM)
+Videos	Vídeos
+Violet	Violeta
+Virtual desktops	Áreas de trabalho virtuais
+Virtual desktops (the mouse wheel switches them)	Áreas de trabalho virtuais (a roda do mouse troca)
+Visualizer color	Cor do visualizador
+Visualizer color (own)	Cor do visualizador (própria)
+Visualizer sensitivity	Sensibilidade do visualizador
+Volume	Volume
+Volume and mixer in the panel	Volume e mixer no painel
+Volume mixer	Mixer de volume
+Volume percentage beside its icon	Porcentagem do volume ao lado do ícone
+Waiting for valid data in the chosen file	Aguardando dados válidos no arquivo escolhido
+Wallpaper	Papel de parede
+Wallpaper (the wheel: the next one)	Papel de parede (a roda: o próximo)
+Wallpaper transition	Transição do papel de parede
+Wallpapers from a folder (with a transition)	Papéis de parede de uma pasta (com transição)
+Wasted	Wasted
+Wasted now?	Wasted agora?
+Water	Água
+Weather	Clima
+Weather (goes online)	Clima (acessa a internet)
+Weather Icons	Weather Icons
+Weather data by Open-Meteo.com	Dados do clima: Open-Meteo.com
+Weather icons	Ícones do clima
+Website	Site
+Week	Semana
+Weekdays	Dias úteis
+Weekends	Fins de semana
+What Claude Code in a terminal gives its status line (a line in its script, see the item's panel). The Claude desktop app doesn't leave its limits on this PC, so it can't show here	O que o Claude Code no terminal passa para a linha de status dele (uma linha no script dela, veja o painel do item). O app de desktop do Claude não deixa os limites neste PC, então ele não aparece aqui
+What Codex writes in its logs on this PC	O que o Codex escreve nos logs dele neste PC
+What it does	O que ele faz
+What it opens	O que ele abre
+What needs doing?	O que precisa ser feito?
+What she reacts to shows up here, with her sound	O que ela reagir aparece aqui, com o som dela
+What's new	Novidades
+What's playing	O que está tocando
+What's playing on the minimized line	O que está tocando na linha minimizada
+What's playing's buttons and pictures	Os botões e as imagens do que está tocando
+What's that?	O que é isso?
+When it hides	Quando esconder
+Where banners show	Onde os avisos aparecem
+Where did the internet go?	Cadê a internet?
+Where the island appears	Onde a ilha aparece
+Where the items go along the bar. Automatic: around the clock when it's in the middle, otherwise at the right end	Onde os itens ficam ao longo da barra. Automático: em volta do relógio quando ele está no meio, senão na ponta direita
+While a line is sung, it takes the title and artist's place; between lines they come back	Enquanto uma linha é cantada, ela fica no lugar do nome e do artista; entre as linhas eles voltam
+While a timer or Pomodoro counts down, the pill fills with color until it ends (orange, green on a break, fainter when paused) and pulses a moment at the end. The stopwatch doesn't fill	Enquanto um timer ou o Pomodoro conta, a pílula vai se enchendo de cor até acabar (laranja, verde na pausa, mais fraca quando pausado) e pulsa um instante no fim. O cronômetro não enche
+While a timer, Pomodoro or the stopwatch runs, the line becomes a small pill with its ring and its time (with Only the clock, the time goes beside the clock)	Enquanto um timer, o Pomodoro ou o cronômetro corre, a linha vira uma pílula pequena com o anel e o tempo (com Só o relógio, o tempo fica ao lado da hora)
+While an app's window is maximized on this monitor, the bar goes back to its usual look (frosted, with the frosted glass on), so the window doesn't show behind it	Enquanto a janela de um app estiver maximizada neste monitor, a barra volta ao visual normal (fosca, com o vidro fosco ligado), para a janela não aparecer atrás dela
+While music plays in the apps checked below she dances, a new move each bar, following the beat	Enquanto toca música nos apps marcados abaixo ela dança, um passo novo a cada compasso, seguindo a batida
+While music plays, a timer or the stopwatch runs, or a download or copy fills the pill, resting the mouse on that item (or on the pill, when only one is live) grows the pill into its card: the cover, title and buttons; the big time with pause and cancel; the percent. It shrinks back when the mouse leaves. Not for an item that Open panels with the mouse opens, nor with a banner place chosen	Enquanto toca música, roda um timer ou o cronômetro, ou um download ou cópia enche a pílula, parar o mouse nesse item (ou na pílula, quando só um está ao vivo) faz a pílula crescer até o seu cartão: a capa, o título e os botões; o tempo grande com pausar e cancelar; a porcentagem. Ela volta quando o mouse sai. Não vale para um item que Abrir painéis com o mouse já abre, nem com um lugar escolhido para os avisos
+While something plays, the line becomes a thin pill with the song's cover and moving bars; the mouse on it opens the island, as on the line (with Only the clock, they go beside the clock)	Enquanto algo toca, a linha vira uma pílula fina com a capa da música e barras que se mexem; o mouse nela abre a ilha, como na linha (com Só o relógio, elas ficam ao lado da hora)
+While the app is in front, the pill moves there and shows only the lit icons.	Com o app na frente, a pílula vai para lá e mostra só os ícones acesos.
+While the app is in front, the pill moves there and shows only the lit icons. Dragging it then changes its place too.	Com o app na frente, a pílula vai para lá e mostra só os ícones acesos. Arrastar a pílula também muda a posição.
+While the island is minimized to its line (or the Bar is hidden), she stays there in a tiny pill; the mouse on it opens the island, as on the line	Enquanto a ilha está minimizada na linha (ou a Barra está escondida), ela fica lá numa pílula pequena; o mouse nela abre a ilha, como na linha
+While the timer runs	Enquanto o timer está rodando
+White	Branca
+Whoa!	Opa!
+Wi-Fi / network	Wi-Fi / rede
+Wi-Fi back	Wi-Fi voltou
+Wi-Fi is off	Wi-Fi desligado
+Wi-Fi lost	Wi-Fi caiu
+Wi-Fi, sound, battery, the bell and the clock, each step of them. Click an icon to use a picture of your own for it, its brush (top left) for a color of its own; the x goes back to the pack's	Wi-Fi, som, bateria, o sino e o relógio, cada etapa deles. Clique num ícone para usar uma imagem sua nele, no pincel (em cima à esquerda) para uma cor só dele; o x volta ao do pacote
+Wide	Largo
+Widgets	Widgets
+Width of the edge zone where the mouse brings the pill back	Largura da zona na borda em que o mouse traz a pílula de volta
+Win+A opens the island's control center	Win+A abre a central de controle da ilha
+Win+J minimizes the island to its line and brings it back	Win+J minimiza a ilha na linha e a traz de volta
+Win+L stays Windows' (it locks the PC)	Win+L fica com o Windows (ele bloqueia o PC)
+Win+N and Win+A can open the island's notifications and control center instead of Windows'	Win+N e Win+A podem abrir as notificações e a central de controle da ilha no lugar das do Windows
+Win+N opens the island's notifications	Win+N abre as notificações da ilha
+Win+X menu	Menu Win+X
+Wind	Vento
+Window maximized	Janela maximizada
+Window over it	Janela por cima
+Windows	Windows
+Windows 10	Windows 10
+Windows 10's, where it has them	Os do Windows 10, onde ele tem
+Windows 11	Windows 11
+Windows Settings	Configurações do Windows
+Windows Update	Windows Update
+Windows accent	Destaque do Windows
+Windows doesn't report a temperature on this PC	O Windows não informa a temperatura neste PC
+Windows or another app uses them too, the island takes them first	o Windows ou outro app também usa, a ilha pega antes
+Windows places	Locais do Windows
+Windows stopped while a monitor answered a brightness call (DDC/CI). To turn it on again: island settings > Control center > Brightness of external monitors (DDC/CI).	O Windows parou enquanto um monitor respondia ao brilho (DDC/CI). Para ligar de novo: configurações da ilha > Central de controle > Brilho de monitores externos (DDC/CI).
+Windows'	A do Windows
+Windows' own icons	Os ícones do próprio Windows
+Windows' own: no notification sounds	O do Windows: sem os sons das notificações
+Windows' share window didn't open	A janela de compartilhar do Windows não abriu
+Windows, Windows 10 and Emoji are Windows' own fonts. The online ones (all free to use: MIT, Apache 2.0 or ISC) go online once, when chosen: about 150 small SVG pictures are downloaded from cdn.jsdelivr.net (a plain request for each file, nothing about you or your PC is sent), kept in the mod's folder, and never downloaded again. An icon a pack hasn't stays Windows'. Your folder: a picture (PNG, SVG, ICO...) per icon, named after it	Windows, Windows 10 e Emoji são fontes do próprio Windows. Os online (todos de uso livre: MIT, Apache 2.0 ou ISC) usam a internet uma vez, quando escolhidos: cerca de 150 imagens SVG pequenas são baixadas de cdn.jsdelivr.net (um pedido simples por arquivo, nada sobre você ou o seu PC é enviado), guardadas na pasta do mod e nunca baixadas de novo. Um ícone que o pacote não tem fica o do Windows. Sua pasta: uma imagem (PNG, SVG, ICO...) por ícone, com o nome dele
+With a click	Com um clique
+With a click, the line only grows under the mouse and opens when clicked (the hidden Bar's clock too)	Com um clique, a linha só cresce sob o mouse e abre quando clicada (o relógio da Barra escondida também)
+With her games on she has fun too, which goes down while nobody plays with her. Bored, and later sad, she hops on the pill with a pleading look, at most every 30 minutes. Never in full screen, in Do not disturb or over a notification	Com os jogos ligados ela também tem diversão, que baixa enquanto ninguém brinca com ela. Entediada, e depois triste, ela dá pulinhos na pílula com um olhar pidão, no máximo a cada 30 minutos. Nunca em tela cheia, no Não incomodar ou sobre uma notificação
+With its window's title	Com o título da janela
+With names	Com nomes
+With the Bar style	Com o estilo Barra
+With the Fixed style	Com o estilo Fixa
+With the Island style	Com o estilo Ilha
+With the fill on, the timer's item on the pill shows only its icon and the minimized line only fills, with no time. The stopwatch keeps its time	Com o preenchimento ligado, o item do timer na pílula mostra só o ícone e a linha minimizada só enche, sem o tempo. O cronômetro mantém o tempo
+With the island hidden, only this notch's line shows and opens it	Com a ilha escondida, só a linha deste entalhe aparece e a abre
+With the line on, a click on the arrow keeps this monitor's island open until you click it again	Com a linha ligada, um clique na seta mantém aberta a ilha deste monitor até outro clique
+With the mouse	Com o mouse
+Without Git Bash, Claude Code runs its status line in PowerShell: copy the line into its script, after it reads its input into $stdin (see the README)	Sem o Git Bash, o Claude Code roda a linha de status no PowerShell: copie a linha para o script dela, depois que ele lê a entrada em $stdin (veja o README)
+Working hard from	Trabalhando pesado a partir de
+Working…	Executando…
+Workspace	Área de trabalho
+World clocks	Relógios mundiais
+World clocks (Windows' additional clocks)	Relógios mundiais (os relógios adicionais do Windows)
+World clocks inside the clock	Relógios mundiais dentro do relógio
+Write	Digitar
+Writes the charge level as a number next to its icon	Escreve o nível de carga como número ao lado do ícone
+Writes the month as a number, like 9/10, not as a name	Escreve o mês como número, como 9/10, e não como nome
+Writes the volume level as a number next to its icon	Escreve o nível do volume como número ao lado do ícone
+Y M D	A M D
+Yaaawn… so sleepy.	Aaah… que soneca.
+Year	Ano
+Yes, change	Sim, alterar
+Yesterday	Ontem
+Your best 5	Seus 5 melhores
+Your best results show here, kept only on this PC.	Seus melhores resultados aparecem aqui, guardados só neste PC.
+Your city (like Campinas)	Sua cidade (como Campinas)
+Your command	Seu comando
+Your commands	Seus comandos
+Your events and your agendas' events	Seus eventos e os das suas agendas
+Your folder (none chosen yet)	Sua pasta (nenhuma escolhida ainda)
+Your folder…	Sua pasta…
+Your location wasn't found yet, trying again	Sua localização ainda não foi achada, tentando de novo
+Your own colors	Cores próprias
+Z to A	De Z a A
+Zoom	Zoom
+Zzz… Do not disturb is on.	Zzz… o Não perturbe tá ligado.
+Zzz… come back soon.	Zzz… volta logo.
+checking	verificando
+click when the pill turns this color	clique quando a pílula ficar desta cor
+from Windhawk	do Windhawk
+good	bom
+icons saved	ícones salvos
+in %d h	em %d h
+in %d h %d min	em %d h %d min
+in %d min	em %d min
+in a row	seguidos
+installed	instalada
+komorebi	komorebi
+komorebi (start, stop, reload)	komorebi (iniciar, parar, recarregar)
+komorebi isn't installed	O komorebi não está instalado
+komorebi's layout	Layout do komorebi
+komorebi: hide the workspaces without windows	komorebi: esconder as áreas de trabalho sem janelas
+komorebi: its layout on the pill (a menu changes it)	komorebi: o layout na pílula (um menu troca)
+komorebi: with masir (focus follows the mouse)	komorebi: com o masir (o foco segue o mouse)
+komorebi: with whkd (its shortcuts)	komorebi: com o whkd (os atalhos dele)
+missed	passou
+more	mais
+moves	jogadas
+not connected	desconectado
+not yet!	ainda não!
+notification	notificação
+notifications	notificações
+now	agora
+off	desligado
+off the beat	fora do tempo
+on	ligado
+perfect	perfeito
+pts	pts
+starting now	começando agora
+tab	aba
+taken by another command	já usado por outro comando
+taken by another of the island's shortcuts	já usado por outro atalho da ilha
+taken by one of your commands	já usado por um dos seus comandos
+taken by the island's Win+N or Win+A	já usado pelo Win+N ou Win+A da ilha
+this	isto
+too slow	devagar demais
+use Win, Ctrl or Alt with a key	use Win, Ctrl ou Alt com uma tecla
+week	semana
+what to change	o que mudar
+winget couldn't list them	O winget não conseguiu listar
+winget isn't installed	O winget não está instalado
+yesterday	ontem
+°C	°C
+°F	°F
+“Restore what changed” on this option undoes it later	“Restaurar o que mudou”, nesta opção, desfaz depois
+…and then what else it says it needs	…e depois o que mais ela disser que precisa
+✓ All of them are there	✓ Todos já estão lá
+✓ Emptied	✓ Esvaziada
+✓ Exported	✓ Exportado
+✓ Saved	✓ Salvo
