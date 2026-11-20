@@ -1,0 +1,1684 @@
+ (all apps)	（所有应用）
+ (all monitors)	（所有显示器）
+ by caliberda	 作者 caliberda
+ events	 个事件
+ files	 个文件
+ in progress	 项进行中
+ shortcuts imported	 个快捷键已导入
+ · HDR: SDR content	 · HDR：SDR 内容
+ · almost full	 · 快满了
+ · click to hide	 · 点击隐藏
+ · drag to move	 · 拖动以移动
+ · hidden, click to show	 · 已隐藏，点击显示
+ · main island	 · 主灵动岛
+ · no sound	 · 无声音
+ · on the island, Ctrl+drag works too	 · 在灵动岛上按住 Ctrl 拖动也可以
+ · plain color while Windows' energy saver is on	 · Windows 节能模式开启时显示纯色
+ · plain color: Windows' transparency effects are off (Personalization > Colors)	 · 纯色：Windows 透明效果已关闭（个性化 > 颜色）
+ · press the new keys (Esc cancels)	 · 请按下新的按键（Esc 取消）
+ · this island	 · 本岛
+ · whkd isn't installed (winget install LGUG2Z.whkd)	 · 未安装 whkd（winget install LGUG2Z.whkd）
+"Following the bell": out of the pill, as now; or at a point of the screen, sliding in from its nearest edge	“跟随铃铛”：像现在一样从胶囊中弹出；或者显示在屏幕上的某个位置，从最近的边缘滑入
+"Follows the line": as wide as each line; the others keep the widest line's width. A longer line ends with …	“跟随每行”：与每行同宽；其他选项保持最宽行的宽度。更长的行以 … 结尾
+%d items	%d 项
+%d of %d	%d / %d
+%s at %s	%s %s
+%s couldn't run	%s 无法运行
+%s ran	%s 已运行
+%zu of %zu events	%zu / %zu 个事件
+(the wheel turns the pages)	（滚轮翻页）
++  New event	+  新建事件
++  New shortcut	+  新建快捷键
++ Add alarm	+ 添加闹钟
++ Line	+ 分隔线
++ saves the current settings as a profile, to switch back to them later.	+ 将当前设置保存为配置文件，以便以后切换回来。
+.ics link or file path	.ics 链接或文件路径
+1 day	1 天
+1 item	1 项
+10 min	10 分钟
+12 h AM/PM	12 小时 AM/PM
+2 min	2 分钟
+24 h	24 小时
+30 days	30 天
+30 s	30 秒
+5-hour session	5 小时会话
+7 days	7 天
+A Pomodoro ended	一个番茄钟结束
+A USB device plugged in	插入了 USB 设备
+A Windows update came before Microsoft published the files Windhawk needs to change the taskbar (taskbar.dll %s). Until they're out, the dock and the taskbar's look stay off and the island keeps working. They come back by themselves at the next sign-in after that.	Windows 更新早于微软发布 Windhawk 修改任务栏所需的文件（taskbar.dll %s）。在这些文件发布之前，程序坞和任务栏外观会暂时关闭，灵动岛照常工作。文件发布后，下次登录时它们会自动恢复。
+A banner closes when you click anywhere outside it and the island; calls, alarms and reminders stay until you answer them	点击横幅和灵动岛之外的任何位置都会关闭横幅；来电、闹钟和提醒会一直保留，直到你处理它们
+A bolt over her and she's proud; with her care on, it gives her energy	她头上出现一道闪电，她很自豪；开启照顾时，这会给她能量
+A browser's download standing still shows paused	浏览器下载停滞时显示为暂停
+A bubble on the island says when Caps Lock is turned on or off	大写锁定打开或关闭时，灵动岛上会弹出提示
+A bubble on the island says when Num Lock is turned on or off	数字锁定打开或关闭时，灵动岛上会弹出提示
+A card for each event: its switch, where its sound comes from and a play button. The three icons: the island's own sound, the Glass pack (25 small sound files, about 1.3 MB, downloaded once from jsDelivr's CDN, cdn.jsdelivr.net, the first time you pick it; only the files are asked for, nothing about you is sent) or a file of yours (.wav, .mp3...)	每个事件一张卡片：开关、声音来源和播放按钮。三个图标分别是：灵动岛自带的声音、Glass 音效包（25 个小声音文件，约 1.3 MB，第一次选择时从 jsDelivr 的 CDN cdn.jsdelivr.net 下载一次；只请求这些文件，不会发送任何关于你的信息），或你自己的文件（.wav、.mp3……）
+A click on an item opens it; when you don't use it, the pill can shrink into a thin line	点击项目即可打开；不用时，胶囊可以收缩成一条细线
+A click on the bell opens Windows' own notification center instead of the island's list	点击铃铛时打开 Windows 自带的通知中心，而不是灵动岛的列表
+A cuddle, just one?	抱抱我，就一下？
+A download finished	下载完成
+A drive was connected	连接了一个驱动器
+A file with all of it (agenda links too)	包含全部内容的文件（包括日程订阅链接）
+A flash, and she's startled	一道闪光，她吓了一跳
+A focus time ended	一段专注时间结束了
+A grid on the pill that opens all your apps, Store apps too, like macOS: search them by typing, your favorites first (the star), then all of them in alphabetical order	胶囊上的网格图标，像 macOS 一样打开你的所有应用（包括应用商店应用）：输入即可搜索，收藏的应用（星标）排在最前，然后按字母顺序列出全部应用
+A line while a window is maximized	窗口最大化时变为细线
+A line with the mouse away	鼠标离开时变为细线
+A little document copies itself beside her	她旁边会有一份小文档复制出来
+A little fruit would be nice.	来点小水果就好了。
+A long title keeps scrolling while it plays	播放时长标题保持滚动
+A new notification	新通知
+A new song	新歌曲
+A notch with no items disappears, the one with the bell too. It comes back when an item or a notification comes to it, and while you drag items between the notches here. The strip kept on the screen stays the same	没有项目的刘海会消失，带铃铛的刘海也一样。当有项目或通知到来时，以及你在这里把项目拖到其他刘海时，它会重新出现。屏幕上保留的区域不变
+A notification with a one-time code (4 to 8 digits, like a sign-in or a bank code) gets a Copy code button on its banner and in the list. The code goes to the clipboard and stays out of its history	带有一次性验证码（4 到 8 位数字，如登录或银行验证码）的通知，会在横幅和列表中多一个“复制验证码”按钮。验证码会复制到剪贴板，且不会进入剪贴板历史记录
+A notification's text stays on one line, and under the mouse it scrolls to its end and back instead of opening on up to three lines. With animations reduced or off, it opens on three lines as usual	通知文字保持一行，鼠标悬停时滚动到末尾再返回，而不是展开为最多三行。动画减少或关闭时，仍照常展开为三行
+A picture for this icon	此图标的图片
+A plug comes up beside her and she's curious	她旁边冒出一个插头，她很好奇
+A reminder, an alarm or a timer	提醒、闹钟或计时器
+A reminder, an alarm or a timer ending	提醒、闹钟或计时结束
+A right click on the island shows a gear: it opens these settings	在灵动岛上点击右键会出现一个齿轮，点它就能打开这些设置
+A ring along the edge shows the charge: green above 40%, yellow down to 20%, red below. Not as the line, nor on the Bar style	边缘的圆环显示电量：高于 40% 为绿色，降到 20% 前为黄色，更低为红色。线条状态和条形样式下不显示
+A screenshot	截图
+A screenshot was taken	截取了屏幕截图
+A short notice with the cover, title and artist when the song changes (not for pauses or the first song); a click opens What's playing	歌曲切换时显示带封面、标题和艺术家的简短提示（暂停或第一首歌不会显示）；点击即可打开“正在播放”
+A sip of water?	来一小口水？
+A small light that lives on the pill as an item of its own: move it in the order like the others, in every style. Her eyes follow the mouse, she blinks, dances with the music of the apps you check and shows what the PC is doing; she rests when nothing moves. While she moves the island is drawn again up to 30 times a second: on a slow PC, her dance and Her eyes follow the mouse off make it lighter	一个住在胶囊上的小光点，是独立的项目：可以像其他项目一样在顺序中移动，适用于所有样式。她的眼睛跟随鼠标，会眨眼、随你勾选的应用的音乐跳舞并显示电脑在做什么；没有动静时她会休息。她动起来时，灵动岛每秒最多重绘 30 次：在较慢的电脑上，关闭她的跳舞和“眼睛跟随鼠标”会更轻快
+A sneeze	打喷嚏
+A sneeze, by herself	自己打了个喷嚏
+A sound for this event	为此事件选择声音
+A summary of the PC, the island's settings and its last 300 log lines (the dock's are in Windhawk's log)	电脑概况、灵动岛设置和最近 300 行日志（程序坞的日志在 Windhawk 日志中）
+A tap	轻拍
+A task can be given a day. It shows under the task (red when it passed, not done), and the dated tasks come first, the soonest on top. Tasks without a date stay as they are	可以给任务指定一天。日期显示在任务下方（已过期且未完成时为红色），有日期的任务排在前面，最近的在最上面。没有日期的任务保持原样
+A title too long to fit scrolls across while it plays	过长的标题会在播放时滚动显示
+A to Z	A 到 Z
+A yawn	打哈欠
+A yawn, by herself	自己打了个哈欠
+AI usage	AI 用量
+About	关于
+Accent	强调色
+Accent color	强调色
+Accessibility	辅助功能
+Add	添加
+Add  (Enter)	添加  (Enter)
+Add a folder	添加文件夹
+Add a separator line · drag it between icons, click it to remove	添加分隔线 · 把它拖到图标之间，点击即可删除
+Add an open app	添加已打开的应用
+Add clocks in Windows' date and time settings (Additional clocks)	在 Windows 的日期和时间设置中添加时钟（附加时钟）
+Add controls	添加控件
+Add note  (Ctrl+Enter)	添加笔记  (Ctrl+Enter)
+Add provider	添加服务
+Add the shortcuts you want to remember	添加你想记住的快捷键
+Added to your commands	已添加到你的命令
+Adds a button for sleep, restart and shut down	添加用于睡眠、重启和关机的按钮
+Adds a button that lists the keyboard shortcuts	添加列出键盘快捷键的按钮
+Adds a button that mutes and unmutes the microphone	添加用于静音和取消静音麦克风的按钮
+Adds a button that opens your quick notes	添加用于打开快速笔记的按钮
+Adds a button that opens your to-do list	添加用于打开待办事项列表的按钮
+Adds a button that switches Windows between light and dark	添加在 Windows 浅色和深色模式之间切换的按钮
+Adds a button to switch profiles from the pill	添加可在胶囊上切换配置文件的按钮
+Adds a small arrow at the pill's end that hides it to its line	在胶囊末端添加小箭头，点击后收为细线
+Adds a timer, a stopwatch and a Pomodoro to the pill	在胶囊上添加计时器、秒表和番茄钟
+Adds a way to reach the tray icons of other apps from the pill	添加从胶囊访问其他应用托盘图标的入口
+Adds the Recycle Bin to the pill	在胶囊上添加回收站
+Adds the day and the month to the clock	在时钟中加入日期和月份
+Adds the notifications bell to the pill	在胶囊上添加通知铃铛
+Adds the seconds to the time	在时间中加入秒
+Adds the weekday to the clock	在时钟中加入星期
+Adds the year to the clock	在时钟中加入年份
+Affection	抚摸
+After its app: stays	离开该应用后：保持
+After its app: the one before	离开该应用后：恢复之前的
+Again to put every setting back to its default (notes, tasks, events and profiles stay)	再点一次将所有设置恢复为默认值（便笺、任务、事件和配置文件会保留）
+Agendas	日程订阅
+Ah… ah… achoo!	啊……啊……阿嚏！
+Airplane mode	飞行模式
+Alarm	闹钟
+Alarms	闹钟
+All	全部
+All apps	所有应用
+All day	全天
+All done	全部完成
+All files	所有文件
+All quiet here.	这里一切安静。
+All reactions	所有反应
+All set	全部就绪
+All up to date	全部已是最新
+Already added	已添加
+Also on the minimized line	也显示在最小化的细线上
+Also shows the title of the window in focus, like the page or the file open in it	同时显示当前焦点窗口的标题，例如其中打开的网页或文件
+Always	始终
+Always on the pill, even with nothing playing	始终显示在胶囊上，即使没有播放
+Always shown	始终显示
+Always, or only once what's in it weighs this much (it comes and goes by itself)	始终显示，或仅当其中内容达到此大小时显示（会自动出现和消失）
+Amber	琥珀色
+An app appears here once it plays music; only the ones you check make her dance	应用播放音乐后会出现在这里；只有勾选的才会让她跳舞
+An app appears here once it plays something	应用播放内容后会显示在这里
+An arrow drops into her and she's proud; with her care on, it feeds her	一支箭头落进她身上，她很自豪；开启照顾时，这也会喂饱她
+Angry	生气
+Animations	动画
+App	应用
+App in focus	焦点应用
+Applies to every monitor, and the island restarts to apply it	对所有显示器生效，灵动岛会重启以应用
+Apply	应用
+Apps	应用
+Apps (launcher)	应用（启动器）
+Apps (winget, in a terminal)	应用（winget，在终端中）
+Apps and tools	应用和工具
+Apps she dances to	她跟着跳舞的应用
+Apps that bring the visualizer	会显示音频可视化的应用
+Apps that look for lyrics	查找歌词的应用
+Apps with notifications	有通知的应用
+Apps with unsaved work can stop it.	有未保存工作的应用可能会阻止它。
+Are you working or just pretending?	你是在工作，还是在假装工作？
+Area that brings it back	唤回区域
+Arguments (if any)	参数（如有）
+Arguments (optional)	参数（可选）
+Ask before restarting, shutting down or signing out	重启、关机或注销前询问
+Ask every time	每次都询问
+Ask the first time	第一次时询问
+Asleep · Do not disturb is on	睡着了 · 勿扰模式已开启
+Asleep · no mouse or keyboard for %s min	睡着了 · 鼠标和键盘已闲置 %s 分钟
+Attentive	细心
+Audio visualizer	音频可视化
+Audio visualizer (bars moving with the sound)	音频可视化（随声音跳动的音柱）
+Auto	自动
+Auto (light or dark)	自动（浅色或深色）
+Auto, inverted (the other way from Windows)	自动反转（与 Windows 相反）
+Automatic	自动
+Available	可用
+BSP	BSP
+Back	返回
+Back to default	恢复默认
+Back to focus	回到专注
+Backup	备份
+Backup (notes, tasks, profiles and settings)	备份（笔记、任务、配置文件和设置）
+Balanced	平衡
+Banner corners	横幅圆角
+Banner size	横幅大小
+Banner width	横幅宽度
+Banners	横幅
+Banners (notifications on the pill)	横幅（胶囊上的通知）
+Banners close on a click outside	点击外部时关闭横幅
+Banners even with the pill minimized	即使胶囊最小化也显示横幅
+Banners in the pill	胶囊中的横幅
+Banners show each new notification coming out of the pill	横幅会让每条新通知从胶囊中弹出
+Banners still appear while the pill is minimized to its line	胶囊收为细线时仍会显示横幅
+Bar	栏
+Bar: along the whole top edge, like macOS' menu bar	栏：沿整个顶部边缘铺开，像 macOS 的菜单栏
+Bar: hide as its line too	条形：同样隐藏为线条
+Bar: items at the screen's corners	条形：项目放在屏幕两角
+Bar: items keep their side of the clock	横条：项目固定在时钟的一侧
+Bars' height	音频条高度
+Bars' width	音频条宽度
+Base frequency	基准频率
+Battery	电池
+Battery charging	电池充电
+Battery charging (own color)	电池充电（自定义颜色）
+Battery percentage beside its icon	在电池图标旁显示百分比
+Black	黑色
+Blue	蓝色
+Bluetooth	蓝牙
+Bluetooth & devices	蓝牙和其他设备
+Bluetooth audio connected	蓝牙音频已连接
+Bluetooth is off	蓝牙已关闭
+Bluish when lonely, warmer when the processor works hard or she is hungry, paler when thirsty or tired	孤单时偏蓝，处理器忙碌或饥饿时更暖，口渴或疲惫时更淡
+Bootstrap (online)	Bootstrap（在线）
+Bored · nobody has played with her for %s h	无聊 · 已经 %s 小时没人陪她玩了
+Bottom	底部
+Bottom left	左下
+Bottom right	右下
+Break	休息
+Brightness	亮度
+Brightness of external monitors (DDC/CI)	外接显示器的亮度 (DDC/CI)
+Brightness of external monitors turned off	外接显示器的亮度已关闭
+Brings the visualizer	显示可视化
+Browsers never tell the taskbar a download is paused or failed: one whose bar stands still for 30 s turns yellow	浏览器从不告诉任务栏下载已暂停或失败：进度条停滞 30 秒的下载会变成黄色
+Bugs and ideas	问题和建议
+Built-in display	内置显示器
+Button on the island (its icon on the pill)	灵动岛上的按钮（在胶囊上显示其图标）
+Buttons on the pill	胶囊上的按钮
+By date modified	按修改日期
+By name	按名称
+By size	按大小
+By type	按类型
+CPU temperature	CPU 温度
+CPU, RAM and VRAM use	CPU、RAM 和 VRAM 使用率
+CPU, RAM, VRAM and GPU use	CPU、RAM、VRAM 和 GPU 使用率
+Cached	已缓存
+Calculator	计算器
+Calendar	日历
+Calendar full: delete past events in the gear	日历已满：请在齿轮中删除过去的事件
+Calendar with today big	日历大字显示今天
+Calls and alarms silent in Do not disturb	勿扰模式下来电和闹钟也静音
+Calm	安静
+Calm · nothing going on	平静 · 没什么事
+Camera	摄像头
+Cancel	取消
+Caps Lock bubble	大写锁定提示
+Caps Lock off	大写锁定已关闭
+Caps Lock on	大写锁定已打开
+Captions	实时字幕
+Care pace	照顾节奏
+Cast	投屏
+Center	居中
+Change the order with Ctrl + drag on the island	在灵动岛上按住 Ctrl 拖动以更改顺序
+Changes are saved in the one in use · the pencil renames, saves or deletes	更改会自动保存到正在使用的配置文件 · 铅笔可重命名、保存或删除
+Charger plugged in	已接通充电器
+Charging	正在充电
+Charging battery color	充电时的电池颜色
+Charging battery color (own)	充电时的电池颜色（自定义）
+Check every	检查间隔
+Choose	选择
+Choose a JSON file	选择 JSON 文件
+Choose a power plan	选择电源计划
+Choose a program or a file	选择程序或文件
+Choose it…	选择…
+Choose the folder with your pictures	选择存放图片的文件夹
+Choose...	选择...
+Chooses how many animations play, on every monitor	选择播放多少动画，对所有显示器生效
+Chooses which monitors show the island, with a map of your screens	通过屏幕示意图选择哪些显示器显示灵动岛
+Choose…	选择…
+Circle	圆形
+City not found	未找到城市
+Claude Code	Claude Code
+Claude Code (terminal)	Claude Code（终端）
+Claude Code gives its limits to its status line, run in Git Bash: copy the line into its script, after it reads its input with input=$(cat) (see the README)	Claude Code 会把额度传给其在 Git Bash 中运行的状态栏：把这一行复制到状态栏脚本中，放在脚本用 input=$(cat) 读取输入之后（见 README）
+Claude Code tells its limits with a Pro or Max plan, after its first answer in a session	Claude Code 只在 Pro 或 Max 方案下、会话中第一次回答之后才提供额度
+Clear	晴
+Clear all	全部清除
+Click (or press Space) when the ring reaches her. The beat follows the music that is playing, or is steady without it. 32 beats, and hits in a row are worth more.	当圆环碰到她时点击（或按空格键）。节拍跟随正在播放的音乐，没有音乐时则是固定节奏。共 32 拍，连续命中得分更高。
+Click a screen to choose where the island appears.	点击屏幕以选择灵动岛显示的位置。
+Click a screen to place the main island there (alerts and tray).	点击屏幕以将主岛放在那里（提醒和托盘）。
+Click and press the keys	点击后按下按键
+Click to play	点击开始
+Click to play again	点击再玩一次
+Click to record	点击以录制
+Clicking a screenshot notice opens the picture in Explorer	点击截图通知会在资源管理器中打开该图片
+Clicks go through the pill	点击穿透胶囊
+Clipboard	剪贴板
+Clock	时钟
+Clock against the screen's edge	时钟贴住屏幕边缘
+Clock and calendar	时钟和日历
+Clock and calendar (agendas: the calendar's gear)	时钟和日历（日程订阅：日历的齿轮）
+Clock font	时钟字体
+Clock in the middle (the other items move around it)	时钟居中（其他项目围绕它重新排列）
+Close it to finish	关闭应用以完成
+Cloud jump	云端跳跃
+Clouds	云量
+Codex	Codex
+Codex keeps its limits in its logs on this PC: they show after its next answer	Codex 会把额度记在本机日志中：它下次回答后就会显示
+Color filters	颜色滤镜
+Color for downloads and other apps	下载和其他应用的颜色
+Color for file copies	文件复制的颜色
+Color for the battery charging	电池充电的颜色
+Colors	颜色
+Colors following the app in front (its title bar or its icon)	颜色跟随前台应用（标题栏或图标）
+Colors: like Windows (light or dark with it), always light or always dark, or the colors of the app in front	颜色：与 Windows 一致（随它浅色或深色）、始终浅色或始终深色，或使用前台应用的颜色
+Columns	列
+Command (cmd, without a window)	命令（cmd，无窗口）
+Command line	命令行
+Committed	已提交
+Compact (cover only)	紧凑（仅封面）
+Completed	已完成
+Compressed	压缩文件
+Connect	连接
+Connected	已连接
+Connecting...	正在连接...
+Content hidden	内容已隐藏
+Control Panel	控制面板
+Control center	控制中心
+Control center buttons on the pill	胶囊上的控制中心按钮
+Copied	已复制
+Copy	复制
+Copy code	复制验证码
+Copy the line	复制这一行
+Copy verification codes	复制验证码
+Copying files	正在复制文件
+Copying or moving files	复制或移动文件
+Coral	珊瑚色
+Cores / threads	内核 / 线程
+Corners	角落
+Couldn't change the hotspot.	无法更改热点。
+Couldn't connect.	无法连接。
+Couldn't connect. Check the password.	无法连接。请检查密码。
+Couldn't download it: click to try again	无法下载：点击重试
+Couldn't download them: click it again to try	无法下载：再点一次重试
+Couldn't empty it	无法清空
+Couldn't forget the network.	无法忘记该网络。
+Couldn't reach lrclib.net	无法连接 lrclib.net
+Couldn't read it	无法读取
+Couldn't save in that folder	无法保存到该文件夹
+Counting the pixels on your screen.	在数屏幕上的像素。
+Counts down to Pomodoro's next part	倒计时到番茄钟的下一段
+Counts down to alarms	倒计时到闹钟
+Counts down to events	倒计时到事件
+Counts down to the timer's end	倒计时到计时器结束
+Cover and title	封面和标题
+Cover and title on the pill	胶囊上的封面和标题
+Cuddle	抚摸
+Current	当前
+Custom	自定义
+Custom (JSON file)	自定义（JSON 文件）
+Customize…	自定义…
+Cyan	青色
+Cycles through the pictures of a folder as your wallpaper	将文件夹中的图片轮流设为壁纸
+D M Y	日 月 年
+Dances with the music	随音乐跳舞
+Dancing · %s is playing	跳舞中 · %s 正在播放
+Dark	深色
+Dark mode	深色模式
+Date	日期
+Date modified	修改日期
+Date order	日期顺序
+Dates on tasks	任务日期
+Day and month	日期和月份
+Day of the week	星期
+Delete	删除
+Delete %zu past events?	删除 %zu 个过去的事件？
+Delete it?	删除它？
+Delete past events	删除过去的事件
+Desktop	桌面
+Details	细节
+Details as cards	以卡片显示详情
+Device	设备
+Device Manager	设备管理器
+Devices	设备
+Disconnect	断开连接
+Disconnected	已断开连接
+Disconnecting...	正在断开连接...
+Dismiss	关闭
+Display	显示
+Display brightness	显示器亮度
+Do not disturb	勿扰
+Do not disturb turned on or off	勿扰模式开启或关闭
+Do not disturb: silent	勿扰模式：静音
+Dock	程序坞
+Documents	文档
+Don't stop now!	别停呀！
+Done	完成
+Download	下载
+Download finished	下载完成
+Download peak (1 min)	下载峰值（1 分钟）
+Download pictures from the web (goes online)	从网络下载图片（需联网）
+Downloading	正在下载
+Downloading the icons	正在下载图标
+Downloads	下载
+Downloads and other apps	下载和其他应用
+Downloads and other apps (own color)	下载和其他应用（自定义颜色）
+Downloads, installs and other apps' progress; red for an error, yellow paused	下载、安装和其他应用的进度；出错时为红色，暂停时为黄色
+Drag an icon to another notch or place	将图标拖到其他刘海或位置
+Drag an icon to change the order	拖动图标以更改顺序
+Drag from one notch to another · click to hide	在刘海之间拖动 · 点击隐藏
+Drag the groups to reorder them, the minimize arrow stays last	拖动分组即可重新排序，最小化箭头始终在最后
+Drag the pill to any spot on the screen (not with notches)	可将胶囊拖到屏幕任意位置（有缺口时不可用）
+Drag to change the order or to put one on the pill · middle click, or the pin after a moment on an icon: kept on the pill	拖动可更改顺序或放到胶囊上 · 中键单击，或在图标上停留片刻后点图钉：固定在胶囊上
+Drag to change the order · click to hide	拖动以更改顺序 · 点击隐藏
+Dreaming of pixels.	梦见了像素。
+Drinking	喝水
+Drive	驱动器
+Drizzle	毛毛雨
+Drop files on the pill to keep them here, then drag them into another app	将文件拖放到胶囊上以保存在这里，然后拖入其他应用
+Drop files on the pill to keep them there, then drag them out into another app later (their places are kept, not copies)	把文件拖放到胶囊上暂存，之后再拖到另一个应用中（保存的是文件的位置，不是副本）
+Drop it, I've got it.	放手吧，交给我。
+Duplicate	复制
+Each bar sways on its own, softly, as loud as the sound; off, they jump with the beat	每个条形随音量独立柔和地摆动；关闭时随节拍跳动
+Each new one opens the pill for a moment	每条新通知都会让胶囊展开片刻
+Each notch hides alone instead of all at once (Fixed only)	每个缺口单独隐藏，而不是一起隐藏（仅限固定样式）
+Each screen has its own island	每个屏幕都有自己的灵动岛
+Eating	吃东西
+Edge	边距
+Edge around	外围边框
+Edge distance	与边缘的距离
+Edit	编辑
+Edit command	编辑命令
+Edit provider	编辑服务
+Edit task	编辑任务
+Efficiency	节能
+Eight colors, Windows' accent or your own	八种颜色、Windows 强调色或你自己的颜色
+Eject	弹出
+Ejecting…	正在弹出…
+Emoji	表情符号
+Empty	空
+Empty it? Click again	确定清空？再点一次
+Empty the bin	清空
+Emptying…	正在清空…
+Energy	精力
+Energy, food, water and love go down slowly while you use the PC, and you look after her in her panel. She never goes away, never asks in full screen or Do not disturb, and makes no sound unless her sounds are on	使用电脑时，精力、食物、水和关爱会慢慢下降，你可以在她的面板里照顾她。她永远不会离开，全屏或勿扰时从不打扰，除非打开了她的声音，否则不会发出声音
+English letters	英文字母
+Error	错误
+Essential	基本
+Essential: the clock, the battery, the control center, the volume, the notifications' bell and what's playing	基本：时钟、电池、控制中心、音量、通知铃铛和正在播放的内容
+Ethernet	以太网
+Even when minimized	即使最小化时
+Event	事件
+Events in the calendar	日历中的事件
+Events, 	事件，
+Every day	每天
+Every option explained step by step, the roadmap and your votes	每个选项的逐步说明、路线图和你的投票
+Everyday	日常
+Everyday: also the next event, the weather (goes online), the timer, your folders, the apps with notifications and the song's cover	日常：再加上下一个事件、天气（需联网）、计时器、你的文件夹、有通知的应用和歌曲封面
+Everything	全部
+Everything: most of the items, from notes and tasks to the network's speed	全部：大部分项目，从笔记和任务到网速
+Excuse me!	不好意思！
+Expanded card when the mouse rests on a live item	鼠标停在实时项目上时展开卡片
+Export	导出
+Export the island's backup	导出灵动岛备份
+Extend	扩展
+Extra wide	特宽
+Fade	淡入
+Fade the line after	线条淡出时间
+Fan	风扇
+Favorite moved or deleted	收藏的文件已被移动或删除
+Favorites	收藏
+Favorites are full	收藏已满
+Faísca	Faísca
+Faísca, a pet on the island	Faísca，灵动岛上的小宠物
+Faísca, the island's pet	Faísca，灵动岛的小宠物
+Feels like	体感温度
+Fetches pictures for banners from the web, it needs an internet connection	从网络获取横幅所用的图片，需要联网
+File Explorer	文件资源管理器
+File copied	文件已复制
+File copies	文件复制
+File copies (own color)	文件复制（自定义颜色）
+File moved	文件已移动
+Files	文件
+Files are being copied	正在复制文件
+Files are being moved	正在移动文件
+Files copied or moved by Windows (its copy window)	Windows 复制或移动的文件（其复制窗口）
+Files dragged out	拖出的文件
+Files dragged out of the folders panel or the shelf into an app: copied or moved, or asked (the first time, remembered, or every time)	从文件夹面板或暂存架拖到应用中的文件：复制或移动，或者询问（第一次询问并记住，或每次都询问）
+Files dragged out of the island are:	从灵动岛拖出的文件：
+Fill	背景
+Fill animation	填充动画
+Find the six pairs of the island's own icons. The shortest time wins.	找出六对灵动岛自己的图标。用时最短者获胜。
+Finding your location…	正在查找你的位置…
+Finish	完成
+Finish keeps all of it; Cancel puts back what was there before	点“完成”保留以上全部更改；点“取消”则恢复到之前的样子
+Five small games with your best results, kept only on this PC (no internet)	五个小游戏，最好成绩只保存在这台电脑上（无需联网）
+Fixed	固定
+Fixed: joined to the top edge, keeping its room (the windows stay below it)	固定：贴着顶部边缘并保留自己的空间（窗口位于它下方）
+Floating	浮动
+Fluent (online)	Fluent（在线）
+Focus	专注
+Focused right along with you.	陪你一起专心。
+Focused · Pomodoro's focus time	专注中 · 番茄钟专注时间
+Fog	雾
+Fold the apps with notifications into an arrow (out when one comes, and under the mouse)	把有通知的应用收进一个箭头（有新通知或鼠标移上去时展开）
+Folder	文件夹
+Folders	文件夹
+Folders and places	文件夹和位置
+Folders and places (your shortcuts)	文件夹和位置（你的快捷方式）
+Folders mixed with files	文件夹与文件混排
+Folds the app icons into an arrow, they come out for new ones or on hover	将应用图标收起为箭头，有新通知或鼠标悬停时展开
+Following the bell	跟随铃铛
+Following the mouse is unavailable with notches on the main island.	主岛使用刘海时无法跟随鼠标。
+Follows Windows or forces a 24 hour or 12 hour clock	跟随 Windows，或强制使用 24 小时制或 12 小时制
+Follows Windows' measurement system or forces Celsius or Fahrenheit	跟随 Windows 的度量衡制，或强制使用摄氏度或华氏度
+Follows the line	跟随每行
+Follows the mouse	跟随鼠标
+Food	食物
+For OLED screens: the minimized line fades away after this long, back when the mouse reaches it	适用于 OLED 屏幕：最小化的线条在这段时间后淡出，鼠标移到它上面时重新出现
+Forget	忘记
+Forget it?	确定忘记？
+Frames a second	每秒帧数
+Freezing drizzle	冻毛毛雨
+Freezing rain	冻雨
+Frequency	频率
+From square to fully round corners (not with the bar or notches)	从直角到完全圆角（条形样式或有缺口时不可用）
+Frosted glass on the bar and the Fixed style's strip	栏和固定样式条带使用毛玻璃
+Frosted look for the bar and the Fixed strip, needs Windows transparency	条形和固定条带的磨砂效果，需要开启 Windows 透明效果
+Fruit rain	水果雨
+Frustrated	沮丧
+Full screen: silent	全屏：静音
+Fun	乐趣
+Game over	游戏结束
+Game: caught	游戏：接住
+Game: missed	游戏：没接到
+Game: new record	游戏：新纪录
+Games in exclusive full screen still draw over it. In some games it can cost some performance, or bother anti-cheat systems	独占全屏游戏仍会覆盖它。在某些游戏中可能影响性能，或触发反作弊系统
+Games in her panel	她面板里的小游戏
+Gap between the pill and the screen edge (not with the bar or notches)	胶囊与屏幕边缘的间距（条形样式或有缺口时不可用）
+General	常规
+Gives chosen apps their own icons, clock and order while they're in front (in the Island style, their own spot too). Each style has its own list	为选定的应用在前台时设置专属的图标、时钟和顺序（在灵动岛样式中还可设置专属位置）。每种样式都有自己的列表
+Glass	玻璃
+Glass blur	玻璃模糊度
+Glass: see-through and blurred, like on macOS	玻璃：透明且模糊，像 macOS 一样
+Glass: see-through and blurred, with a bright edge (Windows' blur: needs its transparency effects)	玻璃效果：透明、模糊，带亮边（Windows 模糊效果：需要开启它的透明效果）
+GlazeWM's workspaces	GlazeWM 工作区
+GlazeWM: hide the workspaces without windows	GlazeWM：隐藏没有窗口的工作区
+GlazeWM: its workspaces on the pill (a click switches)	GlazeWM：胶囊上的工作区（点击切换）
+Glow and hops can leave the island	光晕和跳跃可以超出灵动岛
+Glow and particles	光晕和粒子
+Glowing in my little corner.	在我的小角落里发光。
+Got your file. I'll hold it.	文件我接住了，我来拿着。
+Graphics card temperature	显卡温度
+Graphics card use (GPU)	显卡使用率 (GPU)
+Graphite	石墨
+Green	绿色
+Grid	网格
+Grid columns	网格列数
+Happy · a notification came	开心 · 来了一条通知
+Hard to read: too alike	难以阅读：颜色太接近
+Heavy rain	大雨
+Hehe.	嘿嘿。
+Help translate the island	帮助翻译灵动岛
+Her color	她的颜色
+Her color changes with the mood	颜色随心情变化
+Her eyes and body turn toward the mouse, more the closer it is	眼睛和身体会转向鼠标，鼠标越近转得越多
+Her eyes follow the mouse	眼睛跟随鼠标
+Her glow, rings and hops may go past the island, also over a maximized app; off, she stays inside it	她的光晕、光环和跳跃可以超出灵动岛，也可以覆盖在最大化的应用上；关闭时她会留在灵动岛内
+Her light tints the island around her and flows through it in waves when she blinks, hops, dances or reacts	她的光会为她周围的灵动岛染上颜色，并在她眨眼、跳跃、跳舞或做出反应时以波浪形式流过灵动岛
+Her own color	她的自定义颜色
+Her size	她的大小
+Her sounds off	她的声音已关闭
+Her volume	她的音量
+Heroicons (online)	Heroicons（在线）
+Hex	十六进制
+Hey! That hurt.	喂！疼啊。
+Hibernate	休眠
+Hidden, a small pill with the time stays instead of the line (the line while a window is under it). The Bar hidden with Win+J closes into it too	隐藏时，会留下一个显示时间的小胶囊，而不是细线（有窗口在它下面时仍显示细线）。用 Win+J 隐藏的条形也会收成这个小胶囊
+Hide a notch with nothing in it	隐藏没有内容的刘海
+Hide after	多久后隐藏
+Hide as its line until the mouse reaches it	隐藏为线条，直到鼠标移到它上面
+Hide each notch on its own (not all together)	每个刘海单独隐藏（而不是一起）
+Hide past events after	在此之后隐藏过去的事件
+Hide the Windows banners	隐藏 Windows 横幅
+Hide the numbers	隐藏数字
+Hides when the mouse leaves, or only while a window is maximized or over it	鼠标离开时隐藏，或仅在有窗口最大化或覆盖它时隐藏
+Hiding	隐藏
+Hiding and notifications	隐藏和通知
+Hiding: when and how it becomes the line	隐藏：何时以及如何变成细线
+Highlight behind the item under the mouse	鼠标所指项目后的高亮
+Hihi!	嘻嘻！
+Hmm, interesting.	嗯，有意思。
+Hmph.	哼。
+Hold Ctrl and drag an item on the island (in any style) to another place, or to another notch. Its items jiggle while Ctrl is held with the mouse on it	按住 Ctrl 并将灵动岛上的项目（任何样式）拖到其他位置或其他刘海。鼠标位于灵动岛上并按住 Ctrl 时，其项目会抖动
+Holding · something is dragged over the island	抱着 · 有东西正被拖到灵动岛上
+Holidays in the calendar (goes online)	日历中的节假日（需联网）
+Home folder	主文件夹
+Horizontal stack	水平堆叠
+Hot · the graphics card at %s	好热 · 显卡 %s
+Hot · the memory at %s	好热 · 内存 %s
+Hot · the processor at %s	好热 · 处理器 %s
+How big she is on the pill and on the line; above 100% she goes past the pill's edges	她在胶囊和细线上的大小；超过 100% 时她会超出胶囊的边缘
+How big the banner is, its texts and buttons with it	横幅的大小，其文字和按钮随之变化
+How big the line is on the pill	胶囊上歌词行的大小
+How big the previous, play and next buttons on the pill are, as far as the pill is tall	胶囊上“上一首”“播放”“下一首”按钮的大小，最大不超过胶囊的高度
+How busy the processor, the memory or the graphics card must be, for 5 seconds, before she shows it	处理器、内存或显卡需要多忙（持续 5 秒）她才会表现出来
+How fast her needs come back as you use the PC: calm (about a day), normal (8 hours) or attentive (3 hours)	使用电脑时她的需求回来的速度：平静（约一天）、普通（8 小时）或细心（3 小时）
+How it moves; paused it breathes, an error shakes, done flashes with a check, canceled drains back	动画方式；暂停时呼吸，出错时抖动，完成时闪光并显示勾号，取消时回退
+How loud all her sounds are	她所有声音的大小
+How many	数量
+How many files it keeps: the oldest goes when a new one comes	保留的文件数：有新文件时移除最旧的
+How many icons show before the list starts to scroll	列表开始滚动前显示的图标数量
+How much of the AI agents' limits is used and when each starts over, read on this PC (no login and nothing online)	AI 代理的额度已用了多少、各自何时重置，在本机读取（无需登录，不联网）
+How much the bars move with the sound (they follow the playing app's own sound)	音柱随声音跳动的幅度（跟随正在播放的应用的声音）
+How often she does something by herself while idle (looks around, hops, spins, stretches)	空闲时她自己做点什么的频率（四处张望、跳一下、转圈、伸懒腰）
+How round the banner's corners are	横幅圆角的程度
+How round the notch curves are in the Fixed style	固定样式中缺口曲线的圆润程度
+How solid the island's fill is, from see-through to full	灵动岛填充的不透明程度，从半透明到完全不透明
+How strongly the glass blurs what is behind it	玻璃对后方内容的模糊强度
+How tall the bars can grow (as far as the pill allows)	音频条最高能长到多高（在胶囊允许的范围内）
+How the What's playing panel looks: the usual one, Pixel (Android), One UI (Samsung), Windows 11, or only the cover with the buttons over it. It opens from What's playing or the cover on the pill	“正在播放”面板的外观：常规样式、Pixel（Android）、One UI（三星）、Windows 11，或只显示封面并把按钮放在其上。它从“正在播放”或胶囊上的封面打开
+How visible the thin line is when the pill is hidden	胶囊隐藏时细线的可见程度
+How visible the thin outline around the pill is	胶囊周围细边框的明显程度
+How wide each bar is; the item grows with them	每根音频条的宽度；项目会随之变宽
+How wide the banner is (a longer text fits on its lines)	横幅的宽度（更长的文字可以放在一行里）
+Humidity	湿度
+Hungry · food at %s	饿了 · 食物 %s
+I give up. For today.	我放弃了。今天先这样。
+I got such a fright!	吓我一跳！
+I like it!	喜欢！
+I'm all alone…	就剩我一个了……
+I'm bored…	好无聊啊……
+I'm drying up here.	我快渴干啦。
+Icon	图标
+Icon and color	图标和颜色
+Icon colors	图标颜色
+Icon pack	图标包
+Icon size	图标大小
+Iconoir (online)	Iconoir（在线）
+Icons	图标
+Icons of the apps with notifications	有通知的应用的图标
+Icons per app (Bar)	每个应用的图标（横条）
+Icons per app (Fixed style)	每个应用的图标（固定样式）
+Icons that aren't pinned	未固定的图标
+Ignored (not counted)	已忽略（不计数）
+Import	导入
+Import a backup of the island	导入灵动岛备份
+Import a file	导入文件
+Import shortcuts (like komorebi's whkdrc)	导入快捷键（如 komorebi 的 whkdrc）
+In the bar, sends items to the screen corners: with the clock in the middle, the ones before it go to the left and the others to the right; without it, the first separator line of the order splits them. With two separator lines the bar has three parts instead: left corner, middle of the screen (the clock joins it) and right corner	在条形样式中，将项目放到屏幕角落：时钟居中时，其前的项目在左、其余在右；时钟不居中时，以顺序中的第一条分隔线为界分开。若有两条分隔线，则改为三部分：左角、屏幕中间（时钟加入其中）和右角
+In the island's Do not disturb, calls, alarms and reminders don't ring either (they still show on the pill)	在灵动岛的勿扰模式下，来电、闹钟和提醒也不会响铃（仍会显示在胶囊上）
+In the pill	在胶囊中
+In the pill with a sound, even in Do not disturb	在胶囊中提醒并播放声音，勿扰模式下也会
+In the terminal	在终端中
+In use	使用中
+In use: close what's open on it	正在使用：请关闭其中打开的文件
+Installed apps	已安装的应用
+Instrumental	纯音乐
+Ionicons (online)	Ionicons（在线）
+Island	灵动岛
+Island backup (*.txt)	灵动岛备份 (*.txt)
+Island font	灵动岛字体
+Island memory	灵动岛记忆
+Island settings	灵动岛设置
+Island: a pill floating at the top, the windows go under it	灵动岛：悬浮在顶部的胶囊，窗口会从它下面穿过
+It couldn't start.	无法启动。
+It ended with an error (0x%08X). Turn the mod off and on in Windhawk to start it again.	它因错误而结束 (0x%08X)。在 Windhawk 中关闭再打开此模组即可重新启动。
+It failed (see the terminal)	失败了（请查看终端）
+It goes to the screen with the mouse	移动到鼠标所在的屏幕
+It runs only while the island is on. A time missed while the PC slept or the island was off isn't made up.	只在灵动岛开启时运行。电脑睡眠或灵动岛关闭时错过的时间不会补运行。
+It's getting hot in here, huh?	这里好热啊，是吧？
+Items in the bar	条形中的项目
+Items on the pill	胶囊上的项目
+Its focus or break ending, while it runs	番茄钟运行时，专注或休息的结束
+Its look (profile):	外观（配置文件）：
+Its style, size, hiding and animations are in Windhawk's settings for this mod	样式、大小、隐藏和动画在 Windhawk 中此模组的设置里
+JSON file	JSON 文件
+Just one little game?	就玩一小局嘛？
+Just watching…	就看看……
+Keep as it is	保持现状
+Keep as it is: the items the pill had before	保持现状：保留胶囊原来的项目
+Keep it open	保持打开
+Keep their list open	保持列表展开
+Keeping an eye on you.	在盯着你呢。
+Keeps the note on the pill when no app has media; a click opens the panel	没有应用播放媒体时，音符仍保留在胶囊上；点击打开面板
+Keyboard language	键盘语言
+Keyboard language (like Windows' input indicator)	键盘语言（类似 Windows 的输入指示器）
+Keyboard shortcut (optional)	键盘快捷键（可选）
+Keyboard shortcuts	键盘快捷键
+Keyboard shortcuts button	键盘快捷键按钮
+Keys	按键
+Language	语言
+Language of the island's texts (it starts again)	灵动岛文字的语言（会重新启动）
+Language of the notes	说明的语言
+Language settings	语言设置
+Large	大
+Largest first	最大的在前
+Later	稍后
+Leaves only the play and pause button on the pill, without previous and next	胶囊上只保留播放/暂停按钮，不显示上一首和下一首
+Leaves out GlazeWM workspaces that have no windows	隐藏没有窗口的 GlazeWM 工作区
+Leaves out komorebi workspaces that have no windows	隐藏没有窗口的 komorebi 工作区
+Left	左
+Less round	不那么圆
+Let go to add it to your commands	松开即可添加到你的命令
+Let go to put it on the shelf	松开即可放到暂存架上
+Let's play?	一起玩吧？
+Light	浅色
+Light and dark mode	浅色和深色模式
+Light and dark mode button	浅色和深色模式按钮
+Light and shadow like macOS 27	类似 macOS 27 的光影
+Light rain	小雨
+Lighter tint and livelier colors on the glass	玻璃效果的色调更浅，颜色更鲜艳
+Lights up the item the mouse is over	高亮鼠标所指的项目
+Like Ctrl+Shift+S, or Ctrl+K, Ctrl+S	例如 Ctrl+Shift+S，或 Ctrl+K, Ctrl+S
+Like Windows	与 Windows 一致
+Like the island	与灵动岛一致
+Like the island: only the shapes of the emojis and of your pictures, in the island's colors. Their own: as they are	与灵动岛一致：表情符号和你的图片只用形状，显示为灵动岛的颜色。原有颜色：按原样显示
+Like the other icons	与其他图标相同
+Like the panels	与面板相同
+Line added · drag it between icons, click it to remove	已添加分隔线 · 把它拖到图标之间，点击即可删除
+Line opacity	线条不透明度
+Line that opens the island	打开灵动岛的线条
+Liquid wave	液体波浪
+Listening · %s is playing	听歌中 · %s 正在播放
+Live activities like the iPhone's	像 iPhone 一样的实时活动
+Lively	活泼
+Loading...	正在加载...
+Location	位置
+Location off or not allowed in Windows	Windows 中的位置已关闭或不允许
+Lock	锁定
+Logs	日志
+Lonely · love at %s	想要关爱 · 关爱 %s
+Long	长
+Long notification texts scroll under the mouse	长通知文字在鼠标悬停时滚动
+Longest line on the pill	胶囊上歌词行的长度
+Longest width the song title may take on the pill	歌曲标题在胶囊上可占用的最大宽度
+Look	外观
+Look and dock	外观和程序坞
+Looking for networks...	正在查找网络...
+Looking for the lyrics…	正在查找歌词…
+Looking…	正在查找…
+Looks for lyrics	查找歌词
+Love	关爱
+Low battery	电量不足
+Low battery… same here.	电量不足……我也是。
+Lucide (online)	Lucide（在线）
+Lyrics are looked for only for songs (with an artist, 45 s to 20 min, not videos)	仅为歌曲查找歌词（有歌手、45 秒至 20 分钟、非视频）
+Lyrics are off for this app (in the settings, What's playing)	此应用的歌词已关闭（在设置的“正在播放”中）
+Lyrics as an icon	歌词显示为图标
+Lyrics color	歌词颜色
+Lyrics color (own)	歌词颜色（自定义）
+Lyrics from lrclib.net	歌词来自 lrclib.net
+Lyrics replace the song title	歌词替换歌曲名称
+Lyrics size	歌词大小
+Lyrics size on the pill	胶囊上的歌词大小
+M D Y	月 日 年
+Made in Brazil, new versions bring fixes and what users ask for	巴西制作，新版本会带来修复和用户的需求
+Magnifier	放大镜
+Main island	主灵动岛
+Makes her dance and react	让她跳舞并做出反应
+Makes the What's playing panel bigger than the other panels; on a short screen it still fits and scrolls	让“正在播放”面板比其他面板更大；在较矮的屏幕上仍会适应屏幕并可滚动
+Makes the pill taller or shorter (not with the bar)	调整胶囊的高矮（条形样式不可用）
+Manage profiles	管理配置文件
+Marks holidays in the calendar, it needs an internet connection	在日历中标出节假日，需要联网
+Material (online)	Material（在线）
+Media buttons	媒体按钮
+Media buttons on the pill	胶囊上的媒体按钮
+Media buttons size	媒体按钮大小
+Media panel size	媒体面板大小
+Media panel style	媒体面板样式
+Medium	中
+Memory	内存
+Memory use (RAM)	内存使用率 (RAM)
+Merges an app's notifications into one icon, Phone Link's phone apps included	将同一应用的通知合并为一个图标，包括手机连接中的手机应用
+Meteocons (colored)	Meteocons（彩色）
+Microphone	麦克风
+Microphone button (mute)	麦克风按钮（静音）
+Microphone, camera and location in use	正在使用的麦克风、摄像头和位置
+Microphone, camera and location in use (and which app)	正在使用的麦克风、摄像头和位置（以及哪个应用）
+Middle	居中
+Minimize	最小化
+Minimize arrow at the end of the pill	胶囊末尾的最小化箭头
+Missed	已错过
+Mission accomplished.	任务完成。
+Mistakes	失误
+Mixer	混音器
+Mobile data	移动数据
+Mobile hotspot	移动热点
+Monitor	显示器
+Monitor 	显示器 
+Monitors	显示器
+Monocle (the window in focus fills the screen)	单窗口（焦点窗口占满屏幕）
+Month as a number (9/10)	月份显示为数字 (9/10)
+More Windows controls	更多 Windows 控件
+More in Explorer	在资源管理器中查看更多
+More options in: %s	更多选项见：%s
+More, more!	还要，还要！
+Mostly clear	大部晴朗
+Mouse away	鼠标离开
+Move	移动
+Move the mouse (or the arrows) to catch fruit and drops: they feed her and quench her thirst. Letting one fall costs a life, and so does catching a rock or a bolt. Three lives.	用鼠标（或方向键）接住水果和水滴：它们能喂饱她、解她的渴。漏掉一个会失去一条命，接到石头或闪电也会。共三条命。
+Move the mouse over her to pet her. Click to tap her (she doesn't like too many).	把鼠标移到她身上来抚摸她。点击可以轻拍她（她不喜欢被拍太多下）。
+Move the pill by dragging it	拖动以移动胶囊
+Moved	移动
+Music	音乐
+Muted	已静音
+My head is so full right now.	我现在脑子里塞得满满的。
+My location	我的位置
+My moves are sharp today.	我今天舞步特别利落。
+My site, with my other projects and a Discord link	我的网站，有我的其他项目和 Discord 链接
+My tummy is rumbling.	肚子咕咕叫了。
+Nailed it!	完美！
+Name	名称
+Name (like Downloads)	名称（如 下载）
+Name (optional)	名称（可选）
+Narrator	讲述人
+Narrow	窄
+Nearby networks appear once location access is on: click to turn on "Let desktop apps access your location"	开启位置访问权限后才会显示附近的网络：点击开启“允许桌面应用访问你的位置”
+Needs Windows' transparency effects: click to open Personalization > Colors	需要 Windows 的透明效果：点击打开 个性化 > 颜色
+Needs a fill on (downloads or charging)	需要打开一种填充（下载或充电）
+Needs the bar style and the clock in the middle	需要条形样式并将时钟放在中间
+Needs the date or the year on the clock	需要时钟显示日期或年份
+Needs the notches	需要刘海
+Needs the notches (Fixed style)	需要刘海（固定样式）
+Needs “%s” on	需要先打开“%s”
+Needs “%s” or “%s” on	需要先打开“%s”或“%s”
+Network	网络
+Network & internet	网络和 Internet
+Network cable	网线
+Network connections	网络连接
+Network name	网络名称
+Network speed	网速
+Network speed (up and down)	网速（上传和下载）
+Never	从不
+New command	新命令
+New desktop	新建桌面
+New notification	新通知
+New record	新纪录
+New task	新任务
+Newest first	最新的在前
+Next	下一步
+Next event	下一个事件
+Night light	夜间模式
+Night light isn't available here	此处无法使用夜间模式
+No Bluetooth	没有蓝牙
+No USB drives	没有 U 盘
+No Wi-Fi adapter	没有 Wi-Fi 适配器
+No agendas yet.	还没有日程订阅。
+No alarms yet	还没有闹钟
+No apps found	未找到应用
+No apps using this output	没有应用正在使用此输出
+No date	无日期
+No distractions.	绝不分心。
+No events	没有事件
+No icon's picture in that folder	该文件夹中没有图标图片
+No internet	无 Internet
+No lyrics found for this song	未找到这首歌的歌词
+No mistakes	无失误
+No notes yet	还没有笔记
+No notifications	没有通知
+No paired devices	没有已配对的设备
+No pictures in this folder	此文件夹中没有图片
+No profile in use: click one to apply it	没有正在使用的配置文件：点击一个即可应用
+No profiles yet	还没有配置文件
+No record yet	还没有纪录
+No reminder (the bell turns it on)	无提醒（点铃铛开启）
+No settings match the search	没有匹配搜索的设置
+Nobody has talked to me in a while.	好久没人跟我说话了。
+Nobody plays with me anymore…	都没人陪我玩了……
+None	无
+None found	未找到
+None yet: a program, a folder, a link or a command line, a click away	还没有：程序、文件夹、链接或命令行，一键即达
+Normal	正常
+Not a backup of the island	这不是灵动岛的备份
+Not an .ics link (Google: Secret address in iCal format)	不是 .ics 链接（Google：iCal 格式的私密地址）
+Not available here	此处不可用
+Not available on this PC	此电脑上不可用
+Not checked yet	尚未检查
+Not chosen	未选择
+Not for the Bar style	不适用于栏样式
+Not with the Liquid Glass	不能与 Liquid Glass 一起使用
+Not with the notches	不能与刘海一起使用
+Not with the notches: each one keeps its place and items for every app	不能与刘海一起使用：每个刘海对所有应用都保持自己的位置和项目
+Notch curves	刘海弧度
+Notches	刘海
+Notes	笔记
+Notes button	笔记按钮
+Nothing found	未找到
+Nothing in it	回收站是空的
+Nothing playing	没有正在播放的内容
+Nothing to do	没有待办
+Nothing to do around here.	这里什么事都没有。
+Nothing to share	没有可分享的内容
+Nothing waiting	没有待更新项
+Notice when switching desktops	切换桌面时的提示
+Notification	通知
+Notifications	通知
+Notifications (bell)	通知（铃铛）
+Notifications too	通知也一样
+Notify when a USB drive is plugged in	插入 U 盘时通知
+Now	现在
+Num Lock bubble	数字锁定提示
+Num Lock off	数字锁定已关闭
+Num Lock on	数字锁定已打开
+Number of columns in the icon grid (Grid style only)	图标网格的列数（仅限网格样式）
+OK	好
+Off	关
+Off until you turn it on. Every event below has its own switch and source; nothing plays over a full-screen app or with Do not disturb on	开启前保持静音。下方每个事件都有各自的开关和来源；全屏应用中或开启勿扰模式时不会播放
+Off while “%s” is on	“%s”打开时不可用
+Off with no animations (“None”)	无动画时关闭（“无”）
+Off with only the cover on the pill	仅显示封面时已关闭
+Off with the bar style	条形样式下关闭
+Off with the items at the screen's corners	项目放在屏幕两角时不可用
+Off with the notches (Fixed style)	刘海开启时关闭（固定样式）
+Off, these actions run at the first click, with no question	关闭后，这些操作在第一次点击时直接执行，不再询问
+Off: nothing is sent	已关闭：不发送任何内容
+Off: only the app's icon peeks out of the line	关闭时：只有应用图标从线条中探出
+Oldest first	最旧的在前
+On	开
+On a laptop, the battery's percentage as it charges	笔记本电脑充电时显示电池百分比
+On battery	使用电池
+On cloud nine…	飘飘欲仙……
+On every monitor	在所有显示器上
+On every notch	在所有刘海上
+On one monitor	一个显示器
+On the battery's notch or the pill	在电池所在的刘海或胶囊上
+On the beat	踩点
+On the monitor with the mouse	在鼠标所在的显示器上
+On the shelf	暂存架上
+On-screen keyboard	屏幕键盘
+Once	仅一次
+Once per version, a notice from the pill opens this page	每个版本一次，胶囊发出的提示会打开此页面
+One UI (Samsung)	One UI（三星）
+One icon per app (Phone Link's phone apps together)	每个应用一个图标（手机连接的手机应用合并）
+Only 16 commands can have a shortcut.	最多只有 16 个命令可以设置快捷键。
+Only Claude Code in a terminal: the Claude desktop app doesn't leave its limits on this PC	仅限终端中的 Claude Code：Claude 桌面应用不会把额度留在这台电脑上
+Only a file on this computer	只能使用本机上的文件
+Only a folder on this computer	仅限此电脑上的文件夹
+Only a picture on this computer	仅限此电脑上的图片
+Only an icon on the pill while the song has lyrics, instead of the line sung now; a click opens them	歌曲有歌词时，胶囊上只显示一个图标，而不是当前演唱的歌词行；点击即可打开歌词
+Only files on this PC can be shared, not folders	只能分享此电脑上的文件，不能分享文件夹
+Only for emoji and pictures of your own	仅适用于表情符号和你自己的图片
+Only for the Bar style	仅限栏样式
+Only for the Island style	仅限灵动岛样式
+Only for the notes below; the island keeps its language	仅用于下面的说明；灵动岛保持自己的语言
+Only https links or file paths	仅支持 https 链接或文件路径
+Only on the main island: change it in its settings	仅限主岛：请在主岛的设置中更改
+Only play and pause	仅播放和暂停
+Only the bar's items over what is behind it; with the frosted look, only the blur	只在背后的内容上显示栏中的项目；搭配磨砂效果时只保留模糊
+Only the clock when hidden	隐藏时只显示时钟
+Only the cover on the pill	胶囊上只显示封面
+Only the main clock shows on the pill; the other clocks list when the mouse rests on it	胶囊上只显示主时钟；鼠标停在它上面时，会列出其他时钟
+Only with Your folder as the pack	仅当图标包为“你的文件夹”时
+Only with the Glass off (it blurs them already), on the bar or on the Fixed style without notches and not hiding as a line	只在关闭玻璃时可用（玻璃已经会模糊）：条形样式，或没有刘海且不隐藏为线条的固定样式
+Only with the Grid style	仅适用于“网格”样式
+Only with the icons opening in the pill	仅当图标在胶囊中展开时可用
+Ooh, a notification!	哇，有通知！
+Oops, I yawned.	哎呀，打哈欠了。
+Opacity	不透明度
+Open	打开
+Open Windhawk	打开 Windhawk
+Open Windows Update	打开 Windows 更新
+Open Windows mixer	打开 Windows 混音器
+Open an app to give it a place	打开一个应用来为它设置位置
+Open in Explorer	在资源管理器中打开
+Open in terminal	在终端中打开
+Open it	打开
+Open panels with the mouse	鼠标悬停打开面板
+Open something	打开某项
+Open the Windows notification center	打开 Windows 通知中心
+Opens a panel with your folder and place shortcuts	打开包含文件夹和位置快捷方式的面板
+Opens a program, a file, a folder, a link or a settings page, like the Run box (Win+R).	打开程序、文件、文件夹、链接或设置页面，就像“运行”框（Win+R）那样。
+Opens pickers for the fill, text and icon colors	打开选色器，设置填充、文字和图标颜色
+Opens the line	打开细线的方式
+Opens the unpinned icons as a list in the pill, a grid or a named list	将未固定的图标显示为胶囊内列表、网格或带名称的列表
+Other apps' icons before scrolling	滚动前显示的其他应用图标数
+Other apps' tray icons	其他应用的托盘图标
+Other files	其他文件
+Output	输出
+Overcast	阴
+Overdue	已逾期
+PC screen only	仅电脑屏幕
+Padding before the first item and after the last one	第一个项目之前和最后一个项目之后的边距
+Panels and buttons	面板和按钮
+Panels as wide as the island	面板与灵动岛同宽
+Panels open as wide as the island is	面板展开时与灵动岛等宽
+Panels size	面板大小
+Partial	部分
+Partly cloudy	局部多云
+Password	密码
+Paste an .ics link (Google Calendar: Settings, your calendar, Secret address in iCal format) or a file's path.	粘贴 .ics 链接（Google 日历：设置 > 你的日历 > iCal 格式的私密地址）或文件路径。
+Pause	暂停
+Paused	已暂停
+Paused (every monitor)	已暂停（所有显示器）
+Performance	性能
+Personality	性格
+Personalization	个性化
+Phosphor (online)	Phosphor（在线）
+Picks a color theme from the swatches	从色板中选择配色主题
+Picks the screen spot for the pill, on a grid	在网格上选择胶囊在屏幕上的位置
+Picture copied	已复制图片
+Pictures	图片
+Pictures, videos and documents show a small preview, as in Explorer, in the folders panel and on the shelf	图片、视频和文档会像在资源管理器中一样，在文件夹面板和暂存架上显示小预览
+Pill	胶囊
+Pill corners	胶囊圆角
+Pill floats, Fixed keeps its room on the screen, Bar spans the edge	胶囊悬浮显示，固定样式保留屏幕空间，条形样式铺满边缘
+Pill height	胶囊高度
+Pill items	胶囊项目
+Pill switches in the panel	面板中的胶囊开关
+Pin a folder to the island	将文件夹固定到灵动岛
+Pink	粉色
+Pixel (Android)	Pixel（Android）
+Place	位置
+Place (or drag the pill)	位置（或拖动胶囊）
+Place (the bar is at the top)	位置（栏位于顶部）
+Place (the notches are at the top)	位置（刘海在顶部）
+Place and icons per app	每个应用的位置和图标
+Plan: 	计划：
+Play	玩
+Plug me in?	帮我插上电源？
+Point to a JSON file with "name" and "windows" (or a list of them) to show other services here	指向包含 "name" 和 "windows"（或其列表）的 JSON 文件，即可在此显示其他服务
+Pomodoro finished	番茄钟结束
+Power	电源
+Power button	电源按钮
+Power button (sleep, restart, shut down)	电源按钮（睡眠、重启、关机）
+Power draw	功率
+Power options	电源选项
+Power plan	电源计划
+Press	按键
+Press the keys	请按键
+Press the keys (Tab moves on)…	按下按键（Tab 跳到下一项）…
+Pressing Win+A opens the island's control center instead of Windows'	按 Win+A 时打开灵动岛的控制中心，而不是 Windows 的
+Pressing Win+N opens the island's notifications instead of Windows'	按 Win+N 时打开灵动岛的通知，而不是 Windows 的
+Pressure	气压
+Privacy	隐私
+Processor	处理器
+Processor use (CPU)	处理器使用率 (CPU)
+Profile 	配置文件
+Profiles	配置文件
+Profiles button (switch profiles)	配置文件按钮（切换配置文件）
+Program, file, folder, link or ms-settings:	程序、文件、文件夹、链接或 ms-settings:
+Programs and Features	程序和功能
+Project	投影
+Proud	自豪
+Puts a button on the pill that locks the PC	在胶囊上放置用于锁定电脑的按钮
+Puts a button on the pill that opens Calculator	在胶囊上放置用于打开计算器的按钮
+Puts a button on the pill that opens File Explorer	在胶囊上放置用于打开文件资源管理器的按钮
+Puts a button on the pill that opens Task Manager	在胶囊上放置用于打开任务管理器的按钮
+Puts a button on the pill that opens Windows' Settings	在胶囊上放置用于打开 Windows 设置的按钮
+Puts a button on the pill that opens the Start button's right-click menu (the one of Win+X)	在胶囊上放置一个按钮，用于打开“开始”按钮的右键菜单（即 Win+X 菜单）
+Puts a button on the pill that opens the accessibility options	在胶囊上放置用于打开辅助功能选项的按钮
+Puts a button on the pill that opens the clipboard history	在胶囊上放置用于打开剪贴板历史记录的按钮
+Puts a button on the pill that opens the emoji panel	在胶囊上放置用于打开表情符号面板的按钮
+Puts a button on the pill that opens the on-screen keyboard	在胶囊上放置用于打开屏幕键盘的按钮
+Puts a button on the pill that shows or hides the touch keyboard	在胶囊上放置用于显示或隐藏触摸键盘的按钮
+Puts a button on the pill that shows the desktop	在胶囊上放置用于显示桌面的按钮
+Puts a button on the pill that takes a screenshot	在胶囊上放置用于截取屏幕的按钮
+Puts a button on the pill that turns live captions on	在胶囊上放置用于开启实时字幕的按钮
+Puts a button on the pill to cast the screen	在胶囊上放置用于投射屏幕的按钮
+Puts a button on the pill to choose the display mode	在胶囊上放置用于选择投影模式的按钮
+Puts a button on the pill to start, stop or reload komorebi	在胶囊上放置用于启动、停止或重新加载 komorebi 的按钮
+Puts a one-click Airplane mode button on the pill	在胶囊上放置一键飞行模式按钮
+Puts a one-click Bluetooth button on the pill	在胶囊上放置一键 Bluetooth 按钮
+Puts a one-click Mobile hotspot button on the pill	在胶囊上放置一键移动热点按钮
+Puts a one-click Night light button on the pill	在胶囊上放置一键夜间模式按钮
+Puts a one-click Wi-Fi and network button on the pill	在胶囊上放置一键 Wi-Fi 和网络按钮
+Puts previous, play and next buttons right on the pill	直接在胶囊上放置上一首、播放和下一首按钮
+Puts the clock in the middle with the other items around it	将时钟放在中间，其他项目排在两侧
+Rain	雨
+Rain chance	降雨概率
+Rainbow	彩虹
+Reacts to what the PC is doing	对电脑的状态做出反应
+Reading…	正在读取…
+Reads limits from a JSON file on this PC ({"name", "windows"})	从这台电脑上的 JSON 文件读取额度（{"name"、"windows"}）
+Record shortcut	录制快捷键
+Record: %s	纪录：%s
+Recycle Bin	回收站
+Recycle Bin appears	回收站显示
+Red	红色
+Reflex	反应力
+Remember my choice (it's in the island's settings)	记住我的选择（可在灵动岛设置中更改）
+Reminder	提醒
+Repeat	重复
+Repeat all	全部重复
+Repeat off	关闭重复
+Repeat one	重复单曲
+Reply	回复
+Report a bug or suggest an idea, GitHub tells you when it comes out	报告问题或提出建议，发布时 GitHub 会通知你
+Reset	重置
+Restart	重启
+Restart now?	现在重启？
+Resting the mouse on an item opens its panel, and it closes a moment after the mouse leaves. Buttons that do something still need a click; a click keeps the panel open	鼠标在项目上停留会打开它的面板，鼠标离开片刻后面板关闭。执行操作的按钮仍需点击；点击可让面板保持打开
+Restore what changed	恢复所做的更改
+Resume	继续
+Reverse the wheel (up is the next song)	反转滚轮（向上滚动为下一首）
+Right	右
+Ring with the battery's charge	显示电量的圆环
+Room at the pill's ends	胶囊两端的空间
+Room between the bars	音频条间距
+Round	第
+Rounds the corners where the bar meets the screen, like a screen's own round corners	把栏与屏幕相接处的角变圆，就像屏幕本身的圆角
+Rows	行
+Run a command line	运行命令行
+Run by itself, at a time	在设定时间自动运行
+Runs in cmd.exe without a window; a terminal shows only if it fails.	在 cmd.exe 中无窗口运行；只有失败时才会显示终端。
+Sad · nobody has played with her for %s h	难过 · 已经 %s 小时没人陪她玩了
+Safe to remove	可以安全移除
+Same as main: changes here apply to it too · + creates this monitor's profile	与主岛相同：这里的更改也适用于主岛 · + 为此显示器创建配置
+Same as the main one	与主灵动岛相同
+Save	保存
+Save  (Enter)	保存  (Enter)
+Save Windows' icons	保存 Windows 的图标
+Save Windows' icons puts a picture of every icon in the folder, named after it (wifi.png, battery-5.png...): replace the ones you want, and they show a moment later	“保存 Windows 的图标”会把每个图标的图片放进文件夹，以图标名称命名（wifi.png、battery-5.png...）：替换你想要的图片，稍后就会显示
+Save current here	把当前设置保存到这里
+Save current settings	保存当前设置
+Save texts	保存文字
+Save the island's logs	保存灵动岛日志
+Save the island's texts to translate	保存灵动岛待翻译的文字
+Save...	保存...
+Saved ✓	已保存 ✓
+Saved.	已保存。
+Saves a backup file or loads one; Reset puts every setting back to its default (clicked twice)	保存或载入备份文件；“重置”会把所有设置恢复为默认值（需点两次）
+Saves every text of the island in a file, in the language chosen if it isn't English, to translate or fix. Send it in a new issue at the Windhawk repository	把灵动岛的所有文字保存到一个文件（所选语言不是英语时，保存该语言的文字），用于翻译或修正。请在 Windhawk 仓库中新建 issue 并发送该文件
+Saving Windows' icons…	正在保存 Windows 的图标…
+Saving…	正在保存…
+Scales only the icons on the pill (their room too)	仅缩放胶囊上的图标（以及它们的空间）
+Scales only the texts on the pill: the clock, percentages and titles	仅缩放胶囊上的文字：时钟、百分比和标题
+Scales the control center, calendar and other panels	缩放控制中心、日历等面板
+Scales the pill, icons and panels together	同时缩放胶囊、图标和面板
+Screen	屏幕
+Screen brightness	屏幕亮度
+Screen brightness (the mouse wheel changes it)	屏幕亮度（用鼠标滚轮调节）
+Screens	屏幕
+Screenshot	截图
+Screenshot notifications open the picture (in Explorer)	截图通知打开图片（在资源管理器中）
+Scrolling	滚动
+Scrolling on the player skips songs instead of changing the volume	在播放器上滚动会切歌，而不是调节音量
+Scrolling up skips to the next song and scrolling down to the one before, instead of the other way round	向上滚动切到下一首，向下滚动切到上一首，与默认方向相反
+Search	搜索
+Search apps	搜索应用
+Search here (a name or *.pdf)	在此搜索（名称或 *.pdf）
+Search results	搜索结果
+Second screen only	仅第二屏幕
+Seconds	秒
+Seconds the pill waits after the mouse leaves before it hides	鼠标离开后胶囊等待多少秒再隐藏
+See it in a terminal	在终端中查看
+See what's new in this version	查看此版本的新功能
+See-through bar	透明栏
+See-through blurred pill with a bright edge, needs Windows transparency	带亮边的透明模糊胶囊，需要开启 Windows 透明效果
+See-through only on the desktop	仅在桌面上透明
+Separator line · drag to move · click to remove	分隔线 · 拖动以移动 · 点击以删除
+Set a timer	设置计时器
+Set an alarm	设置闹钟
+Set up	设置
+Sets the order of day, month and year when the date shows	显示日期时设置日、月、年的先后顺序
+Settings	设置
+Settings back to their defaults	设置已恢复为默认值
+Setup assistant	设置向导
+Share	分享
+Shared memory	共享内存
+She asked to play	她想让你陪她玩
+She asks to play when bored	无聊时会邀你一起玩
+She giggles with a note	她带着一个音符咯咯笑
+She jumps from cloud to cloud by herself; you only steer her sideways with the mouse or the arrows. Grey clouds vanish after a jump and some move.	她会自己从一朵云跳到另一朵云；你只需用鼠标或方向键左右带她。灰色的云跳一次就会消失，有些云会移动。
+She jumps, startled, then smiles and sparkles	她吓得一跳，然后微笑并闪出火花
+She makes sounds	她会发出声音
+She pants when the processor, the memory or the graphics card works hard, gets tired when the battery is low and keeps still during Pomodoro's focus	处理器、内存或显卡忙碌时她会喘气，电量低时会疲惫，番茄钟专注时保持安静
+She reacts to everything below; off, choose each reaction	她会对下面的所有事情做出反应；关闭时可以逐个选择反应
+She smiles as the Wi-Fi arcs come back	Wi-Fi 弧线回来时她会微笑
+She woke up: you came back	她醒了：你回来了
+She's proud, and a check mark is drawn	她很自豪，并画出一个对勾
+She's sad, with a question mark	她很难过，头上有个问号
+She's startled by a ringing alarm mark	一个响铃的警示符号把她吓了一跳
+Shelf	暂存架
+Shelf for files	文件暂存架
+Shelf holds	暂存架容量
+Shh, nobody wakes me up now.	嘘，现在没人能叫醒我。
+Shh… focus mode.	嘘……专注模式。
+Short	短
+Short name	简称
+Shortcut: let clicks through the pill	快捷键：让点击穿透胶囊
+Shortcuts	快捷键
+Shortcuts to programs and files (or command lines) you add, with their own icons, a click away in their panel; any of them can be a button on the pill or have a keyboard shortcut (set in its editor)	你添加的程序和文件（或命令行）的快捷方式，带有它们自己的图标，在其面板中一键打开；任何一个都可以成为胶囊上的按钮，或设置键盘快捷键（在其编辑器中设置）
+Show	显示
+Show %zu hidden	显示 %zu 个已隐藏的事件
+Show VLC 3 from its window's title	通过窗口标题显示 VLC 3
+Show a notice when the song changes	歌曲切换时显示提示
+Show all	显示全部
+Show desktop	显示桌面
+Show what they say	显示通知内容
+Show what's copied (a bubble under the pill)	显示复制的内容（胶囊下方的气泡）
+Showers	阵雨
+Shown under the mouse; up to 16 letters, empty is Faísca	鼠标悬停时显示；最多 16 个字符，留空则为 Faísca
+Shows GlazeWM's workspaces on the pill, a dot each; a click switches to it	在胶囊上显示 GlazeWM 的工作区，每个一个圆点；点击即可切换
+Shows a banner on the pill when a notification arrives	收到通知时在胶囊上显示横幅
+Shows a bubble under the pill with what you just copied	在胶囊下方用气泡显示刚复制的内容
+Shows a mark and the app name while the mic, camera or location is used	麦克风、摄像头或位置被使用时，显示标记和应用名称
+Shows a notice each time a USB drive is plugged in	每次插入 U 盘时显示提示
+Shows a notice when the battery goes under 20% and under 10%	电量低于 20% 和低于 10% 时显示提示
+Shows a notice when the charger is plugged in	接通充电器时显示提示
+Shows a notice when you turn Do not disturb on or off	你开启或关闭勿扰模式时显示提示
+Shows a notice with the device's name when Bluetooth audio connects	蓝牙音频连接时显示带设备名称的提示
+Shows an icon on the pill for each app with notifications	为每个有通知的应用在胶囊上显示图标
+Shows an icon to open or eject plugged-in USB drives	显示图标，用于打开或弹出已插入的 U 盘
+Shows bars that move with the sound that is playing	显示随正在播放的声音跳动的音柱
+Shows how busy the graphics card is; a click opens its panel	显示显卡的繁忙程度；点击打开其面板
+Shows how busy the processor is	显示处理器的占用率
+Shows how long until the next event, alarm, timer or Pomodoro part	显示距离下一个事件、闹钟、计时器或番茄钟阶段还有多久
+Shows how much memory is in use	显示正在使用的内存量
+Shows how much video memory is in use	显示正在使用的显存量
+Shows komorebi's workspaces and layout on the pill, a menu changes it	在胶囊上显示 komorebi 的工作区和布局，可通过菜单更改
+Shows notices for the charger, low battery, Bluetooth audio and Do not disturb	显示充电器、电量低、Bluetooth 音频和勿扰模式的提示
+Shows pending app and Windows updates from winget and Windows Update	显示 winget 和 Windows Update 提供的待更新应用和系统更新
+Shows small bubbles with names and app notifications on hover	悬停时显示带名称和应用通知的小气泡
+Shows the battery icon on the pill	在胶囊上显示电池图标
+Shows the control center's icon, click for Wi-Fi, Bluetooth, volume and more	显示控制中心图标，点击可打开 Wi-Fi、Bluetooth、音量等
+Shows the cover and the song title on the pill	在胶囊上显示封面和歌曲标题
+Shows the current keyboard language, like the Windows indicator	显示当前键盘语言，类似 Windows 的输入指示器
+Shows the current upload and download speed	显示当前的上传和下载速度
+Shows the extra clocks you added in Windows	显示你在 Windows 中添加的附加时钟
+Shows the graphics card's temperature when its driver gives it, in °C or °F like the weather	显卡驱动提供温度时显示显卡温度，单位与天气相同（°C 或 °F）
+Shows the icon and name of the app in focus on this monitor	显示此显示器上当前焦点应用的图标和名称
+Shows the keys that let clicks through, click them to record a combination	显示让点击穿透的按键，点击它们可录制组合键
+Shows the minimize keys, click them to record a new combination	显示最小化快捷键，点击后可录制新的组合键
+Shows the notifications	显示通知
+Shows the number and name of the virtual desktop for a moment when you switch to it, also when the island is minimized	切换到某个虚拟桌面时，短暂显示它的编号和名称，灵动岛最小化时也会显示
+Shows the playing song or video with its cover and controls	显示正在播放的歌曲或视频及其封面和控制按钮
+Shows the processor's temperature when Windows reports one, in °C or °F like the weather	Windows 提供温度时显示处理器温度，单位与天气相同（°C 或 °F）
+Shows the screen brightness, scroll the wheel on it to change	显示屏幕亮度，在其上滚动滚轮即可调节
+Shows the time on the pill	在胶囊上显示时间
+Shows the two switches at the end of the song's panel, for the buttons and for the cover and title on the pill. They stay in these settings either way	在歌曲面板底部显示两个开关，分别控制胶囊上的按钮以及封面和标题。无论是否显示，它们都保留在这些设置中
+Shows the virtual desktops, scroll the wheel on it to switch; a click opens their list, where the pencil renames one (Windows 11 24H2 and later)	显示虚拟桌面，在其上滚动滚轮即可切换；点击会打开桌面列表，用铅笔可以重命名（Windows 11 24H2 及更高版本）
+Shows the volume icon, click for the volume panel	显示音量图标，点击打开音量面板
+Shows the volume sliders, the link to Windows' mixer and the Mixer with each app's volume under the player in the song's panel. Turn off for a panel with only the player	在歌曲面板的播放器下方显示音量滑块、Windows 混音器链接和各应用音量的混音器。关闭后面板只保留播放器
+Shows the weather, it needs an internet connection	显示天气，需要联网
+Shows this action in the power button's menu; if only one is on, a click on the button runs it	在电源按钮菜单中显示此操作；如果只开启一项，点击按钮即执行
+Shrinks the pill to a thin line on the screen edge when idle	空闲时将胶囊收缩为屏幕边缘的细线
+Shuffle	随机播放
+Shut down	关机
+Shut down now?	现在关机？
+Sign out	注销
+Sign out now?	现在注销？
+Simple	简单
+Size	大小
+Sizes	大小
+Skip	跳过
+Sky	天空
+Sleep	睡眠
+Slide	滑动
+Small	小
+Smallest first	最小的在前
+Smooth bars (like the iPhone)	平滑条形（像 iPhone 一样）
+Smoothness of the animations, matching the screen or a fixed rate	动画的流畅度，与屏幕刷新率一致或使用固定帧率
+Snooze	稍后提醒
+Snoozed: shows again in 5 minutes	已暂缓：5 分钟后再次显示
+Snow	雪
+Snow showers	阵雪
+Something just came in!	有新东西来啦！
+Song changed	歌曲已切换
+Song lyrics	歌词
+Song lyrics (goes online: lrclib.net)	歌词（需联网：lrclib.net）
+Sort by	排序方式
+Sound	声音
+Sound files	音频文件
+Sound output	声音输出
+Sound waves come out of her	她身上发出声波
+Sounds of each event	每个事件的声音
+Space	空格
+Speed	速度
+Speeds up or slows down the animations, on every monitor	加快或减慢动画速度，对所有显示器生效
+Spinning like crazy.	转得飞快。
+Splits the island into notches against the top edge, around the camera; the Island and Fixed styles each keep their own	将灵动岛分成贴着顶部边缘的刘海，围绕摄像头；灵动岛样式和固定样式各自保留自己的设置
+Square	直角
+Stands the pill up on the left and right edges (not with notches)	在左右边缘时让胶囊竖立显示（有缺口时不可用）
+Start	开始
+Startled	受惊
+Starts over in	重置倒计时
+Status	状态
+Status notices: charger, low battery, Bluetooth audio, Do not disturb	状态提示：充电器、低电量、蓝牙音频、免打扰
+Stay over borderless full-screen apps	在无边框全屏应用上保持显示
+Sticky keys	粘滞键
+Stop	停止
+Stop keeping it open	取消保持打开
+Stop poking me!	别戳我啦！
+Stop, that tickles!	别闹，好痒！
+Stopped	已停止
+Stops Windows' own banners so you only see the island's	屏蔽 Windows 自带的横幅，只显示灵动岛的
+Stopwatch	秒表
+Style	样式
+Style (the options of the style chosen under it)	样式（所选样式的选项在其下方）
+Sure?	确定？
+Switches, adds, renames, updates or deletes your profiles	切换、添加、重命名、更新或删除配置文件
+System	系统
+System alerts (the charger, a low battery, Bluetooth, Do not disturb and the desktop) show as a wide compact pill: the icon in a circle of its color at the left, the title, and the value at the right end (a battery as a small battery, a headset's as a ring). They keep their time and their queue	系统提醒（充电器、低电量、蓝牙、勿扰和桌面）显示为一条宽而紧凑的胶囊：左侧是彩色圆圈中的图标，然后是标题，右端是数值（电池显示为小电池，耳机电量显示为圆环）。显示时长和队列保持不变
+System sounds (notifications)	系统声音（通知）
+Tabler (online)	Tabler（在线）
+Take care of Faísca	照顾 Faísca
+Task	任务
+Task Manager	任务管理器
+Task view	任务视图
+Taskbar back to Windows' default for now	任务栏暂时恢复为 Windows 默认样式
+Tasks	任务
+Tasks button	任务按钮
+Tasks with a date in the calendar	日历中显示带日期的任务
+Tell me what's new after an update	更新后告诉我新功能
+Temperature	温度
+Temperature unit	温度单位
+Text	文字
+Text size	文字大小
+Texts in this language reviewed by %s	此语言的文字由 %s 审校
+Texts to translate (*.json)	待翻译的文字 (*.json)
+That path is too long	路径太长
+That sound off	该声音已关闭
+The Bar also shrinks to a thin line on the screen's edge when the mouse is away, and comes back as the mouse reaches the line. Windows then use the strip it kept, and the Bar shows over them	条形样式也会在鼠标离开时缩成屏幕边缘的细线，鼠标移到线上时恢复。窗口会使用它原先保留的区域，条形显示在窗口上方
+The Bar style	条形样式
+The PC shuts down after it. Esc or a click stops it.	之后电脑会关机。按 Esc 或点击一下即可取消。
+The app in focus on this monitor (its icon and name)	此显示器上的焦点应用（图标和名称）
+The apps heard playing, also players without Windows' media controls; with some on, only they bring it. With none on, any sound does	检测到正在播放的应用，包括没有 Windows 媒体控件的播放器；开启其中一些后，只有它们会显示可视化。全部关闭时，任何声音都会显示
+The apps seen playing; a click turns one's lyrics off, and nothing of its songs is sent to lrclib.net	已检测到播放内容的应用；点击可关闭某个应用的歌词，其歌曲信息将不会发送到 lrclib.net
+The apps seen playing; only the ones you check make her dance and react to songs. Empty until an app plays	已见播放过的应用；只有你勾选的应用才会让她跳舞并对歌曲做出反应。在有应用播放之前为空
+The apps' notifications come in a capsule like the pill: the photo or icon at the left, the name and the message on one line, the app's icon at the right. Under the mouse it opens to the whole text and the reply. Calls, alarms and reminders keep their buttons as they are	应用的通知以和胶囊一样的胶囊形状出现：左侧是照片或图标，名字和消息在同一行，右侧是应用图标。鼠标移上去时会展开显示全文和回复框。来电、闹钟和提醒的按钮保持不变
+The bar at the top, or upright on the left or the right edge, its items one under the other; windows keep out of its strip	栏位于顶部，或竖立在左侧或右侧边缘，项目上下排列；窗口不会进入它的区域
+The bar doesn't minimize	栏不会最小化
+The bar's inner corners	栏的内侧圆角
+The bar's side	栏的位置
+The bars' color; the rainbow gives each bar its own, going around slowly	条形的颜色；彩虹会让每个条形有自己的颜色，并缓慢变换
+The battery icon's color while it charges; green is the usual, like a phone's	充电时电池图标的颜色；默认为绿色，和手机一样
+The battery's charge while a laptop charges	笔记本充电时的电池电量
+The bell opens Windows' notification center	铃铛打开 Windows 通知中心
+The buttons on the panels	面板上的按钮
+The calendar marks the days that have a task due with a small dash, and lists those tasks with the day's events, where a tick completes them. Needs the dates on tasks	日历会用小短线标出有任务到期的日子，并把这些任务与当天的事件一起列出，点击圆圈即可完成。需要先开启任务日期
+The calendar opens as a card: today big at its left, the month beside it, buttons for the alarms, the timer and your agendas, and the day's events	日历以卡片形式打开：左侧大字显示今天，旁边是月份，并有闹钟、计时器和日程订阅的按钮，以及当天的事件
+The charger plugged in	接上了充电器
+The charger was plugged in	已插入充电器
+The clock on the pill and in the calendar, in a font of its own	胶囊上和日历中的时钟使用单独的字体
+The control center's buttons	控制中心的按钮
+The cover's	封面颜色
+The day's events and holidays under the month, the next ones and the button to add one. Off, the calendar shows only the clock and the month; reminders and the countdown keep working	月份下方显示当天的事件和节假日、即将到来的事件以及添加事件的按钮。关闭后，日历只显示时钟和月份；提醒和倒计时仍正常工作
+The dock is chosen in Windhawk, in this mod's settings: Taskbar (the dock, the Windows taskbar transparent or with only the apps, or unchanged); the island can't change it	程序坞在 Windhawk 中此模组的设置里选择：任务栏（程序坞、透明或只显示应用的 Windows 任务栏，或保持不变）；灵动岛无法更改它
+The dock is optional: it takes the taskbar's place, and it's chosen in Windhawk	程序坞是可选的：它会取代任务栏，需要在 Windhawk 中选择
+The dock is set up in Windhawk	程序坞在 Windhawk 中设置
+The edge zone as wide as the pill	边缘区域与胶囊同宽
+The effect shown when the wallpaper changes	更换壁纸时显示的过渡效果
+The favorite's drive isn't connected	收藏文件所在的驱动器未连接
+The folder with your icons	存放你图标的文件夹
+The folder with your wallpapers	存放壁纸的文件夹
+The glass gets a sheen, a beveled edge, light along its bottom and a soft shadow around it, and the panels' cards look like glass too (idea by Thiago Silva)	玻璃获得光泽、斜切边缘、底部的反射光和周围柔和的阴影，面板中的卡片也呈现玻璃质感（创意来自 Thiago Silva）
+The graphics card is flying!	显卡飞起来啦！
+The hotspot isn't available now.	热点当前不可用。
+The icons'	图标的颜色
+The internet is back	网络恢复了
+The internet went away	网络断开了
+The island follows the mouse between screens.	灵动岛跟随鼠标在屏幕之间移动。
+The island handles notifications and their sounds (Windows' stay quiet)	由灵动岛处理通知和声音（Windows 保持安静）
+The island is the pill at the top of the screen: the clock, the control center, your notifications and what's playing	灵动岛是屏幕顶部的胶囊：显示时钟、控制中心、你的通知和正在播放的内容
+The island shows the notifications and plays their sounds, Windows stays quiet	由灵动岛显示通知并播放提示音，Windows 自带的保持安静
+The island stopped working	灵动岛已停止工作
+The island takes the color of the app in front	灵动岛采用最前面应用的颜色
+The island's	灵动岛的
+The island's logs	灵动岛日志
+The island's: no banners or sounds from it	灵动岛的：它不显示横幅也不发出声音
+The items before the clock in the order stay at one corner and the others at the other, without changing sides as items come and go	顺序中排在时钟之前的项目固定在一角，其余在另一角，项目增减时不会换边
+The keys below make the pill let clicks through to what's under it, and again take them back; it stays shown	下面的按键让点击穿透胶囊到达其下方的内容，再按一次恢复；胶囊保持显示
+The keys below send the island to its line, and again bring it back	按下方的按键将灵动岛收为细线，再按一次恢复
+The komorebi buttons also start and stop masir, so focus follows the mouse	komorebi 按钮同时启动和停止 masir，使焦点跟随鼠标
+The komorebi buttons also start and stop whkd, its shortcut helper	komorebi 按钮同时启动和停止其快捷键工具 whkd
+The line sung now on the pill (place it in the order above), all of them in its panel. Each song's title and artist are sent to lrclib.net (songs only: not videos, voice messages or the apps turned off below)	胶囊上显示正在唱的歌词（在上方顺序中调整位置），面板中显示全部歌词。每首歌的歌名和歌手会发送到 lrclib.net（仅限歌曲：不包括视频、语音消息或下方已关闭的应用）
+The line's color, on the pill and lit in the panel	歌词行的颜色，用于胶囊和面板中的高亮
+The list stays open after you click an icon (In the pill style)	点击图标后列表保持打开（仅限胶囊内样式）
+The memory is packed!	内存被塞满啦！
+The minimize arrow keeps the island open	最小化箭头让灵动岛保持打开
+The mod's site	模组网站
+The mouse at the edge, anywhere along the pill's width, brings it back, also with the line invisible	鼠标移到边缘胶囊宽度内的任意位置都能让它返回，线条不可见时也一样
+The name has 1 to 32 characters (a letter outside English, like an accented one, counts as two or three).	名称为 1 到 32 个字符（英文以外的字符，如汉字或带重音的字母，算作两到三个）。
+The next alarm that's on	下一个已开启的闹钟
+The one chosen on the map	在地图上选择的屏幕
+The password has 8 to 63 letters, numbers or symbols, without accents.	密码为 8 到 63 个字母、数字或符号，不含重音字符。
+The password has at least 8 characters.	密码至少需要 8 个字符。
+The pill as a loading bar	胶囊作为进度条
+The pill can stay, or become a thin line while the mouse is away or while a window is maximized; the mouse on the line brings it back	胶囊可以一直显示，也可以在鼠标离开或窗口最大化时变成一条细线；鼠标移到细线上即可唤回
+The pill fills like a loading bar with downloads	下载时胶囊像进度条一样填充
+The pill fills with the battery's charge while charging	充电时胶囊随电量填充
+The pill glows with her	胶囊随她一起发光
+The pill lights up in several colors. Click (or press Space) only when it turns her color. Five rounds; the average counts, and each wrong click adds 300 ms to the total.	药丸会亮起多种颜色。只在它变成她的颜色时点击（或按空格键）。共五轮，按平均值计分，每次误点会使总时间增加 300 毫秒。
+The pill shows the song's cover without its title. Hover it to read the title	胶囊只显示歌曲封面，不显示标题。将鼠标悬停在上面即可看到标题
+The pill takes clicks again	胶囊恢复接收点击
+The pill's and the panels' texts, in a font from your PC (click it again to pick another)	胶囊和面板的文字使用你电脑上的一种字体（再次点击可换另一种）
+The pill's other items	胶囊的其他项目
+The pill's shape	胶囊形状
+The processor is sweating. So am I.	处理器在冒汗，我也是。
+The progress apps show on their taskbar button (downloads, copies, installs)	应用在任务栏按钮上显示的进度（下载、复制、安装）
+The room between the bars; the item grows with it	音频条之间的间距；项目会随之变宽
+The settings' own icons	设置本身的图标
+The sky as emoji, with the icon pack chosen in the Icons tab, or with a set of weather pictures downloaded once when chosen (Meteocons in color, Weather Icons in one color)	以表情符号显示天空，或使用“图标”选项卡中所选的图标包，或使用选中时下载一次的天气图片集（Meteocons 为彩色，Weather Icons 为单色）
+The small pill with the time touches the screen's edge, straight on that side and as thin as its text, covering less of what's under it. The mouse on it opens the island as usual	带时间的小胶囊贴住屏幕边缘，该侧为直边，厚度与文字相同，遮挡更少。鼠标移到其上仍会照常打开灵动岛
+The song changed	歌曲改变
+The text's	文字颜色
+The timer fills the pill with color	计时器用颜色填满胶囊
+The title and the text, in the pill and in this list	标题和正文，显示在胶囊和此列表中
+The volume changed	音量改变
+The weather panel shows feels like, humidity, wind, UV, rain, pressure and clouds as small cards, like a phone's	天气面板以小卡片显示体感温度、湿度、风、紫外线、降雨、气压和云量，就像手机上那样
+The weather service didn't answer	天气服务没有响应
+The wheel on what's playing changes the song (not the volume)	在正在播放上滚动滚轮切换歌曲（而不是音量）
+Their own	原有颜色
+Their sliders talk to the monitor over its cable. Turn off if a monitor flickers or a dock or MST hub resets when the control center opens	它们的滑块通过线缆与显示器通信。如果打开控制中心时显示器闪烁，或扩展坞或 MST 集线器重置，请关闭此项
+Thinking about nothing. On purpose.	什么都不想。故意的。
+Thirsty · water at %s	渴了 · 水 %s
+This PC	此电脑
+This assistant sets the main choices in a few steps, and each one changes the island at once; everything else is in the tabs on the left	这个向导用几步设置主要选项，每个选择都会立刻改变灵动岛；其余设置都在左侧的选项卡中
+This computer has no battery	这台电脑没有电池
+This isn't working.	这样不行啊。
+This monitor's profile: changes here apply to every monitor using it	此显示器的配置：这里的更改适用于使用它的所有显示器
+This one's good!	这首不错！
+Three	三个
+Thumbnails of the files	文件缩略图
+Thunderstorm	雷暴
+Thunderstorm with hail	雷暴伴有冰雹
+Tiling	平铺
+Time (hour:minute)	时间（时:分）
+Time for a break	该休息了
+Time format	时间格式
+Time until the next	距离下一个的时间
+Time's up	时间到
+Timer	计时器
+Timer on the minimized line	最小化细线上的计时器
+Timer, stopwatch and Pomodoro	计时器、秒表和番茄钟
+Tips under the icons and buttons (their names, an app's notifications)	图标和按钮下方的提示（名称、应用的通知）
+Tired · the battery at %s, unplugged	累了 · 电池 %s，未接电源
+Title	标题
+Title width	标题宽度
+To talk to me and follow my projects	和我交流并关注我的项目
+To use “%s”, change:	要使用“%s”，请更改：
+Today	今天
+Today's color	今天的颜色
+Together for %s days	在一起 %s 天
+Together for 1 day	在一起 1 天
+Together since today	从今天起在一起
+Tomorrow	明天
+Too many agendas	日程订阅过多
+Top	顶部
+Top left	左上
+Top right	右上
+Topics	主题
+Total	总计
+Touch keyboard	触摸键盘
+Transition	过渡效果
+Translucent glass: a lighter tint and livelier colors	半透明玻璃：更浅的色调和更鲜艳的颜色
+Tray icons	托盘图标
+Try again	重试
+Try again, or share the file from Explorer	请重试，或在文件资源管理器中分享该文件
+Turn it on once in Windows' settings: from then on the island switches it	请先在 Windows 设置中打开一次，之后灵动岛就能开关它
+Turn it up, I know this one.	调大声点，这首我会！
+Turn on Claude Code, Codex or Custom in the settings	请在设置中打开 Claude Code、Codex 或自定义
+Turned off	已关闭
+Turned on	已开启
+Turns the island's animations on or off, on every monitor	开启或关闭灵动岛的动画，对所有显示器生效
+Type	类型
+Type the command line.	请输入命令行。
+Type the time as hours and minutes, like 08:30.	请按时和分输入时间，例如 08:30。
+Type to filter the shortcuts…	输入以筛选快捷键…
+Type what it opens.	请输入要打开的内容。
+Type your note here…	在这里输入笔记…
+USB connected	USB 已连接
+USB drive	U 盘
+USB drive plugged in	U 盘已插入
+USB drives	U 盘
+USB drives icon on the pill (open or eject them)	胶囊上的 U 盘图标（打开或弹出）
+UV index	紫外线指数
+Ugh.	唉。
+Ultrawide vertical stack	超宽垂直堆叠
+Unavailable	不可用
+Up to 40 favorite files	最多 40 个收藏文件
+Upcoming events	即将到来的事件
+Upcoming holidays	即将到来的节假日
+Update	更新
+Update all	全部更新
+Update ticked	更新勾选项
+Updated %lld days ago	%lld 天前更新
+Updated %lld h ago	%lld 小时前更新
+Updated %lld min ago	%lld 分钟前更新
+Updated now	刚刚更新
+Updates	更新
+Updates (winget and Windows Update)	更新（winget 和 Windows 更新）
+Upload	上传
+Upload peak (1 min)	上传峰值（1 分钟）
+Upright on the left and right edges	在左右边缘竖立显示
+Usage	使用率
+Use my location	使用我的位置
+Utilization	利用率
+VLC 3 doesn't tell Windows' media controls what it plays, so the island can't see it. With this on, while VLC makes sound, the island reads the song's name from VLC's window title, shows it with VLC's icon, and its buttons press play/pause, previous and next in VLC. No cover or time, and VLC must show the name in its window title (its default)	VLC 3 不会把正在播放的内容告知 Windows 媒体控件，所以灵动岛看不到它。开启后，VLC 发出声音时，灵动岛会从 VLC 的窗口标题读取歌曲名称，并用 VLC 的图标显示，其按钮会在 VLC 中执行播放/暂停、上一首和下一首。没有封面和时间，且 VLC 必须在窗口标题中显示名称（默认如此）
+Vertical stack	垂直堆叠
+Vertical stack, main on the right	垂直堆叠（主窗口在右侧）
+Vice (neon sunset)	Vice（霓虹日落）
+Video memory in use (VRAM)	显存使用量 (VRAM)
+Videos	视频
+Violet	紫色
+Virtual desktops	虚拟桌面
+Virtual desktops (the mouse wheel switches them)	虚拟桌面（鼠标滚轮切换）
+Visualizer color	可视化颜色
+Visualizer color (own)	可视化颜色（自定义）
+Visualizer sensitivity	可视化灵敏度
+Volume	音量
+Volume and mixer in the panel	面板中的音量和混音器
+Volume mixer	音量合成器
+Volume percentage beside its icon	在音量图标旁显示百分比
+Waiting for valid data in the chosen file	正在等待所选文件中的有效数据
+Wallpaper	壁纸
+Wallpaper (the wheel: the next one)	壁纸（滚轮：下一张）
+Wallpaper transition	壁纸过渡效果
+Wallpapers from a folder (with a transition)	来自文件夹的壁纸（带过渡效果）
+Wasted	Wasted
+Wasted now?	现在就 Wasted？
+Water	水
+Weather	天气
+Weather (goes online)	天气（需联网）
+Weather Icons	Weather Icons
+Weather data by Open-Meteo.com	天气数据来自 Open-Meteo.com
+Weather icons	天气图标
+Website	网站
+Week	本周
+Weekday	星期
+Weekdays	工作日
+Weekends	周末
+Welcome to Mac Island & Dock	欢迎使用 Mac Island & Dock
+What Claude Code in a terminal gives its status line (a line in its script, see the item's panel). The Claude desktop app doesn't leave its limits on this PC, so it can't show here	终端中的 Claude Code 传给其状态栏的数据（在其脚本中加一行，见该项目的面板）。Claude 桌面应用不会把额度留在这台电脑上，所以这里无法显示
+What Codex writes in its logs on this PC	Codex 在本机日志中写入的数据
+What it does	作用
+What it opens	打开的内容
+What needs doing?	要做什么？
+What she reacts to shows up here, with her sound	她做出的反应会显示在这里，还有她的声音
+What's new	新功能
+What's playing	正在播放
+What's playing on the minimized line	最小化细线上的正在播放
+What's playing's buttons and pictures	正在播放的按钮和图片
+What's that?	那是什么？
+When it hides	何时隐藏
+Where banners show	横幅显示位置
+Where did the internet go?	网络去哪儿了？
+Where the island appears	灵动岛显示的位置
+Where the items go along the bar. Automatic: around the clock when it's in the middle, otherwise at the right end	项目在条形上的位置。自动：时钟在中间时围绕时钟，否则靠右端
+While a line is sung, it takes the title and artist's place; between lines they come back	唱到某一句时，它会代替歌曲名称和艺术家显示；句与句之间它们会回来
+While a timer or Pomodoro counts down, the pill fills with color until it ends (orange, green on a break, fainter when paused) and pulses a moment at the end. The stopwatch doesn't fill	计时器或番茄钟倒计时期间，胶囊会逐渐填满颜色直到结束（橙色，休息时为绿色，暂停时变淡），结束时短暂闪动。秒表不会填充
+While a timer, Pomodoro or the stopwatch runs, the line becomes a small pill with its ring and its time (with Only the clock, the time goes beside the clock)	计时器、番茄钟或秒表运行时，细线会变成一个带圆环和时间的小胶囊（开启“隐藏时只显示时钟”时，时间显示在时钟旁边）
+While an app's window is maximized on this monitor, the bar goes back to its usual look (frosted, with the frosted glass on), so the window doesn't show behind it	当应用窗口在此显示器上最大化时，横栏恢复通常外观（开启磨砂玻璃时为磨砂），窗口不会透过它显示
+While music plays in the apps checked below she dances, a new move each bar, following the beat	下方勾选的应用播放音乐时她会跳舞，每小节换一个新动作，跟着节拍
+While music plays, a timer or the stopwatch runs, or a download or copy fills the pill, resting the mouse on that item (or on the pill, when only one is live) grows the pill into its card: the cover, title and buttons; the big time with pause and cancel; the percent. It shrinks back when the mouse leaves. Not for an item that Open panels with the mouse opens, nor with a banner place chosen	当音乐播放、计时器或秒表运行，或下载、复制正在填充胶囊时，将鼠标停在该项目上（或者只有一个活动时停在胶囊上），胶囊会就地展开为它的卡片：封面、标题和按钮；大号时间以及暂停和取消；百分比。鼠标移开后会缩回。对“鼠标悬停打开面板”已处理的项目无效，选择了通知位置时也无效
+While something plays, the line becomes a thin pill with the song's cover and moving bars; the mouse on it opens the island, as on the line (with Only the clock, they go beside the clock)	播放内容时，细线会变成一个带歌曲封面和跳动条的细胶囊；鼠标移到上面会像细线一样打开灵动岛（开启“隐藏时只显示时钟”时，它们显示在时钟旁边）
+While the app is in front, the pill moves there and shows only the lit icons.	当该应用在前台时，胶囊会移到那里并只显示点亮的图标。
+While the app is in front, the pill moves there and shows only the lit icons. Dragging it then changes its place too.	当该应用在前台时，胶囊会移到那里并只显示点亮的图标。之后拖动它也会改变它的位置。
+While the island is minimized to its line (or the Bar is hidden), she stays there in a tiny pill; the mouse on it opens the island, as on the line	灵动岛最小化为细线（或条形样式隐藏）时，她会待在一个小胶囊里；鼠标移到上面会打开灵动岛，和细线一样
+While the timer runs	计时器运行时
+White	白色
+Whoa!	哇！
+Wi-Fi / network	Wi-Fi / 网络
+Wi-Fi back	Wi-Fi 已恢复
+Wi-Fi is off	Wi-Fi 已关闭
+Wi-Fi lost	Wi-Fi 已断开
+Wi-Fi, sound, battery, the bell and the clock, each step of them. Click an icon to use a picture of your own for it, its brush (top left) for a color of its own; the x goes back to the pack's	Wi-Fi、声音、电池、铃铛和时钟，以及它们的每个状态。点击图标可为它使用你自己的图片，点击它的画笔（左上角）可为它单独设置颜色；x 恢复为图标包的样子
+Wide	宽
+Widgets	小组件
+Width of the edge zone where the mouse brings the pill back	鼠标移到屏幕边缘该宽度的区域即可唤回胶囊
+Win+A opens the island's control center	Win+A 打开灵动岛的控制中心
+Win+J minimizes the island to its line and brings it back	Win+J 把灵动岛最小化成一条线，再按一次恢复
+Win+L stays Windows' (it locks the PC)	Win+L 归 Windows 所有（用于锁定电脑）
+Win+N and Win+A can open the island's notifications and control center instead of Windows'	Win+N 和 Win+A 可以打开灵动岛的通知和控制中心，而不是 Windows 的
+Win+N opens the island's notifications	Win+N 打开灵动岛的通知
+Win+X menu	Win+X 菜单
+Wind	风
+Window maximized	窗口最大化
+Window over it	窗口覆盖
+Windows	Windows
+Windows 10	Windows 10
+Windows 10's, where it has them	Windows 10 的图标（如果有）
+Windows 11	Windows 11
+Windows Settings	Windows 设置
+Windows Update	Windows 更新
+Windows accent	Windows 强调色
+Windows doesn't report a temperature on this PC	Windows 在此电脑上不提供温度
+Windows or another app uses them too, the island takes them first	Windows 或其他应用也在使用，灵动岛会优先响应
+Windows places	Windows 位置
+Windows stopped while a monitor answered a brightness call (DDC/CI). To turn it on again: island settings > Control center > Brightness of external monitors (DDC/CI).	显示器响应亮度请求（DDC/CI）时 Windows 停止运行。要重新开启：灵动岛设置 > 控制中心 > 外接显示器的亮度 (DDC/CI)。
+Windows'	Windows 的
+Windows' own icons	Windows 自带的图标
+Windows' own: no notification sounds	Windows 自己的：没有通知声音
+Windows' share window didn't open	Windows 分享窗口没有打开
+Windows, Windows 10 and Emoji are Windows' own fonts. The online ones (all free to use: MIT, Apache 2.0 or ISC) go online once, when chosen: about 150 small SVG pictures are downloaded from cdn.jsdelivr.net (a plain request for each file, nothing about you or your PC is sent), kept in the mod's folder, and never downloaded again. An icon a pack hasn't stays Windows'. Your folder: a picture (PNG, SVG, ICO...) per icon, named after it	Windows、Windows 10 和 Emoji 是 Windows 自带的字体。在线图标包（均可免费使用：MIT、Apache 2.0 或 ISC）只在选择时联网一次：从 cdn.jsdelivr.net 下载约 150 个小型 SVG 图片（每个文件只发一个普通请求，不会发送关于你或你电脑的任何信息），保存在模组的文件夹中，之后不会再次下载。图标包里没有的图标保持 Windows 的样子。你的文件夹：每个图标一张图片（PNG、SVG、ICO...），以图标名称命名
+With a click	点击
+With a click, the line only grows under the mouse and opens when clicked (the hidden Bar's clock too)	选择点击时，鼠标移到细线上只会让它变粗，点击才会打开（隐藏的栏的时钟也一样）
+With her games on she has fun too, which goes down while nobody plays with her. Bored, and later sad, she hops on the pill with a pleading look, at most every 30 minutes. Never in full screen, in Do not disturb or over a notification	开启小游戏后，她还有一项“乐趣”，没人陪她玩时会慢慢下降。无聊、之后变得难过时，她会在胶囊上轻轻跳一跳，用恳求的眼神看着你，最多每 30 分钟一次。全屏、勿扰模式或有通知时从不这样做
+With its window's title	显示窗口标题
+With names	带名称
+With the Bar style	使用栏样式时
+With the Fixed style	使用固定样式时
+With the Island style	使用岛屿样式时
+With the fill on, the timer's item on the pill shows only its icon and the minimized line only fills, with no time. The stopwatch keeps its time	开启填充后，胶囊上的计时器项目只显示图标，最小化的细线只填充而不显示时间。秒表仍显示时间
+With the island hidden, only this notch's line shows and opens it	灵动岛隐藏时，只显示这个刘海的线条，也只有它能打开灵动岛
+With the line on, a click on the arrow keeps this monitor's island open until you click it again	开启线条时，点击箭头会让此显示器的灵动岛保持打开，再次点击取消
+With the mouse	鼠标移到上面
+Without Git Bash, Claude Code runs its status line in PowerShell: copy the line into its script, after it reads its input into $stdin (see the README)	没有 Git Bash 时，Claude Code 用 PowerShell 运行状态栏：把这一行复制到状态栏脚本中，放在脚本把输入读入 $stdin 之后（见 README）
+Working hard from	忙碌阈值
+Working…	正在执行…
+Workspace	工作区
+World clocks	世界时钟
+World clocks (Windows' additional clocks)	世界时钟（Windows 的附加时钟）
+World clocks inside the clock	世界时钟放进时钟里
+Write	输入
+Writes the charge level as a number next to its icon	在电池图标旁用数字显示电量
+Writes the month as a number, like 9/10, not as a name	月份显示为数字（如 9/10），而不是名称
+Writes the volume level as a number next to its icon	在音量图标旁用数字显示音量大小
+Y M D	年 月 日
+Yaaawn… so sleepy.	啊——困死了。
+Year	年份
+Yes, change	是，更改
+Yesterday	昨天
+Your best 5	你的最佳 5 次
+Your best results show here, kept only on this PC.	你的最佳成绩会显示在这里，只保存在这台电脑上。
+Your city (like Campinas)	你的城市（如 北京）
+Your command	你的命令
+Your commands	你的命令
+Your events and your agendas' events	你的事件和日程中的事件
+Your folder (none chosen yet)	你的文件夹（尚未选择）
+Your folder…	你的文件夹…
+Your location wasn't found yet, trying again	尚未找到你的位置，正在重试
+Your own colors	自定义颜色
+Z to A	Z 到 A
+Zoom	缩放
+Zzz… Do not disturb is on.	呼……勿扰已开启。
+Zzz… come back soon.	呼……早点回来。
+checking	正在检查
+click when the pill turns this color	药丸变成这个颜色时点击
+en	zh
+from Windhawk	来自 Windhawk
+good	不错
+hours	小时
+icons saved	个图标已保存
+in %d h	%d 小时后
+in %d h %d min	%d 小时 %d 分钟后
+in %d min	%d 分钟后
+in a row	连击
+installed	已安装
+komorebi	komorebi
+komorebi (start, stop, reload)	komorebi（启动、停止、重新加载）
+komorebi isn't installed	未安装 komorebi
+komorebi's layout	komorebi 布局
+komorebi: hide the workspaces without windows	komorebi：隐藏没有窗口的工作区
+komorebi: its layout on the pill (a menu changes it)	komorebi：胶囊上的布局（用菜单切换）
+komorebi: with masir (focus follows the mouse)	komorebi：同时运行 masir（焦点跟随鼠标）
+komorebi: with whkd (its shortcuts)	komorebi：同时运行 whkd（它的快捷键）
+min	分
+missed	错过
+more	更多
+moves	步
+not connected	未连接
+not yet!	还没到！
+notification	条通知
+notifications	条通知
+now	刚刚
+off	关
+off the beat	不在拍上
+on	开
+perfect	完美
+pts	分
+sec	秒
+starting now	现在开始
+tab	选项卡
+taken by another command	已被另一个命令使用
+taken by another of the island's shortcuts	已被灵动岛的其他快捷键使用
+taken by one of your commands	已被你的某个命令使用
+taken by the island's Win+N or Win+A	已被灵动岛的 Win+N 或 Win+A 使用
+this	此项
+too slow	太慢了
+use Win, Ctrl or Alt with a key	请将 Win、Ctrl 或 Alt 与一个键组合
+week	本周
+what to change	需要更改的内容
+winget couldn't list them	winget 无法列出更新
+winget isn't installed	未安装 winget
+yesterday	昨天
+“Restore what changed” on this option undoes it later	之后可以用这个选项上的“恢复所做的更改”撤销
+…and then what else it says it needs	……然后是它提示还需要的其他内容
+✓ All of them are there	✓ 已全部在那里
+✓ Copied	✓ 已复制
+✓ Emptied	✓ 已清空
+✓ Exported	✓ 已导出
+✓ Saved	✓ 已保存

@@ -1,0 +1,1684 @@
+ (all apps)	 (tüm uygulamalar)
+ (all monitors)	 (tüm monitörler)
+ by caliberda	 geliştiren: caliberda
+ events	 etkinlik
+ files	 dosya
+ in progress	 devam ediyor
+ shortcuts imported	 kısayol içe aktarıldı
+ · HDR: SDR content	 · HDR: SDR içerik
+ · almost full	 · neredeyse dolu
+ · click to hide	 · gizlemek için tıklayın
+ · drag to move	 · taşımak için sürükleyin
+ · hidden, click to show	 · gizli, göstermek için tıklayın
+ · main island	 · ana ada
+ · no sound	 · ses yok
+ · on the island, Ctrl+drag works too	 · adada Ctrl+sürükleme de çalışır
+ · plain color while Windows' energy saver is on	 · Windows pil tasarrufu açıkken düz renk
+ · plain color: Windows' transparency effects are off (Personalization > Colors)	 · düz renk: Windows saydamlık efektleri kapalı (Kişiselleştirme > Renkler)
+ · press the new keys (Esc cancels)	 · yeni tuşlara basın (Esc iptal eder)
+ · this island	 · bu ada
+ · whkd isn't installed (winget install LGUG2Z.whkd)	 · whkd yüklü değil (winget install LGUG2Z.whkd)
+"Following the bell": out of the pill, as now; or at a point of the screen, sliding in from its nearest edge	"Zili izle": kapsülün içinden, şimdiki gibi; ya da ekranın bir noktasında, en yakın kenardan kayarak
+"Follows the line": as wide as each line; the others keep the widest line's width. A longer line ends with …	"Satırı izle": her satır kadar geniş; diğerleri en geniş satırın genişliğini korur. Daha uzun satır … ile biter
+%d items	%d öğe
+%d of %d	%d / %d
+%s at %s	%s %s
+%s couldn't run	%s çalıştırılamadı
+%s ran	%s çalıştı
+%zu of %zu events	%zu / %zu etkinlik
+(the wheel turns the pages)	(tekerlek sayfaları çevirir)
++  New event	+  Yeni etkinlik
++  New shortcut	+  Yeni kısayol
++ Add alarm	+ Alarm ekle
++ Line	+ Çizgi
++ saves the current settings as a profile, to switch back to them later.	+ geçerli ayarları profil olarak kaydeder, böylece sonra geri dönebilirsiniz.
+.ics link or file path	.ics bağlantısı veya dosya yolu
+1 day	1 gün
+1 item	1 öğe
+10 min	10 dk
+12 h AM/PM	12 sa AM/PM
+2 min	2 dk
+24 h	24 sa
+30 days	30 gün
+30 s	30 sn
+5-hour session	5 saatlik oturum
+7 days	7 gün
+A Pomodoro ended	Bir Pomodoro bitti
+A USB device plugged in	Bir USB cihazı takıldı
+A Windows update came before Microsoft published the files Windhawk needs to change the taskbar (taskbar.dll %s). Until they're out, the dock and the taskbar's look stay off and the island keeps working. They come back by themselves at the next sign-in after that.	Bir Windows güncellemesi, Microsoft Windhawk'ın görev çubuğunu değiştirmek için ihtiyaç duyduğu dosyaları yayımlamadan önce geldi (taskbar.dll %s). Dosyalar çıkana kadar dock ve görev çubuğunun görünümü kapalı kalır, ada çalışmaya devam eder. Ardından bir sonraki oturum açışta kendiliğinden geri gelirler.
+A banner closes when you click anywhere outside it and the island; calls, alarms and reminders stay until you answer them	Başlık bildirimi, kendisinin ve adanın dışında herhangi bir yere tıkladığınızda kapanır; aramalar, alarmlar ve hatırlatıcılar siz yanıtlayana kadar kalır
+A bolt over her and she's proud; with her care on, it gives her energy	Üzerinde bir şimşek çakar ve gurur duyar; bakımı açıksa ona enerji verir
+A browser's download standing still shows paused	Duran bir tarayıcı indirmesi duraklatılmış görünür
+A bubble on the island says when Caps Lock is turned on or off	Caps Lock açıldığında veya kapatıldığında adada bir balon bunu söyler
+A bubble on the island says when Num Lock is turned on or off	Num Lock açıldığında veya kapatıldığında adada bir balon bunu söyler
+A card for each event: its switch, where its sound comes from and a play button. The three icons: the island's own sound, the Glass pack (25 small sound files, about 1.3 MB, downloaded once from jsDelivr's CDN, cdn.jsdelivr.net, the first time you pick it; only the files are asked for, nothing about you is sent) or a file of yours (.wav, .mp3...)	Her etkinlik için bir kart: anahtarı, sesinin kaynağı ve bir oynat düğmesi. Üç simge: adanın kendi sesi, Glass paketi (25 küçük ses dosyası, yaklaşık 1,3 MB, seçtiğiniz ilk seferde jsDelivr CDN'sinden, cdn.jsdelivr.net, bir kez indirilir; yalnızca dosyalar istenir, hakkınızda hiçbir şey gönderilmez) veya kendi dosyanız (.wav, .mp3...)
+A click on an item opens it; when you don't use it, the pill can shrink into a thin line	Bir öğeye tıklamak onu açar; kullanmadığınızda kapsül ince bir çizgiye küçülebilir
+A click on the bell opens Windows' own notification center instead of the island's list	Zile tıklamak, adanın listesi yerine Windows'un kendi bildirim merkezini açar
+A cuddle, just one?	Bir sarılma, sadece bir tane mi?
+A download finished	Bir indirme bitti
+A drive was connected	Bir sürücü bağlandı
+A file with all of it (agenda links too)	Her şeyi içeren bir dosya (takvim bağlantıları dahil)
+A flash, and she's startled	Bir flaş ve irkilir
+A focus time ended	Bir odak süresi bitti
+A grid on the pill that opens all your apps, Store apps too, like macOS: search them by typing, your favorites first (the star), then all of them in alphabetical order	Kapsülde tüm uygulamalarınızı açan bir ızgara, Store uygulamaları dahil, macOS gibi: yazarak arayın, önce sık kullanılanlarınız (yıldız), sonra tümü alfabetik sırayla
+A line while a window is maximized	Bir pencere büyütülmüşken çizgi
+A line with the mouse away	Fare uzaktayken çizgi
+A little document copies itself beside her	Yanında küçük bir belge kendini kopyalar
+A little fruit would be nice.	Küçük bir meyve iyi gelirdi.
+A long title keeps scrolling while it plays	Uzun bir başlık çalarken kayar
+A new notification	Yeni bir bildirim
+A new song	Yeni bir şarkı
+A notch with no items disappears, the one with the bell too. It comes back when an item or a notification comes to it, and while you drag items between the notches here. The strip kept on the screen stays the same	Öğesi olmayan çentik kaybolur, zilin olduğu da. Bir öğe veya bildirim ona geldiğinde ve burada öğeleri çentikler arasında sürüklerken geri gelir. Ekranda ayrılan şerit aynı kalır
+A notification with a one-time code (4 to 8 digits, like a sign-in or a bank code) gets a Copy code button on its banner and in the list. The code goes to the clipboard and stays out of its history	Tek kullanımlık kodlu bir bildirimin (4-8 hane, oturum açma veya banka kodu gibi) başlık bildiriminde ve listede Kodu kopyala düğmesi olur. Kod panoya gider ve geçmişine girmez
+A notification's text stays on one line, and under the mouse it scrolls to its end and back instead of opening on up to three lines. With animations reduced or off, it opens on three lines as usual	Bildirim metni tek satırda kalır; fare üzerindeyken en fazla üç satıra açılmak yerine sonuna kadar kayar ve geri döner. Animasyonlar azaltılmış veya kapalıyken her zamanki gibi üç satıra açılır
+A picture for this icon	Bu simge için bir resim
+A plug comes up beside her and she's curious	Yanında bir fiş belirir ve meraklanır
+A reminder, an alarm or a timer	Bir hatırlatıcı, alarm veya zamanlayıcı
+A reminder, an alarm or a timer ending	Biten bir hatırlatıcı, alarm veya zamanlayıcı
+A right click on the island shows a gear: it opens these settings	Adaya sağ tıklamak bir dişli gösterir: bu ayarları açar
+A ring along the edge shows the charge: green above 40%, yellow down to 20%, red below. Not as the line, nor on the Bar style	Kenardaki bir halka şarj düzeyini gösterir: %40 üzerinde yeşil, %20'ye kadar sarı, altında kırmızı. Çizgi olarak ve Çubuk stilinde yok
+A screenshot	Bir ekran görüntüsü
+A screenshot was taken	Bir ekran görüntüsü alındı
+A short notice with the cover, title and artist when the song changes (not for pauses or the first song); a click opens What's playing	Şarkı değiştiğinde kapak, başlık ve sanatçıyla kısa bir uyarı (duraklamalarda veya ilk şarkıda değil); tıklamak Şimdi çalan'ı açar
+A sip of water?	Bir yudum su ister misin?
+A small light that lives on the pill as an item of its own: move it in the order like the others, in every style. Her eyes follow the mouse, she blinks, dances with the music of the apps you check and shows what the PC is doing; she rests when nothing moves. While she moves the island is drawn again up to 30 times a second: on a slow PC, her dance and Her eyes follow the mouse off make it lighter	Kapsülde kendi öğesi olarak yaşayan küçük bir ışık: her stilde diğerleri gibi sırada taşıyın. Gözleri fareyi izler, göz kırpar, işaretlediğiniz uygulamaların müziğiyle dans eder ve bilgisayarın ne yaptığını gösterir; hiçbir şey kıpırdamazsa dinlenir. Hareket ederken ada saniyede 30 kereye kadar yeniden çizilir: yavaş bir bilgisayarda dansını ve Gözleri fareyi izler seçeneğini kapatmak daha hafif olur
+A sneeze	Bir hapşırık
+A sneeze, by herself	Bir hapşırık, kendiliğinden
+A sound for this event	Bu etkinlik için bir ses
+A summary of the PC, the island's settings and its last 300 log lines (the dock's are in Windhawk's log)	Bilgisayarın özeti, adanın ayarları ve son 300 günlük satırı (Dock'un günlüğü Windhawk günlüğündedir)
+A tap	Bir dokunuş
+A task can be given a day. It shows under the task (red when it passed, not done), and the dated tasks come first, the soonest on top. Tasks without a date stay as they are	Bir göreve gün verilebilir. Görevin altında görünür (geçtiyse ve yapılmadıysa kırmızı) ve tarihli görevler önce gelir, en yakını üstte. Tarihsiz görevler olduğu gibi kalır
+A title too long to fit scrolls across while it plays	Sığmayacak kadar uzun bir başlık çalarken kayar
+A to Z	A-Z
+A yawn	Bir esneme
+A yawn, by herself	Bir esneme, kendiliğinden
+AI usage	Yapay zekâ kullanımı
+About	Hakkında
+Accent	Vurgu
+Accent color	Vurgu rengi
+Accessibility	Erişilebilirlik
+Add	Ekle
+Add  (Enter)	Ekle  (Enter)
+Add a folder	Klasör ekle
+Add a separator line · drag it between icons, click it to remove	Ayırıcı çizgi ekle · simgeler arasına sürükleyin, kaldırmak için tıklayın
+Add an open app	Açık bir uygulama ekle
+Add clocks in Windows' date and time settings (Additional clocks)	Saatleri Windows'un tarih ve saat ayarlarından ekleyin (Ek saatler)
+Add controls	Denetim ekle
+Add note  (Ctrl+Enter)	Not ekle  (Ctrl+Enter)
+Add provider	Sağlayıcı ekle
+Add the shortcuts you want to remember	Hatırlamak istediğiniz kısayolları ekleyin
+Added to your commands	Komutlarınıza eklendi
+Adds a button for sleep, restart and shut down	Uyku, yeniden başlatma ve kapatma için bir düğme ekler
+Adds a button that lists the keyboard shortcuts	Klavye kısayollarını listeleyen bir düğme ekler
+Adds a button that mutes and unmutes the microphone	Mikrofonu kapatıp açan bir düğme ekler
+Adds a button that opens your quick notes	Hızlı notlarınızı açan bir düğme ekler
+Adds a button that opens your to-do list	Yapılacaklar listenizi açan bir düğme ekler
+Adds a button that switches Windows between light and dark	Windows'u açık ve koyu mod arasında geçiren bir düğme ekler
+Adds a button to switch profiles from the pill	Kapsülden profil değiştirmek için bir düğme ekler
+Adds a small arrow at the pill's end that hides it to its line	Kapsülün ucuna, onu çizgiye gizleyen küçük bir ok ekler
+Adds a timer, a stopwatch and a Pomodoro to the pill	Kapsüle bir zamanlayıcı, bir kronometre ve bir Pomodoro ekler
+Adds a way to reach the tray icons of other apps from the pill	Kapsülden diğer uygulamaların sistem tepsisi simgelerine ulaşmanın bir yolunu ekler
+Adds the Recycle Bin to the pill	Kapsüle Geri Dönüşüm Kutusu'nu ekler
+Adds the day and the month to the clock	Saate günü ve ayı ekler
+Adds the notifications bell to the pill	Kapsüle bildirim zilini ekler
+Adds the seconds to the time	Saate saniyeleri ekler
+Adds the weekday to the clock	Saate haftanın gününü ekler
+Adds the year to the clock	Saate yılı ekler
+Affection	Sevgi
+After its app: stays	Uygulamasından sonra: kalır
+After its app: the one before	Uygulamasından sonra: öncekine döner
+Again to put every setting back to its default (notes, tasks, events and profiles stay)	Tüm ayarları varsayılana döndürmek için tekrar tıklayın (notlar, görevler, etkinlikler ve profiller kalır)
+Agendas	Takvimler
+Ah… ah… achoo!	Ah… ah… hapşu!
+Airplane mode	Uçak modu
+Alarm	Alarm
+Alarms	Alarmlar
+All	Tümü
+All apps	Tüm uygulamalar
+All day	Tüm gün
+All done	Hepsi tamam
+All files	Tüm dosyalar
+All quiet here.	Burada her şey sakin.
+All reactions	Tüm tepkiler
+All set	Hazır
+All up to date	Her şey güncel
+Already added	Zaten eklendi
+Also on the minimized line	Küçültülmüş çizgide de
+Also shows the title of the window in focus, like the page or the file open in it	Odaktaki pencerenin başlığını da gösterir, örneğin içinde açık olan sayfa veya dosya
+Always	Her zaman
+Always on the pill, even with nothing playing	Hiçbir şey çalmasa bile her zaman kapsülde
+Always shown	Her zaman görünür
+Always, or only once what's in it weighs this much (it comes and goes by itself)	Her zaman veya yalnızca içindekiler bu kadar ağırlaşınca (kendiliğinden gelir ve gider)
+Amber	Kehribar
+An app appears here once it plays music; only the ones you check make her dance	Bir uygulama müzik çalınca burada görünür; yalnızca işaretlediğiniz uygulamalar onu dans ettirir
+An app appears here once it plays something	Bir uygulama bir şey çalınca burada görünür
+An arrow drops into her and she's proud; with her care on, it feeds her	İçine bir ok düşer ve gurur duyar; bakımı açıksa onu besler
+Angry	Kızgın
+Animations	Animasyonlar
+App	Uygulama
+App in focus	Odaktaki uygulama
+Applies to every monitor, and the island restarts to apply it	Her monitör için geçerlidir; uygulamak için ada yeniden başlar
+Apply	Uygula
+Apps	Uygulamalar
+Apps (launcher)	Uygulamalar (başlatıcı)
+Apps (winget, in a terminal)	Uygulamalar (winget, terminalde)
+Apps and tools	Uygulamalar ve araçlar
+Apps she dances to	Dans ettiği uygulamalar
+Apps that bring the visualizer	Görselleştiriciyi getiren uygulamalar
+Apps that look for lyrics	Şarkı sözü arayan uygulamalar
+Apps with notifications	Bildirimi olan uygulamalar
+Apps with unsaved work can stop it.	Kaydedilmemiş işi olan uygulamalar buna engel olabilir.
+Are you working or just pretending?	Çalışıyor musun, yoksa çalışıyor gibi mi yapıyorsun?
+Area that brings it back	Onu geri getiren alan
+Arguments (if any)	Bağımsız değişkenler (varsa)
+Arguments (optional)	Bağımsız değişkenler (isteğe bağlı)
+Ask before restarting, shutting down or signing out	Yeniden başlatmadan, kapatmadan veya oturumu kapatmadan önce sor
+Ask every time	Her seferinde sor
+Ask the first time	İlk seferde sor
+Asleep · Do not disturb is on	Uyuyor · Rahatsız etmeyin açık
+Asleep · no mouse or keyboard for %s min	Uyuyor · %s dakikadır fare veya klavye yok
+Attentive	Dikkatli
+Audio visualizer	Ses görselleştirici
+Audio visualizer (bars moving with the sound)	Ses görselleştirici (sesle hareket eden çubuklar)
+Auto	Otomatik
+Auto (light or dark)	Otomatik (açık veya koyu)
+Auto, inverted (the other way from Windows)	Otomatik, ters (Windows'un tersi)
+Automatic	Otomatik
+Available	Kullanılabilir
+BSP	BSP
+Back	Geri
+Back to default	Varsayılana dön
+Back to focus	Odağa dön
+Backup	Yedek
+Backup (notes, tasks, profiles and settings)	Yedek (notlar, görevler, profiller ve ayarlar)
+Balanced	Dengeli
+Banner corners	Başlık bildirimi köşeleri
+Banner size	Başlık bildirimi boyutu
+Banner width	Başlık bildirimi genişliği
+Banners	Başlık bildirimleri
+Banners (notifications on the pill)	Başlık bildirimleri (kapsülde bildirimler)
+Banners close on a click outside	Dışarı tıklayınca başlık bildirimleri kapansın
+Banners even with the pill minimized	Kapsül küçültülmüşken de başlık bildirimleri
+Banners in the pill	Kapsülde başlık bildirimleri
+Banners show each new notification coming out of the pill	Başlık bildirimleri, kapsülden çıkan her yeni bildirimi gösterir
+Banners still appear while the pill is minimized to its line	Kapsül çizgiye küçültülmüşken de başlık bildirimleri görünür
+Bar	Çubuk
+Bar: along the whole top edge, like macOS' menu bar	Çubuk: üst kenar boyunca, macOS'un menü çubuğu gibi
+Bar: hide as its line too	Çubuk: çizgi olarak da gizle
+Bar: items at the screen's corners	Çubuk: öğeler ekranın köşelerinde
+Bar: items keep their side of the clock	Çubuk: öğeler saatin kendi tarafında kalır
+Bars' height	Çubukların yüksekliği
+Bars' width	Çubukların genişliği
+Base frequency	Temel frekans
+Battery	Pil
+Battery charging	Pil şarj oluyor
+Battery charging (own color)	Pil şarj oluyor (kendi rengi)
+Battery percentage beside its icon	Simgenin yanında pil yüzdesi
+Black	Siyah
+Blue	Mavi
+Bluetooth	Bluetooth
+Bluetooth & devices	Bluetooth ve cihazlar
+Bluetooth audio connected	Bluetooth ses bağlandı
+Bluetooth is off	Bluetooth kapalı
+Bluish when lonely, warmer when the processor works hard or she is hungry, paler when thirsty or tired	Yalnızken mavimsi, işlemci çok çalışınca veya acıkınca daha sıcak, susayınca veya yorulunca daha soluk
+Bootstrap (online)	Bootstrap (çevrimiçi)
+Bored · nobody has played with her for %s h	Sıkılmış · %s saattir kimse onunla oynamadı
+Bottom	Alt
+Bottom left	Sol alt
+Bottom right	Sağ alt
+Break	Mola
+Brightness	Parlaklık
+Brightness of external monitors (DDC/CI)	Harici monitörlerin parlaklığı (DDC/CI)
+Brightness of external monitors turned off	Kapatılan harici monitörlerin parlaklığı
+Brings the visualizer	Görselleştiriciyi getirir
+Browsers never tell the taskbar a download is paused or failed: one whose bar stands still for 30 s turns yellow	Tarayıcılar indirmenin duraklatıldığını veya başarısız olduğunu görev çubuğuna asla bildirmez: çubuğu 30 sn boyunca duran bir indirme sarıya döner
+Bugs and ideas	Hatalar ve fikirler
+Built-in display	Yerleşik ekran
+Button on the island (its icon on the pill)	Adada düğme (kapsüldeki simgesi)
+Buttons on the pill	Kapsüldeki düğmeler
+By date modified	Değiştirilme tarihine göre
+By name	Ada göre
+By size	Boyuta göre
+By type	Türe göre
+CPU temperature	CPU sıcaklığı
+CPU, RAM and VRAM use	CPU, RAM ve VRAM kullanımı
+CPU, RAM, VRAM and GPU use	CPU, RAM, VRAM ve GPU kullanımı
+Cached	Önbellekte
+Calculator	Hesap makinesi
+Calendar	Takvim
+Calendar full: delete past events in the gear	Takvim dolu: dişlideki geçmiş etkinlikleri silin
+Calendar with today big	Bugünü büyük gösteren takvim
+Calls and alarms silent in Do not disturb	Rahatsız etmeyin modunda aramalar ve alarmlar sessiz
+Calm	Sakin
+Calm · nothing going on	Sakin · bir şey olmuyor
+Camera	Kamera
+Cancel	İptal
+Caps Lock bubble	Caps Lock balonu
+Caps Lock off	Caps Lock kapalı
+Caps Lock on	Caps Lock açık
+Captions	Canlı altyazılar
+Care pace	Bakım hızı
+Cast	Yayınla
+Center	Orta
+Change the order with Ctrl + drag on the island	Sırayı adada Ctrl + sürükleyerek değiştirin
+Changes are saved in the one in use · the pencil renames, saves or deletes	Değişiklikler kullanımdaki profile kaydedilir · kalem yeniden adlandırır, kaydeder veya siler
+Charger plugged in	Şarj cihazı takıldı
+Charging	Şarj oluyor
+Charging battery color	Şarj olan pilin rengi
+Charging battery color (own)	Şarj olan pilin rengi (kendi)
+Check every	Kontrol aralığı
+Choose	Seç
+Choose a JSON file	Bir JSON dosyası seçin
+Choose a power plan	Güç planı seç
+Choose a program or a file	Bir program veya dosya seçin
+Choose it…	Seç…
+Choose the folder with your pictures	Resimlerinizin olduğu klasörü seçin
+Choose...	Seç...
+Chooses how many animations play, on every monitor	Her monitörde kaç animasyonun oynayacağını seçer
+Chooses which monitors show the island, with a map of your screens	Ekranlarınızın haritasıyla adanın hangi monitörlerde görüneceğini seçer
+Choose…	Seç…
+Circle	Daire
+City not found	Şehir bulunamadı
+Claude Code	Claude Code
+Claude Code (terminal)	Claude Code (terminal)
+Claude Code gives its limits to its status line, run in Git Bash: copy the line into its script, after it reads its input with input=$(cat) (see the README)	Claude Code sınırlarını Git Bash'te çalışan durum satırına verir: satırı, girdisini input=$(cat) ile okuduktan sonra betiğine kopyalayın (README'ye bakın)
+Claude Code tells its limits with a Pro or Max plan, after its first answer in a session	Claude Code, Pro veya Max planında bir oturumdaki ilk yanıtından sonra sınırlarını bildirir
+Clear	Açık
+Clear all	Tümünü temizle
+Click (or press Space) when the ring reaches her. The beat follows the music that is playing, or is steady without it. 32 beats, and hits in a row are worth more.	Halka ona ulaştığında tıklayın (veya Boşluk'a basın). Tempo çalan müziği izler, müzik yoksa sabittir. 32 vuruş ve art arda isabetler daha çok puan kazandırır.
+Click a screen to choose where the island appears.	Adanın nerede görüneceğini seçmek için bir ekrana tıklayın.
+Click a screen to place the main island there (alerts and tray).	Ana adayı oraya yerleştirmek için bir ekrana tıklayın (uyarılar ve sistem tepsisi).
+Click and press the keys	Tıklayın ve tuşlara basın
+Click to play	Oynamak için tıklayın
+Click to play again	Tekrar oynamak için tıklayın
+Click to record	Kaydetmek için tıklayın
+Clicking a screenshot notice opens the picture in Explorer	Ekran görüntüsü uyarısına tıklamak resmi Dosya Gezgini'nde açar
+Clicks go through the pill	Tıklamalar kapsülün içinden geçer
+Clipboard	Pano
+Clock	Saat
+Clock against the screen's edge	Saat ekranın kenarına dayalı
+Clock and calendar	Saat ve takvim
+Clock and calendar (agendas: the calendar's gear)	Saat ve takvim (takvimler: takvimdeki dişli)
+Clock font	Saat yazı tipi
+Clock in the middle (the other items move around it)	Ortada saat (diğer öğeler çevresinde dizilir)
+Close it to finish	Bitirmek için kapatın
+Cloud jump	Bulutlarda zıplama
+Clouds	Bulutlar
+Codex	Codex
+Codex keeps its limits in its logs on this PC: they show after its next answer	Codex sınırlarını bu bilgisayardaki günlüklerinde tutar: bir sonraki yanıtından sonra görünür
+Color filters	Renk filtreleri
+Color for downloads and other apps	İndirmeler ve diğer uygulamalar için renk
+Color for file copies	Dosya kopyaları için renk
+Color for the battery charging	Pil şarj olurken renk
+Colors	Renkler
+Colors following the app in front (its title bar or its icon)	Renkler öndeki uygulamayı izler (başlık çubuğu veya simgesi)
+Colors: like Windows (light or dark with it), always light or always dark, or the colors of the app in front	Renkler: Windows gibi (onunla açık veya koyu), her zaman açık veya her zaman koyu, ya da öndeki uygulamanın renkleri
+Columns	Sütunlar
+Command (cmd, without a window)	Komut (cmd, pencere olmadan)
+Command line	Komut satırı
+Committed	Kaydedilen
+Compact (cover only)	Kompakt (yalnızca kapak)
+Completed	Tamamlandı
+Compressed	Sıkıştırılmış
+Connect	Bağlan
+Connected	Bağlı
+Connecting...	Bağlanıyor...
+Content hidden	İçerik gizli
+Control Panel	Denetim Masası
+Control center	Denetim merkezi
+Control center buttons on the pill	Kapsülde denetim merkezi düğmeleri
+Copied	Kopyalandı
+Copy	Kopyala
+Copy code	Kodu kopyala
+Copy the line	Satırı kopyala
+Copy verification codes	Doğrulama kodlarını kopyala
+Copying files	Dosyalar kopyalanıyor
+Copying or moving files	Dosyaları kopyalama veya taşıma
+Coral	Mercan
+Cores / threads	Çekirdek / iş parçacığı
+Corners	Köşeler
+Couldn't change the hotspot.	Mobil etkin nokta değiştirilemedi.
+Couldn't connect.	Bağlanılamadı.
+Couldn't connect. Check the password.	Bağlanılamadı. Parolayı kontrol edin.
+Couldn't download it: click to try again	İndirilemedi: yeniden denemek için tıklayın
+Couldn't download them: click it again to try	İndirilemedi: denemek için tekrar tıklayın
+Couldn't empty it	Boşaltılamadı
+Couldn't forget the network.	Ağ unutulamadı.
+Couldn't reach lrclib.net	lrclib.net'e ulaşılamadı
+Couldn't read it	Okunamadı
+Couldn't save in that folder	Bu klasöre kaydedilemedi
+Counting the pixels on your screen.	Ekranınızdaki pikselleri sayıyorum.
+Counts down to Pomodoro's next part	Pomodoro'nun sonraki bölümüne kadar geri sayar
+Counts down to alarms	Alarmlara kadar geri sayar
+Counts down to events	Etkinliklere kadar geri sayar
+Counts down to the timer's end	Zamanlayıcının bitişine kadar geri sayar
+Cover and title	Kapak ve başlık
+Cover and title on the pill	Kapsülde kapak ve başlık
+Cuddle	Sarıl
+Current	Geçerli
+Custom	Özel
+Custom (JSON file)	Özel (JSON dosyası)
+Customize…	Özelleştir…
+Cyan	Camgöbeği
+Cycles through the pictures of a folder as your wallpaper	Bir klasördeki resimleri duvar kâğıdınız olarak sırayla değiştirir
+D M Y	G A Y
+Dances with the music	Müzikle dans eder
+Dancing · %s is playing	Dans ediyor · %s çalıyor
+Dark	Koyu
+Dark mode	Koyu mod
+Date	Tarih
+Date modified	Değiştirilme tarihi
+Date order	Tarih sırası
+Dates on tasks	Görevlerde tarihler
+Day and month	Gün ve ay
+Day of the week	Haftanın günü
+Delete	Sil
+Delete %zu past events?	%zu geçmiş etkinlik silinsin mi?
+Delete it?	Silinsin mi?
+Delete past events	Geçmiş etkinlikleri sil
+Desktop	Masaüstü
+Details	Ayrıntılar
+Details as cards	Ayrıntılar kart olarak
+Device	Cihaz
+Device Manager	Aygıt Yöneticisi
+Devices	Cihazlar
+Disconnect	Bağlantıyı kes
+Disconnected	Bağlantı kesildi
+Disconnecting...	Bağlantı kesiliyor...
+Dismiss	Kapat
+Display	Ekran
+Display brightness	Ekran parlaklığı
+Do not disturb	Rahatsız etmeyin
+Do not disturb turned on or off	Rahatsız etmeyin açıldı veya kapatıldı
+Do not disturb: silent	Rahatsız etmeyin: sessiz
+Dock	Dock
+Documents	Belgeler
+Don't stop now!	Şimdi bırakma!
+Done	Bitti
+Download	İndir
+Download finished	İndirme bitti
+Download peak (1 min)	İndirme zirvesi (1 dk)
+Download pictures from the web (goes online)	Resimleri web'den indir (çevrimiçi)
+Downloading	İndiriliyor
+Downloading the icons	Simgeler indiriliyor
+Downloads	İndirilenler
+Downloads and other apps	İndirmeler ve diğer uygulamalar
+Downloads and other apps (own color)	İndirmeler ve diğer uygulamalar (kendi rengi)
+Downloads, installs and other apps' progress; red for an error, yellow paused	İndirmelerin, yüklemelerin ve diğer uygulamaların ilerlemesi; hata için kırmızı, duraklatma için sarı
+Drag an icon to another notch or place	Bir simgeyi başka bir çentiğe veya yere sürükleyin
+Drag an icon to change the order	Sırayı değiştirmek için bir simgeyi sürükleyin
+Drag from one notch to another · click to hide	Bir çentikten diğerine sürükleyin · gizlemek için tıklayın
+Drag the groups to reorder them, the minimize arrow stays last	Grupları sıralamak için sürükleyin, küçült oku en sonda kalır
+Drag the pill to any spot on the screen (not with notches)	Kapsülü ekranda istediğiniz yere sürükleyin (çentiklerle olmaz)
+Drag to change the order or to put one on the pill · middle click, or the pin after a moment on an icon: kept on the pill	Sırayı değiştirmek veya birini kapsüle koymak için sürükleyin · orta tıklama ya da bir simgenin üzerinde biraz bekleyince çıkan iğne: kapsülde kalır
+Drag to change the order · click to hide	Sırayı değiştirmek için sürükleyin · gizlemek için tıklayın
+Dreaming of pixels.	Piksellerin hayalini kuruyorum.
+Drinking	İçiyor
+Drive	Sürücü
+Drizzle	Çise
+Drop files on the pill to keep them here, then drag them into another app	Dosyaları burada tutmak için kapsüle bırakın, sonra başka bir uygulamaya sürükleyin
+Drop files on the pill to keep them there, then drag them out into another app later (their places are kept, not copies)	Dosyaları orada tutmak için kapsüle bırakın, sonra başka bir uygulamaya sürükleyin (yerleri tutulur, kopyaları değil)
+Drop it, I've got it.	Bırak, ben aldım.
+Duplicate	Çoğalt
+Each bar sways on its own, softly, as loud as the sound; off, they jump with the beat	Her çubuk ses kadar yüksek, yumuşak ve kendi başına sallanır; kapalıyken ritimle zıplarlar
+Each new one opens the pill for a moment	Her yeni olan kapsülü kısa süre açar
+Each notch hides alone instead of all at once (Fixed only)	Her çentik hepsi birden değil, tek başına gizlenir (yalnızca Sabit)
+Each screen has its own island	Her ekranın kendi adası var
+Eating	Yiyor
+Edge	Kenar
+Edge around	Çevre kenarlığı
+Edge distance	Kenar mesafesi
+Edit	Düzenle
+Edit command	Komutu düzenle
+Edit provider	Sağlayıcıyı düzenle
+Edit task	Görevi düzenle
+Efficiency	Verimlilik
+Eight colors, Windows' accent or your own	Sekiz renk, Windows vurgu rengi veya kendi renginiz
+Eject	Çıkar
+Ejecting…	Çıkarılıyor…
+Emoji	Emoji
+Empty	Boş
+Empty it? Click again	Boşaltılsın mı? Tekrar tıklayın
+Empty the bin	Geri dönüşüm kutusunu boşalt
+Emptying…	Boşaltılıyor…
+Energy	Enerji
+Energy, food, water and love go down slowly while you use the PC, and you look after her in her panel. She never goes away, never asks in full screen or Do not disturb, and makes no sound unless her sounds are on	Enerji, yemek, su ve sevgi, siz bilgisayarı kullandıkça yavaşça azalır; ona kendi panelinden bakarsınız. Hiç gitmez, tam ekranda veya Rahatsız etmeyin modunda hiç sormaz ve sesleri açık değilse ses çıkarmaz
+English letters	İngilizce harfler
+Error	Hata
+Essential	Temel
+Essential: the clock, the battery, the control center, the volume, the notifications' bell and what's playing	Temel: saat, pil, denetim merkezi, ses, bildirim zili ve şimdi çalan
+Ethernet	Ethernet
+Even when minimized	Küçültülmüşken de
+Event	Etkinlik
+Events in the calendar	Takvimdeki etkinlikler
+Events, 	Etkinlik, 
+Every day	Her gün
+Every option explained step by step, the roadmap and your votes	Her seçenek adım adım anlatılır, yol haritası ve oylarınız
+Everyday	Günlük
+Everyday: also the next event, the weather (goes online), the timer, your folders, the apps with notifications and the song's cover	Günlük: ayrıca sonraki etkinlik, hava durumu (çevrimiçi), zamanlayıcı, klasörleriniz, bildirimi olan uygulamalar ve şarkının kapağı
+Everything	Her şey
+Everything: most of the items, from notes and tasks to the network's speed	Her şey: notlardan ve görevlerden ağ hızına kadar öğelerin çoğu
+Excuse me!	Pardon!
+Expanded card when the mouse rests on a live item	Fare canlı bir öğenin üzerinde durunca genişleyen kart
+Export	Dışa aktar
+Export the island's backup	Adanın yedeğini dışa aktar
+Extend	Genişlet
+Extra wide	Ekstra geniş
+Fade	Solma
+Fade the line after	Çizgiyi şundan sonra soldur
+Fan	Fan
+Favorite moved or deleted	Sık kullanılan taşındı veya silindi
+Favorites	Sık kullanılanlar
+Favorites are full	Sık kullanılanlar dolu
+Faísca	Faísca
+Faísca, a pet on the island	Faísca, adadaki bir evcil hayvan
+Faísca, the island's pet	Faísca, adanın evcil hayvanı
+Feels like	Hissedilen
+Fetches pictures for banners from the web, it needs an internet connection	Başlık bildirimleri için resimleri web'den alır, internet bağlantısı gerekir
+File Explorer	Dosya Gezgini
+File copied	Dosya kopyalandı
+File copies	Dosya kopyaları
+File copies (own color)	Dosya kopyaları (kendi rengi)
+File moved	Dosya taşındı
+Files	Dosyalar
+Files are being copied	Dosyalar kopyalanıyor
+Files are being moved	Dosyalar taşınıyor
+Files copied or moved by Windows (its copy window)	Windows'un kopyaladığı veya taşıdığı dosyalar (kendi kopyalama penceresi)
+Files dragged out	Dışarı sürüklenen dosyalar
+Files dragged out of the folders panel or the shelf into an app: copied or moved, or asked (the first time, remembered, or every time)	Klasörler panelinden veya raftan bir uygulamaya sürüklenen dosyalar: kopyalanır veya taşınır, ya da sorulur (ilk seferde ve hatırlanır, ya da her seferinde)
+Files dragged out of the island are:	Adanın dışına sürüklenen dosyalar:
+Fill	Dolgu
+Fill animation	Dolgu animasyonu
+Find the six pairs of the island's own icons. The shortest time wins.	Adanın kendi simgelerinden altı çifti bulun. En kısa süre kazanır.
+Finding your location…	Konumunuz bulunuyor…
+Finish	Bitir
+Finish keeps all of it; Cancel puts back what was there before	Bitir her şeyi korur; İptal öncekini geri koyar
+Five small games with your best results, kept only on this PC (no internet)	En iyi sonuçlarınızla beş küçük oyun, yalnızca bu bilgisayarda tutulur (internet yok)
+Fixed	Sabit
+Fixed: joined to the top edge, keeping its room (the windows stay below it)	Sabit: üst kenara bitişik, yerini korur (pencereler altında kalır)
+Floating	Yüzen
+Fluent (online)	Fluent (çevrimiçi)
+Focus	Odak
+Focused right along with you.	Seninle birlikte odaklandım.
+Focused · Pomodoro's focus time	Odaklı · Pomodoro odak süresi
+Fog	Sis
+Fold the apps with notifications into an arrow (out when one comes, and under the mouse)	Bildirimi olan uygulamaları bir oka katla (biri gelince ve fare üzerindeyken açılır)
+Folder	Klasör
+Folders	Klasörler
+Folders and places	Klasörler ve yerler
+Folders and places (your shortcuts)	Klasörler ve yerler (kısayollarınız)
+Folders mixed with files	Klasörler dosyalarla karışık
+Folds the app icons into an arrow, they come out for new ones or on hover	Uygulama simgelerini bir oka katlar; yenileri için veya üzerine gelince açılır
+Following the bell	Zili izle
+Following the mouse is unavailable with notches on the main island.	Fare izleme, ana adada çentikler varken kullanılamaz.
+Follows Windows or forces a 24 hour or 12 hour clock	Windows'u izler veya 24 saat ya da 12 saat saati zorlar
+Follows Windows' measurement system or forces Celsius or Fahrenheit	Windows'un ölçü sistemini izler veya Celsius ya da Fahrenheit'i zorlar
+Follows the line	Satırı izle
+Follows the mouse	Fareyi izle
+Food	Yemek
+For OLED screens: the minimized line fades away after this long, back when the mouse reaches it	OLED ekranlar için: küçültülmüş çizgi bu süreden sonra solar, fare ona ulaşınca geri gelir
+Forget	Unut
+Forget it?	Unutulsun mu?
+Frames a second	Saniyedeki kare
+Freezing drizzle	Donan çise
+Freezing rain	Donan yağmur
+Frequency	Frekans
+From square to fully round corners (not with the bar or notches)	Köşelilikten tam yuvarlağa kadar köşeler (çubuk veya çentiklerle olmaz)
+Frosted glass on the bar and the Fixed style's strip	Çubukta ve Sabit stilin şeridinde buzlu cam
+Frosted look for the bar and the Fixed strip, needs Windows transparency	Çubuk ve Sabit şerit için buzlu görünüm, Windows saydamlığı gerekir
+Fruit rain	Meyve yağmuru
+Frustrated	Bunalmış
+Full screen: silent	Tam ekran: sessiz
+Fun	Eğlence
+Game over	Oyun bitti
+Game: caught	Oyun: yakalandı
+Game: missed	Oyun: kaçırıldı
+Game: new record	Oyun: yeni rekor
+Games in exclusive full screen still draw over it. In some games it can cost some performance, or bother anti-cheat systems	Özel tam ekrandaki oyunlar yine de üzerine çizer. Bazı oyunlarda performansa mal olabilir veya hile karşıtı sistemleri rahatsız edebilir
+Games in her panel	Panelinde oyunlar
+Gap between the pill and the screen edge (not with the bar or notches)	Kapsül ile ekran kenarı arasındaki boşluk (çubuk veya çentiklerle olmaz)
+General	Genel
+Gives chosen apps their own icons, clock and order while they're in front (in the Island style, their own spot too). Each style has its own list	Seçilen uygulamalara öndeyken kendi simgelerini, saatini ve sırasını verir (Ada stilinde kendi konumunu da). Her stilin kendi listesi vardır
+Glass	Cam
+Glass blur	Cam bulanıklığı
+Glass: see-through and blurred, like on macOS	Cam: macOS'taki gibi saydam ve bulanık
+Glass: see-through and blurred, with a bright edge (Windows' blur: needs its transparency effects)	Cam: parlak kenarlı, saydam ve bulanık (Windows bulanıklığı: saydamlık efektleri gerekir)
+GlazeWM's workspaces	GlazeWM çalışma alanları
+GlazeWM: hide the workspaces without windows	GlazeWM: penceresiz çalışma alanlarını gizle
+GlazeWM: its workspaces on the pill (a click switches)	GlazeWM: çalışma alanları kapsülde (tıklayınca geçilir)
+Glow and hops can leave the island	Parıltı ve zıplamalar adanın dışına taşabilir
+Glow and particles	Parıltı ve parçacıklar
+Glowing in my little corner.	Küçük köşemde parlıyorum.
+Got your file. I'll hold it.	Dosyanı aldım. Tutuyorum.
+Graphics card temperature	Ekran kartı sıcaklığı
+Graphics card use (GPU)	Ekran kartı kullanımı (GPU)
+Graphite	Grafit
+Green	Yeşil
+Grid	Izgara
+Grid columns	Izgara sütunları
+Happy · a notification came	Mutlu · bir bildirim geldi
+Hard to read: too alike	Okunması zor: çok benzer
+Heavy rain	Şiddetli yağmur
+Hehe.	Hehe.
+Help translate the island	Adayı çevirmeye yardım edin
+Her color	Rengi
+Her color changes with the mood	Rengi ruh haliyle değişir
+Her eyes and body turn toward the mouse, more the closer it is	Gözleri ve gövdesi fareye döner, fare yaklaştıkça daha çok
+Her eyes follow the mouse	Gözleri fareyi izler
+Her glow, rings and hops may go past the island, also over a maximized app; off, she stays inside it	Parıltısı, halkaları ve zıplamaları adanın dışına, büyütülmüş bir uygulamanın üzerine bile taşabilir; kapalıyken adanın içinde kalır
+Her light tints the island around her and flows through it in waves when she blinks, hops, dances or reacts	Işığı çevresindeki adayı renklendirir ve göz kırptığında, zıpladığında, dans ettiğinde veya tepki verdiğinde dalgalar halinde içinden akar
+Her own color	Kendi rengi
+Her size	Boyutu
+Her sounds off	Sesleri kapalı
+Her volume	Ses düzeyi
+Heroicons (online)	Heroicons (çevrimiçi)
+Hex	Hex
+Hey! That hurt.	Hey! Canım yandı.
+Hibernate	Hazırda beklet
+Hidden, a small pill with the time stays instead of the line (the line while a window is under it). The Bar hidden with Win+J closes into it too	Gizliyken çizgi yerine saatli küçük bir kapsül kalır (altında pencere varken çizgi). Win+J ile gizlenen Çubuk da buna kapanır
+Hide a notch with nothing in it	İçinde hiçbir şey olmayan çentiği gizle
+Hide after	Şundan sonra gizle
+Hide as its line until the mouse reaches it	Fare ona ulaşana kadar çizgi olarak gizle
+Hide each notch on its own (not all together)	Her çentiği tek başına gizle (hepsi birlikte değil)
+Hide past events after	Geçmiş etkinlikleri şundan sonra gizle
+Hide the Windows banners	Windows başlık bildirimlerini gizle
+Hide the numbers	Sayıları gizle
+Hides when the mouse leaves, or only while a window is maximized or over it	Fare ayrılınca veya yalnızca bir pencere büyütülmüşken ya da üzerindeyken gizlenir
+Hiding	Gizleme
+Hiding and notifications	Gizleme ve bildirimler
+Hiding: when and how it becomes the line	Gizleme: ne zaman ve nasıl çizgi olur
+Highlight behind the item under the mouse	Fare altındaki öğenin arkasında vurgu
+Hihi!	Hihi!
+Hmm, interesting.	Hmm, ilginç.
+Hmph.	Hmph.
+Hold Ctrl and drag an item on the island (in any style) to another place, or to another notch. Its items jiggle while Ctrl is held with the mouse on it	Ctrl'ye basılı tutup adadaki bir öğeyi (her stilde) başka bir yere veya başka bir çentiğe sürükleyin. Ctrl basılıyken fare üzerindeyse öğeleri titrer
+Holding · something is dragged over the island	Tutuyor · adanın üzerine bir şey sürükleniyor
+Holidays in the calendar (goes online)	Takvimde resmî tatiller (çevrimiçi)
+Home folder	Ana klasör
+Horizontal stack	Yatay yığın
+Hot · the graphics card at %s	Sıcak · ekran kartı %s
+Hot · the memory at %s	Sıcak · bellek %s
+Hot · the processor at %s	Sıcak · işlemci %s
+How big she is on the pill and on the line; above 100% she goes past the pill's edges	Kapsülde ve çizgide ne kadar büyük olduğu; %100 üzerinde kapsülün kenarlarını aşar
+How big the banner is, its texts and buttons with it	Başlık bildiriminin, metinlerinin ve düğmelerinin boyutu
+How big the line is on the pill	Kapsüldeki çizginin boyutu
+How big the previous, play and next buttons on the pill are, as far as the pill is tall	Kapsüldeki önceki, oynat ve sonraki düğmelerinin boyutu, kapsülün yüksekliği kadar
+How busy the processor, the memory or the graphics card must be, for 5 seconds, before she shows it	İşlemcinin, belleğin veya ekran kartının, bunu göstermeden önce 5 saniye boyunca ne kadar meşgul olması gerektiği
+How fast her needs come back as you use the PC: calm (about a day), normal (8 hours) or attentive (3 hours)	Bilgisayarı kullandıkça ihtiyaçlarının ne kadar çabuk geri geldiği: sakin (yaklaşık bir gün), normal (8 saat) veya dikkatli (3 saat)
+How it moves; paused it breathes, an error shakes, done flashes with a check, canceled drains back	Nasıl hareket eder; duraklatılınca nefes alır, hata sarsar, bitince onay işaretiyle parlar, iptal edilince geri boşalır
+How loud all her sounds are	Tüm seslerinin ne kadar yüksek olduğu
+How many	Kaç tane
+How many files it keeps: the oldest goes when a new one comes	Kaç dosya tutar: yenisi gelince en eskisi gider
+How many icons show before the list starts to scroll	Liste kaymaya başlamadan önce kaç simge görünür
+How much of the AI agents' limits is used and when each starts over, read on this PC (no login and nothing online)	Yapay zekâ ajanlarının sınırlarının ne kadarının kullanıldığı ve her birinin ne zaman yeniden başladığı, bu bilgisayarda okunur (oturum açma yok, çevrimiçi hiçbir şey yok)
+How much the bars move with the sound (they follow the playing app's own sound)	Çubukların sesle ne kadar hareket ettiği (çalan uygulamanın kendi sesini izler)
+How often she does something by herself while idle (looks around, hops, spins, stretches)	Boştayken kendi kendine ne sıklıkta bir şey yaptığı (etrafa bakar, zıplar, döner, gerinir)
+How round the banner's corners are	Başlık bildiriminin köşelerinin ne kadar yuvarlak olduğu
+How round the notch curves are in the Fixed style	Sabit stilde çentik eğrilerinin ne kadar yuvarlak olduğu
+How solid the island's fill is, from see-through to full	Adanın dolgusunun ne kadar opak olduğu, saydamdan tamına kadar
+How strongly the glass blurs what is behind it	Camın arkasındakini ne kadar bulanıklaştırdığı
+How tall the bars can grow (as far as the pill allows)	Çubukların ne kadar uzayabileceği (kapsülün izin verdiği kadar)
+How the What's playing panel looks: the usual one, Pixel (Android), One UI (Samsung), Windows 11, or only the cover with the buttons over it. It opens from What's playing or the cover on the pill	Şimdi çalan panelinin görünümü: olağan olanı, Pixel (Android), One UI (Samsung), Windows 11 veya yalnızca kapak ve üzerinde düğmeler. Şimdi çalan'dan veya kapsüldeki kapaktan açılır
+How visible the thin line is when the pill is hidden	Kapsül gizliyken ince çizginin ne kadar görünür olduğu
+How visible the thin outline around the pill is	Kapsülün çevresindeki ince çerçevenin ne kadar görünür olduğu
+How wide each bar is; the item grows with them	Her çubuğun genişliği; öğe onlarla birlikte büyür
+How wide the banner is (a longer text fits on its lines)	Başlık bildiriminin genişliği (daha uzun bir metin satırlarına sığar)
+Humidity	Nem
+Hungry · food at %s	Aç · yemek %s
+I give up. For today.	Bugünlük pes ediyorum.
+I got such a fright!	Çok korktum!
+I like it!	Hoşuma gitti!
+I'm all alone…	Yapayalnızım…
+I'm bored…	Canım sıkılıyor…
+I'm drying up here.	Burada kuruyorum.
+Icon	Simge
+Icon and color	Simge ve renk
+Icon colors	Simge renkleri
+Icon pack	Simge paketi
+Icon size	Simge boyutu
+Iconoir (online)	Iconoir (çevrimiçi)
+Icons	Simgeler
+Icons of the apps with notifications	Bildirimi olan uygulamaların simgeleri
+Icons per app (Bar)	Uygulama başına simgeler (Çubuk)
+Icons per app (Fixed style)	Uygulama başına simgeler (Sabit stil)
+Icons that aren't pinned	Sabitlenmemiş simgeler
+Ignored (not counted)	Yoksayılır (sayılmaz)
+Import	İçe aktar
+Import a backup of the island	Adanın bir yedeğini içe aktar
+Import a file	Dosya içe aktar
+Import shortcuts (like komorebi's whkdrc)	Kısayolları içe aktar (komorebi'nin whkdrc'si gibi)
+In the bar, sends items to the screen corners: with the clock in the middle, the ones before it go to the left and the others to the right; without it, the first separator line of the order splits them. With two separator lines the bar has three parts instead: left corner, middle of the screen (the clock joins it) and right corner	Çubukta öğeleri ekranın köşelerine gönderir: saat ortadayken ondan öncekiler sola, diğerleri sağa gider; saat yoksa sıradaki ilk ayırıcı çizgi onları ayırır. İki ayırıcı çizgiyle çubuk üç parçalı olur: sol köşe, ekranın ortası (saat buna katılır) ve sağ köşe
+In the island's Do not disturb, calls, alarms and reminders don't ring either (they still show on the pill)	Adanın Rahatsız etmeyin modunda aramalar, alarmlar ve hatırlatıcılar da çalmaz (kapsülde yine görünürler)
+In the pill	Kapsülde
+In the pill with a sound, even in Do not disturb	Kapsülde sesle, Rahatsız etmeyin modunda bile
+In the terminal	Terminalde
+In use	Kullanımda
+In use: close what's open on it	Kullanımda: üzerinde açık olanı kapat
+Installed apps	Yüklü uygulamalar
+Instrumental	Enstrümantal
+Ionicons (online)	Ionicons (çevrimiçi)
+Island	Ada
+Island backup (*.txt)	Ada yedeği (*.txt)
+Island font	Ada yazı tipi
+Island memory	Ada belleği
+Island settings	Ada ayarları
+Island: a pill floating at the top, the windows go under it	Ada: üstte yüzen bir kapsül, pencereler altından geçer
+It couldn't start.	Başlatılamadı.
+It ended with an error (0x%08X). Turn the mod off and on in Windhawk to start it again.	Bir hatayla kapandı (0x%08X). Yeniden başlatmak için Windhawk'ta modu kapatıp açın.
+It failed (see the terminal)	Başarısız oldu (terminale bakın)
+It goes to the screen with the mouse	Fareyle birlikte ekrana geçer
+It runs only while the island is on. A time missed while the PC slept or the island was off isn't made up.	Yalnızca ada açıkken çalışır. Bilgisayar uyurken veya ada kapalıyken kaçırılan zaman telafi edilmez.
+It's getting hot in here, huh?	Burası ısınıyor, değil mi?
+Items in the bar	Çubuktaki öğeler
+Items on the pill	Kapsüldeki öğeler
+Its focus or break ending, while it runs	Çalışırken odak veya mola bitişi
+Its look (profile):	Görünümü (profil):
+Its style, size, hiding and animations are in Windhawk's settings for this mod	Stili, boyutu, gizlenmesi ve animasyonları bu modun Windhawk ayarlarındadır
+JSON file	JSON dosyası
+Just one little game?	Sadece küçük bir oyun?
+Just watching…	Sadece izliyorum…
+Keep as it is	Olduğu gibi bırak
+Keep as it is: the items the pill had before	Olduğu gibi bırak: kapsülün önceden sahip olduğu öğeler
+Keep it open	Açık tut
+Keep their list open	Listelerini açık tut
+Keeping an eye on you.	Seni gözlüyorum.
+Keeps the note on the pill when no app has media; a click opens the panel	Hiçbir uygulamada medya yokken notu kapsülde tutar; tıklamak paneli açar
+Keyboard language	Klavye dili
+Keyboard language (like Windows' input indicator)	Klavye dili (Windows'un giriş göstergesi gibi)
+Keyboard shortcut (optional)	Klavye kısayolu (isteğe bağlı)
+Keyboard shortcuts	Klavye kısayolları
+Keyboard shortcuts button	Klavye kısayolları düğmesi
+Keys	Tuşlar
+Language	Dil
+Language of the island's texts (it starts again)	Adanın metinlerinin dili (yeniden başlar)
+Language of the notes	Sürüm notlarının dili
+Language settings	Dil ayarları
+Large	Büyük
+Largest first	Önce en büyük
+Later	Sonra
+Leaves only the play and pause button on the pill, without previous and next	Kapsülde önceki ve sonraki olmadan yalnızca oynat ve duraklat düğmesini bırakır
+Leaves out GlazeWM workspaces that have no windows	Penceresi olmayan GlazeWM çalışma alanlarını dışarıda bırakır
+Leaves out komorebi workspaces that have no windows	Penceresi olmayan komorebi çalışma alanlarını dışarıda bırakır
+Left	Sol
+Less round	Daha az yuvarlak
+Let go to add it to your commands	Komutlarınıza eklemek için bırakın
+Let go to put it on the shelf	Rafa koymak için bırakın
+Let's play?	Oynayalım mı?
+Light	Açık
+Light and dark mode	Açık ve koyu mod
+Light and dark mode button	Açık/koyu mod düğmesi
+Light and shadow like macOS 27	macOS 27'deki gibi ışık ve gölge
+Light rain	Hafif yağmur
+Lighter tint and livelier colors on the glass	Camda daha açık ton ve daha canlı renkler
+Lights up the item the mouse is over	Farenin üzerinde olduğu öğeyi vurgular
+Like Ctrl+Shift+S, or Ctrl+K, Ctrl+S	Ctrl+Shift+S veya Ctrl+K, Ctrl+S gibi
+Like Windows	Windows gibi
+Like the island	Ada gibi
+Like the island: only the shapes of the emojis and of your pictures, in the island's colors. Their own: as they are	Ada gibi: yalnızca emojilerin ve resimlerinizin biçimleri, adanın renklerinde. Kendi renkleri: olduğu gibi
+Like the other icons	Diğer simgeler gibi
+Like the panels	Paneller gibi
+Line added · drag it between icons, click it to remove	Çizgi eklendi · simgeler arasına sürükleyin, kaldırmak için tıklayın
+Line opacity	Çizgi opaklığı
+Line that opens the island	Adayı açan çizgi
+Liquid wave	Sıvı dalga
+Listening · %s is playing	Dinliyor · %s çalıyor
+Live activities like the iPhone's	iPhone'daki gibi canlı etkinlikler
+Lively	Canlı
+Loading...	Yükleniyor...
+Location	Konum
+Location off or not allowed in Windows	Konum Windows'ta kapalı veya izin verilmemiş
+Lock	Kilitle
+Logs	Günlükler
+Lonely · love at %s	Yalnız · sevgi %s
+Long	Uzun
+Long notification texts scroll under the mouse	Uzun bildirim metinleri fare altında kayar
+Longest line on the pill	Kapsülde en uzun satır
+Longest width the song title may take on the pill	Şarkı başlığının kapsülde alabileceği en büyük genişlik
+Look	Görünüm
+Look and dock	Görünüm ve Dock
+Looking for networks...	Ağlar aranıyor...
+Looking for the lyrics…	Şarkı sözleri aranıyor…
+Looking…	Aranıyor…
+Looks for lyrics	Şarkı sözü arar
+Love	Sevgi
+Low battery	Pil azaldı
+Low battery… same here.	Pil azalıyor… bende de öyle.
+Lucide (online)	Lucide (çevrimiçi)
+Lyrics are looked for only for songs (with an artist, 45 s to 20 min, not videos)	Şarkı sözleri yalnızca şarkılar için aranır (sanatçılı, 45 sn ile 20 dk arası, videolar değil)
+Lyrics are off for this app (in the settings, What's playing)	Bu uygulama için şarkı sözleri kapalı (ayarlarda, Şimdi çalan)
+Lyrics as an icon	Simge olarak şarkı sözü
+Lyrics color	Şarkı sözü rengi
+Lyrics color (own)	Şarkı sözü rengi (kendi)
+Lyrics from lrclib.net	lrclib.net'ten şarkı sözleri
+Lyrics replace the song title	Şarkı sözü, şarkı başlığının yerini alır
+Lyrics size	Şarkı sözü boyutu
+Lyrics size on the pill	Kapsülde şarkı sözü boyutu
+M D Y	A G Y
+Made in Brazil, new versions bring fixes and what users ask for	Brezilya'da yapıldı, yeni sürümler düzeltmeler ve kullanıcıların istediklerini getirir
+Magnifier	Büyüteç
+Main island	Ana ada
+Makes her dance and react	Dans etmesini ve tepki vermesini sağlar
+Makes the What's playing panel bigger than the other panels; on a short screen it still fits and scrolls	Şimdi çalan panelini diğer panellerden büyük yapar; kısa bir ekranda yine sığar ve kayar
+Makes the pill taller or shorter (not with the bar)	Kapsülü daha yüksek veya alçak yapar (çubukla olmaz)
+Manage profiles	Profilleri yönet
+Marks holidays in the calendar, it needs an internet connection	Takvimde resmî tatilleri işaretler, internet bağlantısı gerekir
+Material (online)	Material (çevrimiçi)
+Media buttons	Medya düğmeleri
+Media buttons on the pill	Kapsülde medya düğmeleri
+Media buttons size	Medya düğmesi boyutu
+Media panel size	Medya paneli boyutu
+Media panel style	Medya paneli stili
+Medium	Orta
+Memory	Bellek
+Memory use (RAM)	Bellek kullanımı (RAM)
+Merges an app's notifications into one icon, Phone Link's phone apps included	Bir uygulamanın bildirimlerini tek simgede birleştirir, Phone Link'in telefon uygulamaları dahil
+Meteocons (colored)	Meteocons (renkli)
+Microphone	Mikrofon
+Microphone button (mute)	Mikrofon düğmesi (sessize al)
+Microphone, camera and location in use	Mikrofon, kamera ve konum kullanımda
+Microphone, camera and location in use (and which app)	Mikrofon, kamera ve konum kullanımda (ve hangi uygulama)
+Middle	Orta
+Minimize	Küçült
+Minimize arrow at the end of the pill	Kapsülün ucunda küçült oku
+Missed	Kaçırıldı
+Mission accomplished.	Görev tamam.
+Mistakes	Hatalar
+Mixer	Karıştırıcı
+Mobile data	Mobil veri
+Mobile hotspot	Mobil etkin nokta
+Monitor	Monitör
+Monitor 	Monitör 
+Monitors	Monitörler
+Monocle (the window in focus fills the screen)	Monocle (odaktaki pencere ekranı doldurur)
+Month as a number (9/10)	Ay sayı olarak (9/10)
+More Windows controls	Daha fazla Windows denetimi
+More in Explorer	Dosya Gezgini'nde daha fazlası
+More options in: %s	Daha fazla seçenek: %s
+More, more!	Daha, daha!
+Mostly clear	Çoğunlukla açık
+Mouse away	Fare uzakta
+Move	Taşı
+Move the mouse (or the arrows) to catch fruit and drops: they feed her and quench her thirst. Letting one fall costs a life, and so does catching a rock or a bolt. Three lives.	Meyve ve damlaları yakalamak için fareyi (veya okları) hareket ettirin: onu doyurur ve susuzluğunu giderir. Birini düşürmek bir can götürür, taş veya şimşek yakalamak da. Üç can.
+Move the mouse over her to pet her. Click to tap her (she doesn't like too many).	Sevmek için fareyi üzerinde gezdirin. Dokunmak için tıklayın (çok fazlasından hoşlanmaz).
+Move the pill by dragging it	Kapsülü sürükleyerek taşıyın
+Moved	Taşındı
+Music	Müzik
+Muted	Sessize alındı
+My head is so full right now.	Kafam şu an çok dolu.
+My location	Konumum
+My moves are sharp today.	Hareketlerim bugün çok iyi.
+My site, with my other projects and a Discord link	Diğer projelerim ve bir Discord bağlantısı olan sitem
+My tummy is rumbling.	Karnım guruldadı.
+Nailed it!	Tam isabet!
+Name	Ad
+Name (like Downloads)	Ad (İndirilenler gibi)
+Name (optional)	Ad (isteğe bağlı)
+Narrator	Ekran okuyucu
+Narrow	Dar
+Nearby networks appear once location access is on: click to turn on "Let desktop apps access your location"	Yakındaki ağlar, konum erişimi açılınca görünür: "Masaüstü uygulamalarının konumunuza erişmesine izin ver"i açmak için tıklayın
+Needs Windows' transparency effects: click to open Personalization > Colors	Windows saydamlık efektleri gerekir: Kişiselleştirme > Renkler'i açmak için tıklayın
+Needs a fill on (downloads or charging)	Açık bir dolgu gerekir (indirmeler veya şarj)
+Needs the bar style and the clock in the middle	Çubuk stili ve ortada saat gerekir
+Needs the date or the year on the clock	Saatte tarih veya yıl gerekir
+Needs the notches	Çentikler gerekir
+Needs the notches (Fixed style)	Çentikler gerekir (Sabit stil)
+Needs “%s” on	“%s” açık olmalı
+Needs “%s” or “%s” on	“%s” veya “%s” açık olmalı
+Network	Ağ
+Network & internet	Ağ ve internet
+Network cable	Ağ kablosu
+Network connections	Ağ bağlantıları
+Network name	Ağ adı
+Network speed	Ağ hızı
+Network speed (up and down)	Ağ hızı (yükleme ve indirme)
+Never	Hiçbir zaman
+New command	Yeni komut
+New desktop	Yeni masaüstü
+New notification	Yeni bildirim
+New record	Yeni rekor
+New task	Yeni görev
+Newest first	Önce en yeni
+Next	Sonraki
+Next event	Sonraki etkinlik
+Night light	Gece ışığı
+Night light isn't available here	Gece ışığı burada kullanılamıyor
+No Bluetooth	Bluetooth yok
+No USB drives	USB sürücü yok
+No Wi-Fi adapter	Wi-Fi bağdaştırıcısı yok
+No agendas yet.	Henüz takvim yok.
+No alarms yet	Henüz alarm yok
+No apps found	Uygulama bulunamadı
+No apps using this output	Bu çıkışı kullanan uygulama yok
+No date	Tarih yok
+No distractions.	Dikkat dağıtıcı yok.
+No events	Etkinlik yok
+No icon's picture in that folder	Bu klasörde simge resmi yok
+No internet	İnternet yok
+No lyrics found for this song	Bu şarkı için söz bulunamadı
+No mistakes	Hata yok
+No notes yet	Henüz not yok
+No notifications	Bildirim yok
+No paired devices	Eşleştirilmiş cihaz yok
+No pictures in this folder	Bu klasörde resim yok
+No profile in use: click one to apply it	Kullanımda profil yok: uygulamak için birine tıklayın
+No profiles yet	Henüz profil yok
+No record yet	Henüz rekor yok
+No reminder (the bell turns it on)	Hatırlatıcı yok (zil simgesi açar)
+No settings match the search	Aramayla eşleşen ayar yok
+Nobody has talked to me in a while.	Bir süredir kimse benimle konuşmadı.
+Nobody plays with me anymore…	Artık kimse benimle oynamıyor…
+None	Yok
+None found	Hiçbiri bulunamadı
+None yet: a program, a folder, a link or a command line, a click away	Henüz yok: bir program, klasör, bağlantı veya komut satırı, tek tıkla
+Normal	Normal
+Not a backup of the island	Adanın yedeği değil
+Not an .ics link (Google: Secret address in iCal format)	.ics bağlantısı değil (Google: iCal biçiminde gizli adres)
+Not available here	Burada kullanılamıyor
+Not available on this PC	Bu bilgisayarda kullanılamıyor
+Not checked yet	Henüz kontrol edilmedi
+Not chosen	Seçilmedi
+Not for the Bar style	Çubuk stili için değil
+Not with the Liquid Glass	Liquid Glass ile kullanılamaz
+Not with the notches	Çentiklerle kullanılamaz
+Not with the notches: each one keeps its place and items for every app	Çentiklerle kullanılamaz: her biri tüm uygulamalar için yerini ve öğelerini korur
+Notch curves	Çentik eğrileri
+Notches	Çentikler
+Notes	Notlar
+Notes button	Not düğmesi
+Nothing found	Hiçbir şey bulunamadı
+Nothing in it	İçinde hiçbir şey yok
+Nothing playing	Çalan bir şey yok
+Nothing to do	Yapacak bir şey yok
+Nothing to do around here.	Burada yapacak bir şey yok.
+Nothing to share	Paylaşılacak bir şey yok
+Nothing waiting	Bekleyen bir şey yok
+Notice when switching desktops	Masaüstü değişirken uyarı
+Notification	Bildirim
+Notifications	Bildirimler
+Notifications (bell)	Bildirimler (zil)
+Notifications too	Bildirimler de
+Notify when a USB drive is plugged in	USB sürücü takılınca bildir
+Now	Şimdi
+Num Lock bubble	Num Lock balonu
+Num Lock off	Num Lock kapalı
+Num Lock on	Num Lock açık
+Number of columns in the icon grid (Grid style only)	Simge ızgarasındaki sütun sayısı (yalnızca Izgara stili)
+OK	Tamam
+Off	Kapalı
+Off until you turn it on. Every event below has its own switch and source; nothing plays over a full-screen app or with Do not disturb on	Siz açana kadar kapalı. Aşağıdaki her olayın kendi anahtarı ve kaynağı vardır; tam ekran uygulamada veya Rahatsız etmeyin açıkken hiçbir şey çalmaz
+Off while “%s” is on	“%s” açıkken kapalı
+Off with no animations (“None”)	Animasyon yokken kapalı (“Yok”)
+Off with only the cover on the pill	Kapsülde yalnızca kapak varken kapalı
+Off with the bar style	Çubuk stilinde kapalı
+Off with the items at the screen's corners	Öğeler ekranın köşelerindeyken kapalı
+Off with the notches (Fixed style)	Çentiklerle kapalı (Sabit stil)
+Off, these actions run at the first click, with no question	Kapalıyken bu eylemler ilk tıklamada, sormadan çalışır
+Off: nothing is sent	Kapalı: hiçbir şey gönderilmez
+Off: only the app's icon peeks out of the line	Kapalı: çizgiden yalnızca uygulamanın simgesi görünür
+Oldest first	Önce en eski
+On	Açık
+On a laptop, the battery's percentage as it charges	Dizüstü bilgisayarda, şarj olurken pil yüzdesi
+On battery	Pille çalışırken
+On cloud nine…	Dokuzuncu bulutta…
+On every monitor	Her monitörde
+On every notch	Her çentikte
+On one monitor	Tek monitörde
+On the battery's notch or the pill	Pilin çentiğinde veya kapsülde
+On the beat	Ritimle
+On the monitor with the mouse	Fare olan monitörde
+On the shelf	Rafta
+On-screen keyboard	Ekran klavyesi
+Once	Bir kez
+Once per version, a notice from the pill opens this page	Her sürümde bir kez, kapsülden gelen bir uyarı bu sayfayı açar
+One UI (Samsung)	One UI (Samsung)
+One icon per app (Phone Link's phone apps together)	Uygulama başına bir simge (Phone Link'in telefon uygulamaları birlikte)
+Only 16 commands can have a shortcut.	Yalnızca 16 komutun kısayolu olabilir.
+Only Claude Code in a terminal: the Claude desktop app doesn't leave its limits on this PC	Yalnızca terminaldeki Claude Code: Claude masaüstü uygulaması sınırlarını bu bilgisayarda bırakmaz
+Only a file on this computer	Yalnızca bu bilgisayardaki bir dosya
+Only a folder on this computer	Yalnızca bu bilgisayardaki bir klasör
+Only a picture on this computer	Yalnızca bu bilgisayardaki bir resim
+Only an icon on the pill while the song has lyrics, instead of the line sung now; a click opens them	Yalnızca şarkının sözü varken kapsülde bir simge, şimdi söylenen satır yerine; tıklamak sözleri açar
+Only files on this PC can be shared, not folders	Yalnızca bu bilgisayardaki dosyalar paylaşılabilir, klasörler paylaşılamaz
+Only for emoji and pictures of your own	Yalnızca emoji ve kendi resimleriniz için
+Only for the Bar style	Yalnızca Çubuk stili için
+Only for the Island style	Yalnızca Ada stili için
+Only for the notes below; the island keeps its language	Yalnızca aşağıdaki sürüm notları için; ada kendi dilini korur
+Only https links or file paths	Yalnızca https bağlantıları veya dosya yolları
+Only on the main island: change it in its settings	Yalnızca ana adada: ayarlarından değiştirin
+Only play and pause	Yalnızca oynat ve duraklat
+Only the bar's items over what is behind it; with the frosted look, only the blur	Çubuğun öğeleri yalnızca arkasındakinin üstünde; buzlu görünümde yalnızca bulanıklık
+Only the clock when hidden	Gizliyken yalnızca saat
+Only the cover on the pill	Yalnızca kapsülde kapak
+Only the main clock shows on the pill; the other clocks list when the mouse rests on it	Kapsülde yalnızca ana saat görünür; fare üstünde durunca diğer saatler listelenir
+Only with Your folder as the pack	Yalnızca paket olarak “Klasörünüz” ile
+Only with the Glass off (it blurs them already), on the bar or on the Fixed style without notches and not hiding as a line	Yalnızca Cam kapalıyken (zaten bulanıklaştırır); çubukta veya çentiksiz ve çizgi olarak gizlenmeyen Sabit stilde
+Only with the Grid style	Yalnızca Izgara stiliyle
+Only with the icons opening in the pill	Yalnızca simgeler kapsülde açılırken
+Ooh, a notification!	Vay, bir bildirim!
+Oops, I yawned.	Hoppala, esnedim.
+Opacity	Opaklık
+Open	Aç
+Open Windhawk	Windhawk'ı aç
+Open Windows Update	Windows Update'i aç
+Open Windows mixer	Windows ses karıştırıcısını aç
+Open an app to give it a place	Yer vermek için bir uygulama açın
+Open in Explorer	Dosya Gezgini'nde aç
+Open in terminal	Terminalde aç
+Open it	Aç
+Open panels with the mouse	Panelleri fareyle aç
+Open something	Bir şey aç
+Open the Windows notification center	Windows bildirim merkezini aç
+Opens a panel with your folder and place shortcuts	Klasör ve yer kısayollarınızla bir panel açar
+Opens a program, a file, a folder, a link or a settings page, like the Run box (Win+R).	Çalıştır kutusu (Win+R) gibi bir program, dosya, klasör, bağlantı veya ayarlar sayfası açar.
+Opens pickers for the fill, text and icon colors	Dolgu, metin ve simge renkleri için seçiciler açar
+Opens the line	Çizgiyi açar
+Opens the unpinned icons as a list in the pill, a grid or a named list	Sabitlenmemiş simgeleri kapsülde liste, ızgara veya adlandırılmış liste olarak açar
+Other apps' icons before scrolling	Kaydırmadan önce diğer uygulamaların simgeleri
+Other apps' tray icons	Diğer uygulamaların tepsi simgeleri
+Other files	Diğer dosyalar
+Output	Çıkış
+Overcast	Kapalı
+Overdue	Gecikmiş
+PC screen only	Yalnızca bilgisayar ekranı
+Padding before the first item and after the last one	İlk öğeden önce ve son öğeden sonra boşluk
+Panels and buttons	Paneller ve düğmeler
+Panels as wide as the island	Adayla aynı genişlikte paneller
+Panels open as wide as the island is	Paneller adanın genişliği kadar açılır
+Panels size	Panel boyutu
+Partial	Kısmi
+Partly cloudy	Parçalı bulutlu
+Password	Parola
+Paste an .ics link (Google Calendar: Settings, your calendar, Secret address in iCal format) or a file's path.	Bir .ics bağlantısı (Google Takvim: Ayarlar, takviminiz, iCal biçiminde gizli adres) veya bir dosya yolu yapıştırın.
+Pause	Duraklat
+Paused	Duraklatıldı
+Paused (every monitor)	Duraklatıldı (tüm monitörler)
+Performance	Performans
+Personality	Kişilik
+Personalization	Kişiselleştirme
+Phosphor (online)	Phosphor (çevrimiçi)
+Picks a color theme from the swatches	Renk örneklerinden bir renk teması seçer
+Picks the screen spot for the pill, on a grid	Kapsülün ekrandaki yerini ızgaradan seçer
+Picture copied	Resim kopyalandı
+Pictures	Resimler
+Pictures, videos and documents show a small preview, as in Explorer, in the folders panel and on the shelf	Resimler, videolar ve belgeler klasörler panelinde ve rafta Dosya Gezgini'ndeki gibi küçük bir önizleme gösterir
+Pill	Kapsül
+Pill corners	Kapsül köşeleri
+Pill floats, Fixed keeps its room on the screen, Bar spans the edge	Kapsül yüzer, Sabit ekranda yerini korur, Çubuk kenara yayılır
+Pill height	Kapsül yüksekliği
+Pill items	Kapsül öğeleri
+Pill switches in the panel	Paneldeki kapsül anahtarları
+Pin a folder to the island	Bir klasörü adaya sabitle
+Pink	Pembe
+Pixel (Android)	Pixel (Android)
+Place	Konum
+Place (or drag the pill)	Konum (veya kapsülü sürükleyin)
+Place (the bar is at the top)	Konum (çubuk üstte)
+Place (the notches are at the top)	Konum (çentikler üstte)
+Place and icons per app	Uygulama başına konum ve simgeler
+Plan: 	Plan: 
+Play	Oyna
+Plug me in?	Beni prize takar mısın?
+Point to a JSON file with "name" and "windows" (or a list of them) to show other services here	Diğer hizmetleri burada göstermek için "name" ve "windows" içeren bir JSON dosyası (veya bunların listesini) seçin
+Pomodoro finished	Pomodoro bitti
+Power	Güç
+Power button	Güç düğmesi
+Power button (sleep, restart, shut down)	Güç düğmesi (uyku, yeniden başlat, kapat)
+Power draw	Güç tüketimi
+Power options	Güç seçenekleri
+Power plan	Güç planı
+Press	Tuşlara bas
+Press the keys	Tuşlara basın
+Press the keys (Tab moves on)…	Tuşlara basın (Tab ilerletir)…
+Pressing Win+A opens the island's control center instead of Windows'	Win+A, Windows'unkinin yerine adanın denetim merkezini açar
+Pressing Win+N opens the island's notifications instead of Windows'	Win+N, Windows'unkinin yerine adanın bildirimlerini açar
+Pressure	Basınç
+Privacy	Gizlilik
+Processor	İşlemci
+Processor use (CPU)	İşlemci kullanımı (CPU)
+Profile 	Profil 
+Profiles	Profiller
+Profiles button (switch profiles)	Profil düğmesi (profil değiştir)
+Program, file, folder, link or ms-settings:	Program, dosya, klasör, bağlantı veya ms-settings:
+Programs and Features	Programlar ve Özellikler
+Project	Yansıt
+Proud	Gururlu
+Puts a button on the pill that locks the PC	Kapsüle PC'yi kilitleyen bir düğme ekler
+Puts a button on the pill that opens Calculator	Kapsüle Hesap Makinesi'ni açan bir düğme ekler
+Puts a button on the pill that opens File Explorer	Kapsüle Dosya Gezgini'ni açan bir düğme ekler
+Puts a button on the pill that opens Task Manager	Kapsüle Görev Yöneticisi'ni açan bir düğme ekler
+Puts a button on the pill that opens Windows' Settings	Kapsüle Windows Ayarları'nı açan bir düğme ekler
+Puts a button on the pill that opens the Start button's right-click menu (the one of Win+X)	Kapsüle Başlat düğmesinin sağ tık menüsünü (Win+X menüsü) açan bir düğme ekler
+Puts a button on the pill that opens the accessibility options	Kapsüle erişilebilirlik seçeneklerini açan bir düğme ekler
+Puts a button on the pill that opens the clipboard history	Kapsüle pano geçmişini açan bir düğme ekler
+Puts a button on the pill that opens the emoji panel	Kapsüle emoji panelini açan bir düğme ekler
+Puts a button on the pill that opens the on-screen keyboard	Kapsüle ekran klavyesini açan bir düğme ekler
+Puts a button on the pill that shows or hides the touch keyboard	Kapsüle dokunmatik klavyeyi gösteren veya gizleyen bir düğme ekler
+Puts a button on the pill that shows the desktop	Kapsüle masaüstünü gösteren bir düğme ekler
+Puts a button on the pill that takes a screenshot	Kapsüle ekran görüntüsü alan bir düğme ekler
+Puts a button on the pill that turns live captions on	Kapsüle canlı altyazıları açan bir düğme ekler
+Puts a button on the pill to cast the screen	Kapsüle ekranı yayınlamak için bir düğme ekler
+Puts a button on the pill to choose the display mode	Kapsüle görüntü modunu seçmek için bir düğme ekler
+Puts a button on the pill to start, stop or reload komorebi	Kapsüle komorebi'yi başlatmak, durdurmak veya yeniden yüklemek için bir düğme ekler
+Puts a one-click Airplane mode button on the pill	Kapsüle tek tıkla Uçak modu düğmesi ekler
+Puts a one-click Bluetooth button on the pill	Kapsüle tek tıkla Bluetooth düğmesi ekler
+Puts a one-click Mobile hotspot button on the pill	Kapsüle tek tıkla Mobil etkin nokta düğmesi ekler
+Puts a one-click Night light button on the pill	Kapsüle tek tıkla Gece ışığı düğmesi ekler
+Puts a one-click Wi-Fi and network button on the pill	Kapsüle tek tıkla Wi-Fi ve ağ düğmesi ekler
+Puts previous, play and next buttons right on the pill	Kapsüle önceki, oynat ve sonraki düğmelerini ekler
+Puts the clock in the middle with the other items around it	Saati ortaya, diğer öğeleri çevresine yerleştirir
+Rain	Yağmur
+Rain chance	Yağmur ihtimali
+Rainbow	Gökkuşağı
+Reacts to what the PC is doing	Bilgisayarın yaptığına tepki verir
+Reading…	Okunuyor…
+Reads limits from a JSON file on this PC ({"name", "windows"})	Bu bilgisayardaki bir JSON dosyasından sınırları okur ({"name", "windows"})
+Record shortcut	Kısayolu kaydet
+Record: %s	Rekor: %s
+Recycle Bin	Geri Dönüşüm Kutusu
+Recycle Bin appears	Geri Dönüşüm Kutusu görünür
+Red	Kırmızı
+Reflex	Refleks
+Remember my choice (it's in the island's settings)	Seçimimi hatırla (adanın ayarlarında)
+Reminder	Hatırlatıcı
+Repeat	Tekrarla
+Repeat all	Tümünü tekrarla
+Repeat off	Tekrar kapalı
+Repeat one	Birini tekrarla
+Reply	Yanıtla
+Report a bug or suggest an idea, GitHub tells you when it comes out	Bir hata bildirin veya fikir önerin, yayımlandığında GitHub size haber verir
+Reset	Sıfırla
+Restart	Yeniden başlat
+Restart now?	Şimdi yeniden başlatılsın mı?
+Resting the mouse on an item opens its panel, and it closes a moment after the mouse leaves. Buttons that do something still need a click; a click keeps the panel open	Fareyi bir öğenin üstünde tutmak panelini açar, fare ayrılınca kısa süre sonra kapanır. Bir şey yapan düğmeler yine tıklama ister; tıklama paneli açık tutar
+Restore what changed	Değişenleri geri al
+Resume	Devam et
+Reverse the wheel (up is the next song)	Tekerleği ters çevir (yukarı sonraki şarkıdır)
+Right	Sağ
+Ring with the battery's charge	Pil şarjını gösteren halka
+Room at the pill's ends	Kapsülün uçlarındaki boşluk
+Room between the bars	Çubuklar arasındaki boşluk
+Round	Tur
+Rounds the corners where the bar meets the screen, like a screen's own round corners	Çubuğun ekranla buluştuğu köşeleri, ekranın kendi yuvarlak köşeleri gibi yuvarlar
+Rows	Satır
+Run a command line	Bir komut satırı çalıştır
+Run by itself, at a time	Belirli bir saatte kendiliğinden çalıştır
+Runs in cmd.exe without a window; a terminal shows only if it fails.	cmd.exe'de pencere olmadan çalışır; terminal yalnızca başarısız olursa görünür.
+Sad · nobody has played with her for %s h	Üzgün · %s saattir kimse onunla oynamadı
+Safe to remove	Güvenle kaldırılabilir
+Same as main: changes here apply to it too · + creates this monitor's profile	Ana adayla aynı: buradaki değişiklikler ona da uygulanır · + bu monitörün profilini oluşturur
+Same as the main one	Ana adayla aynı
+Save	Kaydet
+Save  (Enter)	Kaydet  (Enter)
+Save Windows' icons	Windows simgelerini kaydet
+Save Windows' icons puts a picture of every icon in the folder, named after it (wifi.png, battery-5.png...): replace the ones you want, and they show a moment later	“Windows simgelerini kaydet”, her simgenin resmini adıyla (wifi.png, battery-5.png...) klasöre koyar: istediklerinizi değiştirin, kısa süre sonra görünürler
+Save current here	Mevcut olanı buraya kaydet
+Save current settings	Mevcut ayarları kaydet
+Save texts	Metinleri kaydet
+Save the island's logs	Adanın günlüklerini kaydet
+Save the island's texts to translate	Adanın çevrilecek metinlerini kaydet
+Save...	Kaydet...
+Saved ✓	Kaydedildi ✓
+Saved.	Kaydedildi.
+Saves a backup file or loads one; Reset puts every setting back to its default (clicked twice)	Bir yedek dosyası kaydeder veya yükler; Sıfırla her ayarı varsayılana döndürür (iki kez tıklanır)
+Saves every text of the island in a file, in the language chosen if it isn't English, to translate or fix. Send it in a new issue at the Windhawk repository	Adanın tüm metinlerini, İngilizce değilse seçili dilde, çevirmek veya düzeltmek için bir dosyaya kaydeder. Windhawk deposunda yeni bir issue olarak gönderin
+Saving Windows' icons…	Windows simgeleri kaydediliyor…
+Saving…	Kaydediliyor…
+Scales only the icons on the pill (their room too)	Yalnızca kapsüldeki simgeleri ölçekler (yerlerini de)
+Scales only the texts on the pill: the clock, percentages and titles	Yalnızca kapsüldeki metinleri ölçekler: saat, yüzdeler ve başlıklar
+Scales the control center, calendar and other panels	Denetim merkezini, takvimi ve diğer panelleri ölçekler
+Scales the pill, icons and panels together	Kapsülü, simgeleri ve panelleri birlikte ölçekler
+Screen	Ekran
+Screen brightness	Ekran parlaklığı
+Screen brightness (the mouse wheel changes it)	Ekran parlaklığı (fare tekerleği değiştirir)
+Screens	Ekranlar
+Screenshot	Ekran görüntüsü
+Screenshot notifications open the picture (in Explorer)	Ekran görüntüsü bildirimleri resmi açar (Dosya Gezgini'nde)
+Scrolling	Kaydırma
+Scrolling on the player skips songs instead of changing the volume	Oynatıcıda kaydırmak sesi değiştirmek yerine şarkı atlar
+Scrolling up skips to the next song and scrolling down to the one before, instead of the other way round	Yukarı kaydırmak sonraki şarkıya, aşağı kaydırmak öncekine geçer; tersi değil
+Search	Ara
+Search apps	Uygulama ara
+Search here (a name or *.pdf)	Burada ara (bir ad veya *.pdf)
+Search results	Arama sonuçları
+Second screen only	Yalnızca ikinci ekran
+Seconds	Saniye
+Seconds the pill waits after the mouse leaves before it hides	Fare ayrıldıktan sonra kapsülün gizlenmeden önce bekleyeceği saniye
+See it in a terminal	Terminalde gör
+See what's new in this version	Bu sürümdeki yenilikleri gör
+See-through bar	Saydam çubuk
+See-through blurred pill with a bright edge, needs Windows transparency	Saydam, bulanık, parlak kenarlı kapsül; Windows saydamlığı gerekir
+See-through only on the desktop	Yalnızca masaüstünde saydam
+Separator line · drag to move · click to remove	Ayırıcı çizgi · taşımak için sürükleyin · kaldırmak için tıklayın
+Set a timer	Zamanlayıcı kur
+Set an alarm	Alarm kur
+Set up	Kur
+Sets the order of day, month and year when the date shows	Tarih görünürken gün, ay ve yılın sırasını belirler
+Settings	Ayarlar
+Settings back to their defaults	Ayarlar varsayılana döndü
+Setup assistant	Kurulum yardımcısı
+Share	Paylaş
+Shared memory	Paylaşılan bellek
+She asked to play	Oynamak istedi
+She asks to play when bored	Canı sıkılınca oynamak ister
+She giggles with a note	Bir notayla kıkırdar
+She jumps from cloud to cloud by herself; you only steer her sideways with the mouse or the arrows. Grey clouds vanish after a jump and some move.	Bulutlardan buluta kendi kendine zıplar; siz onu yalnızca fareyle veya oklarla yana yönlendirirsiniz. Gri bulutlar zıpladıktan sonra kaybolur ve bazıları hareket eder.
+She jumps, startled, then smiles and sparkles	Şaşırıp zıplar, sonra gülümser ve parlar
+She makes sounds	Ses çıkarır
+She pants when the processor, the memory or the graphics card works hard, gets tired when the battery is low and keeps still during Pomodoro's focus	İşlemci, bellek veya ekran kartı çok çalışınca soluk soluğa kalır, pil azalınca yorulur ve Pomodoro odaklanmasında kıpırdamaz
+She reacts to everything below; off, choose each reaction	Aşağıdaki her şeye tepki verir; kapalıyken her tepkiyi ayrı seçin
+She smiles as the Wi-Fi arcs come back	Wi-Fi yayları geri gelince gülümser
+She woke up: you came back	Uyandı: geri döndünüz
+She's proud, and a check mark is drawn	Gururlu ve bir onay işareti çizilir
+She's sad, with a question mark	Üzgün, bir soru işaretiyle
+She's startled by a ringing alarm mark	Çalan bir alarm işareti onu şaşırtır
+Shelf	Raf
+Shelf for files	Dosyalar için raf
+Shelf holds	Rafın kapasitesi
+Shh, nobody wakes me up now.	Şş, şimdi kimse beni uyandırmasın.
+Shh… focus mode.	Şş… odak modu.
+Short	Kısa
+Short name	Kısa ad
+Shortcut: let clicks through the pill	Kısayol: tıklamaları kapsülün içinden geçir
+Shortcuts	Kısayollar
+Shortcuts to programs and files (or command lines) you add, with their own icons, a click away in their panel; any of them can be a button on the pill or have a keyboard shortcut (set in its editor)	Eklediğiniz program ve dosyalara (veya komut satırlarına) kendi simgeleriyle kısayollar, panelinde tek tıkla; hepsi kapsülde düğme olabilir veya klavye kısayoluna sahip olabilir (düzenleyicisinde ayarlanır)
+Show	Göster
+Show %zu hidden	%zu gizli olanı göster
+Show VLC 3 from its window's title	VLC 3'ü pencere başlığından göster
+Show a notice when the song changes	Şarkı değişince uyarı göster
+Show all	Tümünü göster
+Show desktop	Masaüstünü göster
+Show what they say	Ne dediklerini göster
+Show what's copied (a bubble under the pill)	Kopyalananı göster (kapsülün altında bir balon)
+Showers	Sağanak
+Shown under the mouse; up to 16 letters, empty is Faísca	Fare altında gösterilir; en fazla 16 harf, boşsa Faísca olur
+Shows GlazeWM's workspaces on the pill, a dot each; a click switches to it	GlazeWM çalışma alanlarını kapsülde, her biri bir nokta olarak gösterir; tıklamak ona geçer
+Shows a banner on the pill when a notification arrives	Bildirim gelince kapsülde bir başlık bildirimi gösterir
+Shows a bubble under the pill with what you just copied	Kapsülün altında az önce kopyaladığınızı gösteren bir balon gösterir
+Shows a mark and the app name while the mic, camera or location is used	Mikrofon, kamera veya konum kullanılırken bir işaret ve uygulama adını gösterir
+Shows a notice each time a USB drive is plugged in	Her USB sürücü takıldığında bir uyarı gösterir
+Shows a notice when the battery goes under 20% and under 10%	Pil %20'nin ve %10'un altına düşünce uyarı gösterir
+Shows a notice when the charger is plugged in	Şarj cihazı takılınca uyarı gösterir
+Shows a notice when you turn Do not disturb on or off	Rahatsız etmeyin'i açıp kapatınca uyarı gösterir
+Shows a notice with the device's name when Bluetooth audio connects	Bluetooth ses bağlanınca cihazın adıyla bir uyarı gösterir
+Shows an icon on the pill for each app with notifications	Bildirimi olan her uygulama için kapsülde bir simge gösterir
+Shows an icon to open or eject plugged-in USB drives	Takılı USB sürücüleri açmak veya çıkarmak için bir simge gösterir
+Shows bars that move with the sound that is playing	Çalan sese göre hareket eden çubuklar gösterir
+Shows how busy the graphics card is; a click opens its panel	Ekran kartının ne kadar meşgul olduğunu gösterir; tıklamak panelini açar
+Shows how busy the processor is	İşlemcinin ne kadar meşgul olduğunu gösterir
+Shows how long until the next event, alarm, timer or Pomodoro part	Sonraki etkinliğe, alarma, zamanlayıcıya veya Pomodoro bölümüne ne kadar kaldığını gösterir
+Shows how much memory is in use	Ne kadar belleğin kullanıldığını gösterir
+Shows how much video memory is in use	Ne kadar video belleğinin kullanıldığını gösterir
+Shows komorebi's workspaces and layout on the pill, a menu changes it	komorebi'nin çalışma alanlarını ve düzenini kapsülde gösterir, bir menü değiştirir
+Shows notices for the charger, low battery, Bluetooth audio and Do not disturb	Şarj cihazı, düşük pil, Bluetooth ses ve Rahatsız etmeyin için uyarılar gösterir
+Shows pending app and Windows updates from winget and Windows Update	winget ve Windows Update'ten bekleyen uygulama ve Windows güncellemelerini gösterir
+Shows small bubbles with names and app notifications on hover	Üstüne gelince adlar ve uygulama bildirimleriyle küçük balonlar gösterir
+Shows the battery icon on the pill	Kapsülde pil simgesini gösterir
+Shows the control center's icon, click for Wi-Fi, Bluetooth, volume and more	Denetim merkezi simgesini gösterir, Wi-Fi, Bluetooth, ses ve daha fazlası için tıklayın
+Shows the cover and the song title on the pill	Kapsülde kapağı ve şarkı başlığını gösterir
+Shows the current keyboard language, like the Windows indicator	Geçerli klavye dilini gösterir, Windows göstergesi gibi
+Shows the current upload and download speed	Geçerli yükleme ve indirme hızını gösterir
+Shows the extra clocks you added in Windows	Windows'ta eklediğiniz ek saatleri gösterir
+Shows the graphics card's temperature when its driver gives it, in °C or °F like the weather	Sürücüsü verirse ekran kartının sıcaklığını gösterir, hava durumu gibi °C veya °F olarak
+Shows the icon and name of the app in focus on this monitor	Bu monitörde odaktaki uygulamanın simgesini ve adını gösterir
+Shows the keys that let clicks through, click them to record a combination	Tıklamaları geçiren tuşları gösterir, bir kombinasyon kaydetmek için tıklayın
+Shows the minimize keys, click them to record a new combination	Küçültme tuşlarını gösterir, yeni bir kombinasyon kaydetmek için tıklayın
+Shows the notifications	Bildirimleri gösterir
+Shows the number and name of the virtual desktop for a moment when you switch to it, also when the island is minimized	Sanal masaüstüne geçince numarasını ve adını bir an gösterir, ada küçültülmüşken de
+Shows the playing song or video with its cover and controls	Çalan şarkıyı veya videoyu kapağı ve denetimleriyle gösterir
+Shows the processor's temperature when Windows reports one, in °C or °F like the weather	Windows bildirirse işlemcinin sıcaklığını gösterir, hava durumu gibi °C veya °F olarak
+Shows the screen brightness, scroll the wheel on it to change	Ekran parlaklığını gösterir, değiştirmek için üstünde tekerleği kaydırın
+Shows the time on the pill	Kapsülde saati gösterir
+Shows the two switches at the end of the song's panel, for the buttons and for the cover and title on the pill. They stay in these settings either way	Şarkı panelinin sonunda iki anahtarı gösterir: düğmeler için ve kapsüldeki kapak ile başlık için. Hangisi olursa olsun bu ayarlarda kalırlar
+Shows the virtual desktops, scroll the wheel on it to switch; a click opens their list, where the pencil renames one (Windows 11 24H2 and later)	Sanal masaüstlerini gösterir, geçmek için üstünde tekerleği kaydırın; tıklamak listesini açar, kalem birini yeniden adlandırır (Windows 11 24H2 ve sonrası)
+Shows the volume icon, click for the volume panel	Ses simgesini gösterir, ses paneli için tıklayın
+Shows the volume sliders, the link to Windows' mixer and the Mixer with each app's volume under the player in the song's panel. Turn off for a panel with only the player	Şarkı panelinde oynatıcının altında ses kaydırıcılarını, Windows karıştırıcısına bağlantıyı ve her uygulamanın sesiyle Karıştırıcı'yı gösterir. Yalnızca oynatıcılı bir panel için kapatın
+Shows the weather, it needs an internet connection	Hava durumunu gösterir, internet bağlantısı gerekir
+Shows this action in the power button's menu; if only one is on, a click on the button runs it	Bu eylemi güç düğmesinin menüsünde gösterir; yalnızca biri açıksa düğmeye tıklamak onu çalıştırır
+Shrinks the pill to a thin line on the screen edge when idle	Boştayken kapsülü ekran kenarında ince bir çizgiye küçültür
+Shuffle	Karıştır
+Shut down	Kapat
+Shut down now?	Şimdi kapatılsın mı?
+Sign out	Oturumu kapat
+Sign out now?	Oturum şimdi kapatılsın mı?
+Simple	Basit
+Size	Boyut
+Sizes	Boyutlar
+Skip	Atla
+Sky	Gökyüzü
+Sleep	Uyku
+Slide	Kayma
+Small	Küçük
+Smallest first	Önce en küçük
+Smooth bars (like the iPhone)	Yumuşak çubuklar (iPhone gibi)
+Smoothness of the animations, matching the screen or a fixed rate	Animasyonların akıcılığı, ekrana uyan veya sabit bir hızda
+Snooze	Ertele
+Snoozed: shows again in 5 minutes	Ertelendi: 5 dakika sonra yine görünür
+Snow	Kar
+Snow showers	Kar sağanağı
+Something just came in!	Az önce bir şey geldi!
+Song changed	Şarkı değişti
+Song lyrics	Şarkı sözleri
+Song lyrics (goes online: lrclib.net)	Şarkı sözleri (çevrimiçi: lrclib.net)
+Sort by	Sıralama ölçütü
+Sound	Ses
+Sound files	Ses dosyaları
+Sound output	Ses çıkışı
+Sound waves come out of her	Ondan ses dalgaları çıkar
+Sounds of each event	Her olayın sesleri
+Space	Boşluk
+Speed	Hız
+Speeds up or slows down the animations, on every monitor	Animasyonları her monitörde hızlandırır veya yavaşlatır
+Spinning like crazy.	Deli gibi dönüyorum.
+Splits the island into notches against the top edge, around the camera; the Island and Fixed styles each keep their own	Adayı kamera çevresinde, üst kenara karşı çentiklere böler; Ada ve Sabit stillerinin her biri kendininkini korur
+Square	Kare
+Stands the pill up on the left and right edges (not with notches)	Kapsülü sol ve sağ kenarlarda dik durdurur (çentiklerle değil)
+Start	Başlat
+Startled	Şaşırmış
+Starts over in	Sıfırlanmaya kalan
+Status	Durum
+Status notices: charger, low battery, Bluetooth audio, Do not disturb	Durum uyarıları: şarj cihazı, düşük pil, Bluetooth ses, Rahatsız etmeyin
+Stay over borderless full-screen apps	Kenarlıksız tam ekran uygulamaların üstünde kal
+Sticky keys	Yapışkan Tuşlar
+Stop	Durdur
+Stop keeping it open	Açık tutmayı bırak
+Stop poking me!	Dürtmeyi bırak!
+Stop, that tickles!	Dur, gıdıklanıyorum!
+Stopped	Durduruldu
+Stops Windows' own banners so you only see the island's	Windows'un kendi başlık bildirimlerini durdurur, böylece yalnızca adanınkiler görünür
+Stopwatch	Kronometre
+Style	Stil
+Style (the options of the style chosen under it)	Stil (altından seçilen stilin seçenekleri)
+Sure?	Emin misiniz?
+Switches, adds, renames, updates or deletes your profiles	Profillerinizi değiştirir, ekler, yeniden adlandırır, günceller veya siler
+System	Sistem
+System alerts (the charger, a low battery, Bluetooth, Do not disturb and the desktop) show as a wide compact pill: the icon in a circle of its color at the left, the title, and the value at the right end (a battery as a small battery, a headset's as a ring). They keep their time and their queue	Sistem uyarıları (şarj cihazı, düşük pil, Bluetooth, Rahatsız etmeyin ve masaüstü) geniş, kompakt bir kapsül olarak görünür: solda renginde bir daire içinde simge, başlık ve sağ uçta değer (pil küçük bir pil olarak, kulaklığınki bir halka olarak). Süreleri ve sıraları korunur
+System sounds (notifications)	Sistem sesleri (bildirimler)
+Tabler (online)	Tabler (çevrimiçi)
+Take care of Faísca	Faísca'ya bak
+Task	Görev
+Task Manager	Görev Yöneticisi
+Task view	Görev görünümü
+Taskbar back to Windows' default for now	Görev çubuğu şimdilik Windows varsayılanında
+Tasks	Görevler
+Tasks button	Görev düğmesi
+Tasks with a date in the calendar	Takvimde tarihi olan görevler
+Tell me what's new after an update	Güncellemeden sonra yenilikleri bildir
+Temperature	Sıcaklık
+Temperature unit	Sıcaklık birimi
+Text	Metin
+Text size	Metin boyutu
+Texts in this language reviewed by %s	Bu dildeki metinleri %s gözden geçirdi
+Texts to translate (*.json)	Çevrilecek metinler (*.json)
+That path is too long	Bu yol çok uzun
+That sound off	Bu sesi kapat
+The Bar also shrinks to a thin line on the screen's edge when the mouse is away, and comes back as the mouse reaches the line. Windows then use the strip it kept, and the Bar shows over them	Fare uzaktayken Çubuk da ekranın kenarında ince bir çizgiye küçülür ve fare çizgiye varınca geri gelir. Pencereler o zaman koruduğu şeridi kullanır ve Çubuk onların üstünde görünür
+The Bar style	Çubuk stili
+The PC shuts down after it. Esc or a click stops it.	Ardından bilgisayar kapanır. Esc veya bir tıklama iptal eder.
+The app in focus on this monitor (its icon and name)	Bu monitörde odaktaki uygulama (simgesi ve adı)
+The apps heard playing, also players without Windows' media controls; with some on, only they bring it. With none on, any sound does	Çalarken duyulan uygulamalar, Windows medya denetimleri olmayan oynatıcılar da; bazıları açıksa yalnızca onlar getirir. Hiçbiri açık değilse her ses getirir
+The apps seen playing; a click turns one's lyrics off, and nothing of its songs is sent to lrclib.net	Çalarken görülen uygulamalar; tıklamak birinin sözlerini kapatır ve şarkılarından hiçbiri lrclib.net'e gönderilmez
+The apps seen playing; only the ones you check make her dance and react to songs. Empty until an app plays	Çalarken görülen uygulamalar; yalnızca işaretlediğiniz onu dans ettirir ve şarkılara tepki verir. Bir uygulama çalana kadar boş
+The apps' notifications come in a capsule like the pill: the photo or icon at the left, the name and the message on one line, the app's icon at the right. Under the mouse it opens to the whole text and the reply. Calls, alarms and reminders keep their buttons as they are	Uygulamaların bildirimleri kapsül gibi bir kapsülde gelir: solda fotoğraf veya simge, ad ve ileti tek satırda, sağda uygulamanın simgesi. Fare altında tüm metne ve yanıta açılır. Aramalar, alarmlar ve anımsatıcılar düğmelerini olduğu gibi korur
+The bar at the top, or upright on the left or the right edge, its items one under the other; windows keep out of its strip	Çubuk üstte veya sol ya da sağ kenarda dik, öğeleri alt alta; pencereler şeridinden uzak durur
+The bar doesn't minimize	Çubuk küçülmez
+The bar's inner corners	Çubuğun iç köşeleri
+The bar's side	Çubuğun tarafı
+The bars' color; the rainbow gives each bar its own, going around slowly	Çubukların rengi; gökkuşağı her çubuğa kendi rengini verir, yavaşça dönerek
+The battery icon's color while it charges; green is the usual, like a phone's	Şarj olurken pil simgesinin rengi; yeşil olağandır, telefonlardaki gibi
+The battery's charge while a laptop charges	Dizüstü şarj olurken pilin şarjı
+The bell opens Windows' notification center	Zil, Windows bildirim merkezini açar
+The buttons on the panels	Panellerdeki düğmeler
+The calendar marks the days that have a task due with a small dash, and lists those tasks with the day's events, where a tick completes them. Needs the dates on tasks	Takvim, görevi olan günleri küçük bir çizgiyle işaretler ve bu görevleri günün etkinlikleriyle listeler; işaret görevi tamamlar. Görevlerde tarih gerekir
+The calendar opens as a card: today big at its left, the month beside it, buttons for the alarms, the timer and your agendas, and the day's events	Takvim bir kart olarak açılır: solda büyük bugün, yanında ay, alarmlar, zamanlayıcı ve takvimleriniz için düğmeler ve günün etkinlikleri
+The charger plugged in	Şarj cihazı takıldı
+The charger was plugged in	Şarj cihazı takıldı
+The clock on the pill and in the calendar, in a font of its own	Kapsülde ve takvimde saat, kendi yazı tipiyle
+The control center's buttons	Denetim merkezinin düğmeleri
+The cover's	Kapağın rengi
+The day's events and holidays under the month, the next ones and the button to add one. Off, the calendar shows only the clock and the month; reminders and the countdown keep working	Ayın altında günün etkinlikleri ve tatilleri, sonrakiler ve bir tane ekleme düğmesi. Kapalıyken takvim yalnızca saati ve ayı gösterir; anımsatıcılar ve geri sayım çalışmaya devam eder
+The dock is chosen in Windhawk, in this mod's settings: Taskbar (the dock, the Windows taskbar transparent or with only the apps, or unchanged); the island can't change it	Dock, Windhawk'ta, bu modun ayarlarında seçilir: Görev çubuğu (Dock, saydam Windows görev çubuğu veya yalnızca uygulamalı, ya da değiştirilmemiş); ada bunu değiştiremez
+The dock is optional: it takes the taskbar's place, and it's chosen in Windhawk	Dock isteğe bağlıdır: görev çubuğunun yerini alır ve Windhawk'ta seçilir
+The dock is set up in Windhawk	Dock Windhawk'ta ayarlanır
+The edge zone as wide as the pill	Kapsül kadar geniş kenar bölgesi
+The effect shown when the wallpaper changes	Duvar kâğıdı değişince gösterilen efekt
+The favorite's drive isn't connected	Sık kullanılan öğenin sürücüsü bağlı değil
+The folder with your icons	Simgelerinizin olduğu klasör
+The folder with your wallpapers	Duvar kâğıtlarınızın olduğu klasör
+The glass gets a sheen, a beveled edge, light along its bottom and a soft shadow around it, and the panels' cards look like glass too (idea by Thiago Silva)	Cam parlaklık, eğimli bir kenar, altında ışık ve çevresinde yumuşak bir gölge kazanır; panellerin kartları da cam gibi görünür (fikir: Thiago Silva)
+The graphics card is flying!	Ekran kartı uçuyor!
+The hotspot isn't available now.	Mobil etkin nokta şu an kullanılamıyor.
+The icons'	Simgelerin rengi
+The internet is back	İnternet geri geldi
+The internet went away	İnternet gitti
+The island follows the mouse between screens.	Ada, fareyi ekranlar arasında izler.
+The island handles notifications and their sounds (Windows' stay quiet)	Ada, bildirimleri ve seslerini yönetir (Windows'unkiler sessiz kalır)
+The island is the pill at the top of the screen: the clock, the control center, your notifications and what's playing	Ada, ekranın üstündeki kapsüldür: saat, denetim merkezi, bildirimleriniz ve çalan şarkı
+The island shows the notifications and plays their sounds, Windows stays quiet	Ada, bildirimleri gösterir ve seslerini çalar, Windows sessiz kalır
+The island stopped working	Ada çalışmayı durdurdu
+The island takes the color of the app in front	Ada, öndeki uygulamanın rengini alır
+The island's	Adanın yazı tipi
+The island's logs	Adanın günlükleri
+The island's: no banners or sounds from it	Adanınki: ondan başlık bildirimi veya ses yok
+The items before the clock in the order stay at one corner and the others at the other, without changing sides as items come and go	Sıradaki saatten önceki öğeler bir köşede, diğerleri öbür köşede kalır; öğeler gelip gidince taraf değiştirmezler
+The keys below make the pill let clicks through to what's under it, and again take them back; it stays shown	Aşağıdaki tuşlar kapsülün tıklamaları altındakine geçirmesini sağlar ve yine geri alır; görünür kalır
+The keys below send the island to its line, and again bring it back	Aşağıdaki tuşlar adayı çizgisine gönderir ve yine geri getirir
+The komorebi buttons also start and stop masir, so focus follows the mouse	komorebi düğmeleri masir'i de başlatıp durdurur, böylece odak fareyi izler
+The komorebi buttons also start and stop whkd, its shortcut helper	komorebi düğmeleri kısayol yardımcısı whkd'yi de başlatıp durdurur
+The line sung now on the pill (place it in the order above), all of them in its panel. Each song's title and artist are sent to lrclib.net (songs only: not videos, voice messages or the apps turned off below)	Şimdi söylenen satır kapsülde (yukarıdaki sırada yerleştirin), hepsi panelinde. Her şarkının başlığı ve sanatçısı lrclib.net'e gönderilir (yalnızca şarkılar: videolar, sesli iletiler veya aşağıda kapatılan uygulamalar değil)
+The line's color, on the pill and lit in the panel	Satırın rengi, kapsülde ve panelde vurgulu
+The list stays open after you click an icon (In the pill style)	Bir simgeye tıkladıktan sonra liste açık kalır (Kapsülde stilinde)
+The memory is packed!	Bellek dolup taşıyor!
+The minimize arrow keeps the island open	Küçültme oku adayı açık tutar
+The mod's site	Modun sitesi
+The mouse at the edge, anywhere along the pill's width, brings it back, also with the line invisible	Fare kenarda, kapsülün genişliği boyunca herhangi bir yerde, onu geri getirir; çizgi görünmezken de
+The name has 1 to 32 characters (a letter outside English, like an accented one, counts as two or three).	Ad 1 ila 32 karakterdir (İngilizce dışı bir harf, aksanlı gibi, iki veya üç sayılır).
+The next alarm that's on	Açık olan sonraki alarm
+The one chosen on the map	Haritada seçilen
+The password has 8 to 63 letters, numbers or symbols, without accents.	Parola 8 ila 63 harf, rakam veya simgedir, aksansız.
+The password has at least 8 characters.	Parola en az 8 karakterdir.
+The pill as a loading bar	Yükleme çubuğu olarak kapsül
+The pill can stay, or become a thin line while the mouse is away or while a window is maximized; the mouse on the line brings it back	Kapsül kalabilir veya fare uzaktayken ya da bir pencere büyütülmüşken ince bir çizgi olabilir; fareyi çizgiye getirmek onu geri getirir
+The pill fills like a loading bar with downloads	Kapsül indirmelerle yükleme çubuğu gibi dolar
+The pill fills with the battery's charge while charging	Şarj olurken kapsül pilin şarjıyla dolar
+The pill glows with her	Kapsül onunla parlar
+The pill lights up in several colors. Click (or press Space) only when it turns her color. Five rounds; the average counts, and each wrong click adds 300 ms to the total.	Kapsül birkaç renkte yanar. Yalnızca onun rengine dönünce tıklayın (veya Boşluk'a basın). Beş tur; ortalama sayılır ve her yanlış tıklama toplama 300 ms ekler.
+The pill shows the song's cover without its title. Hover it to read the title	Kapsül şarkının kapağını başlıksız gösterir. Başlığı okumak için üstüne gelin
+The pill takes clicks again	Kapsül yine tıklama alır
+The pill's and the panels' texts, in a font from your PC (click it again to pick another)	Kapsülün ve panellerin metinleri, bilgisayarınızdaki bir yazı tipiyle (başkasını seçmek için tekrar tıklayın)
+The pill's other items	Kapsülün diğer öğeleri
+The pill's shape	Kapsülün şekli
+The processor is sweating. So am I.	İşlemci terliyor. Ben de.
+The progress apps show on their taskbar button (downloads, copies, installs)	Uygulamaların görev çubuğu düğmesinde gösterdiği ilerleme (indirmeler, kopyalamalar, kurulumlar)
+The room between the bars; the item grows with it	Çubuklar arasındaki boşluk; öğe onunla büyür
+The settings' own icons	Ayarların kendi simgeleri
+The sky as emoji, with the icon pack chosen in the Icons tab, or with a set of weather pictures downloaded once when chosen (Meteocons in color, Weather Icons in one color)	Gökyüzü emoji olarak, Simgeler sekmesinde seçilen simge paketiyle veya seçildiğinde bir kez indirilen hava durumu resimleriyle (renkli Meteocons, tek renkli Weather Icons)
+The small pill with the time touches the screen's edge, straight on that side and as thin as its text, covering less of what's under it. The mouse on it opens the island as usual	Saatli küçük kapsül ekranın kenarına değer, o tarafta düz ve metni kadar ince, altındakini daha az kapatır. Fareyi üstüne getirmek adayı her zamanki gibi açar
+The song changed	Şarkı değişti
+The text's	Metnin rengi
+The timer fills the pill with color	Zamanlayıcı kapsülü renkle doldurur
+The title and the text, in the pill and in this list	Başlık ve metin, kapsülde ve bu listede
+The volume changed	Ses değişti
+The weather panel shows feels like, humidity, wind, UV, rain, pressure and clouds as small cards, like a phone's	Hava durumu paneli hissedilen sıcaklığı, nemi, rüzgârı, UV'yi, yağmuru, basıncı ve bulutları telefondaki gibi küçük kartlar olarak gösterir
+The weather service didn't answer	Hava durumu servisi yanıt vermedi
+The wheel on what's playing changes the song (not the volume)	Tekerlek çalarken şarkıyı değiştirir (sesi değil)
+Their own	Kendi renkleri
+Their sliders talk to the monitor over its cable. Turn off if a monitor flickers or a dock or MST hub resets when the control center opens	Kaydırıcıları monitörle kablosu üzerinden konuşur. Bir monitör titrerse veya denetim merkezi açılınca bir dock ya da MST hub sıfırlanırsa kapatın
+Thinking about nothing. On purpose.	Hiçbir şey düşünmüyorum. Bilerek.
+Thirsty · water at %s	Susamış · su %s
+This PC	Bu bilgisayar
+This assistant sets the main choices in a few steps, and each one changes the island at once; everything else is in the tabs on the left	Bu yardımcı ana seçimleri birkaç adımda ayarlar ve her biri adayı hemen değiştirir; diğer her şey soldaki sekmelerde
+This computer has no battery	Bu bilgisayarda pil yok
+This isn't working.	Bu çalışmıyor.
+This monitor's profile: changes here apply to every monitor using it	Bu monitörün profili: buradaki değişiklikler onu kullanan her monitöre uygulanır
+This one's good!	Bu güzelmiş!
+Three	Üç
+Thumbnails of the files	Dosyaların küçük resimleri
+Thunderstorm	Gök gürültülü fırtına
+Thunderstorm with hail	Dolu ile gök gürültülü fırtına
+Tiling	Tiling
+Time (hour:minute)	Saat (saat:dakika)
+Time for a break	Mola zamanı
+Time format	Saat biçimi
+Time until the next	Sonrakine kalan süre
+Time's up	Süre doldu
+Timer	Zamanlayıcı
+Timer on the minimized line	Küçültülmüş çizgide zamanlayıcı
+Timer, stopwatch and Pomodoro	Zamanlayıcı, kronometre ve Pomodoro
+Tips under the icons and buttons (their names, an app's notifications)	Simgelerin ve düğmelerin altında ipuçları (adları, bir uygulamanın bildirimleri)
+Tired · the battery at %s, unplugged	Yorgun · pil %s, fişte değil
+Title	Başlık
+Title width	Başlık genişliği
+To talk to me and follow my projects	Benimle konuşmak ve projelerimi izlemek için
+To use “%s”, change:	“%s” kullanmak için şunu değiştirin:
+Today	Bugün
+Today's color	Bugünün rengi
+Together for %s days	%s gündür birlikte
+Together for 1 day	1 gündür birlikte
+Together since today	Bugünden beri birlikte
+Tomorrow	Yarın
+Too many agendas	Çok fazla takvim
+Top	Üst
+Top left	Sol üst
+Top right	Sağ üst
+Topics	Konular
+Total	Toplam
+Touch keyboard	Dokunmatik klavye
+Transition	Geçiş
+Translucent glass: a lighter tint and livelier colors	Yarı saydam cam: daha açık bir ton ve daha canlı renkler
+Tray icons	Sistem tepsisi simgeleri
+Try again	Tekrar dene
+Try again, or share the file from Explorer	Tekrar deneyin veya dosyayı Dosya Gezgini'nden paylaşın
+Turn it on once in Windows' settings: from then on the island switches it	Bir kez Windows ayarlarından açın, sonrasında ada onu açıp kapatabilir
+Turn it up, I know this one.	Sesi aç, bunu biliyorum.
+Turn on Claude Code, Codex or Custom in the settings	Ayarlarda Claude Code, Codex veya Özel'i açın
+Turned off	Kapatıldı
+Turned on	Açıldı
+Turns the island's animations on or off, on every monitor	Adanın animasyonlarını her monitörde açar veya kapatır
+Type	Tür
+Type the command line.	Komut satırını yazın.
+Type the time as hours and minutes, like 08:30.	Saati saat ve dakika olarak yazın, örneğin 08:30.
+Type to filter the shortcuts…	Kısayolları süzmek için yazın…
+Type what it opens.	Neyi açtığını yazın.
+Type your note here…	Notunuzu buraya yazın…
+USB connected	USB bağlandı
+USB drive	USB sürücü
+USB drive plugged in	USB sürücü takıldı
+USB drives	USB sürücüler
+USB drives icon on the pill (open or eject them)	Kapsülde USB sürücüler simgesi (aç veya çıkar)
+UV index	UV indeksi
+Ugh.	Of.
+Ultrawide vertical stack	Ultra geniş dikey yığın
+Unavailable	Kullanılamıyor
+Up to 40 favorite files	En fazla 40 sık kullanılan dosya
+Upcoming events	Yaklaşan etkinlikler
+Upcoming holidays	Yaklaşan tatiller
+Update	Güncelle
+Update all	Tümünü güncelle
+Update ticked	İşaretlileri güncelle
+Updated %lld days ago	%lld gün önce güncellendi
+Updated %lld h ago	%lld sa önce güncellendi
+Updated %lld min ago	%lld dk önce güncellendi
+Updated now	Az önce güncellendi
+Updates	Güncellemeler
+Updates (winget and Windows Update)	Güncellemeler (winget ve Windows Update)
+Upload	Yükleme
+Upload peak (1 min)	Yükleme zirvesi (1 dk)
+Upright on the left and right edges	Sol ve sağ kenarlarda dik
+Usage	Kullanım
+Use my location	Konumumu kullan
+Utilization	Kullanım oranı
+VLC 3 doesn't tell Windows' media controls what it plays, so the island can't see it. With this on, while VLC makes sound, the island reads the song's name from VLC's window title, shows it with VLC's icon, and its buttons press play/pause, previous and next in VLC. No cover or time, and VLC must show the name in its window title (its default)	VLC 3, ne çaldığını Windows medya denetimlerine bildirmez, bu yüzden ada onu göremez. Bu açıkken, VLC ses çıkarırken ada şarkının adını VLC'nin pencere başlığından okur, VLC'nin simgesiyle gösterir ve düğmeleri VLC'de oynat/duraklat, önceki ve sonrakine basar. Kapak veya süre yok ve VLC adı pencere başlığında göstermelidir (varsayılanı budur)
+Vertical stack	Dikey yığın
+Vertical stack, main on the right	Dikey yığın, ana pencere sağda
+Vice (neon sunset)	Vice (neon gün batımı)
+Video memory in use (VRAM)	Kullanılan video belleği (VRAM)
+Videos	Videolar
+Violet	Mor
+Virtual desktops	Sanal masaüstleri
+Virtual desktops (the mouse wheel switches them)	Sanal masaüstleri (fare tekerleği geçiş yapar)
+Visualizer color	Görselleştirici rengi
+Visualizer color (own)	Görselleştirici rengi (kendi)
+Visualizer sensitivity	Görselleştirici hassasiyeti
+Volume	Ses
+Volume and mixer in the panel	Panelde ses ve karıştırıcı
+Volume mixer	Ses karıştırıcı
+Volume percentage beside its icon	Simgesinin yanında ses yüzdesi
+Waiting for valid data in the chosen file	Seçilen dosyada geçerli veri bekleniyor
+Wallpaper	Duvar kâğıdı
+Wallpaper (the wheel: the next one)	Duvar kâğıdı (tekerlek: sonraki)
+Wallpaper transition	Duvar kâğıdı geçişi
+Wallpapers from a folder (with a transition)	Bir klasörden duvar kâğıtları (geçişle)
+Wasted	Wasted
+Wasted now?	Şimdi Wasted?
+Water	Su
+Weather	Hava durumu
+Weather (goes online)	Hava durumu (çevrimiçi)
+Weather Icons	Weather Icons
+Weather data by Open-Meteo.com	Hava durumu verileri: Open-Meteo.com
+Weather icons	Hava durumu simgeleri
+Website	Web sitesi
+Week	Hafta
+Weekday	Haftanın günü
+Weekdays	Hafta içi
+Weekends	Hafta sonu
+Welcome to Mac Island & Dock	Mac Island & Dock'a hoş geldiniz
+What Claude Code in a terminal gives its status line (a line in its script, see the item's panel). The Claude desktop app doesn't leave its limits on this PC, so it can't show here	Terminaldeki Claude Code'un durum satırına verdikleri (betiğindeki bir satır, öğenin paneline bakın). Claude masaüstü uygulaması sınırlarını bu bilgisayarda bırakmaz, bu yüzden burada gösterilemez
+What Codex writes in its logs on this PC	Codex'in bu bilgisayarda günlüklerine yazdıkları
+What it does	Ne yapar
+What it opens	Neyi açar
+What needs doing?	Ne yapılması gerekiyor?
+What she reacts to shows up here, with her sound	Tepki verdiği şeyler burada, sesiyle birlikte görünür
+What's new	Yenilikler
+What's playing	Şimdi çalan
+What's playing on the minimized line	Küçültülmüş çizgide şimdi çalan
+What's playing's buttons and pictures	Şimdi çalanın düğmeleri ve resimleri
+What's that?	O da ne?
+When it hides	Ne zaman gizlenir
+Where banners show	Başlık bildirimlerinin görüneceği yer
+Where did the internet go?	İnternet nereye gitti?
+Where the island appears	Adanın göründüğü yer
+Where the items go along the bar. Automatic: around the clock when it's in the middle, otherwise at the right end	Öğelerin çubuk boyunca yeri. Otomatik: ortadaysa saatin çevresinde, değilse sağ uçta
+While a line is sung, it takes the title and artist's place; between lines they come back	Bir satır söylenirken başlık ve sanatçının yerini alır; satırlar arasında geri gelirler
+While a timer or Pomodoro counts down, the pill fills with color until it ends (orange, green on a break, fainter when paused) and pulses a moment at the end. The stopwatch doesn't fill	Bir zamanlayıcı veya Pomodoro geriye sayarken kapsül bitene kadar renkle dolar (turuncu, molada yeşil, duraklatılınca daha soluk) ve sonunda bir an atar. Kronometre dolmaz
+While a timer, Pomodoro or the stopwatch runs, the line becomes a small pill with its ring and its time (with Only the clock, the time goes beside the clock)	Bir zamanlayıcı, Pomodoro veya kronometre çalışırken çizgi, halkası ve süresiyle küçük bir kapsüle dönüşür (Yalnızca saat ile süre saatin yanında görünür)
+While an app's window is maximized on this monitor, the bar goes back to its usual look (frosted, with the frosted glass on), so the window doesn't show behind it	Bu monitörde bir uygulama penceresi büyütülmüşken çubuk her zamanki görünümüne döner (buzlu, buzlu cam açıkken), böylece pencere arkasında görünmez
+While music plays in the apps checked below she dances, a new move each bar, following the beat	Aşağıda işaretli uygulamalarda müzik çalarken dans eder, her ölçüde yeni bir hareket, ritmi izleyerek
+While music plays, a timer or the stopwatch runs, or a download or copy fills the pill, resting the mouse on that item (or on the pill, when only one is live) grows the pill into its card: the cover, title and buttons; the big time with pause and cancel; the percent. It shrinks back when the mouse leaves. Not for an item that Open panels with the mouse opens, nor with a banner place chosen	Müzik çalarken, bir zamanlayıcı veya kronometre çalışırken ya da bir indirme veya kopyalama kapsülü doldururken, o öğenin üstünde (veya yalnızca biri canlıysa kapsülün üstünde) fareyi tutmak kapsülü kartına büyütür: kapak, başlık ve düğmeler; duraklat ve iptal ile büyük süre; yüzde. Fare ayrılınca geri küçülür. Panelleri fareyle aç'ın açtığı bir öğe için veya bir başlık bildirimi yeri seçiliyken geçerli değildir
+While something plays, the line becomes a thin pill with the song's cover and moving bars; the mouse on it opens the island, as on the line (with Only the clock, they go beside the clock)	Bir şey çalarken çizgi, şarkının kapağı ve hareket eden çubuklarla ince bir kapsüle dönüşür; fare üstündeyken ada açılır, çizgide olduğu gibi (Yalnızca saat ile çubuklar saatin yanında görünür)
+While the app is in front, the pill moves there and shows only the lit icons.	Uygulama öndeyken kapsül oraya taşınır ve yalnızca yanık simgeleri gösterir.
+While the app is in front, the pill moves there and shows only the lit icons. Dragging it then changes its place too.	Uygulama öndeyken kapsül oraya taşınır ve yalnızca yanık simgeleri gösterir. Sürüklemek de yerini değiştirir.
+While the island is minimized to its line (or the Bar is hidden), she stays there in a tiny pill; the mouse on it opens the island, as on the line	Ada çizgisine küçültülmüşken (veya Çubuk gizliyken) o küçük bir kapsülde kalır; fare üstündeyken ada açılır, çizgide olduğu gibi
+While the timer runs	Zamanlayıcı çalışırken
+White	Beyaz
+Whoa!	Vay!
+Wi-Fi / network	Wi-Fi / ağ
+Wi-Fi back	Wi-Fi geri geldi
+Wi-Fi is off	Wi-Fi kapalı
+Wi-Fi lost	Wi-Fi kesildi
+Wi-Fi, sound, battery, the bell and the clock, each step of them. Click an icon to use a picture of your own for it, its brush (top left) for a color of its own; the x goes back to the pack's	Wi-Fi, ses, pil, zil ve saat, her kademesi. Bir simgeye tıklayıp kendi resminizi, fırçasına (sol üstte) tıklayıp kendi rengini seçin; x paketinkine döner
+Wide	Geniş
+Widgets	Widget'lar
+Width of the edge zone where the mouse brings the pill back	Fare kapsülü geri getiren kenar bölgesinin genişliği
+Win+A opens the island's control center	Win+A adanın denetim merkezini açar
+Win+J minimizes the island to its line and brings it back	Win+J adayı çizgisine küçültür ve geri getirir
+Win+L stays Windows' (it locks the PC)	Win+L Windows'ta kalır (bilgisayarı kilitler)
+Win+N and Win+A can open the island's notifications and control center instead of Windows'	Win+N ve Win+A, Windows'unkilerin yerine adanın bildirimlerini ve denetim merkezini açabilir
+Win+N opens the island's notifications	Win+N adanın bildirimlerini açar
+Win+X menu	Win+X menüsü
+Wind	Rüzgâr
+Window maximized	Pencere büyütüldü
+Window over it	Üstünde pencere
+Windows	Windows
+Windows 10	Windows 10
+Windows 10's, where it has them	Windows 10'unkiler, varsa
+Windows 11	Windows 11
+Windows Settings	Windows Ayarları
+Windows Update	Windows Update
+Windows accent	Windows vurgu rengi
+Windows doesn't report a temperature on this PC	Windows bu bilgisayarda sıcaklık bildirmiyor
+Windows or another app uses them too, the island takes them first	Windows veya başka bir uygulama da bunları kullanır, ada önce alır
+Windows places	Windows yerleri
+Windows stopped while a monitor answered a brightness call (DDC/CI). To turn it on again: island settings > Control center > Brightness of external monitors (DDC/CI).	Windows, bir monitör parlaklık çağrısına (DDC/CI) yanıt verirken durdu. Yeniden açmak için: ada ayarları > Denetim merkezi > Harici monitörlerin parlaklığı (DDC/CI).
+Windows'	Windows'un yazı tipi
+Windows' own icons	Windows'un kendi simgeleri
+Windows' own: no notification sounds	Windows'unki: bildirim sesi yok
+Windows' share window didn't open	Windows'un paylaşım penceresi açılmadı
+Windows, Windows 10 and Emoji are Windows' own fonts. The online ones (all free to use: MIT, Apache 2.0 or ISC) go online once, when chosen: about 150 small SVG pictures are downloaded from cdn.jsdelivr.net (a plain request for each file, nothing about you or your PC is sent), kept in the mod's folder, and never downloaded again. An icon a pack hasn't stays Windows'. Your folder: a picture (PNG, SVG, ICO...) per icon, named after it	Windows, Windows 10 ve Emoji, Windows'un kendi yazı tipleridir. Çevrimiçi olanlar (hepsi kullanımı ücretsiz: MIT, Apache 2.0 veya ISC) seçildiğinde bir kez çevrimiçi olur: cdn.jsdelivr.net'ten yaklaşık 150 küçük SVG resmi indirilir (her dosya için düz bir istek, sizinle veya bilgisayarınızla ilgili hiçbir şey gönderilmez), modun klasöründe saklanır ve bir daha indirilmez. Bir paketin sahip olmadığı simge Windows'unki kalır. Klasörünüz: her simge için, adını taşıyan bir resim (PNG, SVG, ICO...)
+With a click	Tıklamayla
+With a click, the line only grows under the mouse and opens when clicked (the hidden Bar's clock too)	Tıklamayla çizgi yalnızca fare altında büyür ve tıklanınca açılır (gizli Çubuğun saati de)
+With her games on she has fun too, which goes down while nobody plays with her. Bored, and later sad, she hops on the pill with a pleading look, at most every 30 minutes. Never in full screen, in Do not disturb or over a notification	Oyunları açıkken eğlenir de; kimse onunla oynamazken eğlencesi düşer. Canı sıkılınca, sonra üzülünce, yalvaran bir bakışla kapsüle zıplar, en fazla 30 dakikada bir. Tam ekranda, Rahatsız etmeyin'de veya bir bildirimin üstünde asla
+With its window's title	Pencere başlığıyla
+With names	Adlarla
+With the Bar style	Çubuk stiliyle
+With the Fixed style	Sabit stille
+With the Island style	Ada stiliyle
+With the fill on, the timer's item on the pill shows only its icon and the minimized line only fills, with no time. The stopwatch keeps its time	Dolgu açıkken kapsüldeki zamanlayıcı öğesi yalnızca simgesini gösterir ve küçültülmüş çizgi süresiz yalnızca dolar. Kronometre süresini korur
+With the island hidden, only this notch's line shows and opens it	Ada gizliyken yalnızca bu çentiğin çizgisi görünür ve onu açar
+With the line on, a click on the arrow keeps this monitor's island open until you click it again	Çizgi açıkken oka tıklamak, siz tekrar tıklayana kadar bu monitörün adasını açık tutar
+With the mouse	Fareyle
+Without Git Bash, Claude Code runs its status line in PowerShell: copy the line into its script, after it reads its input into $stdin (see the README)	Git Bash olmadan Claude Code durum satırını PowerShell'de çalıştırır: satırı betiğine kopyalayın, girdisini $stdin'e okuduktan sonra (README'ye bakın)
+Working hard from	Yoğun çalışma eşiği
+Working…	Çalışıyor…
+Workspace	Çalışma alanı
+World clocks	Dünya saatleri
+World clocks (Windows' additional clocks)	Dünya saatleri (Windows'un ek saatleri)
+World clocks inside the clock	Saatin içinde dünya saatleri
+Write	Yaz
+Writes the charge level as a number next to its icon	Şarj düzeyini simgesinin yanına sayı olarak yazar
+Writes the month as a number, like 9/10, not as a name	Ayı ad olarak değil, 9/10 gibi sayı olarak yazar
+Writes the volume level as a number next to its icon	Ses düzeyini simgesinin yanına sayı olarak yazar
+Y M D	Y A G
+Yaaawn… so sleepy.	Aaah… çok uykum var.
+Year	Yıl
+Yes, change	Evet, değiştir
+Yesterday	Dün
+Your best 5	En iyi 5'iniz
+Your best results show here, kept only on this PC.	En iyi sonuçlarınız burada görünür, yalnızca bu bilgisayarda tutulur.
+Your city (like Campinas)	Şehriniz (Campinas gibi)
+Your command	Komutunuz
+Your commands	Komutlarınız
+Your events and your agendas' events	Etkinlikleriniz ve takvimlerinizin etkinlikleri
+Your folder (none chosen yet)	Klasörünüz (henüz seçilmedi)
+Your folder…	Klasörünüz…
+Your location wasn't found yet, trying again	Konumunuz henüz bulunamadı, tekrar deneniyor
+Your own colors	Kendi renkleriniz
+Z to A	Z'den A'ya
+Zoom	Yakınlaştırma
+Zzz… Do not disturb is on.	Zzz… Rahatsız etmeyin açık.
+Zzz… come back soon.	Zzz… yakında dön.
+checking	kontrol ediliyor
+click when the pill turns this color	kapsül bu renge dönünce tıklayın
+en	tr
+from Windhawk	Windhawk'tan
+good	iyi
+hours	saat
+icons saved	simge kaydedildi
+in %d h	%d sa sonra
+in %d h %d min	%d sa %d dk sonra
+in %d min	%d dk sonra
+in a row	üst üste
+installed	yüklendi
+komorebi	komorebi
+komorebi (start, stop, reload)	komorebi (başlat, durdur, yeniden yükle)
+komorebi isn't installed	komorebi yüklü değil
+komorebi's layout	komorebi düzeni
+komorebi: hide the workspaces without windows	komorebi: penceresiz çalışma alanlarını gizle
+komorebi: its layout on the pill (a menu changes it)	komorebi: kapsülde düzeni (bir menü değiştirir)
+komorebi: with masir (focus follows the mouse)	komorebi: masir ile (odak fareyi izler)
+komorebi: with whkd (its shortcuts)	komorebi: whkd ile (kısayolları)
+min	dk
+missed	kaçırıldı
+more	daha
+moves	hamle
+not connected	bağlı değil
+not yet!	henüz değil!
+notification	bildirim
+notifications	bildirimler
+now	şimdi
+off	kapalı
+off the beat	ritmin dışında
+on	açık
+perfect	mükemmel
+pts	puan
+sec	sn
+starting now	şimdi başlıyor
+tab	sekme
+taken by another command	başka bir komut tarafından kullanılıyor
+taken by another of the island's shortcuts	adanın başka bir kısayolu tarafından kullanılıyor
+taken by one of your commands	komutlarınızdan biri tarafından kullanılıyor
+taken by the island's Win+N or Win+A	adanın Win+N veya Win+A kısayolu tarafından kullanılıyor
+this	bu
+too slow	çok yavaş
+use Win, Ctrl or Alt with a key	Win, Ctrl veya Alt ile bir tuş kullanın
+week	hafta
+what to change	değiştirilecek şey
+winget couldn't list them	winget bunları listeleyemedi
+winget isn't installed	winget yüklü değil
+yesterday	dün
+“Restore what changed” on this option undoes it later	Bu seçenekteki “Değişenleri geri al” sonradan geri alır
+…and then what else it says it needs	…ve sonra başka neye ihtiyacı olduğunu söylüyorsa
+✓ All of them are there	✓ Hepsi mevcut
+✓ Copied	✓ Kopyalandı
+✓ Emptied	✓ Boşaltıldı
+✓ Exported	✓ Dışa aktarıldı
+✓ Saved	✓ Kaydedildi

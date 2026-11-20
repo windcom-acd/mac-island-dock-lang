@@ -1,0 +1,1684 @@
+ (all apps)	 （すべてのアプリ）
+ (all monitors)	 （すべてのモニター）
+ by caliberda	 作者: caliberda
+ events	 件のイベント
+ files	 個のファイル
+ in progress	 件進行中
+ shortcuts imported	 個のショートカットをインポートしました
+ · HDR: SDR content	 · HDR：SDRコンテンツ
+ · almost full	 · ほぼ満杯
+ · click to hide	 · クリックで非表示
+ · drag to move	 · ドラッグして移動
+ · hidden, click to show	 · 非表示、クリックで表示
+ · main island	 · メインアイランド
+ · no sound	 · 音なし
+ · on the island, Ctrl+drag works too	 · アイランド上では Ctrl+ドラッグでも可能
+ · plain color while Windows' energy saver is on	 · Windows の省電力モード中は単色
+ · plain color: Windows' transparency effects are off (Personalization > Colors)	 · 単色: Windows の透明効果がオフです（個人用設定 > 色）
+ · press the new keys (Esc cancels)	 · 新しいキーを押してください（Esc で取り消し）
+ · this island	 · このアイランド
+ · whkd isn't installed (winget install LGUG2Z.whkd)	 · whkd がインストールされていません（winget install LGUG2Z.whkd）
+"Following the bell": out of the pill, as now; or at a point of the screen, sliding in from its nearest edge	「ベルに合わせる」: 今までどおりカプセルから出ます。または画面の一点に、いちばん近い端からスライドして表示されます
+"Follows the line": as wide as each line; the others keep the widest line's width. A longer line ends with …	「行に合わせる」：各行の幅に合わせます。他の設定では最も長い行の幅を維持します。長すぎる行は … で終わります
+%d items	%d 個の項目
+%d of %d	%d / %d
+%s at %s	%s %s
+%s couldn't run	%s を実行できませんでした
+%s ran	%s を実行しました
+%zu of %zu events	%zu / %zu 件のイベント
+(the wheel turns the pages)	（ホイールでページを切り替え）
++  New event	+  新しいイベント
++  New shortcut	+  新しいショートカット
++ Add alarm	+ アラームを追加
++ Line	+ 区切り
++ saves the current settings as a profile, to switch back to them later.	+ 現在の設定をプロファイルとして保存し、後で切り替えられます。
+.ics link or file path	.ics のリンクまたはファイルパス
+1 day	1 日
+1 item	1 個の項目
+10 min	10 分
+12 h AM/PM	12 時間 AM/PM
+2 min	2 分
+24 h	24 時間
+30 days	30 日
+30 s	30 秒
+5-hour session	5 時間のセッション
+7 days	7 日
+A Pomodoro ended	ポモドーロが終わった
+A USB device plugged in	USB デバイスが接続された
+A Windows update came before Microsoft published the files Windhawk needs to change the taskbar (taskbar.dll %s). Until they're out, the dock and the taskbar's look stay off and the island keeps working. They come back by themselves at the next sign-in after that.	Windhawk がタスクバーを変更するのに必要なファイルを Microsoft が公開する前に Windows の更新が届きました（taskbar.dll %s）。公開されるまで Dock とタスクバーの見た目はオフになり、アイランドはそのまま動きます。公開後、次回のサインイン時に自動で戻ります。
+A banner closes when you click anywhere outside it and the island; calls, alarms and reminders stay until you answer them	バナーとアイランドの外側のどこかをクリックするとバナーが閉じます。通話・アラーム・リマインダーは操作するまで残ります
+A bolt over her and she's proud; with her care on, it gives her energy	頭上に稲妻が出て誇らしげに。お世話がオンならエネルギーになります
+A browser's download standing still shows paused	止まったブラウザーのダウンロードを一時停止として表示
+A bubble on the island says when Caps Lock is turned on or off	Caps Lock をオン・オフしたときにアイランドに吹き出しで知らせます
+A bubble on the island says when Num Lock is turned on or off	Num Lock をオン・オフしたときにアイランドに吹き出しで知らせます
+A card for each event: its switch, where its sound comes from and a play button. The three icons: the island's own sound, the Glass pack (25 small sound files, about 1.3 MB, downloaded once from jsDelivr's CDN, cdn.jsdelivr.net, the first time you pick it; only the files are asked for, nothing about you is sent) or a file of yours (.wav, .mp3...)	イベントごとのカード：スイッチ、音の出どころ、再生ボタン。3 つのアイコンは、アイランド自身の音、Glass パック（小さな音声ファイル 25 個、約 1.3 MB。初めて選んだときに jsDelivr の CDN、cdn.jsdelivr.net から一度だけダウンロードします。ファイルを要求するだけで、あなたについての情報は送信しません）、自分のファイル（.wav、.mp3 など）です
+A click on an item opens it; when you don't use it, the pill can shrink into a thin line	項目をクリックすると開きます。使っていないときは、カプセルを細い線に縮められます
+A click on the bell opens Windows' own notification center instead of the island's list	ベルをクリックすると、アイランドの一覧ではなく Windows 本来の通知センターが開きます
+A cuddle, just one?	なでなで、ひとつだけ？
+A download finished	ダウンロードが完了した
+A drive was connected	ドライブが接続されました
+A file with all of it (agenda links too)	すべてを含むファイル（カレンダーのリンクも含む）
+A flash, and she's startled	フラッシュが光り、彼女がびっくりします
+A focus time ended	集中タイムが終わりました
+A grid on the pill that opens all your apps, Store apps too, like macOS: search them by typing, your favorites first (the star), then all of them in alphabetical order	macOS のように、すべてのアプリ（ストアアプリも）を開くカプセル上のグリッド。入力して検索でき、お気に入り（星）が先頭に、続いてすべてのアプリがアルファベット順に並びます
+A line while a window is maximized	ウィンドウが最大化されている間はライン
+A line with the mouse away	マウスが離れている間はライン
+A little document copies itself beside her	彼女の横で小さな書類がコピーされます
+A little fruit would be nice.	フルーツが食べたいな。
+A long title keeps scrolling while it plays	長いタイトルは再生中にスクロールします
+A new notification	新しい通知
+A new song	新しい曲
+A notch with no items disappears, the one with the bell too. It comes back when an item or a notification comes to it, and while you drag items between the notches here. The strip kept on the screen stays the same	項目のないノッチは消えます。ベルのあるノッチも同じです。項目や通知が来たとき、およびここでノッチ間で項目をドラッグしている間は再び表示されます。画面に確保された領域は変わりません
+A notification with a one-time code (4 to 8 digits, like a sign-in or a bank code) gets a Copy code button on its banner and in the list. The code goes to the clipboard and stays out of its history	ワンタイムコード（サインインや銀行などの 4〜8 桁の数字）を含む通知のバナーと一覧に「コードをコピー」ボタンが付きます。コードはクリップボードにコピーされ、クリップボードの履歴には残りません
+A notification's text stays on one line, and under the mouse it scrolls to its end and back instead of opening on up to three lines. With animations reduced or off, it opens on three lines as usual	通知のテキストは 1 行のままで、マウスを置くと最大 3 行に広がる代わりに末尾までスクロールして戻ります。アニメーションを減らすかオフにしている場合は、通常どおり 3 行に広がります
+A picture for this icon	このアイコンの画像
+A plug comes up beside her and she's curious	横にプラグが現れて、彼女は興味津々です
+A reminder, an alarm or a timer	リマインダー、アラーム、タイマー
+A reminder, an alarm or a timer ending	リマインダー、アラーム、タイマーの終了
+A right click on the island shows a gear: it opens these settings	アイランドを右クリックすると歯車が表示されます。これでこの設定が開きます
+A ring along the edge shows the charge: green above 40%, yellow down to 20%, red below. Not as the line, nor on the Bar style	縁のリングで残量を表示します。40% を超えると緑、20% までは黄、それ未満は赤です。ライン表示とバー スタイルでは表示されません
+A screenshot	スクリーンショット
+A screenshot was taken	スクリーンショットを撮りました
+A short notice with the cover, title and artist when the song changes (not for pauses or the first song); a click opens What's playing	曲が変わると、ジャケット・タイトル・アーティストを示す短い通知を表示します（一時停止や最初の曲では表示しません）。クリックで「再生中」を開きます
+A sip of water?	お水をひと口くれる？
+A small light that lives on the pill as an item of its own: move it in the order like the others, in every style. Her eyes follow the mouse, she blinks, dances with the music of the apps you check and shows what the PC is doing; she rests when nothing moves. While she moves the island is drawn again up to 30 times a second: on a slow PC, her dance and Her eyes follow the mouse off make it lighter	ピルに住む小さな光で、独立した項目です。ほかの項目と同じように並び順で動かせ、どのスタイルでも使えます。目はマウスを追い、まばたきし、チェックしたアプリの音楽に合わせて踊り、PC の状態を見せます。何も動かないときは休みます。動いている間、アイランドは毎秒最大 30 回描き直されます。遅い PC では、ダンスと「目がマウスを追う」をオフにすると軽くなります
+A sneeze	くしゃみ
+A sneeze, by herself	ひとりでくしゃみ
+A sound for this event	このイベントのサウンド
+A summary of the PC, the island's settings and its last 300 log lines (the dock's are in Windhawk's log)	PC の概要、アイランドの設定、ログの最後の 300 行（Dock のログは Windhawk のログにあります）
+A tap	ちょんと触る
+A task can be given a day. It shows under the task (red when it passed, not done), and the dated tasks come first, the soonest on top. Tasks without a date stay as they are	タスクに日付を付けられます。日付はタスクの下に表示され（過ぎていて未完了なら赤）、日付のあるタスクが近い順に上に並びます。日付のないタスクはそのままです
+A title too long to fit scrolls across while it plays	長すぎるタイトルは再生中にスクロールして表示されます
+A to Z	A から Z
+A yawn	あくび
+A yawn, by herself	ひとりであくび
+AI usage	AI の使用量
+About	バージョン情報
+Accent	アクセント
+Accent color	アクセントカラー
+Accessibility	アクセシビリティ
+Add	追加
+Add  (Enter)	追加  (Enter)
+Add a folder	フォルダーを追加
+Add a separator line · drag it between icons, click it to remove	区切り線を追加 · アイコンの間にドラッグ、クリックで削除
+Add an open app	開いているアプリを追加
+Add clocks in Windows' date and time settings (Additional clocks)	Windows の日付と時刻の設定で時計を追加します（追加の時計）
+Add controls	コントロールを追加
+Add note  (Ctrl+Enter)	メモを追加  (Ctrl+Enter)
+Add provider	プロバイダーを追加
+Add the shortcuts you want to remember	覚えておきたいショートカットを追加
+Added to your commands	自分のコマンドに追加しました
+Adds a button for sleep, restart and shut down	スリープ、再起動、シャットダウンのボタンを追加します
+Adds a button that lists the keyboard shortcuts	キーボードショートカットの一覧ボタンを追加します
+Adds a button that mutes and unmutes the microphone	マイクのミュート/ミュート解除ボタンを追加します
+Adds a button that opens your quick notes	クイックメモを開くボタンを追加します
+Adds a button that opens your to-do list	ToDo リストを開くボタンを追加します
+Adds a button that switches Windows between light and dark	Windows のライト/ダークを切り替えるボタンを追加します
+Adds a button to switch profiles from the pill	カプセルにプロファイル切り替えボタンを追加します
+Adds a small arrow at the pill's end that hides it to its line	カプセルの端に、線状に折りたたむ小さな矢印を追加します
+Adds a timer, a stopwatch and a Pomodoro to the pill	タイマー、ストップウォッチ、ポモドーロをカプセルに追加します
+Adds a way to reach the tray icons of other apps from the pill	他のアプリの通知領域アイコンにカプセルからアクセスできるようにします
+Adds the Recycle Bin to the pill	ごみ箱をカプセルに追加します
+Adds the day and the month to the clock	時計に日と月を追加します
+Adds the notifications bell to the pill	通知ベルをカプセルに追加します
+Adds the seconds to the time	時刻に秒を追加します
+Adds the weekday to the clock	時計に曜日を追加します
+Adds the year to the clock	時計に年を追加します
+Affection	なでなで
+After its app: stays	アプリの後: そのまま
+After its app: the one before	アプリの後: 前のプロファイル
+Again to put every setting back to its default (notes, tasks, events and profiles stay)	もう一度で、すべての設定を既定に戻します（メモ、タスク、予定、プロファイルは残ります）
+Agendas	カレンダー
+Ah… ah… achoo!	は…は…くしゅん！
+Airplane mode	機内モード
+Alarm	アラーム
+Alarms	アラーム
+All	すべて
+All apps	すべてのアプリ
+All day	終日
+All done	すべて完了
+All files	すべてのファイル
+All quiet here.	こっちは静かだよ。
+All reactions	すべての反応
+All set	準備完了
+All up to date	すべて最新です
+Already added	追加済み
+Also on the minimized line	最小化したラインにも表示
+Also shows the title of the window in focus, like the page or the file open in it	フォーカス中のウィンドウのタイトル（開いているページやファイルなど）も表示します
+Always	常に
+Always on the pill, even with nothing playing	何も再生していなくても常にカプセルに表示
+Always shown	常に表示
+Always, or only once what's in it weighs this much (it comes and goes by itself)	常に、または中身がこのサイズに達したときだけ（自動で表示・非表示）
+Amber	アンバー
+An app appears here once it plays music; only the ones you check make her dance	アプリが音楽を再生するとここに表示されます。チェックしたアプリだけが彼女を踊らせます
+An app appears here once it plays something	アプリは何かを再生するとここに表示されます
+An arrow drops into her and she's proud; with her care on, it feeds her	矢印が彼女の中に落ちて誇らしげに。お世話がオンなら食事にもなります
+Angry	怒る
+Animations	アニメーション
+App	アプリ
+App in focus	フォーカス中のアプリ
+Applies to every monitor, and the island restarts to apply it	すべてのモニターに適用され、アイランドが再起動します
+Apply	適用
+Apps	アプリ
+Apps (launcher)	アプリ（ランチャー）
+Apps (winget, in a terminal)	アプリ（winget、ターミナル内）
+Apps and tools	アプリとツール
+Apps she dances to	彼女が踊るアプリ
+Apps that bring the visualizer	ビジュアライザーを表示するアプリ
+Apps that look for lyrics	歌詞を検索するアプリ
+Apps with notifications	通知のあるアプリ
+Apps with unsaved work can stop it.	未保存の作業があるアプリは中断する場合があります。
+Are you working or just pretending?	仕事してる？それともしてるフリ？
+Area that brings it back	元に戻す領域
+Arguments (if any)	引数（あれば）
+Arguments (optional)	引数（省略可）
+Ask before restarting, shutting down or signing out	再起動、シャットダウン、サインアウトの前に確認する
+Ask every time	毎回確認
+Ask the first time	最初の 1 回だけ確認
+Asleep · Do not disturb is on	おやすみ中 · 応答不可がオン
+Asleep · no mouse or keyboard for %s min	おやすみ中 · マウスもキーボードも %s 分なし
+Attentive	こまめ
+Audio visualizer	オーディオビジュアライザー
+Audio visualizer (bars moving with the sound)	オーディオビジュアライザー（音に合わせて動くバー）
+Auto	自動
+Auto (light or dark)	自動（ライトまたはダーク）
+Auto, inverted (the other way from Windows)	自動、反転（Windows と逆）
+Automatic	自動
+Available	利用可能
+BSP	BSP
+Back	戻る
+Back to default	既定に戻す
+Back to focus	集中に戻る
+Backup	バックアップ
+Backup (notes, tasks, profiles and settings)	バックアップ（メモ、タスク、プロファイル、設定）
+Balanced	バランス
+Banner corners	バナーの角
+Banner size	バナーのサイズ
+Banner width	バナーの幅
+Banners	バナー
+Banners (notifications on the pill)	バナー（カプセルの通知）
+Banners close on a click outside	外側をクリックしてバナーを閉じる
+Banners even with the pill minimized	カプセルを最小化中もバナーを表示
+Banners in the pill	カプセル内のバナー
+Banners show each new notification coming out of the pill	バナーは、新しい通知が届くたびにカプセルから出てくるように表示します
+Banners still appear while the pill is minimized to its line	カプセルを線状に最小化していてもバナーが表示されます
+Bar	バー
+Bar: along the whole top edge, like macOS' menu bar	バー: 上端いっぱいに広がります（macOS のメニューバーのように）
+Bar: hide as its line too	バー: 線としても非表示にする
+Bar: items at the screen's corners	バー: 項目を画面の角に配置
+Bar: items keep their side of the clock	バー：項目を時計の同じ側に固定
+Bars' height	バーの高さ
+Bars' width	バーの幅
+Base frequency	基準周波数
+Battery	バッテリー
+Battery charging	バッテリー充電
+Battery charging (own color)	バッテリー充電（専用の色）
+Battery percentage beside its icon	アイコンの横にバッテリー残量を表示
+Black	黒
+Blue	青
+Bluetooth	Bluetooth
+Bluetooth & devices	Bluetooth とデバイス
+Bluetooth audio connected	Bluetooth オーディオの接続
+Bluetooth is off	Bluetooth はオフです
+Bluish when lonely, warmer when the processor works hard or she is hungry, paler when thirsty or tired	寂しいと青っぽく、プロセッサーが忙しいときやお腹がすいたときは暖かい色に、のどが渇いたときや疲れたときは淡くなります
+Bootstrap (online)	Bootstrap（オンライン）
+Bored · nobody has played with her for %s h	退屈 · %s 時間だれも遊んでくれていない
+Bottom	下
+Bottom left	左下
+Bottom right	右下
+Break	休憩
+Brightness	明るさ
+Brightness of external monitors (DDC/CI)	外付けモニターの明るさ (DDC/CI)
+Brightness of external monitors turned off	外付けモニターの明るさをオフにしました
+Brings the visualizer	ビジュアライザーを表示
+Browsers never tell the taskbar a download is paused or failed: one whose bar stands still for 30 s turns yellow	ブラウザーはダウンロードの一時停止や失敗をタスクバーに伝えません。バーが 30 秒止まったダウンロードは黄色になります
+Bugs and ideas	バグとアイデア
+Built-in display	内蔵ディスプレイ
+Button on the island (its icon on the pill)	アイランドのボタン（カプセルにアイコンを表示）
+Buttons on the pill	カプセル上のボタン
+By date modified	更新日時順
+By name	名前順
+By size	サイズ順
+By type	種類順
+CPU temperature	CPU 温度
+CPU, RAM and VRAM use	CPU、RAM、VRAM の使用率
+CPU, RAM, VRAM and GPU use	CPU、RAM、VRAM、GPU の使用率
+Cached	キャッシュ
+Calculator	電卓
+Calendar	カレンダー
+Calendar full: delete past events in the gear	カレンダーがいっぱいです: 歯車から過去のイベントを削除してください
+Calendar with today big	今日を大きく表示するカレンダー
+Calls and alarms silent in Do not disturb	応答不可モードでは通話とアラームも消音
+Calm	おだやか
+Calm · nothing going on	おだやか · 何も起きていない
+Camera	カメラ
+Cancel	キャンセル
+Caps Lock bubble	Caps Lock の通知
+Caps Lock off	Caps Lock オフ
+Caps Lock on	Caps Lock オン
+Captions	字幕
+Care pace	お世話のペース
+Cast	キャスト
+Center	中央
+Change the order with Ctrl + drag on the island	アイランド上で Ctrl + ドラッグして並べ替える
+Changes are saved in the one in use · the pencil renames, saves or deletes	変更は使用中のプロファイルに保存されます · 鉛筆で名前の変更、保存、削除
+Charger plugged in	充電器の接続
+Charging	充電中
+Charging battery color	充電中のバッテリーの色
+Charging battery color (own)	充電中のバッテリーの色（専用）
+Check every	確認間隔
+Choose	選択
+Choose a JSON file	JSON ファイルを選択
+Choose a power plan	電源プランを選択
+Choose a program or a file	プログラムまたはファイルを選択
+Choose it…	選択…
+Choose the folder with your pictures	画像のあるフォルダーを選択
+Choose...	選択...
+Chooses how many animations play, on every monitor	再生するアニメーションの量を選びます（すべてのモニター）
+Chooses which monitors show the island, with a map of your screens	画面の配置図で、アイランドを表示するモニターを選びます
+Choose…	選択…
+Circle	円
+City not found	都市が見つかりません
+Claude Code	Claude Code
+Claude Code (terminal)	Claude Code（ターミナル）
+Claude Code gives its limits to its status line, run in Git Bash: copy the line into its script, after it reads its input with input=$(cat) (see the README)	Claude Code は上限を Git Bash で動くステータスラインに渡します。スクリプトが input=$(cat) で入力を読み込んだ後に、この行をコピーしてください（README を参照）
+Claude Code tells its limits with a Pro or Max plan, after its first answer in a session	Claude Code は Pro または Max プランで、セッションの最初の応答の後に上限を伝えます
+Clear	晴れ
+Clear all	すべてクリア
+Click (or press Space) when the ring reaches her. The beat follows the music that is playing, or is steady without it. 32 beats, and hits in a row are worth more.	輪が彼女に届いたらクリック（またはスペースキー）。ビートは再生中の音楽に合わせ、音楽がないときは一定のテンポです。32拍で、連続で当てると高得点です。
+Click a screen to choose where the island appears.	画面をクリックして、アイランドを表示する場所を選びます。
+Click a screen to place the main island there (alerts and tray).	画面をクリックして、メインアイランド（通知とトレイ）をそこに配置します。
+Click and press the keys	クリックしてキーを押す
+Click to play	クリックしてプレイ
+Click to play again	クリックしてもう一度
+Click to record	クリックして記録
+Clicking a screenshot notice opens the picture in Explorer	スクリーンショットの通知をクリックすると、エクスプローラーで画像が開きます
+Clicks go through the pill	クリックがカプセルの下へ通ります
+Clipboard	クリップボード
+Clock	時計
+Clock against the screen's edge	時計を画面の端に付ける
+Clock and calendar	時計とカレンダー
+Clock and calendar (agendas: the calendar's gear)	時計とカレンダー（カレンダーの登録: カレンダーの歯車）
+Clock font	時計のフォント
+Clock in the middle (the other items move around it)	時計を中央に配置（他の項目はその周囲に移動）
+Close it to finish	閉じて完了
+Cloud jump	雲のジャンプ
+Clouds	雲
+Codex	Codex
+Codex keeps its limits in its logs on this PC: they show after its next answer	Codex は上限をこの PC 上のログに保存します。次の応答の後に表示されます
+Color filters	カラー フィルター
+Color for downloads and other apps	ダウンロードとその他のアプリの色
+Color for file copies	ファイルコピーの色
+Color for the battery charging	バッテリー充電の色
+Colors	色
+Colors following the app in front (its title bar or its icon)	最前面のアプリに合わせた色（タイトルバーまたはアイコン）
+Colors: like Windows (light or dark with it), always light or always dark, or the colors of the app in front	色: Windows に合わせる（ライト/ダークも連動）、常にライト、常にダーク、または最前面のアプリの色
+Columns	列
+Command (cmd, without a window)	コマンド（cmd、ウィンドウなし）
+Command line	コマンドライン
+Committed	コミット済み
+Compact (cover only)	コンパクト（カバーのみ）
+Completed	完了
+Compressed	圧縮ファイル
+Connect	接続
+Connected	接続済み
+Connecting...	接続中...
+Content hidden	内容は非表示です
+Control Panel	コントロール パネル
+Control center	コントロール センター
+Control center buttons on the pill	カプセル上のコントロール センターのボタン
+Copied	コピー済み
+Copy	コピー
+Copy code	コードをコピー
+Copy the line	行をコピー
+Copy verification codes	確認コードをコピー
+Copying files	ファイルをコピー中
+Copying or moving files	ファイルのコピーや移動
+Coral	コーラル
+Cores / threads	コア / スレッド
+Corners	角
+Couldn't change the hotspot.	ホットスポットを変更できませんでした。
+Couldn't connect.	接続できませんでした。
+Couldn't connect. Check the password.	接続できませんでした。パスワードを確認してください。
+Couldn't download it: click to try again	ダウンロードできませんでした：クリックで再試行
+Couldn't download them: click it again to try	ダウンロードできませんでした：もう一度クリックして再試行
+Couldn't empty it	空にできませんでした
+Couldn't forget the network.	ネットワークを削除できませんでした。
+Couldn't reach lrclib.net	lrclib.net に接続できません
+Couldn't read it	読み取れませんでした
+Couldn't save in that folder	そのフォルダーに保存できませんでした
+Counting the pixels on your screen.	画面のピクセルを数えてるの。
+Counts down to Pomodoro's next part	ポモドーロの次のパートまでカウントダウンします
+Counts down to alarms	アラームまでカウントダウンします
+Counts down to events	イベントまでカウントダウンします
+Counts down to the timer's end	タイマー終了までカウントダウンします
+Cover and title	カバーとタイトル
+Cover and title on the pill	カプセル上のカバーとタイトル
+Cuddle	なでる
+Current	現在
+Custom	カスタム
+Custom (JSON file)	カスタム（JSON ファイル）
+Customize…	カスタマイズ…
+Cyan	シアン
+Cycles through the pictures of a folder as your wallpaper	フォルダー内の画像を壁紙として順番に切り替えます
+D M Y	日 月 年
+Dances with the music	音楽に合わせて踊る
+Dancing · %s is playing	ダンス中 · %s を再生中
+Dark	ダーク
+Dark mode	ダークモード
+Date	日付
+Date modified	更新日時
+Date order	日付の順序
+Dates on tasks	タスクに日付を付ける
+Day and month	日と月
+Day of the week	曜日
+Delete	削除
+Delete %zu past events?	過去のイベント %zu 件を削除しますか?
+Delete it?	削除しますか?
+Delete past events	過去のイベントを削除
+Desktop	デスクトップ
+Details	詳細
+Details as cards	詳細をカードで表示
+Device	デバイス
+Device Manager	デバイス マネージャー
+Devices	デバイス
+Disconnect	切断
+Disconnected	切断済み
+Disconnecting...	切断中...
+Dismiss	閉じる
+Display	ディスプレイ
+Display brightness	ディスプレイの明るさ
+Do not disturb	応答不可
+Do not disturb turned on or off	「応答不可」のオン・オフ
+Do not disturb: silent	応答不可：音なし
+Dock	Dock
+Documents	ドキュメント
+Don't stop now!	止めないで！
+Done	完了
+Download	ダウンロード
+Download finished	ダウンロード完了
+Download peak (1 min)	ダウンロードのピーク（1 分）
+Download pictures from the web (goes online)	Web から画像をダウンロード（オンラインになります）
+Downloading	ダウンロード中
+Downloading the icons	アイコンをダウンロード中
+Downloads	ダウンロード
+Downloads and other apps	ダウンロードとその他のアプリ
+Downloads and other apps (own color)	ダウンロードとその他のアプリ（専用の色）
+Downloads, installs and other apps' progress; red for an error, yellow paused	ダウンロード、インストール、その他のアプリの進行状況。赤はエラー、黄色は一時停止
+Drag an icon to another notch or place	アイコンを別のノッチや場所へドラッグ
+Drag an icon to change the order	アイコンをドラッグして並べ替え
+Drag from one notch to another · click to hide	ノッチ間でドラッグ · クリックで非表示
+Drag the groups to reorder them, the minimize arrow stays last	グループをドラッグして並べ替えます。最小化の矢印は常に最後です
+Drag the pill to any spot on the screen (not with notches)	カプセルを画面の好きな場所へドラッグできます（ノッチ使用時は不可）
+Drag to change the order or to put one on the pill · middle click, or the pin after a moment on an icon: kept on the pill	ドラッグして並べ替え、またはカプセルに配置 · 中クリック、またはアイコンにしばらく置いて出るピン: カプセルに固定
+Drag to change the order · click to hide	ドラッグして並べ替え · クリックで非表示
+Dreaming of pixels.	ピクセルの夢を見てるの。
+Drinking	飲む
+Drive	ドライブ
+Drizzle	霧雨
+Drop files on the pill to keep them here, then drag them into another app	ファイルをピルにドロップしてここに置き、あとで別のアプリへドラッグします
+Drop files on the pill to keep them there, then drag them out into another app later (their places are kept, not copies)	ファイルをカプセルにドロップして置いておき、あとで別のアプリにドラッグできます（保存されるのは場所で、コピーではありません）
+Drop it, I've got it.	離していいよ、持ってるから。
+Duplicate	複製
+Each bar sways on its own, softly, as loud as the sound; off, they jump with the beat	各バーが音量に合わせて個別にゆったり揺れます。オフではビートに合わせて跳ねます
+Each new one opens the pill for a moment	新着があるたびにカプセルがしばらく開きます
+Each notch hides alone instead of all at once (Fixed only)	すべて一度ではなく、ノッチごとに個別に非表示にします（固定のみ）
+Each screen has its own island	各画面に専用のアイランド
+Eating	食べる
+Edge	余白
+Edge around	周囲の枠
+Edge distance	端からの距離
+Edit	編集
+Edit command	コマンドを編集
+Edit provider	プロバイダーを編集
+Edit task	タスクを編集
+Efficiency	効率
+Eight colors, Windows' accent or your own	8 色、Windows のアクセントカラー、または自分の色
+Eject	取り出し
+Ejecting…	取り出し中…
+Emoji	絵文字
+Empty	空
+Empty it? Click again	空にしますか? もう一度クリック
+Empty the bin	ごみ箱を空にする
+Emptying…	空にしています…
+Energy	元気
+Energy, food, water and love go down slowly while you use the PC, and you look after her in her panel. She never goes away, never asks in full screen or Do not disturb, and makes no sound unless her sounds are on	PC を使っているあいだ、元気・ごはん・お水・愛情がゆっくり減り、彼女のパネルでお世話できます。いなくなることはなく、全画面や応答不可のときはねだらず、彼女の音をオンにしない限り音も出しません
+English letters	英字
+Error	エラー
+Essential	基本
+Essential: the clock, the battery, the control center, the volume, the notifications' bell and what's playing	基本: 時計、バッテリー、コントロール センター、音量、通知のベル、再生中のもの
+Ethernet	イーサネット
+Even when minimized	最小化中も
+Event	イベント
+Events in the calendar	カレンダーの予定
+Events, 	イベント、 
+Every day	毎日
+Every option explained step by step, the roadmap and your votes	すべてのオプションのステップごとの説明、ロードマップ、投票
+Everyday	日常
+Everyday: also the next event, the weather (goes online), the timer, your folders, the apps with notifications and the song's cover	日常: さらに次のイベント、天気（オンラインになります）、タイマー、フォルダー、通知のあるアプリ、曲のカバー
+Everything	すべて
+Everything: most of the items, from notes and tasks to the network's speed	すべて: ほとんどの項目（メモやタスクからネットワーク速度まで）
+Excuse me!	ごめんね！
+Expanded card when the mouse rests on a live item	ライブ中の項目にマウスを置くと拡大カードを表示
+Export	エクスポート
+Export the island's backup	アイランドのバックアップをエクスポート
+Extend	拡張
+Extra wide	とても広い
+Fade	フェード
+Fade the line after	ラインを消すまで
+Fan	ファン
+Favorite moved or deleted	お気に入りが移動または削除されました
+Favorites	お気に入り
+Favorites are full	お気に入りがいっぱいです
+Faísca	Faísca
+Faísca, a pet on the island	Faísca、アイランドのペット
+Faísca, the island's pet	Faísca、アイランドのペット
+Feels like	体感温度
+Fetches pictures for banners from the web, it needs an internet connection	バナー用の画像を Web から取得します。インターネット接続が必要です
+File Explorer	エクスプローラー
+File copied	ファイルをコピーした
+File copies	ファイルコピー
+File copies (own color)	ファイルコピー（専用の色）
+File moved	ファイルを移動した
+Files	ファイル
+Files are being copied	ファイルをコピー中
+Files are being moved	ファイルを移動中
+Files copied or moved by Windows (its copy window)	Windows がコピーまたは移動するファイル（コピーのウィンドウ）
+Files dragged out	ドラッグして出したファイル
+Files dragged out of the folders panel or the shelf into an app: copied or moved, or asked (the first time, remembered, or every time)	フォルダー パネルやシェルフからアプリへドラッグしたファイル：コピーまたは移動、または確認（最初の 1 回で記憶、または毎回）
+Files dragged out of the island are:	アイランドからドラッグして出したファイル:
+Fill	背景
+Fill animation	塗りつぶしのアニメーション
+Find the six pairs of the island's own icons. The shortest time wins.	アイランド自身のアイコンの6組のペアを見つけましょう。最短タイムが記録になります。
+Finding your location…	現在地を探しています…
+Finish	完了
+Finish keeps all of it; Cancel puts back what was there before	「完了」ですべてを残し、「キャンセル」で元の状態に戻します
+Five small games with your best results, kept only on this PC (no internet)	5 つのミニゲーム。ベスト記録はこの PC にだけ保存されます（インターネット不要）
+Fixed	固定
+Fixed: joined to the top edge, keeping its room (the windows stay below it)	固定: 上端につながり、場所を確保します（ウィンドウはその下に収まります）
+Floating	フローティング
+Fluent (online)	Fluent（オンライン）
+Focus	集中
+Focused right along with you.	いっしょに集中してるよ。
+Focused · Pomodoro's focus time	集中 · ポモドーロの集中タイム
+Fog	霧
+Fold the apps with notifications into an arrow (out when one comes, and under the mouse)	通知のあるアプリを矢印にまとめます（新着時とマウスを重ねたときに展開）
+Folder	フォルダー
+Folders	フォルダー
+Folders and places	フォルダーと場所
+Folders and places (your shortcuts)	フォルダーと場所（ショートカット）
+Folders mixed with files	フォルダーとファイルを混在
+Folds the app icons into an arrow, they come out for new ones or on hover	アプリのアイコンを矢印にまとめます。新着時やマウスを重ねたときに展開されます
+Following the bell	ベルに合わせる
+Following the mouse is unavailable with notches on the main island.	メインアイランドにノッチがある場合、マウスへの追従は使用できません。
+Follows Windows or forces a 24 hour or 12 hour clock	Windows の設定に従うか、24 時間制または 12 時間制に固定します
+Follows Windows' measurement system or forces Celsius or Fahrenheit	Windows の単位系に従うか、摂氏または華氏に固定します
+Follows the line	行に合わせる
+Follows the mouse	マウスに追従
+Food	ごはん
+For OLED screens: the minimized line fades away after this long, back when the mouse reaches it	OLED 画面向け: 最小化したラインはこの時間が過ぎると消え、マウスが届くと戻ります
+Forget	削除
+Forget it?	削除しますか?
+Frames a second	フレーム/秒
+Freezing drizzle	着氷性の霧雨
+Freezing rain	着氷性の雨
+Frequency	周波数
+From square to fully round corners (not with the bar or notches)	直角から完全な丸みまで（バーまたはノッチ使用時は不可）
+Frosted glass on the bar and the Fixed style's strip	バーと固定スタイルのストリップにすりガラスを適用
+Frosted look for the bar and the Fixed strip, needs Windows transparency	バーと固定ストリップのすりガラス効果。Windows の透明効果が必要です
+Fruit rain	フルーツの雨
+Frustrated	イライラ
+Full screen: silent	全画面：音なし
+Fun	楽しさ
+Game over	ゲームオーバー
+Game: caught	ゲーム：キャッチ
+Game: missed	ゲーム：ミス
+Game: new record	ゲーム：新記録
+Games in exclusive full screen still draw over it. In some games it can cost some performance, or bother anti-cheat systems	排他的全画面のゲームは引き続きその上に描画されます。ゲームによってはパフォーマンスが少し落ちたり、チート対策システムに影響したりすることがあります
+Games in her panel	パネルのミニゲーム
+Gap between the pill and the screen edge (not with the bar or notches)	カプセルと画面の端の間隔（バーまたはノッチ使用時は不可）
+General	全般
+Gives chosen apps their own icons, clock and order while they're in front (in the Island style, their own spot too). Each style has its own list	選んだアプリが前面にある間、専用のアイコン、時計、並び順を使います（アイランドスタイルでは専用の場所も）。スタイルごとに別のリストがあります
+Glass	ガラス
+Glass blur	ガラスのぼかし
+Glass: see-through and blurred, like on macOS	ガラス: 透明でぼかし付き（macOS のように）
+Glass: see-through and blurred, with a bright edge (Windows' blur: needs its transparency effects)	ガラス: 透明でぼかし付き、明るい縁取り（Windows のぼかし: 透明効果が必要）
+GlazeWM's workspaces	GlazeWM のワークスペース
+GlazeWM: hide the workspaces without windows	GlazeWM: ウィンドウのないワークスペースを非表示
+GlazeWM: its workspaces on the pill (a click switches)	GlazeWM: カプセル上のワークスペース（クリックで切り替え）
+Glow and hops can leave the island	光とジャンプがアイランドの外に出てもよい
+Glow and particles	グローとパーティクル
+Glowing in my little corner.	自分の隅っこで光ってるよ。
+Got your file. I'll hold it.	ファイルは受け取ったよ。持っててあげる。
+Graphics card temperature	グラフィックスカードの温度
+Graphics card use (GPU)	グラフィックスカードの使用率 (GPU)
+Graphite	グラファイト
+Green	緑
+Grid	グリッド
+Grid columns	グリッドの列数
+Happy · a notification came	うれしい · 通知が来た
+Hard to read: too alike	読みにくい: 色が似すぎています
+Heavy rain	大雨
+Hehe.	えへへ。
+Help translate the island	アイランドの翻訳に協力
+Her color	色
+Her color changes with the mood	気分で色が変わる
+Her eyes and body turn toward the mouse, more the closer it is	目と体がマウスのほうを向き、近いほど大きく向きます
+Her eyes follow the mouse	目がマウスを追う
+Her glow, rings and hops may go past the island, also over a maximized app; off, she stays inside it	光、輪、ジャンプがアイランドの外に出てもよく、最大化したアプリの上にも出ます。オフのときは中にとどまります
+Her light tints the island around her and flows through it in waves when she blinks, hops, dances or reacts	彼女の光が周りのアイランドを染め、まばたき、ジャンプ、ダンス、反応のたびに波となって流れます
+Her own color	独自の色
+Her size	彼女の大きさ
+Her sounds off	音はオフ
+Her volume	彼女の音量
+Heroicons (online)	Heroicons（オンライン）
+Hex	16進
+Hey! That hurt.	ちょっと！痛いよ。
+Hibernate	休止状態
+Hidden, a small pill with the time stays instead of the line (the line while a window is under it). The Bar hidden with Win+J closes into it too	隠れているとき、線の代わりに時刻の入った小さなカプセルが残ります（下にウィンドウがある間は線）。Win+J で隠したバーもこのカプセルになります
+Hide a notch with nothing in it	空のノッチを隠す
+Hide after	非表示までの時間
+Hide as its line until the mouse reaches it	マウスが届くまで線として非表示にします
+Hide each notch on its own (not all together)	各ノッチを個別に非表示にする（まとめてではなく）
+Hide past events after	過去のイベントを非表示にするまで
+Hide the Windows banners	Windows のバナーを非表示
+Hide the numbers	数字を隠す
+Hides when the mouse leaves, or only while a window is maximized or over it	マウスが離れたとき、またはウィンドウが最大化されているか重なっている間だけ隠れます
+Hiding	非表示
+Hiding and notifications	非表示と通知
+Hiding: when and how it becomes the line	非表示：いつ、どのようにラインになるか
+Highlight behind the item under the mouse	マウスを重ねた項目の背後をハイライト
+Hihi!	ふふっ！
+Hmm, interesting.	ふむ、おもしろい。
+Hmph.	ふん。
+Hold Ctrl and drag an item on the island (in any style) to another place, or to another notch. Its items jiggle while Ctrl is held with the mouse on it	Ctrl を押しながらアイランド上の項目（どのスタイルでも）を別の場所や別のノッチへドラッグします。マウスがアイランド上にあり Ctrl を押している間、項目が揺れます
+Holding · something is dragged over the island	つかんでいる · 何かがアイランドの上にドラッグされている
+Holidays in the calendar (goes online)	カレンダーに祝日を表示（オンラインになります）
+Home folder	ホーム フォルダー
+Horizontal stack	横に並べる
+Hot · the graphics card at %s	あつい · グラフィックカード %s
+Hot · the memory at %s	あつい · メモリ %s
+Hot · the processor at %s	あつい · プロセッサー %s
+How big she is on the pill and on the line; above 100% she goes past the pill's edges	ピルとラインでの彼女の大きさ。100% を超えるとピルの縁からはみ出します
+How big the banner is, its texts and buttons with it	バナーの大きさ（文字とボタンも一緒に）
+How big the line is on the pill	カプセル上の行の大きさ
+How big the previous, play and next buttons on the pill are, as far as the pill is tall	カプセル上の「前へ」「再生」「次へ」ボタンの大きさ（カプセルの高さまで）
+How busy the processor, the memory or the graphics card must be, for 5 seconds, before she shows it	プロセッサー、メモリー、グラフィックスカードがどれだけ忙しい状態が 5 秒続いたら表すか
+How fast her needs come back as you use the PC: calm (about a day), normal (8 hours) or attentive (3 hours)	PC を使っているあいだ、ねだるまでの速さ：のんびり（約 1 日）、ふつう（8 時間）、こまめ（3 時間）
+How it moves; paused it breathes, an error shakes, done flashes with a check, canceled drains back	動き方: 一時停止は呼吸、エラーは揺れ、完了はチェックマーク付きの点滅、キャンセルは元に戻る
+How loud all her sounds are	彼女のすべての音の大きさ
+How many	表示数
+How many files it keeps: the oldest goes when a new one comes	保持するファイル数：新しいファイルが来ると最も古いものが外れます
+How many icons show before the list starts to scroll	リストがスクロールし始めるまでに表示するアイコンの数
+How much of the AI agents' limits is used and when each starts over, read on this PC (no login and nothing online)	AI エージェントの上限をどれだけ使ったか、それぞれいつリセットされるかを、この PC 上で読み取ります（ログイン不要、オンライン通信なし）
+How much the bars move with the sound (they follow the playing app's own sound)	音に合わせてバーが動く大きさ（再生中のアプリの音に追従します）
+How often she does something by herself while idle (looks around, hops, spins, stretches)	何もしていないときに自分から何かをする頻度（見回す、跳ねる、回る、伸びをする）
+How round the banner's corners are	バナーの角の丸み
+How round the notch curves are in the Fixed style	固定スタイルでのノッチの曲線の丸み
+How solid the island's fill is, from see-through to full	アイランドの塗りつぶしの濃さ（透明から不透明まで）
+How strongly the glass blurs what is behind it	ガラスが背後をぼかす強さ
+How tall the bars can grow (as far as the pill allows)	バーが伸びる最大の高さ（カプセルに収まる範囲で）
+How the What's playing panel looks: the usual one, Pixel (Android), One UI (Samsung), Windows 11, or only the cover with the buttons over it. It opens from What's playing or the cover on the pill	「再生中」パネルの見た目：通常、Pixel（Android）、One UI（Samsung）、Windows 11、またはカバーだけにボタンを重ねた表示。「再生中」かカプセル上のカバーから開きます
+How visible the thin line is when the pill is hidden	カプセルが非表示のときの細い線の見えやすさ
+How visible the thin outline around the pill is	カプセルを囲む細い枠線の見えやすさ
+How wide each bar is; the item grows with them	各バーの幅。項目もそれに合わせて広がります
+How wide the banner is (a longer text fits on its lines)	バナーの幅（長い文字も行に収まります）
+Humidity	湿度
+Hungry · food at %s	おなかすいた · ごはん %s
+I give up. For today.	もうやめた。今日は。
+I got such a fright!	びっくりした！
+I like it!	これ好き！
+I'm all alone…	ひとりぼっちになっちゃった…
+I'm bored…	退屈だなあ…
+I'm drying up here.	からからに乾いちゃう。
+Icon	アイコン
+Icon and color	アイコンと色
+Icon colors	アイコンの色
+Icon pack	アイコンパック
+Icon size	アイコンの大きさ
+Iconoir (online)	Iconoir（オンライン）
+Icons	アイコン
+Icons of the apps with notifications	通知のあるアプリのアイコン
+Icons per app (Bar)	アプリごとのアイコン（バー）
+Icons per app (Fixed style)	アプリごとのアイコン（固定スタイル）
+Icons that aren't pinned	固定されていないアイコン
+Ignored (not counted)	無視（カウントしない）
+Import	インポート
+Import a backup of the island	アイランドのバックアップをインポート
+Import a file	ファイルをインポート
+Import shortcuts (like komorebi's whkdrc)	ショートカットをインポート（komorebi の whkdrc など）
+In the bar, sends items to the screen corners: with the clock in the middle, the ones before it go to the left and the others to the right; without it, the first separator line of the order splits them. With two separator lines the bar has three parts instead: left corner, middle of the screen (the clock joins it) and right corner	バースタイルでは項目を画面の角に配置します。時計が中央なら、その前の項目は左、他は右。時計が中央でないときは、並び順の最初の区切り線で分けます。区切り線が2本あると、代わりに3つに分かれます。左の角、画面の中央（時計もここに入ります）、右の角です
+In the island's Do not disturb, calls, alarms and reminders don't ring either (they still show on the pill)	アイランドの応答不可モードでは、通話、アラーム、リマインダーも鳴りません（カプセルには引き続き表示されます）
+In the pill	カプセル内
+In the pill with a sound, even in Do not disturb	カプセルにサウンド付きで表示（応答不可でも）
+In the terminal	ターミナル内
+In use	使用中
+In use: close what's open on it	使用中: 開いているものを閉じてください
+Installed apps	インストール済みのアプリ
+Instrumental	インストゥルメンタル
+Ionicons (online)	Ionicons（オンライン）
+Island	アイランド
+Island backup (*.txt)	アイランドのバックアップ (*.txt)
+Island font	アイランドのフォント
+Island memory	アイランドの神経衰弱
+Island settings	アイランドの設定
+Island: a pill floating at the top, the windows go under it	アイランド: 上に浮かぶカプセル。ウィンドウはその下を通ります
+It couldn't start.	開始できませんでした。
+It ended with an error (0x%08X). Turn the mod off and on in Windhawk to start it again.	エラーで終了しました (0x%08X)。もう一度起動するには、Windhawk でこの Mod をオフにしてからオンにしてください。
+It failed (see the terminal)	失敗しました（ターミナルを確認してください）
+It goes to the screen with the mouse	マウスのある画面に移動します
+It runs only while the island is on. A time missed while the PC slept or the island was off isn't made up.	アイランドがオンのときだけ実行されます。PC のスリープ中やアイランドがオフの間に過ぎた時刻の分は、あとから実行されません。
+It's getting hot in here, huh?	ここ、暑くない？
+Items in the bar	バーの項目
+Items on the pill	カプセルの項目
+Its focus or break ending, while it runs	実行中の集中または休憩の終了
+Its look (profile):	外観（プロファイル）:
+Its style, size, hiding and animations are in Windhawk's settings for this mod	スタイル、サイズ、非表示、アニメーションは、Windhawk のこの Mod の設定にあります
+JSON file	JSON ファイル
+Just one little game?	ちょっとだけ遊ばない？
+Just watching…	ただ眺めてるだけ…
+Keep as it is	そのままにする
+Keep as it is: the items the pill had before	そのままにする: これまでカプセルにあった項目
+Keep it open	開いたままにする
+Keep their list open	リストを開いたままにする
+Keeping an eye on you.	ずっと見てるよ。
+Keeps the note on the pill when no app has media; a click opens the panel	メディアのあるアプリがなくても音符をカプセルに残します。クリックでパネルを開きます
+Keyboard language	キーボードの言語
+Keyboard language (like Windows' input indicator)	キーボードの言語（Windows の入力インジケーターのように）
+Keyboard shortcut (optional)	キーボードショートカット（任意）
+Keyboard shortcuts	キーボード ショートカット
+Keyboard shortcuts button	キーボード ショートカットのボタン
+Keys	キー
+Language	言語
+Language of the island's texts (it starts again)	アイランドの表示言語（再起動します）
+Language of the notes	ノートの言語
+Language settings	言語の設定
+Large	大
+Largest first	大きい順
+Later	後で
+Leaves only the play and pause button on the pill, without previous and next	カプセルには再生/一時停止ボタンだけを残し、前へと次へは表示しません
+Leaves out GlazeWM workspaces that have no windows	ウィンドウのない GlazeWM のワークスペースを除外します
+Leaves out komorebi workspaces that have no windows	ウィンドウのない komorebi のワークスペースを除外します
+Left	左
+Less round	丸みを控えめに
+Let go to add it to your commands	離すと自分のコマンドに追加します
+Let go to put it on the shelf	離すとシェルフに置きます
+Let's play?	遊ぼうよ？
+Light	ライト
+Light and dark mode	ライト モードとダーク モード
+Light and dark mode button	ライト/ダーク モードのボタン
+Light and shadow like macOS 27	macOS 27 のような光と影
+Light rain	小雨
+Lighter tint and livelier colors on the glass	ガラスの色合いを明るく、色を鮮やかにします
+Lights up the item the mouse is over	マウスが重なっている項目を光らせます
+Like Ctrl+Shift+S, or Ctrl+K, Ctrl+S	例: Ctrl+Shift+S、Ctrl+K, Ctrl+S
+Like Windows	Windows に合わせる
+Like the island	アイランドと同じ
+Like the island: only the shapes of the emojis and of your pictures, in the island's colors. Their own: as they are	アイランドと同じ：絵文字と自分の画像の形だけをアイランドの色で表示します。元の色：そのまま表示します
+Like the other icons	ほかのアイコンと同じ
+Like the panels	パネルと同じ
+Line added · drag it between icons, click it to remove	線を追加しました · アイコンの間にドラッグ、クリックで削除
+Line opacity	線の不透明度
+Line that opens the island	アイランドを開くライン
+Liquid wave	リキッド ウェーブ
+Listening · %s is playing	聴いている · %s を再生中
+Live activities like the iPhone's	iPhone のようなライブアクティビティ
+Lively	元気
+Loading...	読み込み中...
+Location	場所
+Location off or not allowed in Windows	Windows で位置情報がオフか許可されていません
+Lock	ロック
+Logs	ログ
+Lonely · love at %s	さみしい · 愛情 %s
+Long	長い
+Long notification texts scroll under the mouse	長い通知テキストをマウスオーバーでスクロール
+Longest line on the pill	カプセル上の行の長さ
+Longest width the song title may take on the pill	カプセル上で曲名が使える最大幅
+Look	外観
+Look and dock	外観と Dock
+Looking for networks...	ネットワークを検索中...
+Looking for the lyrics…	歌詞を検索中…
+Looking…	検索中…
+Looks for lyrics	歌詞を探す
+Love	愛情
+Low battery	バッテリー残量低下
+Low battery… same here.	電池が少ない…わたしも。
+Lucide (online)	Lucide（オンライン）
+Lyrics are looked for only for songs (with an artist, 45 s to 20 min, not videos)	歌詞は曲の場合のみ検索されます（アーティストあり、45 秒〜20 分、動画以外）
+Lyrics are off for this app (in the settings, What's playing)	このアプリの歌詞はオフです（設定の「再生中」）
+Lyrics as an icon	歌詞をアイコンで表示
+Lyrics color	歌詞の色
+Lyrics color (own)	歌詞の色（専用）
+Lyrics from lrclib.net	歌詞は lrclib.net から
+Lyrics replace the song title	歌詞を曲名の代わりに表示
+Lyrics size	歌詞の大きさ
+Lyrics size on the pill	カプセル上の歌詞の大きさ
+M D Y	月 日 年
+Made in Brazil, new versions bring fixes and what users ask for	ブラジル製。新バージョンで修正とユーザーの要望に対応します
+Magnifier	拡大鏡
+Main island	メインアイランド
+Makes her dance and react	彼女を踊らせ、反応させる
+Makes the What's playing panel bigger than the other panels; on a short screen it still fits and scrolls	「再生中」パネルを他のパネルより大きくします。高さの低い画面でも収まり、スクロールできます
+Makes the pill taller or shorter (not with the bar)	カプセルの高さを変更します（バー使用時は不可）
+Manage profiles	プロファイルの管理
+Marks holidays in the calendar, it needs an internet connection	カレンダーに祝日を表示します。インターネット接続が必要です
+Material (online)	Material（オンライン）
+Media buttons	メディア ボタン
+Media buttons on the pill	カプセル上のメディア ボタン
+Media buttons size	メディアボタンの大きさ
+Media panel size	メディアパネルのサイズ
+Media panel style	メディアパネルのスタイル
+Medium	中
+Memory	メモリ
+Memory use (RAM)	メモリ使用率 (RAM)
+Merges an app's notifications into one icon, Phone Link's phone apps included	アプリの通知を 1 つのアイコンにまとめます（スマートフォン連携のアプリも含む）
+Meteocons (colored)	Meteocons（カラー）
+Microphone	マイク
+Microphone button (mute)	マイクのボタン（ミュート）
+Microphone, camera and location in use	使用中のマイク、カメラ、位置情報
+Microphone, camera and location in use (and which app)	使用中のマイク、カメラ、位置情報（およびアプリ名）
+Middle	中央
+Minimize	最小化
+Minimize arrow at the end of the pill	カプセルの端の最小化矢印
+Missed	見逃し
+Mission accomplished.	ミッション完了。
+Mistakes	ミス
+Mixer	ミキサー
+Mobile data	モバイルデータ
+Mobile hotspot	モバイル ホットスポット
+Monitor	モニター
+Monitor 	モニター 
+Monitors	モニター
+Monocle (the window in focus fills the screen)	Monocle（フォーカス中のウィンドウが画面全体に広がる）
+Month as a number (9/10)	月を数字で表示 (9/10)
+More Windows controls	Windows のその他のコントロール
+More in Explorer	エクスプローラーでさらに表示
+More options in: %s	その他のオプション: %s
+More, more!	もっと、もっと！
+Mostly clear	おおむね晴れ
+Mouse away	マウスが離れたとき
+Move	移動
+Move the mouse (or the arrows) to catch fruit and drops: they feed her and quench her thirst. Letting one fall costs a life, and so does catching a rock or a bolt. Three lives.	マウス（または矢印キー）でフルーツとしずくをキャッチ。食べ物と水になります。落とすとライフが1つ減り、石やいなずまを受け止めても減ります。ライフは3つ。
+Move the mouse over her to pet her. Click to tap her (she doesn't like too many).	マウスを重ねるとなでられます。クリックでつんつんできます（やりすぎると怒ります）。
+Move the pill by dragging it	ドラッグしてカプセルを移動
+Moved	移動済み
+Music	ミュージック
+Muted	ミュート
+My head is so full right now.	頭の中がいっぱいなの。
+My location	現在地
+My moves are sharp today.	今日はステップがキレてる！
+My site, with my other projects and a Discord link	私のサイト。他のプロジェクトと Discord へのリンクがあります
+My tummy is rumbling.	おなかがぐーって鳴ってる。
+Nailed it!	決まった！
+Name	名前
+Name (like Downloads)	名前（例: ダウンロード）
+Name (optional)	名前（任意）
+Narrator	ナレーター
+Narrow	狭い
+Nearby networks appear once location access is on: click to turn on "Let desktop apps access your location"	位置情報へのアクセスをオンにすると、近くのネットワークが表示されます: クリックして「デスクトップ アプリに位置情報へのアクセスを許可する」をオンにします
+Needs Windows' transparency effects: click to open Personalization > Colors	Windows の透明効果が必要です: クリックして「個人用設定 > 色」を開きます
+Needs a fill on (downloads or charging)	塗りつぶしをオンにする必要があります（ダウンロードまたは充電）
+Needs the bar style and the clock in the middle	バースタイルと中央の時計が必要です
+Needs the date or the year on the clock	時計に日付または年が必要です
+Needs the notches	ノッチが必要です
+Needs the notches (Fixed style)	ノッチが必要です（固定スタイル）
+Needs “%s” on	「%s」をオンにする必要があります
+Needs “%s” or “%s” on	「%s」または「%s」をオンにする必要があります
+Network	ネットワーク
+Network & internet	ネットワークとインターネット
+Network cable	ネットワーク ケーブル
+Network connections	ネットワーク接続
+Network name	ネットワーク名
+Network speed	ネットワーク速度
+Network speed (up and down)	ネットワーク速度（アップロードとダウンロード）
+Never	なし
+New command	新しいコマンド
+New desktop	新しいデスクトップ
+New notification	新しい通知
+New record	新記録
+New task	新しいタスク
+Newest first	新しい順
+Next	次へ
+Next event	次のイベント
+Night light	夜間モード
+Night light isn't available here	ここでは夜間モードを使用できません
+No Bluetooth	Bluetooth なし
+No USB drives	USB ドライブなし
+No Wi-Fi adapter	Wi-Fi アダプターなし
+No agendas yet.	カレンダーはまだありません。
+No alarms yet	アラームはまだありません
+No apps found	アプリが見つかりません
+No apps using this output	この出力を使用中のアプリはありません
+No date	日付なし
+No distractions.	よそ見は禁止。
+No events	イベントなし
+No icon's picture in that folder	そのフォルダーにアイコンの画像がありません
+No internet	インターネットなし
+No lyrics found for this song	この曲の歌詞は見つかりませんでした
+No mistakes	ミスなし
+No notes yet	メモはまだありません
+No notifications	通知なし
+No paired devices	ペアリング済みのデバイスなし
+No pictures in this folder	このフォルダーに画像はありません
+No profile in use: click one to apply it	使用中のプロファイルなし: クリックして適用
+No profiles yet	プロファイルはまだありません
+No record yet	まだ記録なし
+No reminder (the bell turns it on)	リマインダーなし（ベルでオン）
+No settings match the search	検索に一致する設定はありません
+Nobody has talked to me in a while.	しばらく誰ともお話ししてないな。
+Nobody plays with me anymore…	もう誰も遊んでくれない…
+None	なし
+None found	見つかりません
+None yet: a program, a folder, a link or a command line, a click away	まだありません：プログラム、フォルダー、リンク、コマンドラインをワンクリックで
+Normal	標準
+Not a backup of the island	アイランドのバックアップではありません
+Not an .ics link (Google: Secret address in iCal format)	.ics のリンクではありません（Google: iCal 形式の非公開アドレス）
+Not available here	ここでは使用できません
+Not available on this PC	この PC では使用できません
+Not checked yet	未確認
+Not chosen	未選択
+Not for the Bar style	「バー」スタイルでは使えません
+Not with the Liquid Glass	Liquid Glass とは併用できません
+Not with the notches	ノッチとは併用できません
+Not with the notches: each one keeps its place and items for every app	ノッチとは併用できません：各ノッチはすべてのアプリで同じ位置と項目を保ちます
+Notch curves	ノッチの曲線
+Notches	ノッチ
+Notes	メモ
+Notes button	メモのボタン
+Nothing found	見つかりません
+Nothing in it	空です
+Nothing playing	再生中のものはありません
+Nothing to do	やることはありません
+Nothing to do around here.	ここ、何もすることがないね。
+Nothing to share	共有するものがありません
+Nothing waiting	待機中のものはありません
+Notice when switching desktops	デスクトップ切り替え時の通知
+Notification	通知
+Notifications	通知
+Notifications (bell)	通知（ベル）
+Notifications too	通知にも適用
+Notify when a USB drive is plugged in	USB ドライブの接続時に通知
+Now	今
+Num Lock bubble	Num Lock の通知
+Num Lock off	Num Lock オフ
+Num Lock on	Num Lock オン
+Number of columns in the icon grid (Grid style only)	アイコン グリッドの列数（グリッドスタイルのみ）
+OK	OK
+Off	オフ
+Off until you turn it on. Every event below has its own switch and source; nothing plays over a full-screen app or with Do not disturb on	オンにするまで鳴りません。下のイベントごとに、スイッチと音の出どころがあります。全画面アプリの上や応答不可モード中は鳴りません
+Off while “%s” is on	「%s」がオンの間はオフ
+Off with no animations (“None”)	アニメーションなし（「なし」）のときはオフ
+Off with only the cover on the pill	カバーだけのときはオフ
+Off with the bar style	バースタイルではオフ
+Off with the items at the screen's corners	項目を画面の角に置いているときは無効
+Off with the notches (Fixed style)	ノッチ使用時はオフ（固定スタイル）
+Off, these actions run at the first click, with no question	オフの場合、これらの操作は確認なしで最初のクリックで実行されます
+Off: nothing is sent	オフ: 何も送信されません
+Off: only the app's icon peeks out of the line	オフ: 線からアプリのアイコンだけがのぞきます
+Oldest first	古い順
+On	オン
+On a laptop, the battery's percentage as it charges	ノート PC で、充電中にバッテリーの残量(%)を表示します
+On battery	バッテリー駆動
+On cloud nine…	夢心地…
+On every monitor	すべてのモニター
+On every notch	すべてのノッチ
+On one monitor	1 台のモニター
+On the battery's notch or the pill	バッテリーのノッチまたはカプセル
+On the beat	リズムに乗って
+On the monitor with the mouse	マウスのあるモニター
+On the shelf	シェルフ上
+On-screen keyboard	スクリーン キーボード
+Once	1 回のみ
+Once per version, a notice from the pill opens this page	バージョンごとに一度、カプセルからの通知でこのページが開きます
+One UI (Samsung)	One UI（Samsung）
+One icon per app (Phone Link's phone apps together)	アプリごとに 1 つのアイコン（スマートフォン連携のアプリはまとめて）
+Only 16 commands can have a shortcut.	ショートカットを設定できるコマンドは16個までです。
+Only Claude Code in a terminal: the Claude desktop app doesn't leave its limits on this PC	ターミナルの Claude Code のみ：Claude のデスクトップアプリはこの PC に上限を残しません
+Only a file on this computer	このPCのファイルのみ
+Only a folder on this computer	このコンピューター上のフォルダーのみ
+Only a picture on this computer	このコンピューター上の画像のみ
+Only an icon on the pill while the song has lyrics, instead of the line sung now; a click opens them	曲に歌詞がある間、歌唱中の行の代わりにアイコンだけをカプセルに表示します。クリックで歌詞を開きます
+Only files on this PC can be shared, not folders	共有できるのはこの PC のファイルだけで、フォルダーは共有できません
+Only for emoji and pictures of your own	絵文字と自分の画像のみ
+Only for the Bar style	「バー」スタイルのみ
+Only for the Island style	アイランドスタイルのみ
+Only for the notes below; the island keeps its language	下のノートだけに適用されます。アイランドの言語は変わりません
+Only https links or file paths	https のリンクまたはファイルパスのみ
+Only on the main island: change it in its settings	メインアイランドのみ: その設定で変更してください
+Only play and pause	再生と一時停止のみ
+Only the bar's items over what is behind it; with the frosted look, only the blur	背後の内容の上にバーの項目だけを表示します。すりガラスと一緒なら、ぼかしだけになります
+Only the clock when hidden	隠すときは時計だけ
+Only the cover on the pill	カプセルにはカバーだけ
+Only the main clock shows on the pill; the other clocks list when the mouse rests on it	カプセルにはメインの時計だけが表示され、マウスを重ねると他の時計が一覧で表示されます
+Only with Your folder as the pack	パックが「自分のフォルダー」のときのみ
+Only with the Glass off (it blurs them already), on the bar or on the Fixed style without notches and not hiding as a line	ガラスがオフのとき（ガラスはすでにぼかします）、バー、またはノッチなしで線として非表示にしない固定スタイルでのみ使用できます
+Only with the Grid style	グリッドスタイルのみ
+Only with the icons opening in the pill	アイコンがカプセル内で開くときのみ
+Ooh, a notification!	わっ、通知だ！
+Oops, I yawned.	あ、あくびしちゃった。
+Opacity	不透明度
+Open	開く
+Open Windhawk	Windhawk を開く
+Open Windows Update	Windows Update を開く
+Open Windows mixer	Windows ミキサーを開く
+Open an app to give it a place	アプリを開いて場所を設定します
+Open in Explorer	エクスプローラーで開く
+Open in terminal	ターミナルで開く
+Open it	開く
+Open panels with the mouse	マウスでパネルを開く
+Open something	何かを開く
+Open the Windows notification center	Windows の通知センターを開く
+Opens a panel with your folder and place shortcuts	フォルダーと場所のショートカット パネルを開きます
+Opens a program, a file, a folder, a link or a settings page, like the Run box (Win+R).	プログラム、ファイル、フォルダー、リンク、設定ページを「ファイル名を指定して実行」(Win+R) のように開きます。
+Opens pickers for the fill, text and icon colors	塗りつぶし、文字、アイコンの色を選ぶピッカーを開きます
+Opens the line	ラインを開く方法
+Opens the unpinned icons as a list in the pill, a grid or a named list	固定されていないアイコンを、カプセル内のリスト、グリッド、名前付きリストで開きます
+Other apps' icons before scrolling	スクロールまでに表示する他のアプリのアイコン数
+Other apps' tray icons	他のアプリのトレイ アイコン
+Other files	その他のファイル
+Output	出力
+Overcast	曇り
+Overdue	期限切れ
+PC screen only	PC 画面のみ
+Padding before the first item and after the last one	最初の項目の前と最後の項目の後の余白
+Panels and buttons	パネルとボタン
+Panels as wide as the island	アイランドと同じ幅のパネル
+Panels open as wide as the island is	パネルをアイランドと同じ幅で開きます
+Panels size	パネルのサイズ
+Partial	一部
+Partly cloudy	晴れ時々曇り
+Password	パスワード
+Paste an .ics link (Google Calendar: Settings, your calendar, Secret address in iCal format) or a file's path.	.ics のリンク（Google カレンダー: 設定 > カレンダー > iCal 形式の非公開アドレス）またはファイルのパスを貼り付けてください。
+Pause	一時停止
+Paused	一時停止中
+Paused (every monitor)	一時停止中（すべてのモニター）
+Performance	パフォーマンス
+Personality	性格
+Personalization	個人用設定
+Phosphor (online)	Phosphor（オンライン）
+Picks a color theme from the swatches	サンプルから配色テーマを選びます
+Picks the screen spot for the pill, on a grid	グリッドでカプセルの画面上の位置を選びます
+Picture copied	画像をコピーしました
+Pictures	ピクチャ
+Pictures, videos and documents show a small preview, as in Explorer, in the folders panel and on the shelf	画像、ビデオ、ドキュメントはエクスプローラーのように、フォルダーパネルとシェルフに小さなプレビューを表示します
+Pill	カプセル
+Pill corners	カプセルの角
+Pill floats, Fixed keeps its room on the screen, Bar spans the edge	「カプセル」は浮かび、「固定」は画面上の場所を確保し、「バー」は端いっぱいに広がります
+Pill height	カプセルの高さ
+Pill items	カプセルの項目
+Pill switches in the panel	パネルにカプセルのスイッチを表示
+Pin a folder to the island	フォルダーをアイランドに固定
+Pink	ピンク
+Pixel (Android)	Pixel（Android）
+Place	位置
+Place (or drag the pill)	位置（またはカプセルをドラッグ）
+Place (the bar is at the top)	位置（バーは上部）
+Place (the notches are at the top)	位置（ノッチは上部）
+Place and icons per app	アプリごとの場所とアイコン
+Plan: 	プラン: 
+Play	遊ぶ
+Plug me in?	充電してくれる？
+Point to a JSON file with "name" and "windows" (or a list of them) to show other services here	他のサービスをここに表示するには、"name" と "windows"（またはその一覧）を含む JSON ファイルを指定してください
+Pomodoro finished	ポモドーロ終了
+Power	電源
+Power button	電源ボタン
+Power button (sleep, restart, shut down)	電源ボタン（スリープ、再起動、シャットダウン）
+Power draw	消費電力
+Power options	電源オプション
+Power plan	電源プラン
+Press	記録
+Press the keys	キーを押してください
+Press the keys (Tab moves on)…	キーを押してください（Tab で次へ）…
+Pressing Win+A opens the island's control center instead of Windows'	Win+A で Windows ではなくアイランドのコントロール センターを開きます
+Pressing Win+N opens the island's notifications instead of Windows'	Win+N で Windows ではなくアイランドの通知を開きます
+Pressure	気圧
+Privacy	プライバシー
+Processor	プロセッサ
+Processor use (CPU)	プロセッサ使用率 (CPU)
+Profile 	プロファイル 
+Profiles	プロファイル
+Profiles button (switch profiles)	プロファイルのボタン（プロファイルの切り替え）
+Program, file, folder, link or ms-settings:	プログラム、ファイル、フォルダー、リンク、または ms-settings:
+Programs and Features	プログラムと機能
+Project	投影
+Proud	誇らしい
+Puts a button on the pill that locks the PC	PC をロックするボタンをカプセルに配置します
+Puts a button on the pill that opens Calculator	電卓を開くボタンをカプセルに配置します
+Puts a button on the pill that opens File Explorer	エクスプローラーを開くボタンをカプセルに配置します
+Puts a button on the pill that opens Task Manager	タスク マネージャーを開くボタンをカプセルに配置します
+Puts a button on the pill that opens Windows' Settings	Windows の設定を開くボタンをカプセルに配置します
+Puts a button on the pill that opens the Start button's right-click menu (the one of Win+X)	スタート ボタンの右クリック メニュー（Win+X のメニュー）を開くボタンをカプセルに追加します
+Puts a button on the pill that opens the accessibility options	アクセシビリティ オプションを開くボタンをカプセルに配置します
+Puts a button on the pill that opens the clipboard history	クリップボードの履歴を開くボタンをカプセルに配置します
+Puts a button on the pill that opens the emoji panel	絵文字パネルを開くボタンをカプセルに配置します
+Puts a button on the pill that opens the on-screen keyboard	スクリーン キーボードを開くボタンをカプセルに配置します
+Puts a button on the pill that shows or hides the touch keyboard	タッチ キーボードを表示または非表示にするボタンをカプセルに配置します
+Puts a button on the pill that shows the desktop	デスクトップを表示するボタンをカプセルに配置します
+Puts a button on the pill that takes a screenshot	スクリーンショットを撮るボタンをカプセルに配置します
+Puts a button on the pill that turns live captions on	ライブ キャプションをオンにするボタンをカプセルに配置します
+Puts a button on the pill to cast the screen	画面をキャストするボタンをカプセルに配置します
+Puts a button on the pill to choose the display mode	表示モードを選ぶボタンをカプセルに配置します
+Puts a button on the pill to start, stop or reload komorebi	komorebi を開始、停止、再読み込みするボタンをカプセルに配置します
+Puts a one-click Airplane mode button on the pill	ワンクリックの機内モード ボタンをカプセルに配置します
+Puts a one-click Bluetooth button on the pill	ワンクリックの Bluetooth ボタンをカプセルに配置します
+Puts a one-click Mobile hotspot button on the pill	ワンクリックのモバイル ホットスポット ボタンをカプセルに配置します
+Puts a one-click Night light button on the pill	ワンクリックの夜間モード ボタンをカプセルに配置します
+Puts a one-click Wi-Fi and network button on the pill	ワンクリックの Wi-Fi とネットワークのボタンをカプセルに配置します
+Puts previous, play and next buttons right on the pill	前へ、再生、次への各ボタンをカプセルに直接配置します
+Puts the clock in the middle with the other items around it	時計を中央に配置し、他の項目をその周囲に並べます
+Rain	雨
+Rain chance	降水確率
+Rainbow	レインボー
+Reacts to what the PC is doing	PC の状態に反応する
+Reading…	読み取り中…
+Reads limits from a JSON file on this PC ({"name", "windows"})	この PC 上の JSON ファイルから上限を読み取ります（{"name", "windows"}）
+Record shortcut	ショートカットを記録
+Record: %s	記録：%s
+Recycle Bin	ごみ箱
+Recycle Bin appears	ごみ箱の表示
+Red	赤
+Reflex	反射神経
+Remember my choice (it's in the island's settings)	選択を記憶する（アイランドの設定にあります）
+Reminder	リマインダー
+Repeat	繰り返す
+Repeat all	すべてを繰り返す
+Repeat off	繰り返しオフ
+Repeat one	1曲を繰り返す
+Reply	返信
+Report a bug or suggest an idea, GitHub tells you when it comes out	バグを報告するか、アイデアを提案してください。反映されると GitHub から通知されます
+Reset	リセット
+Restart	再起動
+Restart now?	今すぐ再起動しますか?
+Resting the mouse on an item opens its panel, and it closes a moment after the mouse leaves. Buttons that do something still need a click; a click keeps the panel open	項目にマウスを置くとそのパネルが開き、マウスが離れると少しして閉じます。何かを実行するボタンは引き続きクリックが必要です。クリックするとパネルは開いたままになります
+Restore what changed	変更を元に戻す
+Resume	再開
+Reverse the wheel (up is the next song)	ホイールの向きを逆にする（上で次の曲）
+Right	右
+Ring with the battery's charge	バッテリー残量のリング
+Room at the pill's ends	カプセルの両端の余白
+Room between the bars	バーの間隔
+Round	ラウンド
+Rounds the corners where the bar meets the screen, like a screen's own round corners	バーと画面が接する角を、画面自体の丸い角のように丸くします
+Rows	行
+Run a command line	コマンドラインを実行
+Run by itself, at a time	指定した時刻に自動で実行
+Runs in cmd.exe without a window; a terminal shows only if it fails.	ウィンドウなしで cmd.exe で実行します。失敗したときだけターミナルが表示されます。
+Sad · nobody has played with her for %s h	しょんぼり · %s 時間だれも遊んでくれていない
+Safe to remove	安全に取り外せます
+Same as main: changes here apply to it too · + creates this monitor's profile	メインと同じ: ここでの変更はメインにも適用されます · + でこのモニターのプロファイルを作成
+Same as the main one	メインと同じ
+Save	保存
+Save  (Enter)	保存  (Enter)
+Save Windows' icons	Windows のアイコンを保存
+Save Windows' icons puts a picture of every icon in the folder, named after it (wifi.png, battery-5.png...): replace the ones you want, and they show a moment later	「Windows のアイコンを保存」で、各アイコンの画像をその名前でフォルダーに置きます（wifi.png、battery-5.png...）：好きなものを差し替えると、すぐに反映されます
+Save current here	現在の設定をここに保存
+Save current settings	現在の設定を保存
+Save texts	テキストを保存
+Save the island's logs	アイランドのログを保存
+Save the island's texts to translate	翻訳するアイランドのテキストを保存
+Save...	保存...
+Saved ✓	保存しました ✓
+Saved.	保存しました。
+Saves a backup file or loads one; Reset puts every setting back to its default (clicked twice)	バックアップ ファイルを保存または読み込みます。「リセット」ですべての設定を既定に戻します（2 回クリック）
+Saves every text of the island in a file, in the language chosen if it isn't English, to translate or fix. Send it in a new issue at the Windhawk repository	アイランドのすべてのテキストをファイルに保存します（英語以外の言語を選んでいる場合はその言語で）。翻訳や修正に使い、Windhawk のリポジトリで新しい issue を作って送ってください
+Saving Windows' icons…	Windows のアイコンを保存中…
+Saving…	保存中…
+Scales only the icons on the pill (their room too)	カプセル上のアイコンだけを拡大縮小します（その場所も）
+Scales only the texts on the pill: the clock, percentages and titles	カプセル上の文字だけを拡大縮小します：時計、パーセント、タイトル
+Scales the control center, calendar and other panels	コントロール センター、カレンダー、その他のパネルを拡大縮小します
+Scales the pill, icons and panels together	カプセル、アイコン、パネルをまとめて拡大縮小します
+Screen	画面
+Screen brightness	画面の明るさ
+Screen brightness (the mouse wheel changes it)	画面の明るさ（マウス ホイールで変更）
+Screens	画面
+Screenshot	スクリーンショット
+Screenshot notifications open the picture (in Explorer)	スクリーンショットの通知で画像を開く（エクスプローラー）
+Scrolling	スクロール
+Scrolling on the player skips songs instead of changing the volume	プレーヤー上でスクロールすると、音量ではなく曲を切り替えます
+Scrolling up skips to the next song and scrolling down to the one before, instead of the other way round	上にスクロールすると次の曲へ、下にスクロールすると前の曲へ切り替わります（通常とは逆）
+Search	検索
+Search apps	アプリを検索
+Search here (a name or *.pdf)	ここで検索（名前または *.pdf）
+Search results	検索結果
+Second screen only	2 番目の画面のみ
+Seconds	秒
+Seconds the pill waits after the mouse leaves before it hides	マウスが離れてからカプセルが非表示になるまでの秒数
+See it in a terminal	ターミナルで表示
+See what's new in this version	このバージョンの新機能を見る
+See-through bar	透明なバー
+See-through blurred pill with a bright edge, needs Windows transparency	明るい縁取りの透明でぼかし付きのカプセル。Windows の透明効果が必要です
+See-through only on the desktop	デスクトップでのみ透明
+Separator line · drag to move · click to remove	区切り線 · ドラッグで移動 · クリックで削除
+Set a timer	タイマーを設定
+Set an alarm	アラームを設定
+Set up	設定する
+Sets the order of day, month and year when the date shows	日付を表示するときの日、月、年の順序を設定します
+Settings	設定
+Settings back to their defaults	設定を既定に戻しました
+Setup assistant	セットアップ アシスタント
+Share	共有
+Shared memory	共有メモリ
+She asked to play	遊んでとせがんだ
+She asks to play when bored	退屈すると遊んでとせがむ
+She giggles with a note	音符と一緒にくすくす笑います
+She jumps from cloud to cloud by herself; you only steer her sideways with the mouse or the arrows. Grey clouds vanish after a jump and some move.	彼女は自分で雲から雲へジャンプします。あなたはマウスか矢印キーで左右に導くだけです。灰色の雲は一度跳ぶと消え、動く雲もあります。
+She jumps, startled, then smiles and sparkles	びっくりして跳ね、それからにっこりして火花を散らします
+She makes sounds	サウンドを出す
+She pants when the processor, the memory or the graphics card works hard, gets tired when the battery is low and keeps still during Pomodoro's focus	プロセッサー、メモリー、グラフィックスカードが忙しいと息を切らし、バッテリーが少ないと疲れ、ポモドーロの集中中はじっとしています
+She reacts to everything below; off, choose each reaction	下のすべてに反応します。オフにすると反応を一つずつ選べます
+She smiles as the Wi-Fi arcs come back	Wi-Fi の弧が戻ると彼女がほほえみます
+She woke up: you came back	目を覚ました：あなたが戻ってきた
+She's proud, and a check mark is drawn	誇らしげになり、チェックマークが描かれます
+She's sad, with a question mark	はてなマークを浮かべて悲しそうにします
+She's startled by a ringing alarm mark	鳴り響くアラームの印に彼女がびっくりします
+Shelf	シェルフ
+Shelf for files	ファイルのシェルフ
+Shelf holds	シェルフの保持数
+Shh, nobody wakes me up now.	しーっ、今は誰にも起こされないよ。
+Shh… focus mode.	しーっ…集中モードだよ。
+Short	短い
+Short name	短縮名
+Shortcut: let clicks through the pill	ショートカット：クリックをカプセルの下へ通す
+Shortcuts	ショートカット
+Shortcuts to programs and files (or command lines) you add, with their own icons, a click away in their panel; any of them can be a button on the pill or have a keyboard shortcut (set in its editor)	追加したプログラムやファイル（またはコマンドライン）へのショートカットを、それぞれのアイコン付きでパネルからワンクリックで。どれでもカプセルのボタンにでき、キーボードショートカットも設定できます（編集画面で）
+Show	表示
+Show %zu hidden	非表示の %zu 件を表示
+Show VLC 3 from its window's title	ウィンドウのタイトルから VLC 3 を表示
+Show a notice when the song changes	曲が変わったときに通知を表示
+Show all	すべて表示
+Show desktop	デスクトップを表示
+Show what they say	内容を表示
+Show what's copied (a bubble under the pill)	コピーした内容を表示（カプセルの下の吹き出し）
+Showers	にわか雨
+Shown under the mouse; up to 16 letters, empty is Faísca	マウスを乗せると表示されます。16 文字まで、空なら Faísca
+Shows GlazeWM's workspaces on the pill, a dot each; a click switches to it	GlazeWM のワークスペースを 1 つにつき 1 つの点でカプセルに表示します。クリックで切り替えます
+Shows a banner on the pill when a notification arrives	通知が届くとカプセルにバナーを表示します
+Shows a bubble under the pill with what you just copied	コピーしたばかりの内容をカプセルの下の吹き出しで表示します
+Shows a mark and the app name while the mic, camera or location is used	マイク、カメラ、位置情報の使用中に、マークとアプリ名を表示します
+Shows a notice each time a USB drive is plugged in	USB ドライブを接続するたびに通知を表示します
+Shows a notice when the battery goes under 20% and under 10%	バッテリー残量が 20% 未満と 10% 未満になったときに通知を表示します
+Shows a notice when the charger is plugged in	充電器を接続したときに通知を表示します
+Shows a notice when you turn Do not disturb on or off	「応答不可」をオンまたはオフにしたときに通知を表示します
+Shows a notice with the device's name when Bluetooth audio connects	Bluetooth オーディオが接続されたときに、デバイス名付きの通知を表示します
+Shows an icon on the pill for each app with notifications	通知のあるアプリごとのアイコンをカプセルに表示します
+Shows an icon to open or eject plugged-in USB drives	接続中の USB ドライブを開く/取り出すアイコンを表示します
+Shows bars that move with the sound that is playing	再生中の音に合わせて動くバーを表示します
+Shows how busy the graphics card is; a click opens its panel	グラフィックスカードの負荷を表示します。クリックでそのパネルを開きます
+Shows how busy the processor is	プロセッサの使用状況を表示します
+Shows how long until the next event, alarm, timer or Pomodoro part	次のイベント、アラーム、タイマー、ポモドーロのパートまでの時間を表示します
+Shows how much memory is in use	使用中のメモリ量を表示します
+Shows how much video memory is in use	使用中のビデオ メモリ量を表示します
+Shows komorebi's workspaces and layout on the pill, a menu changes it	komorebi のワークスペースとレイアウトをカプセルに表示し、メニューで変更できます
+Shows notices for the charger, low battery, Bluetooth audio and Do not disturb	充電器、バッテリー残量低下、Bluetooth オーディオ、応答不可の通知を表示します
+Shows pending app and Windows updates from winget and Windows Update	winget と Windows Update からの、保留中のアプリと Windows の更新を表示します
+Shows small bubbles with names and app notifications on hover	マウスを重ねると、名前とアプリの通知を小さな吹き出しで表示します
+Shows the battery icon on the pill	バッテリー アイコンをカプセルに表示します
+Shows the control center's icon, click for Wi-Fi, Bluetooth, volume and more	コントロール センターのアイコンを表示します。クリックで Wi-Fi、Bluetooth、音量などを操作できます
+Shows the cover and the song title on the pill	カバーと曲名をカプセルに表示します
+Shows the current keyboard language, like the Windows indicator	Windows のインジケーターのように、現在のキーボードの言語を表示します
+Shows the current upload and download speed	現在のアップロード速度とダウンロード速度を表示します
+Shows the extra clocks you added in Windows	Windows で追加した追加の時計を表示します
+Shows the graphics card's temperature when its driver gives it, in °C or °F like the weather	ドライバーが温度を返す場合にグラフィックスカードの温度を表示します。天気と同じ °C または °F です
+Shows the icon and name of the app in focus on this monitor	このモニターでフォーカス中のアプリのアイコンと名前を表示します
+Shows the keys that let clicks through, click them to record a combination	クリックを通すキーを表示します。クリックして組み合わせを記録します
+Shows the minimize keys, click them to record a new combination	最小化のキーを表示します。クリックして新しい組み合わせを記録できます
+Shows the notifications	通知を表示します
+Shows the number and name of the virtual desktop for a moment when you switch to it, also when the island is minimized	仮想デスクトップに切り替えたとき、その番号と名前を短く表示します。アイランドを最小化していても表示されます
+Shows the playing song or video with its cover and controls	再生中の曲や動画を、カバーとコントロールと共に表示します
+Shows the processor's temperature when Windows reports one, in °C or °F like the weather	Windows が温度を返す場合にプロセッサの温度を表示します。天気と同じ °C または °F です
+Shows the screen brightness, scroll the wheel on it to change	画面の明るさを表示します。ホイールのスクロールで変更できます
+Shows the time on the pill	時刻をカプセルに表示します
+Shows the two switches at the end of the song's panel, for the buttons and for the cover and title on the pill. They stay in these settings either way	曲のパネルの下部に、カプセルのボタンとカバー・タイトルを切り替える2つのスイッチを表示します。どちらの場合もこの設定には残ります
+Shows the virtual desktops, scroll the wheel on it to switch; a click opens their list, where the pencil renames one (Windows 11 24H2 and later)	仮想デスクトップを表示します。ホイールのスクロールで切り替えられます。クリックで一覧が開き、鉛筆で名前を変更できます（Windows 11 24H2 以降）
+Shows the volume icon, click for the volume panel	音量アイコンを表示します。クリックで音量パネルを開きます
+Shows the volume sliders, the link to Windows' mixer and the Mixer with each app's volume under the player in the song's panel. Turn off for a panel with only the player	曲のパネルのプレーヤーの下に、音量スライダー、Windows ミキサーへのリンク、アプリごとの音量のミキサーを表示します。オフにするとプレーヤーだけになります
+Shows the weather, it needs an internet connection	天気を表示します。インターネット接続が必要です
+Shows this action in the power button's menu; if only one is on, a click on the button runs it	この操作を電源ボタンのメニューに表示します。1 つだけオンの場合はボタンのクリックで実行します
+Shrinks the pill to a thin line on the screen edge when idle	アイドル時にカプセルを画面端の細い線に縮めます
+Shuffle	シャッフル
+Shut down	シャットダウン
+Shut down now?	今すぐシャットダウンしますか?
+Sign out	サインアウト
+Sign out now?	今すぐサインアウトしますか?
+Simple	シンプル
+Size	サイズ
+Sizes	サイズ
+Skip	スキップ
+Sky	空
+Sleep	スリープ
+Slide	スライド
+Small	小
+Smallest first	小さい順
+Smooth bars (like the iPhone)	なめらかなバー（iPhone 風）
+Smoothness of the animations, matching the screen or a fixed rate	アニメーションの滑らかさ。画面のリフレッシュ レートに合わせるか固定にします
+Snooze	スヌーズ
+Snoozed: shows again in 5 minutes	スヌーズ中: 5 分後に再表示します
+Snow	雪
+Snow showers	にわか雪
+Something just came in!	何か届いたよ！
+Song changed	曲が変わった
+Song lyrics	歌詞
+Song lyrics (goes online: lrclib.net)	歌詞（オンライン: lrclib.net）
+Sort by	並べ替え
+Sound	サウンド
+Sound files	サウンドファイル
+Sound output	サウンド出力
+Sound waves come out of her	彼女から音の波が出ます
+Sounds of each event	イベントごとのサウンド
+Space	スペース
+Speed	速度
+Speeds up or slows down the animations, on every monitor	すべてのモニターでアニメーションを速く、または遅くします
+Spinning like crazy.	ぐるぐる全力回転！
+Splits the island into notches against the top edge, around the camera; the Island and Fixed styles each keep their own	アイランドを上端に沿ったノッチに分けます（カメラの周り）。アイランドと固定のスタイルはそれぞれ自分の設定を持ちます
+Square	直角
+Stands the pill up on the left and right edges (not with notches)	左右の端でカプセルを縦向きにします（ノッチ使用時は不可）
+Start	開始
+Startled	びっくり
+Starts over in	リセットまで
+Status	ステータス
+Status notices: charger, low battery, Bluetooth audio, Do not disturb	状態の通知: 充電器、バッテリー残量低下、Bluetooth オーディオ、応答不可
+Stay over borderless full-screen apps	ボーダーレス全画面アプリの上に表示し続ける
+Sticky keys	固定キー
+Stop	停止
+Stop keeping it open	開いたままにするのをやめる
+Stop poking me!	つつかないで！
+Stop, that tickles!	やめて、くすぐったい！
+Stopped	停止
+Stops Windows' own banners so you only see the island's	Windows 自身のバナーを止めて、アイランドのバナーだけを表示します
+Stopwatch	ストップウォッチ
+Style	スタイル
+Style (the options of the style chosen under it)	スタイル（選んだスタイルのオプションはその下）
+Sure?	よろしいですか？
+Switches, adds, renames, updates or deletes your profiles	プロファイルの切り替え、追加、名前の変更、更新、削除を行います
+System	システム
+System alerts (the charger, a low battery, Bluetooth, Do not disturb and the desktop) show as a wide compact pill: the icon in a circle of its color at the left, the title, and the value at the right end (a battery as a small battery, a headset's as a ring). They keep their time and their queue	システム通知（充電器、バッテリー残量低下、Bluetooth、おやすみモード、デスクトップ）を、幅広でコンパクトなピルで表示します。左に色付きの円に入ったアイコン、続けてタイトル、右端に値（バッテリーは小さな電池、ヘッドセットはリング）が並びます。表示時間とキューは変わりません
+System sounds (notifications)	システム サウンド（通知）
+Tabler (online)	Tabler（オンライン）
+Take care of Faísca	Faísca のお世話をする
+Task	タスク
+Task Manager	タスク マネージャー
+Task view	タスク ビュー
+Taskbar back to Windows' default for now	タスクバーは一時的に Windows の標準に戻りました
+Tasks	タスク
+Tasks button	タスクのボタン
+Tasks with a date in the calendar	日付付きのタスクをカレンダーに表示
+Tell me what's new after an update	更新後に新機能を知らせる
+Temperature	温度
+Temperature unit	温度の単位
+Text	文字
+Text size	文字の大きさ
+Texts in this language reviewed by %s	この言語のテキストは %s がレビューしました
+Texts to translate (*.json)	翻訳用テキスト (*.json)
+That path is too long	パスが長すぎます
+That sound off	この音はオフ
+The Bar also shrinks to a thin line on the screen's edge when the mouse is away, and comes back as the mouse reaches the line. Windows then use the strip it kept, and the Bar shows over them	バーも、マウスが離れると画面の端の細い線に縮み、マウスが線に届くと戻ります。バーが確保していた領域はウィンドウが使えるようになり、バーはその上に表示されます
+The Bar style	バー スタイル
+The PC shuts down after it. Esc or a click stops it.	そのあと PC がシャットダウンします。Esc かクリックで取り消せます。
+The app in focus on this monitor (its icon and name)	このモニターでフォーカス中のアプリ（アイコンと名前）
+The apps heard playing, also players without Windows' media controls; with some on, only they bring it. With none on, any sound does	再生が聞こえたアプリ（Windows のメディア コントロールがないプレーヤーも含む）。いくつかをオンにすると、それらだけが表示します。どれもオンでなければ、どんな音でも表示します
+The apps seen playing; a click turns one's lyrics off, and nothing of its songs is sent to lrclib.net	再生していたアプリ。クリックするとそのアプリの歌詞がオフになり、その曲の情報は lrclib.net に送信されません
+The apps seen playing; only the ones you check make her dance and react to songs. Empty until an app plays	再生が確認されたアプリです。チェックを入れたアプリだけが、彼女を踊らせ、曲に反応させます。アプリが再生するまでは空です
+The apps' notifications come in a capsule like the pill: the photo or icon at the left, the name and the message on one line, the app's icon at the right. Under the mouse it opens to the whole text and the reply. Calls, alarms and reminders keep their buttons as they are	アプリの通知はピルと同じカプセルの形で届きます。左に写真またはアイコン、名前とメッセージを 1 行で、右にアプリのアイコンを表示します。マウスを置くと全文と返信欄が開きます。通話、アラーム、リマインダーのボタンはそのままです
+The bar at the top, or upright on the left or the right edge, its items one under the other; windows keep out of its strip	バーを上に、または左端か右端に縦に置き、項目を上から下に並べます。ウィンドウはその帯に入りません
+The bar doesn't minimize	バーは最小化されません
+The bar's inner corners	バーの内側の角
+The bar's side	バーの位置
+The bars' color; the rainbow gives each bar its own, going around slowly	バーの色。レインボーでは各バーが自分の色になり、ゆっくり移り変わります
+The battery icon's color while it charges; green is the usual, like a phone's	充電中のバッテリーアイコンの色。通常は緑で、スマートフォンと同じです
+The battery's charge while a laptop charges	ノート PC の充電中のバッテリー残量
+The bell opens Windows' notification center	ベルで Windows の通知センターを開く
+The buttons on the panels	パネルのボタン
+The calendar marks the days that have a task due with a small dash, and lists those tasks with the day's events, where a tick completes them. Needs the dates on tasks	期限のあるタスクがある日をカレンダーに小さな線で示し、その日の予定と一緒にタスクを一覧表示します。丸をクリックすると完了にできます。「タスクに日付を付ける」が必要です
+The calendar opens as a card: today big at its left, the month beside it, buttons for the alarms, the timer and your agendas, and the day's events	カレンダーをカードで開きます：左に今日を大きく、その横に月、アラーム、タイマー、カレンダーのボタン、その日の予定を表示
+The charger plugged in	充電器がつながった
+The charger was plugged in	充電器が接続されました
+The clock on the pill and in the calendar, in a font of its own	カプセルとカレンダーの時計を専用のフォントで表示します
+The control center's buttons	コントロールセンターのボタン
+The cover's	ジャケットの色
+The day's events and holidays under the month, the next ones and the button to add one. Off, the calendar shows only the clock and the month; reminders and the countdown keep working	月の下にその日の予定と祝日、今後の予定、予定を追加するボタンを表示します。オフにすると、カレンダーには時計と月だけが表示されます。リマインダーとカウントダウンは引き続き動作します
+The dock is chosen in Windhawk, in this mod's settings: Taskbar (the dock, the Windows taskbar transparent or with only the apps, or unchanged); the island can't change it	Dock は Windhawk のこの Mod の設定で選びます: タスクバー（Dock、透明またはアプリのみの Windows タスクバー、変更なし）。アイランドからは変更できません
+The dock is optional: it takes the taskbar's place, and it's chosen in Windhawk	Dock は任意です。タスクバーの代わりになり、Windhawk で選びます
+The dock is set up in Windhawk	Dock は Windhawk で設定します
+The edge zone as wide as the pill	端のゾーンをカプセルと同じ幅にする
+The effect shown when the wallpaper changes	壁紙の変更時に表示するエフェクト
+The favorite's drive isn't connected	お気に入りのドライブが接続されていません
+The folder with your icons	アイコンを入れたフォルダー
+The folder with your wallpapers	壁紙のフォルダー
+The glass gets a sheen, a beveled edge, light along its bottom and a soft shadow around it, and the panels' cards look like glass too (idea by Thiago Silva)	ガラスにつや、面取りされた縁、下端の光、周囲のやわらかい影が加わり、パネルのカードもガラスのように見えます（Thiago Silva さんのアイデア）
+The graphics card is flying!	グラボが全開！
+The hotspot isn't available now.	ホットスポットは現在使用できません。
+The icons'	アイコンの色
+The internet is back	インターネットが戻りました
+The internet went away	インターネットが切れました
+The island follows the mouse between screens.	アイランドは画面間でマウスに追従します。
+The island handles notifications and their sounds (Windows' stay quiet)	アイランドが通知とその音を処理します（Windows は静かになります）
+The island is the pill at the top of the screen: the clock, the control center, your notifications and what's playing	アイランドは画面の上にあるカプセルです。時計、コントロール センター、通知、再生中のものが入っています
+The island shows the notifications and plays their sounds, Windows stays quiet	アイランドが通知を表示して音を鳴らし、Windows は静かになります
+The island stopped working	アイランドが動作を停止しました
+The island takes the color of the app in front	アイランドは最前面のアプリの色になります
+The island's	アイランドと同じ
+The island's logs	アイランドのログ
+The island's: no banners or sounds from it	アイランドの通知: バナーも音も出しません
+The items before the clock in the order stay at one corner and the others at the other, without changing sides as items come and go	順序で時計より前の項目は一方の角に、残りはもう一方の角に留まり、項目が増減しても側は変わりません
+The keys below make the pill let clicks through to what's under it, and again take them back; it stays shown	下のキーでクリックをカプセルの下へ通し、もう一度押すと元に戻します。カプセルは表示されたままです
+The keys below send the island to its line, and again bring it back	下のキーでアイランドを線に最小化し、もう一度押すと元に戻します
+The komorebi buttons also start and stop masir, so focus follows the mouse	komorebi のボタンで masir も開始/停止します（フォーカスがマウスに追従）
+The komorebi buttons also start and stop whkd, its shortcut helper	komorebi のボタンで、ショートカット ヘルパーの whkd も開始/停止します
+The line sung now on the pill (place it in the order above), all of them in its panel. Each song's title and artist are sent to lrclib.net (songs only: not videos, voice messages or the apps turned off below)	今歌われている行をカプセルに表示（上の順序で配置）、全文はパネルに表示。各曲の曲名とアーティスト名が lrclib.net に送信されます（曲のみ：動画、ボイスメッセージ、下でオフにしたアプリは除く）
+The line's color, on the pill and lit in the panel	歌詞の行の色（カプセルと、パネルでのハイライト）
+The list stays open after you click an icon (In the pill style)	アイコンをクリックした後もリストを開いたままにします（「カプセル内」スタイル）
+The memory is packed!	メモリがぱんぱん！
+The minimize arrow keeps the island open	最小化の矢印でアイランドを開いたままにする
+The mod's site	Mod のサイト
+The mouse at the edge, anywhere along the pill's width, brings it back, also with the line invisible	カプセルの幅の範囲内ならマウスが端のどこにあっても元に戻ります。ラインが見えないときも同様です
+The name has 1 to 32 characters (a letter outside English, like an accented one, counts as two or three).	名前は 1 ～ 32 文字です（英語以外の文字、たとえば日本語やアクセント付きの文字は 2 ～ 3 文字分になります）。
+The next alarm that's on	次にオンのアラーム
+The one chosen on the map	マップで選んだもの
+The password has 8 to 63 letters, numbers or symbols, without accents.	パスワードは 8 ～ 63 文字の英字、数字、記号です（アクセント付き文字は不可）。
+The password has at least 8 characters.	パスワードは 8 文字以上にしてください。
+The pill as a loading bar	カプセルを読み込みバーとして
+The pill can stay, or become a thin line while the mouse is away or while a window is maximized; the mouse on the line brings it back	カプセルはそのままにも、マウスが離れている間やウィンドウが最大化されている間は細い線にもできます。線にマウスを乗せると戻ります
+The pill fills like a loading bar with downloads	ダウンロード中、カプセルが読み込みバーのように塗りつぶされます
+The pill fills with the battery's charge while charging	充電中、カプセルがバッテリー残量に応じて塗りつぶされます
+The pill glows with her	ピルが彼女と一緒に光る
+The pill lights up in several colors. Click (or press Space) only when it turns her color. Five rounds; the average counts, and each wrong click adds 300 ms to the total.	ピルがいろいろな色に光ります。彼女の色になったときだけクリック（またはスペースキー）。全5ラウンドで平均が記録になり、誤クリックのたびに合計へ300ミリ秒が加算されます。
+The pill shows the song's cover without its title. Hover it to read the title	カプセルには曲のカバーだけを表示し、タイトルは表示しません。マウスを重ねるとタイトルが読めます
+The pill takes clicks again	カプセルが再びクリックを受け付けます
+The pill's and the panels' texts, in a font from your PC (click it again to pick another)	カプセルとパネルの文字を PC のフォントで表示します（もう一度クリックすると別のフォントを選べます）
+The pill's other items	カプセルのその他の項目
+The pill's shape	カプセルの形
+The processor is sweating. So am I.	プロセッサが汗だく。わたしも。
+The progress apps show on their taskbar button (downloads, copies, installs)	アプリがタスクバーのボタンに表示する進行状況（ダウンロード、コピー、インストール）
+The room between the bars; the item grows with it	バー同士の間隔。項目もそれに合わせて広がります
+The settings' own icons	設定自体のアイコン
+The sky as emoji, with the icon pack chosen in the Icons tab, or with a set of weather pictures downloaded once when chosen (Meteocons in color, Weather Icons in one color)	空模様を絵文字で、「アイコン」タブで選んだアイコンパックで、または選んだときに一度だけダウンロードする天気の画像セットで表示します（Meteocons はカラー、Weather Icons は単色）
+The small pill with the time touches the screen's edge, straight on that side and as thin as its text, covering less of what's under it. The mouse on it opens the island as usual	時刻の小さなピルが画面の端に接し、その側は直線で文字と同じ細さになり、下の内容を隠しにくくなります。マウスを乗せると通常どおりアイランドが開きます
+The song changed	曲が変わった
+The text's	文字の色
+The timer fills the pill with color	タイマーでカプセルを色で満たす
+The title and the text, in the pill and in this list	タイトルと本文（カプセル内とこのリスト）
+The volume changed	音量が変わった
+The weather panel shows feels like, humidity, wind, UV, rain, pressure and clouds as small cards, like a phone's	天気パネルで体感温度、湿度、風、UV、雨、気圧、雲量を小さなカードで表示します（スマートフォンのように）
+The weather service didn't answer	天気サービスから応答がありません
+The wheel on what's playing changes the song (not the volume)	再生中の項目の上でホイールを回すと曲が切り替わります（音量ではなく）
+Their own	元の色
+Their sliders talk to the monitor over its cable. Turn off if a monitor flickers or a dock or MST hub resets when the control center opens	スライダーはケーブル経由でモニターと通信します。コントロールセンターを開くとモニターがちらついたり、ドックや MST ハブがリセットされたりする場合はオフにしてください
+Thinking about nothing. On purpose.	何も考えてないの。わざとね。
+Thirsty · water at %s	のどかわいた · お水 %s
+This PC	PC
+This assistant sets the main choices in a few steps, and each one changes the island at once; everything else is in the tabs on the left	このアシスタントは主な設定を数ステップで決めます。選ぶたびにアイランドがすぐ変わります。そのほかの設定は左のタブにあります
+This computer has no battery	このコンピューターにはバッテリーがありません
+This isn't working.	これじゃダメだよ。
+This monitor's profile: changes here apply to every monitor using it	このモニターのプロファイル: ここでの変更は、これを使うすべてのモニターに適用されます
+This one's good!	これ、いい曲！
+Three	3 つ
+Thumbnails of the files	ファイルのサムネイル
+Thunderstorm	雷雨
+Thunderstorm with hail	雹を伴う雷雨
+Tiling	タイル表示
+Time (hour:minute)	時刻（時:分）
+Time for a break	休憩の時間です
+Time format	時刻の形式
+Time until the next	次までの時間
+Time's up	時間です
+Timer	タイマー
+Timer on the minimized line	最小化したラインにタイマー
+Timer, stopwatch and Pomodoro	タイマー、ストップウォッチ、ポモドーロ
+Tips under the icons and buttons (their names, an app's notifications)	アイコンとボタンの下のヒント（名前、アプリの通知）
+Tired · the battery at %s, unplugged	つかれた · バッテリー %s、電源なし
+Title	タイトル
+Title width	タイトルの幅
+To talk to me and follow my projects	私と話したり、プロジェクトをフォローしたりするために
+To use “%s”, change:	「%s」を使うには、次を変更します：
+Today	今日
+Today's color	今日の色
+Together for %s days	いっしょに %s 日
+Together for 1 day	いっしょに 1 日
+Together since today	今日からいっしょ
+Tomorrow	明日
+Too many agendas	カレンダーが多すぎます
+Top	上
+Top left	左上
+Top right	右上
+Topics	トピック
+Total	合計
+Touch keyboard	タッチ キーボード
+Transition	トランジション
+Translucent glass: a lighter tint and livelier colors	半透明のガラス: 明るい色合いと鮮やかな色
+Tray icons	トレイ アイコン
+Try again	もう一度試す
+Try again, or share the file from Explorer	もう一度試すか、エクスプローラーからファイルを共有してください
+Turn it on once in Windows' settings: from then on the island switches it	Windows の設定で一度オンにしてください。その後はアイランドで切り替えられます
+Turn it up, I know this one.	音量上げて、この曲知ってる！
+Turn on Claude Code, Codex or Custom in the settings	設定で Claude Code、Codex、またはカスタムをオンにしてください
+Turned off	オフにしました
+Turned on	オンにしました
+Turns the island's animations on or off, on every monitor	すべてのモニターでアイランドのアニメーションをオンまたはオフにします
+Type	種類
+Type the command line.	コマンドラインを入力してください。
+Type the time as hours and minutes, like 08:30.	時刻を「時:分」の形で入力してください（例 08:30）。
+Type to filter the shortcuts…	入力してショートカットを絞り込み…
+Type what it opens.	開くものを入力してください。
+Type your note here…	ここにメモを入力…
+USB connected	USB を接続
+USB drive	USB ドライブ
+USB drive plugged in	USB ドライブが接続されました
+USB drives	USB ドライブ
+USB drives icon on the pill (open or eject them)	カプセル上の USB ドライブのアイコン（開く/取り出し）
+UV index	紫外線指数
+Ugh.	もう。
+Ultrawide vertical stack	ウルトラワイド縦積み
+Unavailable	利用不可
+Up to 40 favorite files	お気に入りのファイルは 40 個まで
+Upcoming events	今後のイベント
+Upcoming holidays	今後の祝日
+Update	更新
+Update all	すべて更新
+Update ticked	選択項目を更新
+Updated %lld days ago	%lld 日前に更新
+Updated %lld h ago	%lld 時間前に更新
+Updated %lld min ago	%lld 分前に更新
+Updated now	たった今更新
+Updates	更新
+Updates (winget and Windows Update)	更新（winget と Windows Update）
+Upload	アップロード
+Upload peak (1 min)	アップロードのピーク（1 分）
+Upright on the left and right edges	左右の端で縦向き
+Usage	使用率
+Use my location	現在地を使う
+Utilization	使用率
+VLC 3 doesn't tell Windows' media controls what it plays, so the island can't see it. With this on, while VLC makes sound, the island reads the song's name from VLC's window title, shows it with VLC's icon, and its buttons press play/pause, previous and next in VLC. No cover or time, and VLC must show the name in its window title (its default)	VLC 3 は再生中の内容を Windows のメディアコントロールに伝えないため、アイランドからは見えません。オンにすると、VLC が音を出している間、アイランドは VLC のウィンドウタイトルから曲名を読み取り、VLC のアイコンとともに表示し、ボタンで VLC の再生/一時停止・前へ・次へを操作できます。カバーや時間は表示されず、VLC がウィンドウタイトルに名前を表示している必要があります（既定）
+Vertical stack	縦積み
+Vertical stack, main on the right	縦積み（メインは右）
+Vice (neon sunset)	Vice（ネオンの夕焼け）
+Video memory in use (VRAM)	ビデオ メモリ使用量 (VRAM)
+Videos	ビデオ
+Violet	バイオレット
+Virtual desktops	仮想デスクトップ
+Virtual desktops (the mouse wheel switches them)	仮想デスクトップ（マウス ホイールで切り替え）
+Visualizer color	ビジュアライザーの色
+Visualizer color (own)	ビジュアライザーの色（専用）
+Visualizer sensitivity	ビジュアライザーの感度
+Volume	音量
+Volume and mixer in the panel	パネルに音量とミキサーを表示
+Volume mixer	音量ミキサー
+Volume percentage beside its icon	アイコンの横に音量(%)を表示
+Waiting for valid data in the chosen file	選択したファイル内の有効なデータを待っています
+Wallpaper	壁紙
+Wallpaper (the wheel: the next one)	壁紙（ホイール: 次へ）
+Wallpaper transition	壁紙のトランジション
+Wallpapers from a folder (with a transition)	フォルダーの壁紙（トランジション付き）
+Wasted	Wasted
+Wasted now?	今すぐ Wasted？
+Water	お水
+Weather	天気
+Weather (goes online)	天気（オンライン）
+Weather Icons	Weather Icons
+Weather data by Open-Meteo.com	気象データ提供: Open-Meteo.com
+Weather icons	天気アイコン
+Website	Web サイト
+Week	週
+Weekday	曜日
+Weekdays	平日
+Weekends	週末
+Welcome to Mac Island & Dock	Mac Island & Dock へようこそ
+What Claude Code in a terminal gives its status line (a line in its script, see the item's panel). The Claude desktop app doesn't leave its limits on this PC, so it can't show here	ターミナルの Claude Code がステータスラインに渡す内容（そのスクリプトに 1 行追加。項目のパネルを参照）。Claude のデスクトップアプリはこの PC に上限を残さないため、ここには表示できません
+What Codex writes in its logs on this PC	Codex がこの PC 上のログに書き込む内容
+What it does	機能
+What it opens	開くもの
+What needs doing?	何をしますか?
+What she reacts to shows up here, with her sound	反応したことが音といっしょにここに出ます
+What's new	新機能
+What's playing	再生中
+What's playing on the minimized line	最小化したラインに再生中
+What's playing's buttons and pictures	再生中のボタンと画像
+What's that?	それ、なあに？
+When it hides	隠すタイミング
+Where banners show	バナーの表示位置
+Where did the internet go?	インターネットはどこ？
+Where the island appears	アイランドを表示する場所
+Where the items go along the bar. Automatic: around the clock when it's in the middle, otherwise at the right end	バー上の項目の位置。自動: 時計が中央にあるときは時計の周り、それ以外は右端
+While a line is sung, it takes the title and artist's place; between lines they come back	歌われている間、その行が曲名とアーティストの代わりに表示され、行の合間には元に戻ります
+While a timer or Pomodoro counts down, the pill fills with color until it ends (orange, green on a break, fainter when paused) and pulses a moment at the end. The stopwatch doesn't fill	タイマーやポモドーロのカウントダウン中、終わるまでカプセルが色で満たされていきます（オレンジ、休憩は緑、一時停止中は薄く）。終わるとしばらく脈打ちます。ストップウォッチは満たしません
+While a timer, Pomodoro or the stopwatch runs, the line becomes a small pill with its ring and its time (with Only the clock, the time goes beside the clock)	タイマー、ポモドーロ、ストップウォッチの動作中は、ラインがリングと時間付きの小さなカプセルになります（「隠すときは時計だけ」がオンなら時間は時計の横に表示）
+While an app's window is maximized on this monitor, the bar goes back to its usual look (frosted, with the frosted glass on), so the window doesn't show behind it	このモニターでアプリのウィンドウが最大化されている間、バーは通常の外観（すりガラスがオンならすりガラス）に戻り、背後にウィンドウが透けません
+While music plays in the apps checked below she dances, a new move each bar, following the beat	下でチェックしたアプリで音楽が流れている間、拍子に合わせて小節ごとに新しい動きで踊ります
+While music plays, a timer or the stopwatch runs, or a download or copy fills the pill, resting the mouse on that item (or on the pill, when only one is live) grows the pill into its card: the cover, title and buttons; the big time with pause and cancel; the percent. It shrinks back when the mouse leaves. Not for an item that Open panels with the mouse opens, nor with a banner place chosen	音楽の再生中、タイマーやストップウォッチの動作中、またはダウンロードやコピーがピルを満たしている間、その項目（ライブが 1 つだけならピル）にマウスを置くと、ピルがそのままカードに広がります。カバー、タイトル、ボタン、大きな時間と一時停止・キャンセル、パーセントが表示されます。マウスを離すと元に戻ります。「マウスでパネルを開く」で開く項目や、通知の表示位置を選んでいる場合は対象外です
+While something plays, the line becomes a thin pill with the song's cover and moving bars; the mouse on it opens the island, as on the line (with Only the clock, they go beside the clock)	何かを再生している間、ラインが曲のカバーと動くバー付きの細いピルになります。マウスを乗せるとラインと同じようにアイランドが開きます（「隠すときは時計だけ」がオンなら時計の横に表示されます）
+While the app is in front, the pill moves there and shows only the lit icons.	アプリが最前面にあるとき、カプセルはそこへ移動し、点灯したアイコンだけを表示します。
+While the app is in front, the pill moves there and shows only the lit icons. Dragging it then changes its place too.	アプリが最前面にあるとき、カプセルはそこへ移動し、点灯したアイコンだけを表示します。カプセルをドラッグすると、その場所も変わります。
+While the island is minimized to its line (or the Bar is hidden), she stays there in a tiny pill; the mouse on it opens the island, as on the line	アイランドがラインに最小化されている間（またはバーが非表示の間）、小さなピルの中にとどまります。マウスを乗せると、ラインと同じようにアイランドが開きます
+While the timer runs	タイマーの実行中
+White	白
+Whoa!	わっ！
+Wi-Fi / network	Wi-Fi / ネットワーク
+Wi-Fi back	Wi-Fi 復旧
+Wi-Fi is off	Wi-Fi はオフです
+Wi-Fi lost	Wi-Fi 切断
+Wi-Fi, sound, battery, the bell and the clock, each step of them. Click an icon to use a picture of your own for it, its brush (top left) for a color of its own; the x goes back to the pack's	Wi-Fi、サウンド、バッテリー、ベル、時計の各段階。アイコンをクリックすると自分の画像を使え、そのブラシ（左上）で専用の色を付けられます。x でパックのものに戻ります
+Wide	広い
+Widgets	ウィジェット
+Width of the edge zone where the mouse brings the pill back	マウスでカプセルを呼び戻す端のゾーンの幅
+Win+A opens the island's control center	Win+A でアイランドのコントロール センターを開きます
+Win+J minimizes the island to its line and brings it back	Win+J でアイランドを線に最小化し、元に戻します
+Win+L stays Windows' (it locks the PC)	Win+L は Windows のまま（PC をロックします）
+Win+N and Win+A can open the island's notifications and control center instead of Windows'	Win+N と Win+A で、Windows ではなくアイランドの通知とコントロール センターを開けます
+Win+N opens the island's notifications	Win+N でアイランドの通知を開きます
+Win+X menu	Win+X メニュー
+Wind	風
+Window maximized	ウィンドウの最大化
+Window over it	ウィンドウが重なったとき
+Windows	Windows
+Windows 10	Windows 10
+Windows 10's, where it has them	Windows 10 のもの（ある場合）
+Windows 11	Windows 11
+Windows Settings	Windows の設定
+Windows Update	Windows Update
+Windows accent	Windows のアクセント
+Windows doesn't report a temperature on this PC	この PC では Windows が温度を返しません
+Windows or another app uses them too, the island takes them first	Windows や他のアプリも使用しますが、アイランドが先に受け取ります
+Windows places	Windows の場所
+Windows stopped while a monitor answered a brightness call (DDC/CI). To turn it on again: island settings > Control center > Brightness of external monitors (DDC/CI).	モニターが明るさの要求（DDC/CI）に応答している間に Windows が停止しました。再びオンにするには：アイランドの設定 > コントロール センター > 外付けモニターの明るさ (DDC/CI)。
+Windows'	Windows の
+Windows' own icons	Windows 自身のアイコン
+Windows' own: no notification sounds	Windows 標準: 通知音なし
+Windows' share window didn't open	Windows の共有ウィンドウを開けませんでした
+Windows, Windows 10 and Emoji are Windows' own fonts. The online ones (all free to use: MIT, Apache 2.0 or ISC) go online once, when chosen: about 150 small SVG pictures are downloaded from cdn.jsdelivr.net (a plain request for each file, nothing about you or your PC is sent), kept in the mod's folder, and never downloaded again. An icon a pack hasn't stays Windows'. Your folder: a picture (PNG, SVG, ICO...) per icon, named after it	Windows、Windows 10、Emoji は Windows 自身のフォントです。オンラインのパック（すべて無料で使えます：MIT、Apache 2.0、ISC）は選んだときに一度だけインターネットを使います：cdn.jsdelivr.net から小さな SVG 画像を約 150 個ダウンロードし（ファイルごとに通常のリクエストを送るだけで、あなたや PC の情報は送りません）、Mod のフォルダーに保存し、再びダウンロードすることはありません。パックにないアイコンは Windows のままです。自分のフォルダー：アイコンごとにその名前の画像（PNG、SVG、ICO...）を 1 枚
+With a click	クリックで
+With a click, the line only grows under the mouse and opens when clicked (the hidden Bar's clock too)	クリックにすると、ラインはマウスを乗せると太くなるだけで、クリックすると開きます（隠したバーの時計も同様）
+With her games on she has fun too, which goes down while nobody plays with her. Bored, and later sad, she hops on the pill with a pleading look, at most every 30 minutes. Never in full screen, in Do not disturb or over a notification	ミニゲームがオンだと、彼女には「楽しさ」もあり、誰も遊んでくれないあいだ減っていきます。退屈し、やがてしょんぼりすると、カプセルの上で小さく跳ねてお願いするように見つめます（最大 30 分に 1 回）。全画面、応答不可、通知の表示中は決してしません
+With its window's title	ウィンドウのタイトルも表示
+With names	名前付き
+With the Bar style	バー スタイルのとき
+With the Fixed style	固定スタイルのとき
+With the Island style	アイランド スタイルのとき
+With the fill on, the timer's item on the pill shows only its icon and the minimized line only fills, with no time. The stopwatch keeps its time	塗りつぶしがオンのとき、カプセル上のタイマー項目はアイコンだけになり、最小化した線は時間を出さずに色で満たされるだけになります。ストップウォッチは時間を表示したままです
+With the island hidden, only this notch's line shows and opens it	アイランドが隠れているとき、このノッチのラインだけが表示され、それだけが開きます
+With the line on, a click on the arrow keeps this monitor's island open until you click it again	ライン有効時、矢印をクリックするとこのモニターのアイランドを開いたままにします。もう一度クリックで解除します
+With the mouse	マウスで
+Without Git Bash, Claude Code runs its status line in PowerShell: copy the line into its script, after it reads its input into $stdin (see the README)	Git Bash がない場合、Claude Code はステータスラインを PowerShell で実行します。スクリプトが入力を $stdin に読み込んだ後に、この行をコピーしてください（README を参照）
+Working hard from	忙しいとみなす値
+Working…	実行中…
+Workspace	ワークスペース
+World clocks	世界時計
+World clocks (Windows' additional clocks)	世界時計（Windows の追加の時計）
+World clocks inside the clock	世界時計を時計の中に表示
+Write	入力
+Writes the charge level as a number next to its icon	アイコンの横に充電レベルを数字で表示します
+Writes the month as a number, like 9/10, not as a name	月を名前ではなく数字（9/10 など）で表示します
+Writes the volume level as a number next to its icon	アイコンの横に音量レベルを数字で表示します
+Y M D	年 月 日
+Yaaawn… so sleepy.	ふぁ〜あ…眠いなあ。
+Year	年
+Yes, change	はい、変更する
+Yesterday	昨日
+Your best 5	ベスト 5
+Your best results show here, kept only on this PC.	ベスト記録がここに表示されます（この PC にだけ保存）。
+Your city (like Campinas)	お住まいの都市（例: 東京）
+Your command	自分のコマンド
+Your commands	自分のコマンド
+Your events and your agendas' events	自分のイベントとカレンダーのイベント
+Your folder (none chosen yet)	自分のフォルダー（未選択）
+Your folder…	自分のフォルダー…
+Your location wasn't found yet, trying again	現在地がまだ見つかりません。再試行しています
+Your own colors	独自の色
+Z to A	Z から A
+Zoom	ズーム
+Zzz… Do not disturb is on.	すぅ…応答不可がオンだよ。
+Zzz… come back soon.	すぅ…早く戻ってきてね。
+checking	確認中
+click when the pill turns this color	ピルがこの色になったらクリック
+en	ja
+from Windhawk	Windhawk から
+good	グッド
+hours	時間
+icons saved	個のアイコンを保存しました
+in %d h	%d 時間後
+in %d h %d min	%d 時間 %d 分後
+in %d min	%d 分後
+in a row	連続
+installed	インストール済み
+komorebi	komorebi
+komorebi (start, stop, reload)	komorebi（開始、停止、再読み込み）
+komorebi isn't installed	komorebi がインストールされていません
+komorebi's layout	komorebi のレイアウト
+komorebi: hide the workspaces without windows	komorebi: ウィンドウのないワークスペースを非表示
+komorebi: its layout on the pill (a menu changes it)	komorebi: カプセル上のレイアウト（メニューで変更）
+komorebi: with masir (focus follows the mouse)	komorebi: masir と連動（フォーカスがマウスに追従）
+komorebi: with whkd (its shortcuts)	komorebi: whkd と連動（ショートカット）
+min	分
+missed	ミス
+more	その他
+moves	手
+not connected	未接続
+not yet!	まだ！
+notification	件の通知
+notifications	件の通知
+now	今
+off	オフ
+off the beat	リズム外れ
+on	オン
+perfect	パーフェクト
+pts	点
+sec	秒
+starting now	まもなく開始
+tab	タブ
+taken by another command	別のコマンドで使用中
+taken by another of the island's shortcuts	アイランドの別のショートカットで使用中
+taken by one of your commands	あなたのコマンドの1つで使用中
+taken by the island's Win+N or Win+A	アイランドの Win+N または Win+A で使用中
+this	これ
+too slow	遅すぎ
+use Win, Ctrl or Alt with a key	Win、Ctrl、Alt のいずれかとキーを組み合わせてください
+week	週
+what to change	変更する内容
+winget couldn't list them	winget で一覧を取得できませんでした
+winget isn't installed	winget がインストールされていません
+yesterday	昨日
+“Restore what changed” on this option undoes it later	あとでこのオプションの「変更を元に戻す」で取り消せます
+…and then what else it says it needs	…その後、さらに必要と表示されるもの
+✓ All of them are there	✓ すべてそろっています
+✓ Copied	✓ コピーしました
+✓ Emptied	✓ 空にしました
+✓ Exported	✓ エクスポートしました
+✓ Saved	✓ 保存しました

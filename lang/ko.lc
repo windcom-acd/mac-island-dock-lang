@@ -1,0 +1,1684 @@
+ (all apps)	 (모든 앱)
+ (all monitors)	 (모든 모니터)
+ by caliberda	 제작: caliberda
+ events	 일정
+ files	 파일
+ in progress	 진행 중
+ shortcuts imported	 바로 가기를 가져왔어요
+ · HDR: SDR content	 · HDR: SDR 콘텐츠
+ · almost full	 · 거의 가득 참
+ · click to hide	 · 클릭하면 숨겨요
+ · drag to move	 · 드래그해서 이동
+ · hidden, click to show	 · 숨김, 클릭하면 표시
+ · main island	 · 메인 아일랜드
+ · no sound	 · 소리 없음
+ · on the island, Ctrl+drag works too	 · 아일랜드에서는 Ctrl+드래그도 돼요
+ · plain color while Windows' energy saver is on	 · Windows 절전 모드에서는 단색으로 표시
+ · plain color: Windows' transparency effects are off (Personalization > Colors)	 · 단색: Windows의 투명 효과가 꺼져 있어요 (개인 설정 > 색)
+ · press the new keys (Esc cancels)	 · 새 키를 누르세요 (Esc로 취소)
+ · this island	 · 이 아일랜드
+ · whkd isn't installed (winget install LGUG2Z.whkd)	 · whkd가 설치되어 있지 않아요 (winget install LGUG2Z.whkd)
+"Following the bell": out of the pill, as now; or at a point of the screen, sliding in from its nearest edge	"종을 따라가기": 지금처럼 캡슐 밖에, 또는 화면의 한 지점에서 가장 가까운 가장자리에서 밀려 들어와요
+"Follows the line": as wide as each line; the others keep the widest line's width. A longer line ends with …	"줄에 맞추기": 각 줄의 너비에 맞춰요. 나머지는 가장 넓은 줄의 너비를 유지해요. 더 긴 줄은 …로 끝나요
+%d items	항목 %d개
+%d of %d	%d/%d
+%s at %s	%s %s
+%s couldn't run	%s을(를) 실행하지 못했어요
+%s ran	%s 실행됨
+%zu of %zu events	일정 %zu/%zu개
+(the wheel turns the pages)	(휠로 페이지를 넘겨요)
++  New event	+  새 일정
++  New shortcut	+  새 바로 가기
++ Add alarm	+ 알람 추가
++ Line	+ 줄
++ saves the current settings as a profile, to switch back to them later.	+를 누르면 현재 설정을 프로필로 저장해서 나중에 다시 전환할 수 있어요.
+.ics link or file path	.ics 링크 또는 파일 경로
+1 day	1일
+1 item	항목 1개
+10 min	10분
+12 h AM/PM	12시간제 AM/PM
+2 min	2분
+24 h	24시간제
+30 days	30일
+30 s	30초
+5-hour session	5시간 세션
+7 days	7일
+A Pomodoro ended	뽀모도로가 끝났어요
+A USB device plugged in	USB 장치가 연결되었어요
+A Windows update came before Microsoft published the files Windhawk needs to change the taskbar (taskbar.dll %s). Until they're out, the dock and the taskbar's look stay off and the island keeps working. They come back by themselves at the next sign-in after that.	Windhawk가 작업 표시줄을 바꾸는 데 필요한 파일을 Microsoft가 공개하기 전에 Windows 업데이트가 설치됐어요(taskbar.dll %s). 파일이 공개될 때까지 Dock과 작업 표시줄 모양은 꺼지고 아일랜드는 계속 작동해요. 그 뒤 다음 로그인 때 저절로 돌아와요.
+A banner closes when you click anywhere outside it and the island; calls, alarms and reminders stay until you answer them	배너 밖이나 아일랜드가 아닌 곳을 클릭하면 배너가 닫혀요. 통화, 알람, 미리 알림은 응답할 때까지 남아 있어요
+A bolt over her and she's proud; with her care on, it gives her energy	번개가 내리치면 으쓱해해요. 돌보기를 켜 두면 에너지를 얻어요
+A browser's download standing still shows paused	브라우저의 다운로드가 멈추면 일시 중지로 표시해요
+A bubble on the island says when Caps Lock is turned on or off	Caps Lock을 켜거나 끌 때 아일랜드에 말풍선으로 알려줘요
+A bubble on the island says when Num Lock is turned on or off	Num Lock을 켜거나 끌 때 아일랜드에 말풍선으로 알려줘요
+A card for each event: its switch, where its sound comes from and a play button. The three icons: the island's own sound, the Glass pack (25 small sound files, about 1.3 MB, downloaded once from jsDelivr's CDN, cdn.jsdelivr.net, the first time you pick it; only the files are asked for, nothing about you is sent) or a file of yours (.wav, .mp3...)	이벤트마다 카드가 있어요. 스위치, 소리 출처, 재생 버튼이 들어 있어요. 세 가지 아이콘: 아일랜드 기본 소리, Glass 팩(작은 소리 파일 25개, 약 1.3MB, 처음 선택할 때 jsDelivr CDN(cdn.jsdelivr.net)에서 한 번 다운로드해요. 파일만 요청하며 사용자 정보는 전송되지 않아요), 또는 내 파일(.wav, .mp3...)
+A click on an item opens it; when you don't use it, the pill can shrink into a thin line	항목을 클릭하면 열려요. 사용하지 않을 때는 캡슐이 얇은 선으로 줄어들 수 있어요
+A click on the bell opens Windows' own notification center instead of the island's list	종을 클릭하면 아일랜드 목록 대신 Windows 알림 센터가 열려요
+A cuddle, just one?	쓰다듬기, 한 번만요?
+A download finished	다운로드가 끝났어요
+A drive was connected	드라이브가 연결되었어요
+A file with all of it (agenda links too)	모든 내용이 담긴 파일 (캘린더 링크 포함)
+A flash, and she's startled	번쩍하면 깜짝 놀라요
+A focus time ended	집중 시간이 끝났어요
+A grid on the pill that opens all your apps, Store apps too, like macOS: search them by typing, your favorites first (the star), then all of them in alphabetical order	캡슐에 모든 앱을 여는 격자를 추가해요. macOS처럼 Store 앱도 포함되고, 입력해서 검색할 수 있어요. 즐겨찾기(별)가 먼저, 그다음 모든 앱이 가나다순으로 나와요
+A line while a window is maximized	창이 최대화되어 있는 동안 선으로 표시
+A line with the mouse away	마우스가 멀리 있을 때 선으로 표시
+A little document copies itself beside her	작은 문서가 옆에서 스스로 복사돼요
+A little fruit would be nice.	과일이 있으면 좋겠어요.
+A long title keeps scrolling while it plays	긴 제목은 재생되는 동안 계속 스크롤돼요
+A new notification	새 알림이 있어요
+A new song	새 노래
+A notch with no items disappears, the one with the bell too. It comes back when an item or a notification comes to it, and while you drag items between the notches here. The strip kept on the screen stays the same	항목이 없는 노치는 사라져요. 종이 있는 노치도 마찬가지예요. 항목이나 알림이 오면, 그리고 여기서 노치 사이로 항목을 드래그하는 동안 다시 나타나요. 화면에 유지되는 영역은 그대로예요
+A notification with a one-time code (4 to 8 digits, like a sign-in or a bank code) gets a Copy code button on its banner and in the list. The code goes to the clipboard and stays out of its history	일회용 코드(로그인이나 은행 코드 같은 4~8자리 숫자)가 담긴 알림에는 배너와 목록에 코드 복사 버튼이 생겨요. 코드는 클립보드에 복사되고 기록에는 남지 않아요
+A notification's text stays on one line, and under the mouse it scrolls to its end and back instead of opening on up to three lines. With animations reduced or off, it opens on three lines as usual	알림 텍스트를 한 줄로 보여주고, 마우스를 올리면 끝까지 스크롤했다가 돌아와요. 최대 세 줄로 펼치지 않아요. 애니메이션을 줄이거나 끄면 평소처럼 세 줄로 펼쳐져요
+A picture for this icon	이 아이콘에 쓸 이미지
+A plug comes up beside her and she's curious	플러그가 옆에 나타나면 궁금해해요
+A reminder, an alarm or a timer	미리 알림, 알람 또는 타이머
+A reminder, an alarm or a timer ending	미리 알림, 알람 또는 타이머 종료
+A right click on the island shows a gear: it opens these settings	아일랜드를 오른쪽 클릭하면 톱니바퀴가 나타나요. 누르면 이 설정이 열려요
+A ring along the edge shows the charge: green above 40%, yellow down to 20%, red below. Not as the line, nor on the Bar style	가장자리를 따라 배터리 잔량을 링으로 보여줘요. 40% 초과는 초록, 20%까지는 노랑, 그 아래는 빨강이에요. 선 상태와 바 스타일에서는 표시되지 않아요
+A screenshot	스크린샷
+A screenshot was taken	스크린샷을 찍었어요
+A short notice with the cover, title and artist when the song changes (not for pauses or the first song); a click opens What's playing	노래가 바뀌면 커버, 제목, 아티스트가 담긴 짧은 알림이 나타나요 (일시 중지나 첫 곡에서는 나타나지 않아요). 클릭하면 재생 중이 열려요
+A sip of water?	물 한 모금?
+A small light that lives on the pill as an item of its own: move it in the order like the others, in every style. Her eyes follow the mouse, she blinks, dances with the music of the apps you check and shows what the PC is doing; she rests when nothing moves. While she moves the island is drawn again up to 30 times a second: on a slow PC, her dance and Her eyes follow the mouse off make it lighter	캡슐에 독립된 항목으로 사는 작은 빛이에요. 다른 항목처럼 순서를 옮길 수 있고, 모든 스타일에서 보여요. 눈이 마우스를 따라가고, 깜빡이고, 선택한 앱의 음악에 맞춰 춤추고, PC가 하는 일을 보여줘요. 아무것도 움직이지 않으면 쉬어요. 움직이는 동안 아일랜드는 초당 최대 30번 다시 그려져요. 느린 PC에서는 춤을 끄거나 눈이 마우스를 따라가지 않게 하면 더 가벼워져요
+A sneeze	재채기
+A sneeze, by herself	혼자서 재채기
+A sound for this event	이 이벤트의 소리
+A summary of the PC, the island's settings and its last 300 log lines (the dock's are in Windhawk's log)	PC 요약, 아일랜드 설정, 마지막 로그 300줄 (Dock 로그는 Windhawk 로그에 있어요)
+A tap	톡 건드리기
+A task can be given a day. It shows under the task (red when it passed, not done), and the dated tasks come first, the soonest on top. Tasks without a date stay as they are	작업에 날짜를 지정할 수 있어요. 날짜는 작업 아래에 표시되고(지났는데 안 했으면 빨간색), 날짜가 있는 작업이 먼저, 가까운 날짜가 맨 위에 와요. 날짜가 없는 작업은 그대로예요
+A title too long to fit scrolls across while it plays	너무 긴 제목은 재생되는 동안 가로로 스크롤돼요
+A to Z	가나다순
+A yawn	하품
+A yawn, by herself	혼자서 하품
+AI usage	AI 사용량
+About	정보
+Accent	강조
+Accent color	강조 색
+Accessibility	접근성
+Add	추가
+Add  (Enter)	추가  (Enter)
+Add a folder	폴더 추가
+Add a separator line · drag it between icons, click it to remove	구분선을 추가해요 · 아이콘 사이로 드래그하고, 클릭하면 제거해요
+Add an open app	실행 중인 앱 추가
+Add clocks in Windows' date and time settings (Additional clocks)	Windows 날짜 및 시간 설정에서 시계를 추가하세요 (추가 시계)
+Add controls	컨트롤 추가
+Add note  (Ctrl+Enter)	메모 추가  (Ctrl+Enter)
+Add provider	공급자 추가
+Add the shortcuts you want to remember	기억하고 싶은 바로 가기를 추가하세요
+Added to your commands	내 명령에 추가했어요
+Adds a button for sleep, restart and shut down	절전, 다시 시작, 시스템 종료 버튼을 추가해요
+Adds a button that lists the keyboard shortcuts	키보드 바로 가기를 나열하는 버튼을 추가해요
+Adds a button that mutes and unmutes the microphone	마이크를 음소거하고 해제하는 버튼을 추가해요
+Adds a button that opens your quick notes	빠른 메모를 여는 버튼을 추가해요
+Adds a button that opens your to-do list	할 일 목록을 여는 버튼을 추가해요
+Adds a button that switches Windows between light and dark	Windows를 라이트 모드와 다크 모드로 전환하는 버튼을 추가해요
+Adds a button to switch profiles from the pill	캡슐에서 프로필을 전환하는 버튼을 추가해요
+Adds a small arrow at the pill's end that hides it to its line	캡슐 끝에 작은 화살표를 추가해서 선으로 숨길 수 있어요
+Adds a timer, a stopwatch and a Pomodoro to the pill	캡슐에 타이머, 스톱워치, 뽀모도로를 추가해요
+Adds a way to reach the tray icons of other apps from the pill	캡슐에서 다른 앱의 트레이 아이콘에 접근하는 방법을 추가해요
+Adds the Recycle Bin to the pill	캡슐에 휴지통을 추가해요
+Adds the day and the month to the clock	시계에 날짜(월/일)를 추가해요
+Adds the notifications bell to the pill	캡슐에 알림 종을 추가해요
+Adds the seconds to the time	시간에 초를 추가해요
+Adds the weekday to the clock	시계에 요일을 추가해요
+Adds the year to the clock	시계에 연도를 추가해요
+Affection	애정
+After its app: stays	앱 뒤: 그대로 유지
+After its app: the one before	앱 뒤: 이전 것으로
+Again to put every setting back to its default (notes, tasks, events and profiles stay)	모든 설정을 기본값으로 되돌려요 (메모, 작업, 일정, 프로필은 유지돼요)
+Agendas	캘린더
+Ah… ah… achoo!	에… 에… 에취!
+Airplane mode	비행기 모드
+Alarm	알람
+Alarms	알람
+All	전체
+All apps	모든 앱
+All day	종일
+All done	모두 완료
+All files	모든 파일
+All quiet here.	여기는 조용해요.
+All reactions	모든 반응
+All set	준비 완료
+All up to date	모두 최신 상태
+Already added	이미 추가됨
+Also on the minimized line	최소화된 선에도 표시
+Also shows the title of the window in focus, like the page or the file open in it	포커스된 창의 제목도 표시해요. 열려 있는 페이지나 파일 같은 것이에요
+Always	항상
+Always on the pill, even with nothing playing	재생 중인 것이 없어도 항상 캡슐에 표시
+Always shown	항상 표시
+Always, or only once what's in it weighs this much (it comes and goes by itself)	항상 표시하거나, 내용이 이 정도로 커졌을 때만 표시해요 (저절로 나타났다 사라져요)
+Amber	호박색
+An app appears here once it plays music; only the ones you check make her dance	앱이 음악을 재생하면 여기에 나타나요. 선택한 앱만 춤추게 해요
+An app appears here once it plays something	앱이 무언가를 재생하면 여기에 나타나요
+An arrow drops into her and she's proud; with her care on, it feeds her	화살표가 떨어지면 으쓱해해요. 돌보기를 켜 두면 먹이가 돼요
+Angry	화남
+Animations	애니메이션
+App	앱
+App in focus	포커스된 앱
+Applies to every monitor, and the island restarts to apply it	모든 모니터에 적용되며, 적용하려면 아일랜드가 다시 시작돼요
+Apply	적용
+Apps	앱
+Apps (launcher)	앱 (런처)
+Apps (winget, in a terminal)	앱 (winget, 터미널에서)
+Apps and tools	앱 및 도구
+Apps she dances to	함께 춤출 앱
+Apps that bring the visualizer	비주얼라이저를 표시할 앱
+Apps that look for lyrics	가사를 찾는 앱
+Apps with notifications	알림이 있는 앱
+Apps with unsaved work can stop it.	저장하지 않은 작업이 있는 앱이 막을 수 있어요.
+Are you working or just pretending?	일하는 거예요, 아니면 일하는 척?
+Area that brings it back	되살리는 영역
+Arguments (if any)	인수 (있는 경우)
+Arguments (optional)	인수 (선택 사항)
+Ask before restarting, shutting down or signing out	다시 시작, 시스템 종료, 로그아웃 전에 물어보기
+Ask every time	매번 묻기
+Ask the first time	처음에만 묻기
+Asleep · Do not disturb is on	수면 중 · 방해 금지가 켜져 있어요
+Asleep · no mouse or keyboard for %s min	수면 중 · 마우스와 키보드를 %s분 동안 사용하지 않았어요
+Attentive	세심
+Audio visualizer	오디오 비주얼라이저
+Audio visualizer (bars moving with the sound)	오디오 비주얼라이저 (소리에 맞춰 움직이는 막대)
+Auto	자동
+Auto (light or dark)	자동 (라이트 또는 다크)
+Auto, inverted (the other way from Windows)	자동, 반전 (Windows와 반대)
+Automatic	자동
+Available	사용 가능
+BSP	BSP
+Back	뒤로
+Back to default	기본값으로 되돌리기
+Back to focus	집중으로 돌아가기
+Backup	백업
+Backup (notes, tasks, profiles and settings)	백업 (메모, 작업, 프로필, 설정)
+Balanced	균형
+Banner corners	배너 모서리
+Banner size	배너 크기
+Banner width	배너 너비
+Banners	배너
+Banners (notifications on the pill)	배너 (캡슐의 알림)
+Banners close on a click outside	바깥을 클릭하면 배너 닫기
+Banners even with the pill minimized	캡슐이 최소화되어도 배너 표시
+Banners in the pill	캡슐의 배너
+Banners show each new notification coming out of the pill	새 알림이 올 때마다 캡슐에서 배너가 나와요
+Banners still appear while the pill is minimized to its line	캡슐이 선으로 최소화되어 있어도 배너가 나타나요
+Bar	바
+Bar: along the whole top edge, like macOS' menu bar	바: 맨 위 가장자리 전체에, macOS 메뉴 막대처럼
+Bar: hide as its line too	바: 선으로도 숨기기
+Bar: items at the screen's corners	바: 항목을 화면 모서리에
+Bar: items keep their side of the clock	바: 항목이 시계 기준 자기 쪽을 유지
+Bars' height	막대 높이
+Bars' width	막대 너비
+Base frequency	기준 주파수
+Battery	배터리
+Battery charging	배터리 충전 중
+Battery charging (own color)	배터리 충전 중 (고유 색)
+Battery percentage beside its icon	아이콘 옆에 배터리 잔량(%) 표시
+Black	검정
+Blue	파랑
+Bluetooth	Bluetooth
+Bluetooth & devices	Bluetooth 및 장치
+Bluetooth audio connected	Bluetooth 오디오 연결됨
+Bluetooth is off	Bluetooth가 꺼져 있어요
+Bluish when lonely, warmer when the processor works hard or she is hungry, paler when thirsty or tired	외로우면 푸르스름하고, 프로세서가 열심히 일하거나 배고프면 따뜻하고, 목마르거나 피곤하면 창백해져요
+Bootstrap (online)	Bootstrap (온라인)
+Bored · nobody has played with her for %s h	지루함 · %s시간 동안 아무도 놀아주지 않았어요
+Bottom	아래
+Bottom left	왼쪽 아래
+Bottom right	오른쪽 아래
+Break	휴식
+Brightness	밝기
+Brightness of external monitors (DDC/CI)	외부 모니터 밝기 (DDC/CI)
+Brightness of external monitors turned off	꺼진 외부 모니터의 밝기
+Brings the visualizer	비주얼라이저를 표시해요
+Browsers never tell the taskbar a download is paused or failed: one whose bar stands still for 30 s turns yellow	브라우저는 다운로드가 일시 중지되거나 실패했다고 작업 표시줄에 알리지 않아요. 진행률 표시줄이 30초 동안 멈춰 있으면 노란색으로 바뀌어요
+Bugs and ideas	버그와 아이디어
+Built-in display	내장 디스플레이
+Button on the island (its icon on the pill)	아일랜드의 버튼 (캡슐의 아이콘)
+Buttons on the pill	캡슐의 버튼
+By date modified	수정한 날짜순
+By name	이름순
+By size	크기순
+By type	유형순
+CPU temperature	CPU 온도
+CPU, RAM and VRAM use	CPU, RAM, VRAM 사용량
+CPU, RAM, VRAM and GPU use	CPU, RAM, VRAM, GPU 사용량
+Cached	캐시됨
+Calculator	계산기
+Calendar	캘린더
+Calendar full: delete past events in the gear	캘린더가 가득 찼어요. 톱니바퀴에서 지난 일정을 삭제하세요
+Calendar with today big	오늘을 크게 보여주는 캘린더
+Calls and alarms silent in Do not disturb	방해 금지 중에는 통화와 알람 무음
+Calm	차분
+Calm · nothing going on	차분 · 별일 없어요
+Camera	카메라
+Cancel	취소
+Caps Lock bubble	Caps Lock 말풍선
+Caps Lock off	Caps Lock 꺼짐
+Caps Lock on	Caps Lock 켜짐
+Captions	자막
+Care pace	돌보기 속도
+Cast	캐스트
+Center	가운데
+Change the order with Ctrl + drag on the island	아일랜드에서 Ctrl + 드래그로 순서를 바꿔요
+Changes are saved in the one in use · the pencil renames, saves or deletes	변경 내용은 사용 중인 프로필에 저장돼요 · 연필로 이름 변경, 저장, 삭제를 해요
+Charger plugged in	충전기 연결됨
+Charging	충전 중
+Charging battery color	충전 중 배터리 색
+Charging battery color (own)	충전 중 배터리 색 (고유)
+Check every	확인 주기
+Choose	선택
+Choose a JSON file	JSON 파일 선택
+Choose a power plan	전원 관리 옵션 선택
+Choose a program or a file	프로그램이나 파일 선택
+Choose it…	선택…
+Choose the folder with your pictures	사진이 있는 폴더 선택
+Choose...	선택...
+Chooses how many animations play, on every monitor	재생되는 애니메이션의 양을 모든 모니터에 대해 선택해요
+Chooses which monitors show the island, with a map of your screens	화면 지도를 보며 아일랜드를 표시할 모니터를 선택해요
+Choose…	선택…
+Circle	원
+City not found	도시를 찾을 수 없어요
+Claude Code	Claude Code
+Claude Code (terminal)	Claude Code (터미널)
+Claude Code gives its limits to its status line, run in Git Bash: copy the line into its script, after it reads its input with input=$(cat) (see the README)	Claude Code는 한도를 Git Bash에서 실행되는 상태 줄에 전달해요. input=$(cat)으로 입력을 읽은 다음 그 줄을 스크립트에 복사하세요 (README 참고)
+Claude Code tells its limits with a Pro or Max plan, after its first answer in a session	Claude Code는 첫 응답 이후 세션에서 Pro 또는 Max 플랜일 때 한도를 알려줘요
+Clear	맑음
+Clear all	모두 지우기
+Click (or press Space) when the ring reaches her. The beat follows the music that is playing, or is steady without it. 32 beats, and hits in a row are worth more.	링이 Faísca에 닿을 때 클릭하세요 (또는 Space). 박자는 재생 중인 음악을 따르고, 음악이 없으면 일정해요. 32박자이며 연속으로 맞히면 점수가 더 높아요.
+Click a screen to choose where the island appears.	화면을 클릭해서 아일랜드가 나타날 위치를 선택하세요.
+Click a screen to place the main island there (alerts and tray).	화면을 클릭해서 메인 아일랜드를 그곳에 두세요 (알림과 트레이).
+Click and press the keys	클릭한 다음 키를 누르세요
+Click to play	클릭해서 플레이
+Click to play again	클릭해서 다시 플레이
+Click to record	클릭해서 기록
+Clicking a screenshot notice opens the picture in Explorer	스크린샷 알림을 클릭하면 탐색기에서 사진이 열려요
+Clicks go through the pill	클릭이 캡슐을 통과해요
+Clipboard	클립보드
+Clock	시계
+Clock against the screen's edge	화면 가장자리에 붙은 시계
+Clock and calendar	시계 및 캘린더
+Clock and calendar (agendas: the calendar's gear)	시계 및 캘린더 (추가 캘린더: 캘린더의 톱니바퀴)
+Clock font	시계 글꼴
+Clock in the middle (the other items move around it)	가운데에 시계 (다른 항목은 그 주위로 이동)
+Close it to finish	닫으면 끝나요
+Cloud jump	구름 점프
+Clouds	구름
+Codex	Codex
+Codex keeps its limits in its logs on this PC: they show after its next answer	Codex는 한도를 이 PC의 로그에 보관해요. 다음 응답 이후에 표시돼요
+Color filters	색상 필터
+Color for downloads and other apps	다운로드 및 기타 앱의 색
+Color for file copies	파일 복사 색
+Color for the battery charging	배터리 충전 색
+Colors	색
+Colors following the app in front (its title bar or its icon)	앞에 있는 앱(제목 표시줄이나 아이콘)을 따르는 색
+Colors: like Windows (light or dark with it), always light or always dark, or the colors of the app in front	색: Windows처럼(라이트 또는 다크 연동), 항상 라이트, 항상 다크, 또는 앞에 있는 앱의 색
+Columns	열
+Command (cmd, without a window)	명령 (cmd, 창 없이)
+Command line	명령줄
+Committed	커밋됨
+Compact (cover only)	컴팩트 (커버만)
+Completed	완료됨
+Compressed	압축됨
+Connect	연결
+Connected	연결됨
+Connecting...	연결 중...
+Content hidden	콘텐츠 숨김
+Control Panel	제어판
+Control center	제어 센터
+Control center buttons on the pill	캡슐의 제어 센터 버튼
+Copied	복사됨
+Copy	복사
+Copy code	코드 복사
+Copy the line	줄 복사
+Copy verification codes	인증 코드 복사
+Copying files	파일 복사 중
+Copying or moving files	파일 복사 또는 이동
+Coral	코랄
+Cores / threads	코어 / 스레드
+Corners	모서리
+Couldn't change the hotspot.	핫스팟을 변경하지 못했어요.
+Couldn't connect.	연결하지 못했어요.
+Couldn't connect. Check the password.	연결하지 못했어요. 비밀번호를 확인하세요.
+Couldn't download it: click to try again	다운로드하지 못했어요. 클릭해서 다시 시도하세요
+Couldn't download them: click it again to try	다운로드하지 못했어요. 다시 클릭해서 시도하세요
+Couldn't empty it	비우지 못했어요
+Couldn't forget the network.	네트워크를 잊지 못했어요.
+Couldn't reach lrclib.net	lrclib.net에 접속하지 못했어요
+Couldn't read it	읽지 못했어요
+Couldn't save in that folder	그 폴더에 저장하지 못했어요
+Counting the pixels on your screen.	화면의 픽셀을 세는 중이에요.
+Counts down to Pomodoro's next part	뽀모도로의 다음 단계까지 카운트다운해요
+Counts down to alarms	알람까지 카운트다운
+Counts down to events	일정까지 카운트다운
+Counts down to the timer's end	타이머가 끝날 때까지 카운트다운해요
+Cover and title	커버와 제목
+Cover and title on the pill	캡슐에 커버와 제목 표시
+Cuddle	쓰다듬기
+Current	현재
+Custom	사용자 지정
+Custom (JSON file)	사용자 지정 (JSON 파일)
+Customize…	사용자 지정…
+Cyan	청록
+Cycles through the pictures of a folder as your wallpaper	폴더의 사진들을 배경 화면으로 차례로 바꿔요
+D M Y	일 월 년
+Dances with the music	음악에 맞춰 춤춰요
+Dancing · %s is playing	춤추는 중 · %s 재생 중
+Dark	다크
+Dark mode	다크 모드
+Date	날짜
+Date modified	수정한 날짜
+Date order	날짜 순서
+Dates on tasks	작업의 날짜
+Day and month	월/일
+Day of the week	요일
+Delete	삭제
+Delete %zu past events?	지난 일정 %zu개를 삭제할까요?
+Delete it?	삭제할까요?
+Delete past events	지난 일정 삭제
+Desktop	바탕 화면
+Details	세부 정보
+Details as cards	세부 정보를 카드로
+Device	장치
+Device Manager	장치 관리자
+Devices	장치
+Disconnect	연결 해제
+Disconnected	연결 해제됨
+Disconnecting...	연결 해제 중...
+Dismiss	닫기
+Display	디스플레이
+Display brightness	디스플레이 밝기
+Do not disturb	방해 금지
+Do not disturb turned on or off	방해 금지를 켜거나 껐어요
+Do not disturb: silent	방해 금지: 무음
+Dock	Dock
+Documents	문서
+Don't stop now!	지금 멈추지 마요!
+Done	완료
+Download	다운로드
+Download finished	다운로드 완료
+Download peak (1 min)	다운로드 최고 속도 (1분)
+Download pictures from the web (goes online)	웹에서 사진 다운로드 (온라인 사용)
+Downloading	다운로드 중
+Downloading the icons	아이콘 다운로드 중
+Downloads	다운로드
+Downloads and other apps	다운로드 및 기타 앱
+Downloads and other apps (own color)	다운로드 및 기타 앱 (고유 색)
+Downloads, installs and other apps' progress; red for an error, yellow paused	다운로드, 설치, 기타 앱의 진행률이에요. 오류는 빨강, 일시 중지는 노랑
+Drag an icon to another notch or place	아이콘을 다른 노치나 위치로 드래그하세요
+Drag an icon to change the order	아이콘을 드래그해서 순서를 바꾸세요
+Drag from one notch to another · click to hide	노치 사이로 드래그 · 클릭하면 숨겨요
+Drag the groups to reorder them, the minimize arrow stays last	그룹을 드래그해서 순서를 바꾸세요. 최소화 화살표는 항상 맨 끝에 있어요
+Drag the pill to any spot on the screen (not with notches)	캡슐을 화면의 원하는 곳으로 드래그하세요 (노치와는 함께 쓸 수 없어요)
+Drag to change the order or to put one on the pill · middle click, or the pin after a moment on an icon: kept on the pill	드래그해서 순서를 바꾸거나 캡슐에 올려 두세요 · 가운데 클릭, 또는 아이콘에 잠시 머문 뒤 핀을 누르면 캡슐에 고정돼요
+Drag to change the order · click to hide	드래그해서 순서를 바꾸세요 · 클릭하면 숨겨요
+Dreaming of pixels.	픽셀 꿈을 꾸는 중.
+Drinking	마시기
+Drive	드라이브
+Drizzle	이슬비
+Drop files on the pill to keep them here, then drag them into another app	파일을 캡슐에 놓아 여기에 보관한 다음 다른 앱으로 드래그하세요
+Drop files on the pill to keep them there, then drag them out into another app later (their places are kept, not copies)	파일을 캡슐에 놓아 그곳에 보관한 다음 나중에 다른 앱으로 드래그해 꺼내세요 (복사본이 아니라 위치만 기억해요)
+Drop it, I've got it.	놓으세요, 제가 맡을게요.
+Duplicate	복제
+Each bar sways on its own, softly, as loud as the sound; off, they jump with the beat	막대가 각자 소리 크기에 맞춰 부드럽게 흔들려요. 끄면 박자에 맞춰 튀어요
+Each new one opens the pill for a moment	새 항목이 올 때마다 잠깐 캡슐이 열려요
+Each notch hides alone instead of all at once (Fixed only)	각 노치가 한꺼번에가 아니라 따로 숨어요 (고정 스타일만)
+Each screen has its own island	화면마다 자신의 아일랜드가 있어요
+Eating	먹기
+Edge	가장자리
+Edge around	테두리
+Edge distance	가장자리와의 거리
+Edit	편집
+Edit command	명령 편집
+Edit provider	공급자 편집
+Edit task	작업 편집
+Efficiency	효율
+Eight colors, Windows' accent or your own	여덟 가지 색, Windows 강조 색 또는 내가 고른 색
+Eject	꺼내기
+Ejecting…	꺼내는 중…
+Emoji	이모지
+Empty	비어 있음
+Empty it? Click again	비울까요? 다시 클릭하세요
+Empty the bin	휴지통 비우기
+Emptying…	비우는 중…
+Energy	에너지
+Energy, food, water and love go down slowly while you use the PC, and you look after her in her panel. She never goes away, never asks in full screen or Do not disturb, and makes no sound unless her sounds are on	PC를 쓰는 동안 에너지, 음식, 물, 사랑이 천천히 줄어들고, Faísca의 패널에서 돌봐 주면 돼요. 떠나지 않고, 전체 화면이나 방해 금지 중에는 묻지 않으며, 소리를 켜지 않으면 소리도 내지 않아요
+English letters	영문자
+Error	오류
+Essential	필수
+Essential: the clock, the battery, the control center, the volume, the notifications' bell and what's playing	필수: 시계, 배터리, 제어 센터, 볼륨, 알림 종, 재생 중
+Ethernet	이더넷
+Even when minimized	최소화되어도
+Event	일정
+Events in the calendar	캘린더의 일정
+Events, 	일정, 
+Every day	매일
+Every option explained step by step, the roadmap and your votes	모든 옵션을 단계별로 설명해요. 로드맵과 투표도 있어요
+Everyday	일상
+Everyday: also the next event, the weather (goes online), the timer, your folders, the apps with notifications and the song's cover	일상: 다음 일정, 날씨(온라인 사용), 타이머, 내 폴더, 알림이 있는 앱, 노래 커버도 표시
+Everything	전체
+Everything: most of the items, from notes and tasks to the network's speed	전체: 메모와 작업부터 네트워크 속도까지 대부분의 항목
+Excuse me!	실례합니다!
+Expanded card when the mouse rests on a live item	마우스를 실시간 항목에 올리면 펼쳐진 카드가 나와요
+Export	내보내기
+Export the island's backup	아일랜드 백업 내보내기
+Extend	확장
+Extra wide	매우 넓게
+Fade	페이드
+Fade the line after	선이 사라지기까지
+Fan	쿨링 팬
+Favorite moved or deleted	즐겨찾기가 이동되었거나 삭제되었어요
+Favorites	즐겨찾기
+Favorites are full	즐겨찾기가 가득 찼어요
+Faísca	Faísca
+Faísca, a pet on the island	Faísca, 아일랜드의 펫
+Faísca, the island's pet	Faísca, 아일랜드의 펫
+Feels like	체감
+Fetches pictures for banners from the web, it needs an internet connection	배너용 사진을 웹에서 가져와요. 인터넷 연결이 필요해요
+File Explorer	파일 탐색기
+File copied	파일을 복사했어요
+File copies	파일 복사
+File copies (own color)	파일 복사 (고유 색)
+File moved	파일을 이동했어요
+Files	파일
+Files are being copied	파일을 복사하는 중이에요
+Files are being moved	파일을 이동하는 중이에요
+Files copied or moved by Windows (its copy window)	Windows(복사 창)에서 복사하거나 이동하는 파일
+Files dragged out	밖으로 드래그한 파일
+Files dragged out of the folders panel or the shelf into an app: copied or moved, or asked (the first time, remembered, or every time)	폴더 패널이나 선반에서 앱으로 드래그한 파일: 복사하거나 이동하거나, 물어봐요 (처음에만 묻고 기억하거나, 매번 물어요)
+Files dragged out of the island are:	아일랜드 밖으로 드래그한 파일은:
+Fill	채우기
+Fill animation	채우기 애니메이션
+Find the six pairs of the island's own icons. The shortest time wins.	아일랜드 고유 아이콘 여섯 쌍을 찾으세요. 가장 짧은 시간이 이겨요.
+Finding your location…	위치를 찾는 중…
+Finish	완료
+Finish keeps all of it; Cancel puts back what was there before	완료하면 모두 유지돼요. 취소하면 이전 상태로 돌아가요
+Five small games with your best results, kept only on this PC (no internet)	최고 기록이 이 PC에만 저장되는 작은 게임 다섯 개 (인터넷 없이)
+Fixed	고정
+Fixed: joined to the top edge, keeping its room (the windows stay below it)	고정: 맨 위 가장자리에 붙고 자리를 차지해요 (창은 그 아래에 있어요)
+Floating	플로팅
+Fluent (online)	Fluent (온라인)
+Focus	집중
+Focused right along with you.	함께 집중하는 중.
+Focused · Pomodoro's focus time	집중 · 뽀모도로 집중 시간
+Fog	안개
+Fold the apps with notifications into an arrow (out when one comes, and under the mouse)	알림이 있는 앱을 화살표로 접어요 (새 알림이 오거나 마우스를 올리면 나와요)
+Folder	폴더
+Folders	폴더
+Folders and places	폴더 및 위치
+Folders and places (your shortcuts)	폴더 및 위치 (내 바로 가기)
+Folders mixed with files	파일과 섞인 폴더
+Folds the app icons into an arrow, they come out for new ones or on hover	앱 아이콘을 화살표로 접어요. 새 알림이 오거나 마우스를 올리면 나와요
+Following the bell	종을 따라가기
+Following the mouse is unavailable with notches on the main island.	메인 아일랜드에 노치가 있으면 마우스 따라가기를 쓸 수 없어요.
+Follows Windows or forces a 24 hour or 12 hour clock	Windows 설정을 따르거나 24시간제 또는 12시간제로 고정해요
+Follows Windows' measurement system or forces Celsius or Fahrenheit	Windows 측정 단위를 따르거나 섭씨 또는 화씨로 고정해요
+Follows the line	줄에 맞추기
+Follows the mouse	마우스를 따라가기
+Food	음식
+For OLED screens: the minimized line fades away after this long, back when the mouse reaches it	OLED 화면용: 최소화된 선이 이 시간이 지나면 사라지고, 마우스가 닿으면 다시 나타나요
+Forget	잊기
+Forget it?	잊을까요?
+Frames a second	초당 프레임
+Freezing drizzle	어는 이슬비
+Freezing rain	어는 비
+Frequency	빈도
+From square to fully round corners (not with the bar or notches)	각진 모서리부터 완전히 둥근 모서리까지 (바나 노치와는 함께 쓸 수 없어요)
+Frosted glass on the bar and the Fixed style's strip	바와 고정 스타일 띠에 반투명 유리 효과
+Frosted look for the bar and the Fixed strip, needs Windows transparency	바와 고정 띠에 반투명 효과를 줘요. Windows 투명 효과가 필요해요
+Fruit rain	과일 비
+Frustrated	좌절
+Full screen: silent	전체 화면: 무음
+Fun	재미
+Game over	게임 오버
+Game: caught	게임: 잡았어요
+Game: missed	게임: 놓쳤어요
+Game: new record	게임: 신기록
+Games in exclusive full screen still draw over it. In some games it can cost some performance, or bother anti-cheat systems	독점 전체 화면 게임은 그 위에도 그려져요. 일부 게임에서는 성능이 떨어지거나 안티치트 시스템에 방해가 될 수 있어요
+Games in her panel	Faísca 패널의 게임
+Gap between the pill and the screen edge (not with the bar or notches)	캡슐과 화면 가장자리 사이 간격 (바나 노치와는 함께 쓸 수 없어요)
+General	일반
+Gives chosen apps their own icons, clock and order while they're in front (in the Island style, their own spot too). Each style has its own list	선택한 앱이 앞에 있는 동안 자신의 아이콘, 시계, 순서를 갖게 해요 (아일랜드 스타일에서는 자신의 자리도). 스타일마다 목록이 따로 있어요
+Glass	유리
+Glass blur	유리 흐림
+Glass: see-through and blurred, like on macOS	유리: macOS처럼 투명하고 흐릿하게
+Glass: see-through and blurred, with a bright edge (Windows' blur: needs its transparency effects)	유리: 투명하고 흐릿하며 가장자리가 밝아요 (Windows 블러: 투명 효과가 필요해요)
+GlazeWM's workspaces	GlazeWM 작업 영역
+GlazeWM: hide the workspaces without windows	GlazeWM: 창이 없는 작업 영역 숨기기
+GlazeWM: its workspaces on the pill (a click switches)	GlazeWM: 캡슐에 작업 영역 표시 (클릭하면 전환)
+Glow and hops can leave the island	빛과 점프가 아일랜드 밖으로 나갈 수 있어요
+Glow and particles	빛과 파티클
+Glowing in my little corner.	내 작은 구석에서 반짝이는 중.
+Got your file. I'll hold it.	파일 받았어요. 제가 들고 있을게요.
+Graphics card temperature	그래픽 카드 온도
+Graphics card use (GPU)	그래픽 카드 사용량 (GPU)
+Graphite	그래파이트
+Green	초록
+Grid	격자
+Grid columns	격자 열
+Happy · a notification came	행복 · 알림이 왔어요
+Hard to read: too alike	읽기 어려움: 너무 비슷해요
+Heavy rain	폭우
+Hehe.	헤헤.
+Help translate the island	아일랜드 번역 돕기
+Her color	Faísca의 색
+Her color changes with the mood	기분에 따라 색이 바뀌어요
+Her eyes and body turn toward the mouse, more the closer it is	눈과 몸이 마우스 쪽을 향하고, 가까울수록 더 많이 돌아가요
+Her eyes follow the mouse	눈이 마우스를 따라가요
+Her glow, rings and hops may go past the island, also over a maximized app; off, she stays inside it	빛, 링, 점프가 아일랜드 밖, 최대화된 앱 위로도 나갈 수 있어요. 끄면 아일랜드 안에만 머물러요
+Her light tints the island around her and flows through it in waves when she blinks, hops, dances or reacts	Faísca의 빛이 주변 아일랜드를 물들이고, 깜빡이거나 뛰거나 춤추거나 반응할 때 물결처럼 퍼져요
+Her own color	고유 색
+Her size	크기
+Her sounds off	소리 꺼짐
+Her volume	볼륨
+Heroicons (online)	Heroicons (온라인)
+Hex	Hex
+Hey! That hurt.	앗! 아팠어요.
+Hibernate	최대 절전 모드
+Hidden, a small pill with the time stays instead of the line (the line while a window is under it). The Bar hidden with Win+J closes into it too	숨기면 선 대신 시간이 표시된 작은 캡슐이 남아요 (창이 아래에 있으면 선). Win+J로 숨긴 바도 여기로 접혀요
+Hide a notch with nothing in it	비어 있는 노치 숨기기
+Hide after	숨기기까지
+Hide as its line until the mouse reaches it	마우스가 닿을 때까지 선으로 숨기기
+Hide each notch on its own (not all together)	노치를 각각 따로 숨기기 (한꺼번에 아님)
+Hide past events after	지난 일정 숨기기까지
+Hide the Windows banners	Windows 배너 숨기기
+Hide the numbers	숫자 숨기기
+Hides when the mouse leaves, or only while a window is maximized or over it	마우스가 벗어나면 숨기거나, 창이 최대화되었거나 그 위에 있을 때만 숨겨요
+Hiding	숨기기
+Hiding and notifications	숨기기 및 알림
+Hiding: when and how it becomes the line	숨기기: 언제, 어떻게 선이 되는지
+Highlight behind the item under the mouse	마우스 아래 항목 뒤에 강조 표시
+Hihi!	히히!
+Hmm, interesting.	음, 흥미롭네요.
+Hmph.	흥.
+Hold Ctrl and drag an item on the island (in any style) to another place, or to another notch. Its items jiggle while Ctrl is held with the mouse on it	Ctrl을 누른 채 아일랜드의 항목(모든 스타일)을 다른 위치나 다른 노치로 드래그하세요. 마우스를 올리고 Ctrl을 누르는 동안 항목들이 흔들려요
+Holding · something is dragged over the island	붙잡는 중 · 아일랜드 위로 무언가를 끌고 있어요
+Holidays in the calendar (goes online)	캘린더에 공휴일 표시 (온라인 사용)
+Home folder	홈 폴더
+Horizontal stack	가로 스택
+Hot · the graphics card at %s	더워요 · 그래픽 카드 %s
+Hot · the memory at %s	더워요 · 메모리 %s
+Hot · the processor at %s	더워요 · 프로세서 %s
+How big she is on the pill and on the line; above 100% she goes past the pill's edges	캡슐과 선에서의 크기예요. 100%를 넘으면 캡슐 가장자리를 넘어가요
+How big the banner is, its texts and buttons with it	배너의 크기예요. 텍스트와 버튼도 함께 커져요
+How big the line is on the pill	캡슐에서 선의 크기
+How big the previous, play and next buttons on the pill are, as far as the pill is tall	캡슐에서 이전, 재생, 다음 버튼의 크기예요 (캡슐 높이까지)
+How busy the processor, the memory or the graphics card must be, for 5 seconds, before she shows it	프로세서, 메모리, 그래픽 카드가 5초 동안 이 정도로 바빠야 Faísca가 보여줘요
+How fast her needs come back as you use the PC: calm (about a day), normal (8 hours) or attentive (3 hours)	PC를 쓰는 동안 욕구가 얼마나 빨리 돌아오는지예요: 차분(약 하루), 보통(8시간), 주의 깊음(3시간)
+How it moves; paused it breathes, an error shakes, done flashes with a check, canceled drains back	움직임 방식이에요. 일시 중지는 숨 쉬듯, 오류는 흔들리듯, 완료는 체크와 함께 번쩍, 취소는 빠져나가듯 움직여요
+How loud all her sounds are	모든 소리의 크기
+How many	개수
+How many files it keeps: the oldest goes when a new one comes	보관할 파일 수예요. 새 파일이 오면 가장 오래된 것이 사라져요
+How many icons show before the list starts to scroll	목록이 스크롤되기 전에 표시할 아이콘 수
+How much of the AI agents' limits is used and when each starts over, read on this PC (no login and nothing online)	AI 에이전트의 한도를 얼마나 썼는지와 각각 언제 초기화되는지를 이 PC에서 읽어요 (로그인 없음, 온라인 사용 없음)
+How much the bars move with the sound (they follow the playing app's own sound)	소리에 따라 막대가 얼마나 움직이는지예요 (재생 중인 앱의 소리를 따라요)
+How often she does something by herself while idle (looks around, hops, spins, stretches)	가만히 있을 때 Faísca가 혼자 무언가를 하는 빈도예요 (둘러보기, 뛰기, 돌기, 기지개)
+How round the banner's corners are	배너 모서리의 둥근 정도
+How round the notch curves are in the Fixed style	고정 스타일에서 노치 곡선의 둥근 정도
+How solid the island's fill is, from see-through to full	아일랜드 배경의 불투명도예요. 투명에서 완전 불투명까지
+How strongly the glass blurs what is behind it	유리가 뒤쪽을 얼마나 강하게 흐리게 하는지
+How tall the bars can grow (as far as the pill allows)	막대가 자랄 수 있는 높이 (캡슐이 허용하는 만큼)
+How the What's playing panel looks: the usual one, Pixel (Android), One UI (Samsung), Windows 11, or only the cover with the buttons over it. It opens from What's playing or the cover on the pill	재생 중 패널의 모양이에요: 기본, Pixel(Android), One UI(Samsung), Windows 11, 또는 버튼이 위에 얹힌 커버만. 재생 중이나 캡슐의 커버에서 열려요
+How visible the thin line is when the pill is hidden	캡슐이 숨겨졌을 때 얇은 선이 얼마나 잘 보이는지
+How visible the thin outline around the pill is	캡슐 주변의 얇은 윤곽선이 얼마나 잘 보이는지
+How wide each bar is; the item grows with them	각 막대의 너비예요. 항목도 함께 넓어져요
+How wide the banner is (a longer text fits on its lines)	배너의 너비 (긴 텍스트는 여러 줄에 맞춰져요)
+Humidity	습도
+Hungry · food at %s	배고픔 · 음식 %s
+I give up. For today.	포기할래요. 오늘은요.
+I got such a fright!	너무 놀랐어요!
+I like it!	마음에 들어요!
+I'm all alone…	나 혼자 남았어요…
+I'm bored…	심심해요…
+I'm drying up here.	여기서 말라 가고 있어요.
+Icon	아이콘
+Icon and color	아이콘 및 색
+Icon colors	아이콘 색
+Icon pack	아이콘 팩
+Icon size	아이콘 크기
+Iconoir (online)	Iconoir (온라인)
+Icons	아이콘
+Icons of the apps with notifications	알림이 있는 앱의 아이콘
+Icons per app (Bar)	앱별 아이콘 (바)
+Icons per app (Fixed style)	앱별 아이콘 (고정 스타일)
+Icons that aren't pinned	고정되지 않은 아이콘
+Ignored (not counted)	무시됨 (집계 안 함)
+Import	가져오기
+Import a backup of the island	아일랜드 백업 가져오기
+Import a file	파일 가져오기
+Import shortcuts (like komorebi's whkdrc)	바로 가기 가져오기 (komorebi의 whkdrc 같은)
+In the bar, sends items to the screen corners: with the clock in the middle, the ones before it go to the left and the others to the right; without it, the first separator line of the order splits them. With two separator lines the bar has three parts instead: left corner, middle of the screen (the clock joins it) and right corner	바에서 항목을 화면 모서리로 보내요. 시계가 가운데 있으면 그 앞의 항목은 왼쪽, 나머지는 오른쪽으로 가요. 시계가 없으면 순서의 첫 구분선이 나눠요. 구분선이 두 개면 바는 세 부분이 돼요: 왼쪽 모서리, 화면 가운데(시계가 여기에 합류), 오른쪽 모서리
+In the island's Do not disturb, calls, alarms and reminders don't ring either (they still show on the pill)	아일랜드의 방해 금지에서는 통화, 알람, 미리 알림도 울리지 않아요 (캡슐에는 계속 표시돼요)
+In the pill	캡슐에
+In the pill with a sound, even in Do not disturb	방해 금지 중에도 소리와 함께 캡슐에 표시
+In the terminal	터미널에서
+In use	사용 중
+In use: close what's open on it	사용 중: 열려 있는 것을 닫으세요
+Installed apps	설치된 앱
+Instrumental	연주곡
+Ionicons (online)	Ionicons (온라인)
+Island	아일랜드
+Island backup (*.txt)	아일랜드 백업 (*.txt)
+Island font	아일랜드 글꼴
+Island memory	아일랜드 짝 맞추기
+Island settings	아일랜드 설정
+Island: a pill floating at the top, the windows go under it	아일랜드: 맨 위에 떠 있는 캡슐이며 창은 그 아래로 가요
+It couldn't start.	시작하지 못했어요.
+It ended with an error (0x%08X). Turn the mod off and on in Windhawk to start it again.	오류로 종료됐어요 (0x%08X). 다시 시작하려면 Windhawk에서 모드를 껐다가 켜 주세요.
+It failed (see the terminal)	실패했어요 (터미널 참고)
+It goes to the screen with the mouse	마우스가 있는 화면으로 가요
+It runs only while the island is on. A time missed while the PC slept or the island was off isn't made up.	아일랜드가 켜져 있는 동안만 실행돼요. PC가 잠든 사이나 아일랜드가 꺼져 있는 동안 놓친 시간은 보충되지 않아요.
+It's getting hot in here, huh?	여기 점점 더워지죠?
+Items in the bar	바의 항목
+Items on the pill	캡슐의 항목
+Its focus or break ending, while it runs	실행 중일 때 집중 또는 휴식이 끝나는 시점
+Its look (profile):	모양 (프로필):
+Its style, size, hiding and animations are in Windhawk's settings for this mod	스타일, 크기, 숨기기, 애니메이션은 이 모드의 Windhawk 설정에 있어요
+JSON file	JSON 파일
+Just one little game?	게임 한 판만?
+Just watching…	그냥 지켜보는 중…
+Keep as it is	그대로 두기
+Keep as it is: the items the pill had before	그대로 두기: 캡슐에 있던 항목
+Keep it open	계속 열어 두기
+Keep their list open	목록을 계속 열어 두기
+Keeping an eye on you.	지켜보고 있어요.
+Keeps the note on the pill when no app has media; a click opens the panel	미디어가 있는 앱이 없을 때 캡슐에 노트를 유지해요. 클릭하면 패널이 열려요
+Keyboard language	키보드 언어
+Keyboard language (like Windows' input indicator)	키보드 언어 (Windows 입력 표시기처럼)
+Keyboard shortcut (optional)	키보드 바로 가기 (선택 사항)
+Keyboard shortcuts	키보드 바로 가기
+Keyboard shortcuts button	키보드 바로 가기 버튼
+Keys	키
+Language	언어
+Language of the island's texts (it starts again)	아일랜드 텍스트 언어 (다시 시작해요)
+Language of the notes	메모 언어
+Language settings	언어 설정
+Large	크게
+Largest first	큰 순서
+Later	나중에
+Leaves only the play and pause button on the pill, without previous and next	캡슐에 이전, 다음 없이 재생과 일시 중지 버튼만 남겨요
+Leaves out GlazeWM workspaces that have no windows	창이 없는 GlazeWM 작업 영역 제외
+Leaves out komorebi workspaces that have no windows	창이 없는 komorebi 작업 영역 제외
+Left	왼쪽
+Less round	덜 둥글게
+Let go to add it to your commands	놓으면 내 명령에 추가돼요
+Let go to put it on the shelf	놓으면 선반에 올려요
+Let's play?	놀까요?
+Light	라이트
+Light and dark mode	라이트 및 다크 모드
+Light and dark mode button	라이트/다크 모드 버튼
+Light and shadow like macOS 27	macOS 27 같은 빛과 그림자
+Light rain	가랑비
+Lighter tint and livelier colors on the glass	유리에 더 밝은 색조와 생생한 색
+Lights up the item the mouse is over	마우스가 올라간 항목을 밝혀요
+Like Ctrl+Shift+S, or Ctrl+K, Ctrl+S	Ctrl+Shift+S, 또는 Ctrl+K, Ctrl+S 같은 형식
+Like Windows	Windows와 같게
+Like the island	아일랜드와 같게
+Like the island: only the shapes of the emojis and of your pictures, in the island's colors. Their own: as they are	아일랜드와 같게: 이모지와 내 이미지의 모양만 아일랜드 색으로. 원래 색: 있는 그대로
+Like the other icons	다른 아이콘과 같게
+Like the panels	패널과 같게
+Line added · drag it between icons, click it to remove	선을 추가했어요 · 아이콘 사이로 드래그하고, 클릭하면 제거해요
+Line opacity	선 불투명도
+Line that opens the island	아일랜드를 여는 선
+Liquid wave	액체 물결
+Listening · %s is playing	듣는 중 · %s 재생 중
+Live activities like the iPhone's	iPhone 같은 실시간 활동
+Lively	활발
+Loading...	불러오는 중...
+Location	위치
+Location off or not allowed in Windows	위치가 꺼져 있거나 Windows에서 허용되지 않았어요
+Lock	잠금
+Logs	로그
+Lonely · love at %s	외로움 · 사랑 %s
+Long	길게
+Long notification texts scroll under the mouse	긴 알림 텍스트는 마우스를 올리면 스크롤돼요
+Longest line on the pill	캡슐에서 가장 긴 줄
+Longest width the song title may take on the pill	캡슐에서 노래 제목이 차지할 수 있는 최대 너비
+Look	모양
+Look and dock	모양 및 Dock
+Looking for networks...	네트워크를 검색하는 중...
+Looking for the lyrics…	가사를 찾는 중…
+Looking…	찾는 중…
+Looks for lyrics	가사 찾기
+Love	사랑
+Low battery	배터리 부족
+Low battery… same here.	배터리 부족… 저도요.
+Lucide (online)	Lucide (온라인)
+Lyrics are looked for only for songs (with an artist, 45 s to 20 min, not videos)	가사는 노래(아티스트가 있고 45초~20분인 것, 동영상 제외)만 찾아요
+Lyrics are off for this app (in the settings, What's playing)	이 앱의 가사가 꺼져 있어요 (설정의 재생 중에서)
+Lyrics as an icon	아이콘으로 가사 표시
+Lyrics color	가사 색
+Lyrics color (own)	가사 색 (고유)
+Lyrics from lrclib.net	lrclib.net의 가사
+Lyrics replace the song title	가사로 노래 제목 대체
+Lyrics size	가사 크기
+Lyrics size on the pill	캡슐의 가사 크기
+M D Y	월 일 년
+Made in Brazil, new versions bring fixes and what users ask for	브라질에서 만들었고, 새 버전에는 수정 사항과 사용자 요청이 담겨요
+Magnifier	돋보기
+Main island	메인 아일랜드
+Makes her dance and react	춤추고 반응하게 해요
+Makes the What's playing panel bigger than the other panels; on a short screen it still fits and scrolls	재생 중 패널을 다른 패널보다 크게 해요. 화면이 낮아도 맞춰지고 스크롤돼요
+Makes the pill taller or shorter (not with the bar)	캡슐을 더 높거나 낮게 만들어요 (바에서는 쓸 수 없어요)
+Manage profiles	프로필 관리
+Marks holidays in the calendar, it needs an internet connection	캘린더에 공휴일을 표시해요. 인터넷 연결이 필요해요
+Material (online)	Material (온라인)
+Media buttons	미디어 버튼
+Media buttons on the pill	캡슐의 미디어 버튼
+Media buttons size	미디어 버튼 크기
+Media panel size	미디어 패널 크기
+Media panel style	미디어 패널 스타일
+Medium	보통
+Memory	메모리
+Memory use (RAM)	메모리 사용량 (RAM)
+Merges an app's notifications into one icon, Phone Link's phone apps included	앱의 알림을 하나의 아이콘으로 합쳐요. 휴대폰 연결의 휴대폰 앱도 포함돼요
+Meteocons (colored)	Meteocons (컬러)
+Microphone	마이크
+Microphone button (mute)	마이크 버튼 (음소거)
+Microphone, camera and location in use	마이크, 카메라, 위치 사용 중
+Microphone, camera and location in use (and which app)	마이크, 카메라, 위치 사용 중 (어떤 앱인지도)
+Middle	가운데
+Minimize	최소화
+Minimize arrow at the end of the pill	캡슐 끝의 최소화 화살표
+Missed	놓침
+Mission accomplished.	임무 완수.
+Mistakes	실수
+Mixer	믹서
+Mobile data	모바일 데이터
+Mobile hotspot	모바일 핫스팟
+Monitor	모니터
+Monitor 	모니터 
+Monitors	모니터
+Monocle (the window in focus fills the screen)	모노클 (포커스된 창이 화면을 가득 채워요)
+Month as a number (9/10)	월을 숫자로 (9/10)
+More Windows controls	Windows 컨트롤 더 보기
+More in Explorer	탐색기에서 더 보기
+More options in: %s	더 많은 옵션: %s
+More, more!	더, 더요!
+Mostly clear	대체로 맑음
+Mouse away	마우스가 멀리
+Move	이동
+Move the mouse (or the arrows) to catch fruit and drops: they feed her and quench her thirst. Letting one fall costs a life, and so does catching a rock or a bolt. Three lives.	마우스(또는 화살표 키)를 움직여 과일과 물방울을 잡으세요. Faísca가 먹고 갈증을 풀어요. 하나를 떨어뜨리면 목숨이 하나 줄고, 돌이나 번개를 잡아도 마찬가지예요. 목숨은 세 개예요.
+Move the mouse over her to pet her. Click to tap her (she doesn't like too many).	Faísca 위로 마우스를 움직이면 쓰다듬어요. 클릭하면 톡 건드려요 (너무 많이 하면 싫어해요).
+Move the pill by dragging it	캡슐을 드래그해서 옮기세요
+Moved	이동됨
+Music	음악
+Muted	음소거됨
+My head is so full right now.	지금 머릿속이 너무 복잡해요.
+My location	내 위치
+My moves are sharp today.	오늘은 동작이 잘 나와요.
+My site, with my other projects and a Discord link	내 다른 프로젝트와 Discord 링크가 있는 내 사이트
+My tummy is rumbling.	배에서 꼬르륵 소리가 나요.
+Nailed it!	완벽해요!
+Name	이름
+Name (like Downloads)	이름 (다운로드처럼)
+Name (optional)	이름 (선택 사항)
+Narrator	내레이터
+Narrow	좁게
+Nearby networks appear once location access is on: click to turn on "Let desktop apps access your location"	위치 액세스를 켜면 주변 네트워크가 표시돼요. 클릭해서 "데스크톱 앱이 위치에 액세스하도록 허용"을 켜세요
+Needs Windows' transparency effects: click to open Personalization > Colors	Windows 투명 효과가 필요해요: 클릭하면 개인 설정 > 색이 열려요
+Needs a fill on (downloads or charging)	채우기를 켜야 해요 (다운로드 또는 충전)
+Needs the bar style and the clock in the middle	바 스타일과 가운데 시계가 필요해요
+Needs the date or the year on the clock	시계에 날짜나 연도가 필요해요
+Needs the notches	노치가 필요해요
+Needs the notches (Fixed style)	노치가 필요해요 (고정 스타일)
+Needs “%s” on	“%s”을(를) 켜야 해요
+Needs “%s” or “%s” on	“%s” 또는 “%s”을(를) 켜야 해요
+Network	네트워크
+Network & internet	네트워크 및 인터넷
+Network cable	네트워크 케이블
+Network connections	네트워크 연결
+Network name	네트워크 이름
+Network speed	네트워크 속도
+Network speed (up and down)	네트워크 속도 (업로드 및 다운로드)
+Never	안 함
+New command	새 명령
+New desktop	새 바탕 화면
+New notification	새 알림
+New record	신기록
+New task	새 작업
+Newest first	최신순
+Next	다음
+Next event	다음 일정
+Night light	야간 조명
+Night light isn't available here	여기서는 야간 조명을 사용할 수 없어요
+No Bluetooth	Bluetooth 없음
+No USB drives	USB 드라이브 없음
+No Wi-Fi adapter	Wi-Fi 어댑터 없음
+No agendas yet.	아직 캘린더가 없어요.
+No alarms yet	아직 알람이 없어요
+No apps found	앱을 찾을 수 없어요
+No apps using this output	이 출력을 사용하는 앱 없음
+No date	날짜 없음
+No distractions.	방해되는 것이 없어요.
+No events	일정 없음
+No icon's picture in that folder	해당 폴더에 아이콘 이미지가 없어요
+No internet	인터넷 없음
+No lyrics found for this song	이 노래의 가사를 찾을 수 없어요
+No mistakes	실수 없음
+No notes yet	아직 메모가 없어요
+No notifications	알림 없음
+No paired devices	페어링된 장치 없음
+No pictures in this folder	이 폴더에 이미지가 없어요
+No profile in use: click one to apply it	사용 중인 프로필이 없어요. 클릭해서 적용하세요
+No profiles yet	아직 프로필이 없어요
+No record yet	아직 기록 없음
+No reminder (the bell turns it on)	미리 알림 없음 (종을 누르면 켜져요)
+No settings match the search	검색과 일치하는 설정이 없어요
+Nobody has talked to me in a while.	한동안 아무도 말을 걸지 않았어요.
+Nobody plays with me anymore…	이제 아무도 나랑 놀아주지 않아요…
+None	없음
+None found	찾지 못함
+None yet: a program, a folder, a link or a command line, a click away	아직 없어요. 프로그램, 폴더, 링크, 명령줄을 클릭 한 번으로 열 수 있어요
+Normal	보통
+Not a backup of the island	아일랜드 백업이 아니에요
+Not an .ics link (Google: Secret address in iCal format)	.ics 링크가 아니에요 (Google: iCal 형식의 비밀 주소)
+Not available here	여기서는 사용할 수 없음
+Not available on this PC	이 PC에서는 사용할 수 없음
+Not checked yet	아직 확인하지 않음
+Not chosen	선택하지 않음
+Not for the Bar style	바 스타일에서는 사용할 수 없음
+Not with the Liquid Glass	Liquid Glass에서는 사용할 수 없음
+Not with the notches	노치에서는 사용할 수 없음
+Not with the notches: each one keeps its place and items for every app	노치에서는 사용할 수 없어요. 노치마다 자리와 모든 앱의 항목이 유지돼요
+Notch curves	노치 곡선
+Notches	노치
+Notes	메모
+Notes button	메모 버튼
+Nothing found	아무것도 찾지 못했어요
+Nothing in it	비어 있음
+Nothing playing	재생 중인 항목 없음
+Nothing to do	할 일 없음
+Nothing to do around here.	여긴 할 일이 없어요.
+Nothing to share	공유할 항목 없음
+Nothing waiting	대기 중인 항목 없음
+Notice when switching desktops	바탕 화면 전환 알림 메시지
+Notification	알림
+Notifications	알림
+Notifications (bell)	알림 (종)
+Notifications too	알림도 함께
+Notify when a USB drive is plugged in	USB 드라이브를 연결하면 알려주기
+Now	지금
+Num Lock bubble	Num Lock 말풍선
+Num Lock off	Num Lock 꺼짐
+Num Lock on	Num Lock 켜짐
+Number of columns in the icon grid (Grid style only)	아이콘 격자의 열 수 (격자 스타일 전용)
+OK	확인
+Off	꺼짐
+Off until you turn it on. Every event below has its own switch and source; nothing plays over a full-screen app or with Do not disturb on	직접 켜기 전까지 꺼져 있어요. 아래 이벤트마다 스위치와 소리 출처가 따로 있고, 전체 화면 앱 위나 방해 금지 중에는 소리가 나지 않아요
+Off while “%s” is on	“%s”이(가) 켜져 있으면 꺼짐
+Off with no animations (“None”)	애니메이션이 없으면(“없음”) 꺼짐
+Off with only the cover on the pill	캡슐에 커버만 표시하면 꺼짐
+Off with the bar style	바 스타일에서는 꺼짐
+Off with the items at the screen's corners	항목을 화면 모서리에 두면 꺼짐
+Off with the notches (Fixed style)	노치(고정 스타일)에서는 꺼짐
+Off, these actions run at the first click, with no question	꺼 두면 이 동작이 질문 없이 첫 클릭에 실행돼요
+Off: nothing is sent	꺼짐: 아무것도 보내지 않아요
+Off: only the app's icon peeks out of the line	꺼짐: 선에서 앱 아이콘만 살짝 보여요
+Oldest first	오래된 순
+On	켜짐
+On a laptop, the battery's percentage as it charges	노트북에서 충전 중 배터리 비율을 표시해요
+On battery	배터리 사용 중
+On cloud nine…	구름 위를 걷는 기분이에요…
+On every monitor	모든 모니터에
+On every notch	모든 노치에
+On one monitor	모니터 하나에
+On the battery's notch or the pill	배터리 노치 또는 캡슐에
+On the beat	박자에 맞춰
+On the monitor with the mouse	마우스가 있는 모니터에
+On the shelf	선반 위
+On-screen keyboard	화상 키보드
+Once	한 번
+Once per version, a notice from the pill opens this page	버전마다 한 번, 캡슐에서 알림 메시지가 이 페이지를 열어요
+One UI (Samsung)	One UI (Samsung)
+One icon per app (Phone Link's phone apps together)	앱마다 아이콘 하나 (Phone Link의 휴대폰 앱은 함께 묶어요)
+Only 16 commands can have a shortcut.	바로 가기는 명령 16개까지만 쓸 수 있어요.
+Only Claude Code in a terminal: the Claude desktop app doesn't leave its limits on this PC	터미널의 Claude Code만 해당돼요. Claude 데스크톱 앱은 이 PC에 한도 정보를 남기지 않아요
+Only a file on this computer	이 컴퓨터의 파일만 가능
+Only a folder on this computer	이 컴퓨터의 폴더만 가능
+Only a picture on this computer	이 컴퓨터의 이미지만 가능
+Only an icon on the pill while the song has lyrics, instead of the line sung now; a click opens them	노래에 가사가 있으면 지금 부르는 줄 대신 캡슐에 아이콘만 표시해요. 클릭하면 가사가 열려요
+Only files on this PC can be shared, not folders	이 PC의 파일만 공유할 수 있고 폴더는 안 돼요
+Only for emoji and pictures of your own	이모지와 내 이미지에만 적용
+Only for the Bar style	바 스타일 전용
+Only for the Island style	아일랜드 스타일 전용
+Only for the notes below; the island keeps its language	아래 메모에만 적용돼요. 아일랜드는 자체 언어를 유지해요
+Only https links or file paths	https 링크 또는 파일 경로만 가능
+Only on the main island: change it in its settings	메인 아일랜드에서만 가능해요. 해당 설정에서 바꾸세요
+Only play and pause	재생과 일시 중지만
+Only the bar's items over what is behind it; with the frosted look, only the blur	바 뒤의 배경 위에 바의 항목만 표시해요. 반투명 효과를 켜면 흐림 효과만 적용돼요
+Only the clock when hidden	숨겨져 있을 때는 시계만 표시
+Only the cover on the pill	캡슐에 커버만 표시
+Only the main clock shows on the pill; the other clocks list when the mouse rests on it	캡슐에는 메인 시계만 표시되고, 마우스를 올려 두면 다른 시계가 목록으로 나타나요
+Only with Your folder as the pack	폴더를 팩으로 쓸 때만 사용 가능
+Only with the Glass off (it blurs them already), on the bar or on the Fixed style without notches and not hiding as a line	유리 효과를 끈 상태(이미 흐리게 처리돼요)에서, 바 또는 노치가 없고 선으로 숨지 않는 고정 스타일에서만 사용 가능
+Only with the Grid style	격자 스타일에서만 사용 가능
+Only with the icons opening in the pill	아이콘이 캡슐에서 열릴 때만 사용 가능
+Ooh, a notification!	우와, 알림이에요!
+Oops, I yawned.	앗, 하품이 나왔어요.
+Opacity	불투명도
+Open	열기
+Open Windhawk	Windhawk 열기
+Open Windows Update	Windows 업데이트 열기
+Open Windows mixer	Windows 믹서 열기
+Open an app to give it a place	앱을 열면 자리를 지정할 수 있어요
+Open in Explorer	탐색기에서 열기
+Open in terminal	터미널에서 열기
+Open it	열기
+Open panels with the mouse	마우스로 패널 열기
+Open something	무언가 열기
+Open the Windows notification center	Windows 알림 센터 열기
+Opens a panel with your folder and place shortcuts	폴더와 장소 바로 가기가 있는 패널을 열어요
+Opens a program, a file, a folder, a link or a settings page, like the Run box (Win+R).	실행 상자(Win+R)처럼 프로그램, 파일, 폴더, 링크, 설정 페이지를 열어요.
+Opens pickers for the fill, text and icon colors	채우기, 텍스트, 아이콘 색 선택기를 열어요
+Opens the line	선을 열어요
+Opens the unpinned icons as a list in the pill, a grid or a named list	고정되지 않은 아이콘을 캡슐 안의 목록, 격자, 이름이 있는 목록으로 열어요
+Other apps' icons before scrolling	스크롤 전에 표시할 다른 앱의 아이콘
+Other apps' tray icons	다른 앱의 트레이 아이콘
+Other files	기타 파일
+Output	출력
+Overcast	흐림
+Overdue	기한 지남
+PC screen only	PC 화면만
+Padding before the first item and after the last one	첫 항목 앞과 마지막 항목 뒤의 여백
+Panels and buttons	패널과 버튼
+Panels as wide as the island	아일랜드와 같은 너비의 패널
+Panels open as wide as the island is	패널이 아일랜드 너비만큼 열려요
+Panels size	패널 크기
+Partial	일부
+Partly cloudy	구름 조금
+Password	비밀번호
+Paste an .ics link (Google Calendar: Settings, your calendar, Secret address in iCal format) or a file's path.	.ics 링크(Google 캘린더: 설정, 내 캘린더, iCal 형식의 비밀 주소) 또는 파일 경로를 붙여넣으세요.
+Pause	일시 중지
+Paused	일시 중지됨
+Paused (every monitor)	일시 중지됨 (모든 모니터)
+Performance	성능
+Personality	성격
+Personalization	개인 설정
+Phosphor (online)	Phosphor (온라인)
+Picks a color theme from the swatches	견본에서 색상 테마를 골라요
+Picks the screen spot for the pill, on a grid	격자에서 캡슐의 화면 위치를 골라요
+Picture copied	이미지를 복사했어요
+Pictures	사진
+Pictures, videos and documents show a small preview, as in Explorer, in the folders panel and on the shelf	사진, 동영상, 문서는 탐색기처럼 폴더 패널과 선반에서 작은 미리 보기로 표시돼요
+Pill	캡슐
+Pill corners	캡슐 모서리
+Pill floats, Fixed keeps its room on the screen, Bar spans the edge	캡슐은 떠 있고, 고정은 화면에 자리를 차지하며, 바는 가장자리 전체를 채워요
+Pill height	캡슐 높이
+Pill items	캡슐 항목
+Pill switches in the panel	패널의 캡슐 스위치
+Pin a folder to the island	폴더를 아일랜드에 고정
+Pink	분홍
+Pixel (Android)	Pixel (Android)
+Place	위치
+Place (or drag the pill)	위치 (또는 캡슐을 드래그)
+Place (the bar is at the top)	위치 (바는 위쪽에 있어요)
+Place (the notches are at the top)	위치 (노치는 위쪽에 있어요)
+Place and icons per app	앱별 위치와 아이콘
+Plan: 	요금제: 
+Play	놀기
+Plug me in?	나 좀 충전해 줄래요?
+Point to a JSON file with "name" and "windows" (or a list of them) to show other services here	여기에 다른 서비스를 표시하려면 "name"과 "windows"(또는 그 목록)가 있는 JSON 파일을 지정하세요
+Pomodoro finished	뽀모도로 종료
+Power	전원
+Power button	전원 버튼
+Power button (sleep, restart, shut down)	전원 버튼 (절전, 다시 시작, 시스템 종료)
+Power draw	소비 전력
+Power options	전원 옵션
+Power plan	전원 관리 옵션
+Press	누르기
+Press the keys	키를 누르세요
+Press the keys (Tab moves on)…	키를 누르세요 (Tab으로 다음)…
+Pressing Win+A opens the island's control center instead of Windows'	Win+A를 누르면 Windows 대신 아일랜드의 제어 센터가 열려요
+Pressing Win+N opens the island's notifications instead of Windows'	Win+N을 누르면 Windows 대신 아일랜드의 알림이 열려요
+Pressure	기압
+Privacy	개인 정보 보호
+Processor	프로세서
+Processor use (CPU)	프로세서 사용량 (CPU)
+Profile 	프로필 
+Profiles	프로필
+Profiles button (switch profiles)	프로필 버튼 (프로필 전환)
+Program, file, folder, link or ms-settings:	프로그램, 파일, 폴더, 링크 또는 ms-settings:
+Programs and Features	프로그램 및 기능
+Project	프로젝트
+Proud	뿌듯함
+Puts a button on the pill that locks the PC	PC를 잠그는 버튼을 캡슐에 추가해요
+Puts a button on the pill that opens Calculator	계산기를 여는 버튼을 캡슐에 추가해요
+Puts a button on the pill that opens File Explorer	파일 탐색기를 여는 버튼을 캡슐에 추가해요
+Puts a button on the pill that opens Task Manager	작업 관리자를 여는 버튼을 캡슐에 추가해요
+Puts a button on the pill that opens Windows' Settings	Windows 설정을 여는 버튼을 캡슐에 추가해요
+Puts a button on the pill that opens the Start button's right-click menu (the one of Win+X)	시작 단추의 오른쪽 클릭 메뉴(Win+X)를 여는 버튼을 캡슐에 추가해요
+Puts a button on the pill that opens the accessibility options	접근성 옵션을 여는 버튼을 캡슐에 추가해요
+Puts a button on the pill that opens the clipboard history	클립보드 기록을 여는 버튼을 캡슐에 추가해요
+Puts a button on the pill that opens the emoji panel	이모지 패널을 여는 버튼을 캡슐에 추가해요
+Puts a button on the pill that opens the on-screen keyboard	화상 키보드를 여는 버튼을 캡슐에 추가해요
+Puts a button on the pill that shows or hides the touch keyboard	터치 키보드를 표시하거나 숨기는 버튼을 캡슐에 추가해요
+Puts a button on the pill that shows the desktop	바탕 화면을 표시하는 버튼을 캡슐에 추가해요
+Puts a button on the pill that takes a screenshot	스크린샷을 찍는 버튼을 캡슐에 추가해요
+Puts a button on the pill that turns live captions on	실시간 자막을 켜는 버튼을 캡슐에 추가해요
+Puts a button on the pill to cast the screen	화면을 캐스트하는 버튼을 캡슐에 추가해요
+Puts a button on the pill to choose the display mode	디스플레이 모드를 선택하는 버튼을 캡슐에 추가해요
+Puts a button on the pill to start, stop or reload komorebi	komorebi를 시작, 중지, 다시 불러오는 버튼을 캡슐에 추가해요
+Puts a one-click Airplane mode button on the pill	한 번 클릭으로 켜는 비행기 모드 버튼을 캡슐에 추가해요
+Puts a one-click Bluetooth button on the pill	한 번 클릭으로 켜는 Bluetooth 버튼을 캡슐에 추가해요
+Puts a one-click Mobile hotspot button on the pill	한 번 클릭으로 켜는 모바일 핫스팟 버튼을 캡슐에 추가해요
+Puts a one-click Night light button on the pill	한 번 클릭으로 켜는 야간 조명 버튼을 캡슐에 추가해요
+Puts a one-click Wi-Fi and network button on the pill	한 번 클릭으로 켜는 Wi-Fi 및 네트워크 버튼을 캡슐에 추가해요
+Puts previous, play and next buttons right on the pill	이전, 재생, 다음 버튼을 캡슐에 바로 추가해요
+Puts the clock in the middle with the other items around it	시계를 가운데에 두고 다른 항목을 그 둘레에 배치해요
+Rain	비
+Rain chance	강수 확률
+Rainbow	무지개
+Reacts to what the PC is doing	PC가 하는 일에 반응해요
+Reading…	읽는 중…
+Reads limits from a JSON file on this PC ({"name", "windows"})	이 PC의 JSON 파일에서 한도를 읽어요 ({"name", "windows"})
+Record shortcut	바로 가기 기록
+Record: %s	기록: %s
+Recycle Bin	휴지통
+Recycle Bin appears	휴지통 표시
+Red	빨강
+Reflex	반사 신경
+Remember my choice (it's in the island's settings)	내 선택 기억하기 (아일랜드 설정에 있어요)
+Reminder	미리 알림
+Repeat	반복
+Repeat all	전체 반복
+Repeat off	반복 끔
+Repeat one	한 곡 반복
+Reply	답장
+Report a bug or suggest an idea, GitHub tells you when it comes out	버그를 신고하거나 아이디어를 제안하세요. 출시되면 GitHub에서 알려줘요
+Reset	초기화
+Restart	다시 시작
+Restart now?	지금 다시 시작할까요?
+Resting the mouse on an item opens its panel, and it closes a moment after the mouse leaves. Buttons that do something still need a click; a click keeps the panel open	항목에 마우스를 올려 두면 패널이 열리고, 마우스가 벗어나면 잠시 후 닫혀요. 동작하는 버튼은 여전히 클릭해야 하며, 클릭하면 패널이 계속 열려 있어요
+Restore what changed	변경한 내용 복원
+Resume	재개
+Reverse the wheel (up is the next song)	휠 방향 반전 (위로 올리면 다음 곡)
+Right	오른쪽
+Ring with the battery's charge	배터리 충전량을 보여주는 링
+Room at the pill's ends	캡슐 양 끝의 여백
+Room between the bars	막대 사이의 간격
+Round	라운드
+Rounds the corners where the bar meets the screen, like a screen's own round corners	화면 자체의 둥근 모서리처럼 바가 화면과 만나는 모서리를 둥글게 해요
+Rows	행
+Run a command line	명령줄 실행
+Run by itself, at a time	정해진 시각에 자동 실행
+Runs in cmd.exe without a window; a terminal shows only if it fails.	창 없이 cmd.exe에서 실행해요. 실패할 때만 터미널이 나타나요.
+Sad · nobody has played with her for %s h	슬픔 · %s시간 동안 아무도 놀아주지 않았어요
+Safe to remove	안전하게 제거할 수 있음
+Same as main: changes here apply to it too · + creates this monitor's profile	메인과 동일: 여기서 바꾸면 메인에도 적용돼요 · +를 누르면 이 모니터의 프로필이 만들어져요
+Same as the main one	메인과 동일
+Save	저장
+Save  (Enter)	저장  (Enter)
+Save Windows' icons	Windows 아이콘 저장
+Save Windows' icons puts a picture of every icon in the folder, named after it (wifi.png, battery-5.png...): replace the ones you want, and they show a moment later	Windows 아이콘 저장을 누르면 모든 아이콘의 이미지가 이름대로 폴더에 저장돼요(wifi.png, battery-5.png...). 바꾸고 싶은 파일을 교체하면 잠시 후 반영돼요
+Save current here	현재 설정을 여기에 저장
+Save current settings	현재 설정 저장
+Save texts	텍스트 저장
+Save the island's logs	아일랜드 로그 저장
+Save the island's texts to translate	번역용으로 아일랜드 텍스트 저장
+Save...	저장...
+Saved ✓	저장됨 ✓
+Saved.	저장했어요.
+Saves a backup file or loads one; Reset puts every setting back to its default (clicked twice)	백업 파일을 저장하거나 불러와요. 초기화를 두 번 클릭하면 모든 설정이 기본값으로 돌아가요
+Saves every text of the island in a file, in the language chosen if it isn't English, to translate or fix. Send it in a new issue at the Windhawk repository	아일랜드의 모든 텍스트를 파일로 저장해요(영어가 아니면 선택한 언어로). 번역하거나 고칠 때 쓰세요. Windhawk 저장소에 새 이슈로 보내 주세요
+Saving Windows' icons…	Windows 아이콘 저장 중…
+Saving…	저장 중…
+Scales only the icons on the pill (their room too)	캡슐의 아이콘만 크게 조절해요 (아이콘 여백 포함)
+Scales only the texts on the pill: the clock, percentages and titles	캡슐의 텍스트(시계, 비율, 제목)만 크게 조절해요
+Scales the control center, calendar and other panels	제어 센터, 캘린더 등 패널 크기를 조절해요
+Scales the pill, icons and panels together	캡슐, 아이콘, 패널 크기를 함께 조절해요
+Screen	화면
+Screen brightness	화면 밝기
+Screen brightness (the mouse wheel changes it)	화면 밝기 (마우스 휠로 조절)
+Screens	화면
+Screenshot	스크린샷
+Screenshot notifications open the picture (in Explorer)	스크린샷 알림을 누르면 이미지가 열려요 (탐색기에서)
+Scrolling	스크롤
+Scrolling on the player skips songs instead of changing the volume	플레이어에서 스크롤하면 볼륨 대신 곡이 넘어가요
+Scrolling up skips to the next song and scrolling down to the one before, instead of the other way round	위로 스크롤하면 다음 곡, 아래로 스크롤하면 이전 곡으로 넘어가요 (반대가 아니라)
+Search	검색
+Search apps	앱 검색
+Search here (a name or *.pdf)	여기서 검색 (이름 또는 *.pdf)
+Search results	검색 결과
+Second screen only	두 번째 화면만
+Seconds	초
+Seconds the pill waits after the mouse leaves before it hides	마우스가 벗어난 뒤 캡슐이 숨겨지기까지 기다리는 시간(초)
+See it in a terminal	터미널에서 보기
+See what's new in this version	이 버전의 새로운 기능 보기
+See-through bar	투명 바
+See-through blurred pill with a bright edge, needs Windows transparency	가장자리가 밝은 투명 흐림 캡슐이에요. Windows 투명 효과가 필요해요
+See-through only on the desktop	바탕 화면에서만 투명
+Separator line · drag to move · click to remove	구분선 · 드래그해서 이동 · 클릭하면 제거
+Set a timer	타이머 설정
+Set an alarm	알람 설정
+Set up	설정하기
+Sets the order of day, month and year when the date shows	날짜를 표시할 때 일, 월, 연도의 순서를 정해요
+Settings	설정
+Settings back to their defaults	설정이 기본값으로 돌아갔어요
+Setup assistant	설정 도우미
+Share	공유
+Shared memory	공유 메모리
+She asked to play	놀자고 했어요
+She asks to play when bored	심심하면 놀자고 해요
+She giggles with a note	음표와 함께 까르르 웃어요
+She jumps from cloud to cloud by herself; you only steer her sideways with the mouse or the arrows. Grey clouds vanish after a jump and some move.	스스로 구름에서 구름으로 뛰어요. 마우스나 화살표 키로 좌우 방향만 조종하세요. 회색 구름은 한 번 뛰면 사라지고, 일부는 움직여요.
+She jumps, startled, then smiles and sparkles	깜짝 놀라 뛰어오른 뒤 웃으며 반짝여요
+She makes sounds	소리를 내요
+She pants when the processor, the memory or the graphics card works hard, gets tired when the battery is low and keeps still during Pomodoro's focus	프로세서, 메모리, 그래픽 카드가 바쁘면 헉헉대고, 배터리가 적으면 지치고, 뽀모도로 집중 시간에는 가만히 있어요
+She reacts to everything below; off, choose each reaction	아래의 모든 일에 반응해요. 끄면 반응을 하나씩 고를 수 있어요
+She smiles as the Wi-Fi arcs come back	Wi-Fi 신호가 돌아오면 미소를 지어요
+She woke up: you came back	깨어났어요. 돌아오셨군요
+She's proud, and a check mark is drawn	뿌듯해하며 체크 표시가 그려져요
+She's sad, with a question mark	슬퍼하며 물음표가 나타나요
+She's startled by a ringing alarm mark	울리는 알람 표시에 깜짝 놀라요
+Shelf	선반
+Shelf for files	파일 선반
+Shelf holds	선반에 보관할 항목
+Shh, nobody wakes me up now.	쉿, 이제 아무도 날 깨우지 않아요.
+Shh… focus mode.	쉿… 집중 모드예요.
+Short	짧게
+Short name	짧은 이름
+Shortcut: let clicks through the pill	바로 가기: 클릭이 캡슐을 통과하게 하기
+Shortcuts	바로 가기
+Shortcuts to programs and files (or command lines) you add, with their own icons, a click away in their panel; any of them can be a button on the pill or have a keyboard shortcut (set in its editor)	추가한 프로그램과 파일(또는 명령줄)로 가는 바로 가기를 고유 아이콘과 함께 패널에서 한 번에 클릭할 수 있어요. 어느 것이든 캡슐 버튼이 되거나 키보드 바로 가기를 지정할 수 있어요(편집기에서 설정)
+Show	표시
+Show %zu hidden	숨겨진 %zu개 표시
+Show VLC 3 from its window's title	창 제목으로 VLC 3 표시
+Show a notice when the song changes	노래가 바뀌면 알림 메시지 표시
+Show all	모두 표시
+Show desktop	바탕 화면 표시
+Show what they say	내용 표시
+Show what's copied (a bubble under the pill)	복사한 내용 표시 (캡슐 아래 말풍선)
+Showers	소나기
+Shown under the mouse; up to 16 letters, empty is Faísca	마우스 아래에 표시돼요. 최대 16자이고, 비워 두면 Faísca예요
+Shows GlazeWM's workspaces on the pill, a dot each; a click switches to it	GlazeWM의 작업 영역을 점 하나씩 캡슐에 표시해요. 클릭하면 해당 영역으로 전환돼요
+Shows a banner on the pill when a notification arrives	알림이 오면 캡슐에 배너를 표시해요
+Shows a bubble under the pill with what you just copied	방금 복사한 내용을 캡슐 아래 말풍선으로 보여줘요
+Shows a mark and the app name while the mic, camera or location is used	마이크, 카메라, 위치를 사용하는 동안 표시와 앱 이름을 보여줘요
+Shows a notice each time a USB drive is plugged in	USB 드라이브를 연결할 때마다 알림 메시지를 표시해요
+Shows a notice when the battery goes under 20% and under 10%	배터리가 20%와 10% 아래로 내려가면 알림 메시지를 표시해요
+Shows a notice when the charger is plugged in	충전기를 연결하면 알림 메시지를 표시해요
+Shows a notice when you turn Do not disturb on or off	방해 금지를 켜거나 끄면 알림 메시지를 표시해요
+Shows a notice with the device's name when Bluetooth audio connects	Bluetooth 오디오가 연결되면 장치 이름이 담긴 알림 메시지를 표시해요
+Shows an icon on the pill for each app with notifications	알림이 있는 앱마다 캡슐에 아이콘을 표시해요
+Shows an icon to open or eject plugged-in USB drives	연결된 USB 드라이브를 열거나 꺼내는 아이콘을 표시해요
+Shows bars that move with the sound that is playing	재생 중인 소리에 맞춰 움직이는 막대를 표시해요
+Shows how busy the graphics card is; a click opens its panel	그래픽 카드가 얼마나 바쁜지 보여줘요. 클릭하면 패널이 열려요
+Shows how busy the processor is	프로세서가 얼마나 바쁜지 보여줘요
+Shows how long until the next event, alarm, timer or Pomodoro part	다음 일정, 알람, 타이머, 뽀모도로 구간까지 남은 시간을 표시해요
+Shows how much memory is in use	메모리 사용량을 보여줘요
+Shows how much video memory is in use	비디오 메모리 사용량을 보여줘요
+Shows komorebi's workspaces and layout on the pill, a menu changes it	komorebi의 작업 영역과 레이아웃을 캡슐에 표시해요. 메뉴로 바꿀 수 있어요
+Shows notices for the charger, low battery, Bluetooth audio and Do not disturb	충전기, 배터리 부족, Bluetooth 오디오, 방해 금지에 대한 알림 메시지를 표시해요
+Shows pending app and Windows updates from winget and Windows Update	winget과 Windows 업데이트의 대기 중인 앱 및 Windows 업데이트를 표시해요
+Shows small bubbles with names and app notifications on hover	마우스를 올리면 이름과 앱 알림이 담긴 작은 말풍선을 표시해요
+Shows the battery icon on the pill	캡슐에 배터리 아이콘을 표시해요
+Shows the control center's icon, click for Wi-Fi, Bluetooth, volume and more	제어 센터 아이콘을 표시해요. 클릭하면 Wi-Fi, Bluetooth, 볼륨 등을 설정할 수 있어요
+Shows the cover and the song title on the pill	캡슐에 커버와 노래 제목을 표시해요
+Shows the current keyboard language, like the Windows indicator	Windows 표시기처럼 현재 키보드 언어를 표시해요
+Shows the current upload and download speed	현재 업로드 및 다운로드 속도를 표시해요
+Shows the extra clocks you added in Windows	Windows에서 추가한 보조 시계를 표시해요
+Shows the graphics card's temperature when its driver gives it, in °C or °F like the weather	드라이버가 제공하면 그래픽 카드 온도를 날씨처럼 °C 또는 °F로 표시해요
+Shows the icon and name of the app in focus on this monitor	이 모니터에서 포커스가 있는 앱의 아이콘과 이름을 표시해요
+Shows the keys that let clicks through, click them to record a combination	클릭을 통과시키는 키를 표시해요. 클릭해서 조합을 기록하세요
+Shows the minimize keys, click them to record a new combination	최소화 키를 표시해요. 클릭해서 새 조합을 기록하세요
+Shows the notifications	알림을 표시해요
+Shows the number and name of the virtual desktop for a moment when you switch to it, also when the island is minimized	가상 바탕 화면으로 전환할 때 그 번호와 이름을 잠시 표시해요. 아일랜드를 최소화했을 때도 표시돼요
+Shows the playing song or video with its cover and controls	재생 중인 노래나 동영상을 커버와 컨트롤과 함께 표시해요
+Shows the processor's temperature when Windows reports one, in °C or °F like the weather	Windows가 알려주면 프로세서 온도를 날씨처럼 °C 또는 °F로 표시해요
+Shows the screen brightness, scroll the wheel on it to change	화면 밝기를 표시해요. 위에서 휠을 굴리면 바뀌어요
+Shows the time on the pill	캡슐에 시간을 표시해요
+Shows the two switches at the end of the song's panel, for the buttons and for the cover and title on the pill. They stay in these settings either way	노래 패널 끝에 있는 두 스위치(버튼용, 캡슐의 커버와 제목용)를 표시해요. 어느 쪽이든 이 설정에는 그대로 있어요
+Shows the virtual desktops, scroll the wheel on it to switch; a click opens their list, where the pencil renames one (Windows 11 24H2 and later)	가상 바탕 화면을 표시해요. 위에서 휠을 굴리면 전환되고, 클릭하면 목록이 열리며 연필로 이름을 바꿀 수 있어요 (Windows 11 24H2 이상)
+Shows the volume icon, click for the volume panel	볼륨 아이콘을 표시해요. 클릭하면 볼륨 패널이 열려요
+Shows the volume sliders, the link to Windows' mixer and the Mixer with each app's volume under the player in the song's panel. Turn off for a panel with only the player	노래 패널의 플레이어 아래에 볼륨 슬라이더, Windows 믹서 링크, 앱별 볼륨 믹서를 표시해요. 끄면 플레이어만 있는 패널이 돼요
+Shows the weather, it needs an internet connection	날씨를 표시해요. 인터넷 연결이 필요해요
+Shows this action in the power button's menu; if only one is on, a click on the button runs it	전원 버튼 메뉴에 이 동작을 표시해요. 하나만 켜져 있으면 버튼을 클릭할 때 바로 실행돼요
+Shrinks the pill to a thin line on the screen edge when idle	사용하지 않을 때 캡슐을 화면 가장자리의 얇은 선으로 줄여요
+Shuffle	셔플
+Shut down	시스템 종료
+Shut down now?	지금 시스템을 종료할까요?
+Sign out	로그아웃
+Sign out now?	지금 로그아웃할까요?
+Simple	단순
+Size	크기
+Sizes	크기
+Skip	건너뛰기
+Sky	하늘
+Sleep	절전
+Slide	슬라이드
+Small	작게
+Smallest first	작은 순
+Smooth bars (like the iPhone)	부드러운 막대 (iPhone처럼)
+Smoothness of the animations, matching the screen or a fixed rate	애니메이션의 부드러움. 화면 주사율에 맞추거나 고정 속도로 지정해요
+Snooze	다시 알림
+Snoozed: shows again in 5 minutes	다시 알림: 5분 뒤에 다시 표시돼요
+Snow	눈
+Snow showers	소낙눈
+Something just came in!	방금 뭔가 왔어요!
+Song changed	노래 변경됨
+Song lyrics	노래 가사
+Song lyrics (goes online: lrclib.net)	노래 가사 (온라인 사용: lrclib.net)
+Sort by	정렬 기준
+Sound	소리
+Sound files	소리 파일
+Sound output	소리 출력
+Sound waves come out of her	몸에서 음파가 퍼져 나와요
+Sounds of each event	이벤트별 소리
+Space	스페이스
+Speed	속도
+Speeds up or slows down the animations, on every monitor	모든 모니터에서 애니메이션을 빠르게 또는 느리게 해요
+Spinning like crazy.	정신없이 빙글빙글 돌고 있어요.
+Splits the island into notches against the top edge, around the camera; the Island and Fixed styles each keep their own	아일랜드를 화면 위쪽 가장자리에 붙은 노치로 나눠 카메라 주위에 배치해요. 아일랜드 스타일과 고정 스타일이 각각 따로 유지돼요
+Square	사각형
+Stands the pill up on the left and right edges (not with notches)	캡슐을 왼쪽과 오른쪽 가장자리에 세워요 (노치에서는 사용 불가)
+Start	시작
+Startled	깜짝 놀람
+Starts over in	초기화까지
+Status	상태
+Status notices: charger, low battery, Bluetooth audio, Do not disturb	상태 알림 메시지: 충전기, 배터리 부족, Bluetooth 오디오, 방해 금지
+Stay over borderless full-screen apps	테두리 없는 전체 화면 앱 위에 유지
+Sticky keys	고정 키
+Stop	중지
+Stop keeping it open	계속 열어 두지 않기
+Stop poking me!	그만 찌르세요!
+Stop, that tickles!	그만해요, 간지러워요!
+Stopped	중지됨
+Stops Windows' own banners so you only see the island's	Windows 자체 배너를 막아서 아일랜드의 배너만 보여요
+Stopwatch	스톱워치
+Style	스타일
+Style (the options of the style chosen under it)	스타일 (아래에서 선택한 스타일의 옵션)
+Sure?	확실한가요?
+Switches, adds, renames, updates or deletes your profiles	프로필을 전환, 추가, 이름 변경, 업데이트, 삭제해요
+System	시스템
+System alerts (the charger, a low battery, Bluetooth, Do not disturb and the desktop) show as a wide compact pill: the icon in a circle of its color at the left, the title, and the value at the right end (a battery as a small battery, a headset's as a ring). They keep their time and their queue	시스템 알림(충전기, 배터리 부족, Bluetooth, 방해 금지, 바탕 화면)이 넓고 작은 캡슐로 표시돼요. 왼쪽에는 해당 색의 원 안에 아이콘, 가운데에 제목, 오른쪽 끝에 값이 나와요(배터리는 작은 배터리, 헤드셋은 링). 표시 시간과 대기열은 그대로예요
+System sounds (notifications)	시스템 소리 (알림)
+Tabler (online)	Tabler (온라인)
+Take care of Faísca	Faísca 돌보기
+Task	작업
+Task Manager	작업 관리자
+Task view	작업 보기
+Taskbar back to Windows' default for now	작업 표시줄이 잠시 Windows 기본값으로 돌아갔어요
+Tasks	작업
+Tasks button	작업 버튼
+Tasks with a date in the calendar	캘린더에 날짜가 있는 작업
+Tell me what's new after an update	업데이트 후 새로운 기능 알려주기
+Temperature	온도
+Temperature unit	온도 단위
+Text	텍스트
+Text size	텍스트 크기
+Texts in this language reviewed by %s	%s님이 검수한 이 언어의 텍스트
+Texts to translate (*.json)	번역할 텍스트 (*.json)
+That path is too long	경로가 너무 길어요
+That sound off	이 소리 꺼짐
+The Bar also shrinks to a thin line on the screen's edge when the mouse is away, and comes back as the mouse reaches the line. Windows then use the strip it kept, and the Bar shows over them	마우스가 멀어지면 바도 화면 가장자리의 얇은 선으로 줄어들고, 마우스가 선에 닿으면 다시 나타나요. 이때 창은 바가 비워 둔 영역을 사용하고, 바는 창 위에 표시돼요
+The Bar style	바 스타일
+The PC shuts down after it. Esc or a click stops it.	그다음 PC가 종료돼요. Esc 키나 클릭으로 취소할 수 있어요.
+The app in focus on this monitor (its icon and name)	이 모니터에서 포커스가 있는 앱 (아이콘과 이름)
+The apps heard playing, also players without Windows' media controls; with some on, only they bring it. With none on, any sound does	재생 중인 소리가 들린 앱이에요. Windows 미디어 컨트롤이 없는 플레이어도 포함돼요. 일부를 켜면 해당 앱에서만 표시하고, 하나도 켜지 않으면 어떤 소리에서든 표시해요
+The apps seen playing; a click turns one's lyrics off, and nothing of its songs is sent to lrclib.net	재생 중인 것으로 확인된 앱이에요. 클릭하면 해당 앱의 가사가 꺼지고, 그 앱의 노래 정보는 lrclib.net으로 전송되지 않아요
+The apps seen playing; only the ones you check make her dance and react to songs. Empty until an app plays	재생 중인 것으로 확인된 앱이에요. 체크한 앱만 춤추고 노래에 반응해요. 앱이 재생하기 전에는 비어 있어요
+The apps' notifications come in a capsule like the pill: the photo or icon at the left, the name and the message on one line, the app's icon at the right. Under the mouse it opens to the whole text and the reply. Calls, alarms and reminders keep their buttons as they are	앱 알림이 캡슐처럼 생긴 알림 캡슐로 나타나요. 왼쪽에 사진이나 아이콘, 한 줄에 이름과 메시지, 오른쪽에 앱 아이콘이 있어요. 마우스를 올리면 전체 텍스트와 답장이 열려요. 통화, 알람, 미리 알림은 버튼이 그대로예요
+The bar at the top, or upright on the left or the right edge, its items one under the other; windows keep out of its strip	바를 위쪽에 두거나 왼쪽 또는 오른쪽 가장자리에 세워 항목을 위아래로 배치해요. 창은 바 영역을 피해 가요
+The bar doesn't minimize	바는 최소화되지 않음
+The bar's inner corners	바의 안쪽 모서리
+The bar's side	바의 위치
+The bars' color; the rainbow gives each bar its own, going around slowly	막대 색상. 무지개를 고르면 막대마다 다른 색이 천천히 돌아가요
+The battery icon's color while it charges; green is the usual, like a phone's	충전 중 배터리 아이콘의 색상이에요. 휴대폰처럼 보통은 초록색이에요
+The battery's charge while a laptop charges	노트북이 충전되는 동안의 배터리 충전량
+The bell opens Windows' notification center	종을 누르면 Windows 알림 센터가 열려요
+The buttons on the panels	패널의 버튼
+The calendar marks the days that have a task due with a small dash, and lists those tasks with the day's events, where a tick completes them. Needs the dates on tasks	캘린더에서 마감 작업이 있는 날짜에 작은 줄을 표시하고, 그 작업을 해당 날짜의 일정과 함께 나열해요. 체크하면 완료돼요. 작업에 날짜가 있어야 해요
+The calendar opens as a card: today big at its left, the month beside it, buttons for the alarms, the timer and your agendas, and the day's events	캘린더가 카드로 열려요. 왼쪽에 큰 오늘 날짜, 옆에 월, 알람, 타이머, 추가 캘린더 버튼, 그리고 그날의 일정이 나와요
+The charger plugged in	충전기 연결됨
+The charger was plugged in	충전기를 연결했어요
+The clock on the pill and in the calendar, in a font of its own	캡슐과 캘린더의 시계에 전용 글꼴을 사용해요
+The control center's buttons	제어 센터의 버튼
+The cover's	커버 색
+The day's events and holidays under the month, the next ones and the button to add one. Off, the calendar shows only the clock and the month; reminders and the countdown keep working	월 아래에 그날의 일정과 공휴일, 다가오는 일정, 추가 버튼을 표시해요. 끄면 캘린더에 시계와 월만 표시돼요. 미리 알림과 카운트다운은 계속 동작해요
+The dock is chosen in Windhawk, in this mod's settings: Taskbar (the dock, the Windows taskbar transparent or with only the apps, or unchanged); the island can't change it	Dock은 Windhawk의 이 모드 설정에서 선택해요. 작업 표시줄 항목(Dock, 투명하거나 앱만 있는 Windows 작업 표시줄, 또는 변경 없음)이에요. 아일랜드에서는 바꿀 수 없어요
+The dock is optional: it takes the taskbar's place, and it's chosen in Windhawk	Dock은 선택 사항이에요. 작업 표시줄을 대신하며 Windhawk에서 선택해요
+The dock is set up in Windhawk	Dock은 Windhawk에서 설정해요
+The edge zone as wide as the pill	캡슐만큼 넓은 가장자리 영역
+The effect shown when the wallpaper changes	배경 화면이 바뀔 때 표시되는 효과
+The favorite's drive isn't connected	즐겨찾기의 드라이브가 연결되어 있지 않아요
+The folder with your icons	내 아이콘이 있는 폴더
+The folder with your wallpapers	내 배경 화면이 있는 폴더
+The glass gets a sheen, a beveled edge, light along its bottom and a soft shadow around it, and the panels' cards look like glass too (idea by Thiago Silva)	유리에 광택, 비스듬한 가장자리, 아래쪽 빛, 주변의 부드러운 그림자가 더해지고, 패널의 카드도 유리처럼 보여요 (Thiago Silva의 아이디어)
+The graphics card is flying!	그래픽 카드가 날고 있어요!
+The hotspot isn't available now.	지금은 핫스팟을 사용할 수 없어요.
+The icons'	아이콘 색
+The internet is back	인터넷이 다시 연결됐어요
+The internet went away	인터넷이 끊어졌어요
+The island follows the mouse between screens.	아일랜드가 화면 사이에서 마우스를 따라가요.
+The island handles notifications and their sounds (Windows' stay quiet)	아일랜드가 알림과 알림 소리를 처리해요 (Windows는 조용해져요)
+The island is the pill at the top of the screen: the clock, the control center, your notifications and what's playing	아일랜드는 화면 위쪽의 캡슐이에요. 시계, 제어 센터, 알림, 재생 중인 항목이 들어 있어요
+The island shows the notifications and plays their sounds, Windows stays quiet	아일랜드가 알림을 표시하고 소리도 재생하며, Windows는 조용해요
+The island stopped working	아일랜드가 작동을 멈췄어요
+The island takes the color of the app in front	아일랜드가 앞에 있는 앱의 색을 따라가요
+The island's	아일랜드 글꼴
+The island's logs	아일랜드 로그
+The island's: no banners or sounds from it	아일랜드의 것: 배너나 소리가 나지 않아요
+The items before the clock in the order stay at one corner and the others at the other, without changing sides as items come and go	순서에서 시계 앞에 있는 항목은 한쪽 모서리에, 나머지는 다른 쪽에 머물러서 항목이 생기거나 사라져도 자리가 바뀌지 않아요
+The keys below make the pill let clicks through to what's under it, and again take them back; it stays shown	아래 키를 누르면 캡슐이 클릭을 통과시켜 아래에 있는 것을 클릭할 수 있고, 다시 누르면 되돌아와요. 캡슐은 계속 표시돼요
+The keys below send the island to its line, and again bring it back	아래 키를 누르면 아일랜드가 선으로 들어가고, 다시 누르면 돌아와요
+The komorebi buttons also start and stop masir, so focus follows the mouse	komorebi 버튼으로 masir도 시작하고 중지해서 포커스가 마우스를 따라가요
+The komorebi buttons also start and stop whkd, its shortcut helper	komorebi 버튼으로 바로 가기 도우미 whkd도 시작하고 중지해요
+The line sung now on the pill (place it in the order above), all of them in its panel. Each song's title and artist are sent to lrclib.net (songs only: not videos, voice messages or the apps turned off below)	지금 부르는 줄을 캡슐에 표시하고(위 순서에서 위치 지정), 전체 가사는 패널에 표시해요. 노래마다 제목과 아티스트가 lrclib.net으로 전송돼요(노래만 해당하며 동영상, 음성 메시지, 아래에서 끈 앱은 제외)
+The line's color, on the pill and lit in the panel	캡슐에서의 줄 색상, 패널에서 강조된 줄 색상
+The list stays open after you click an icon (In the pill style)	아이콘을 클릭해도 목록이 열린 채로 있어요 (캡슐 안 스타일)
+The memory is packed!	메모리가 꽉 찼어요!
+The minimize arrow keeps the island open	최소화 화살표를 눌러도 아일랜드가 열려 있어요
+The mod's site	모드 사이트
+The mouse at the edge, anywhere along the pill's width, brings it back, also with the line invisible	가장자리 어디서든 캡슐 너비 안에 마우스를 가져가면 다시 나타나요. 선이 보이지 않을 때도 마찬가지예요
+The name has 1 to 32 characters (a letter outside English, like an accented one, counts as two or three).	이름은 1~32자예요 (영어가 아닌 글자는 악센트 글자처럼 2~3자로 계산돼요).
+The next alarm that's on	켜져 있는 다음 알람
+The one chosen on the map	지도에서 선택한 항목
+The password has 8 to 63 letters, numbers or symbols, without accents.	비밀번호는 악센트 없는 문자, 숫자, 기호 8~63자예요.
+The password has at least 8 characters.	비밀번호는 8자 이상이에요.
+The pill as a loading bar	로딩 바 같은 캡슐
+The pill can stay, or become a thin line while the mouse is away or while a window is maximized; the mouse on the line brings it back	캡슐은 그대로 두거나, 마우스가 멀리 있을 때 또는 창이 최대화되었을 때 얇은 선으로 바꿀 수 있어요. 선 위로 마우스를 가져가면 돌아와요
+The pill fills like a loading bar with downloads	다운로드할 때 캡슐이 로딩 바처럼 채워져요
+The pill fills with the battery's charge while charging	충전 중에는 배터리 충전량만큼 캡슐이 채워져요
+The pill glows with her	캡슐이 함께 빛나요
+The pill lights up in several colors. Click (or press Space) only when it turns her color. Five rounds; the average counts, and each wrong click adds 300 ms to the total.	캡슐에 여러 색이 켜져요. 캡슐이 Faísca의 색으로 바뀔 때만 클릭하세요(또는 Space). 5라운드이며 평균으로 계산하고, 잘못 클릭할 때마다 총 시간에 300ms가 더해져요.
+The pill shows the song's cover without its title. Hover it to read the title	캡슐에 제목 없이 노래 커버만 표시해요. 마우스를 올리면 제목이 보여요
+The pill takes clicks again	캡슐이 다시 클릭을 받아요
+The pill's and the panels' texts, in a font from your PC (click it again to pick another)	캡슐과 패널의 텍스트에 내 PC의 글꼴을 사용해요 (다시 클릭하면 다른 글꼴을 고를 수 있어요)
+The pill's other items	캡슐의 다른 항목
+The pill's shape	캡슐의 모양
+The processor is sweating. So am I.	프로세서가 땀을 흘리고 있어요. 저도요.
+The progress apps show on their taskbar button (downloads, copies, installs)	앱이 작업 표시줄 버튼에 표시하는 진행률 (다운로드, 복사, 설치)
+The room between the bars; the item grows with it	막대 사이의 간격. 항목도 함께 커져요
+The settings' own icons	설정 자체의 아이콘
+The sky as emoji, with the icon pack chosen in the Icons tab, or with a set of weather pictures downloaded once when chosen (Meteocons in color, Weather Icons in one color)	하늘을 이모지로 표시해요. 아이콘 탭에서 고른 아이콘 팩을 쓰거나, 선택할 때 한 번 다운로드하는 날씨 이미지 세트(컬러 Meteocons, 단색 Weather Icons)를 쓸 수 있어요
+The small pill with the time touches the screen's edge, straight on that side and as thin as its text, covering less of what's under it. The mouse on it opens the island as usual	시간이 표시된 작은 캡슐이 화면 가장자리에 닿아요. 그쪽은 평평하고 텍스트만큼 얇아서 아래를 덜 가려요. 마우스를 올리면 평소처럼 아일랜드가 열려요
+The song changed	노래가 바뀌었어요
+The text's	텍스트 색
+The timer fills the pill with color	타이머가 캡슐을 색으로 채워요
+The title and the text, in the pill and in this list	캡슐과 이 목록의 제목과 텍스트
+The volume changed	볼륨이 바뀌었어요
+The weather panel shows feels like, humidity, wind, UV, rain, pressure and clouds as small cards, like a phone's	날씨 패널에 체감 온도, 습도, 바람, 자외선, 비, 기압, 구름을 휴대폰처럼 작은 카드로 표시해요
+The weather service didn't answer	날씨 서비스가 응답하지 않았어요
+The wheel on what's playing changes the song (not the volume)	재생 중인 항목 위에서 휠을 굴리면 볼륨 대신 곡이 바뀌어요
+Their own	원래 색
+Their sliders talk to the monitor over its cable. Turn off if a monitor flickers or a dock or MST hub resets when the control center opens	슬라이더가 케이블로 모니터와 통신해요. 모니터가 깜빡이거나 제어 센터를 열 때 도킹 스테이션이나 MST 허브가 재설정되면 끄세요
+Thinking about nothing. On purpose.	아무 생각 안 하는 중이에요. 일부러요.
+Thirsty · water at %s	목말라요 · 물 %s
+This PC	이 PC
+This assistant sets the main choices in a few steps, and each one changes the island at once; everything else is in the tabs on the left	이 도우미가 몇 단계로 주요 옵션을 설정해 주고, 선택할 때마다 아일랜드가 바로 바뀌어요. 나머지는 왼쪽 탭에 있어요
+This computer has no battery	이 컴퓨터에는 배터리가 없어요
+This isn't working.	이래서는 안 되겠어요.
+This monitor's profile: changes here apply to every monitor using it	이 모니터의 프로필: 여기서 바꾸면 이 프로필을 쓰는 모든 모니터에 적용돼요
+This one's good!	이거 좋아요!
+Three	세 개
+Thumbnails of the files	파일 미리 보기
+Thunderstorm	뇌우
+Thunderstorm with hail	우박을 동반한 뇌우
+Tiling	창 타일링
+Time (hour:minute)	시간 (시:분)
+Time for a break	휴식 시간이에요
+Time format	시간 형식
+Time until the next	다음까지 남은 시간
+Time's up	시간이 다 됐어요
+Timer	타이머
+Timer on the minimized line	최소화된 선에 타이머 표시
+Timer, stopwatch and Pomodoro	타이머, 스톱워치, 뽀모도로
+Tips under the icons and buttons (their names, an app's notifications)	아이콘과 버튼 아래의 도움말 (이름, 앱 알림)
+Tired · the battery at %s, unplugged	지쳤어요 · 배터리 %s, 전원 분리됨
+Title	제목
+Title width	제목 너비
+To talk to me and follow my projects	저와 대화하고 제 프로젝트를 따라가 보세요
+To use “%s”, change:	“%s”을(를) 사용하려면 다음을 변경하세요:
+Today	오늘
+Today's color	오늘의 색
+Together for %s days	함께한 지 %s일
+Together for 1 day	함께한 지 1일
+Together since today	오늘부터 함께해요
+Tomorrow	내일
+Too many agendas	캘린더가 너무 많아요
+Top	위쪽
+Top left	왼쪽 위
+Top right	오른쪽 위
+Topics	주제
+Total	합계
+Touch keyboard	터치 키보드
+Transition	전환
+Translucent glass: a lighter tint and livelier colors	반투명 유리: 더 밝은 색조와 선명한 색상
+Tray icons	트레이 아이콘
+Try again	다시 시도
+Try again, or share the file from Explorer	다시 시도하거나 탐색기에서 파일을 공유하세요
+Turn it on once in Windows' settings: from then on the island switches it	Windows 설정에서 한 번 켜 주세요. 그다음부터는 아일랜드에서 켜고 끌 수 있어요
+Turn it up, I know this one.	볼륨 좀 올려요, 이 노래 알아요!
+Turn on Claude Code, Codex or Custom in the settings	설정에서 Claude Code, Codex 또는 사용자 지정을 켜세요
+Turned off	꺼졌어요
+Turned on	켜졌어요
+Turns the island's animations on or off, on every monitor	모든 모니터에서 아일랜드의 애니메이션을 켜거나 꺼요
+Type	유형
+Type the command line.	명령줄을 입력하세요.
+Type the time as hours and minutes, like 08:30.	08:30처럼 시와 분으로 시간을 입력하세요.
+Type to filter the shortcuts…	입력해서 바로 가기 필터링…
+Type what it opens.	열 대상을 입력하세요.
+Type your note here…	여기에 메모를 입력하세요…
+USB connected	USB 연결됨
+USB drive	USB 드라이브
+USB drive plugged in	USB 드라이브가 연결되었어요
+USB drives	USB 드라이브
+USB drives icon on the pill (open or eject them)	캡슐의 USB 드라이브 아이콘 (열기 또는 꺼내기)
+UV index	자외선 지수
+Ugh.	으…
+Ultrawide vertical stack	울트라와이드 세로 스택
+Unavailable	사용할 수 없음
+Up to 40 favorite files	즐겨찾기 파일 최대 40개
+Upcoming events	다가오는 일정
+Upcoming holidays	다가오는 공휴일
+Update	업데이트
+Update all	모두 업데이트
+Update ticked	선택 항목 업데이트
+Updated %lld days ago	%lld일 전에 업데이트됨
+Updated %lld h ago	%lld시간 전에 업데이트됨
+Updated %lld min ago	%lld분 전에 업데이트됨
+Updated now	방금 업데이트됨
+Updates	업데이트
+Updates (winget and Windows Update)	업데이트 (winget 및 Windows 업데이트)
+Upload	업로드
+Upload peak (1 min)	업로드 최고치 (1분)
+Upright on the left and right edges	왼쪽과 오른쪽 가장자리에 세로로
+Usage	사용량
+Use my location	내 위치 사용
+Utilization	사용률
+VLC 3 doesn't tell Windows' media controls what it plays, so the island can't see it. With this on, while VLC makes sound, the island reads the song's name from VLC's window title, shows it with VLC's icon, and its buttons press play/pause, previous and next in VLC. No cover or time, and VLC must show the name in its window title (its default)	VLC 3은 재생 중인 내용을 Windows 미디어 컨트롤에 알리지 않아서 아일랜드가 볼 수 없어요. 이 옵션을 켜면 VLC에서 소리가 나는 동안 아일랜드가 VLC 창 제목에서 노래 이름을 읽어 VLC 아이콘과 함께 표시하고, 버튼으로 VLC의 재생/일시 중지, 이전, 다음을 제어해요. 커버와 시간은 없으며, VLC가 창 제목에 이름을 표시해야 해요(기본 설정)
+Vertical stack	세로 스택
+Vertical stack, main on the right	세로 스택, 메인은 오른쪽
+Vice (neon sunset)	Vice (네온 노을)
+Video memory in use (VRAM)	사용 중인 비디오 메모리 (VRAM)
+Videos	동영상
+Violet	보라
+Virtual desktops	가상 바탕 화면
+Virtual desktops (the mouse wheel switches them)	가상 바탕 화면 (마우스 휠로 전환)
+Visualizer color	비주얼라이저 색상
+Visualizer color (own)	비주얼라이저 색상 (고유)
+Visualizer sensitivity	비주얼라이저 감도
+Volume	볼륨
+Volume and mixer in the panel	패널의 볼륨 및 믹서
+Volume mixer	볼륨 믹서
+Volume percentage beside its icon	아이콘 옆에 볼륨 비율 표시
+Waiting for valid data in the chosen file	선택한 파일의 올바른 데이터를 기다리는 중이에요
+Wallpaper	배경 화면
+Wallpaper (the wheel: the next one)	배경 화면 (휠: 다음 항목)
+Wallpaper transition	배경 화면 전환 효과
+Wallpapers from a folder (with a transition)	폴더의 배경 화면 (전환 효과 포함)
+Wasted	Wasted
+Wasted now?	지금 Wasted?
+Water	물
+Weather	날씨
+Weather (goes online)	날씨 (온라인 사용)
+Weather Icons	Weather Icons
+Weather data by Open-Meteo.com	날씨 데이터 제공: Open-Meteo.com
+Weather icons	날씨 아이콘
+Website	웹사이트
+Week	주
+Weekday	요일
+Weekdays	평일
+Weekends	주말
+Welcome to Mac Island & Dock	Mac Island & Dock에 오신 것을 환영해요
+What Claude Code in a terminal gives its status line (a line in its script, see the item's panel). The Claude desktop app doesn't leave its limits on this PC, so it can't show here	터미널의 Claude Code가 상태 줄에 전달하는 내용이에요(스크립트의 한 줄, 항목 패널 참고). Claude 데스크톱 앱은 이 PC에 한도 정보를 남기지 않아서 여기에 표시할 수 없어요
+What Codex writes in its logs on this PC	Codex가 이 PC의 로그에 기록하는 내용
+What it does	동작
+What it opens	여는 대상
+What needs doing?	무엇을 해야 하나요?
+What she reacts to shows up here, with her sound	반응하는 대상이 소리와 함께 여기에 표시돼요
+What's new	새로운 기능
+What's playing	재생 중
+What's playing on the minimized line	최소화된 선에 재생 중 표시
+What's playing's buttons and pictures	재생 중의 버튼과 이미지
+What's that?	저게 뭐예요?
+When it hides	숨기는 시점
+Where banners show	배너가 표시되는 위치
+Where did the internet go?	인터넷이 어디 갔지?
+Where the island appears	아일랜드가 나타나는 위치
+Where the items go along the bar. Automatic: around the clock when it's in the middle, otherwise at the right end	바를 따라 항목이 놓이는 위치예요. 자동: 시계가 가운데에 있으면 시계 주위, 아니면 오른쪽 끝
+While a line is sung, it takes the title and artist's place; between lines they come back	줄이 불리는 동안 제목과 아티스트 자리를 대신하고, 줄 사이에는 다시 돌아와요
+While a timer or Pomodoro counts down, the pill fills with color until it ends (orange, green on a break, fainter when paused) and pulses a moment at the end. The stopwatch doesn't fill	타이머나 뽀모도로가 카운트다운하는 동안 끝날 때까지 캡슐이 색으로 채워지고(주황색, 휴식 중에는 초록색, 일시 중지 시 더 연하게) 끝나면 잠시 깜빡여요. 스톱워치는 채워지지 않아요
+While a timer, Pomodoro or the stopwatch runs, the line becomes a small pill with its ring and its time (with Only the clock, the time goes beside the clock)	타이머, 뽀모도로, 스톱워치가 동작하는 동안 선이 링과 시간이 있는 작은 캡슐이 돼요(“시계만”을 켜면 시간이 시계 옆에 표시돼요)
+While an app's window is maximized on this monitor, the bar goes back to its usual look (frosted, with the frosted glass on), so the window doesn't show behind it	이 모니터에서 앱 창이 최대화되면 창이 비치지 않도록 바가 평소 모습(반투명 유리 효과)으로 돌아가요
+While music plays in the apps checked below she dances, a new move each bar, following the beat	아래에서 체크한 앱에서 음악이 재생되는 동안 박자에 맞춰 마디마다 새로운 춤을 춰요
+While music plays, a timer or the stopwatch runs, or a download or copy fills the pill, resting the mouse on that item (or on the pill, when only one is live) grows the pill into its card: the cover, title and buttons; the big time with pause and cancel; the percent. It shrinks back when the mouse leaves. Not for an item that Open panels with the mouse opens, nor with a banner place chosen	음악이 재생되거나, 타이머나 스톱워치가 동작하거나, 다운로드나 복사가 캡슐을 채우는 동안 해당 항목(또는 하나만 활성일 때는 캡슐)에 마우스를 올려 두면 캡슐이 카드로 커져요. 커버, 제목, 버튼, 일시 중지와 취소가 있는 큰 시간, 진행률이 표시돼요. 마우스가 벗어나면 다시 줄어들어요. 마우스로 패널 열기가 여는 항목이나 배너 위치를 지정한 경우에는 적용되지 않아요
+While something plays, the line becomes a thin pill with the song's cover and moving bars; the mouse on it opens the island, as on the line (with Only the clock, they go beside the clock)	무언가 재생되는 동안 선이 노래 커버와 움직이는 막대가 있는 얇은 캡슐이 돼요. 마우스를 올리면 선처럼 아일랜드가 열려요(“시계만”을 켜면 시계 옆에 표시돼요)
+While the app is in front, the pill moves there and shows only the lit icons.	앱이 앞에 있는 동안 캡슐이 그쪽으로 이동해 켜진 아이콘만 표시해요.
+While the app is in front, the pill moves there and shows only the lit icons. Dragging it then changes its place too.	앱이 앞에 있는 동안 캡슐이 그쪽으로 이동해 켜진 아이콘만 표시해요. 캡슐을 드래그하면 위치도 바뀌어요.
+While the island is minimized to its line (or the Bar is hidden), she stays there in a tiny pill; the mouse on it opens the island, as on the line	아일랜드가 선으로 최소화되었거나 바가 숨겨져 있으면 Faísca가 작은 캡슐 안에 머물러요. 마우스를 올리면 선처럼 아일랜드가 열려요
+While the timer runs	타이머가 동작하는 동안
+White	흰색
+Whoa!	앗!
+Wi-Fi / network	Wi-Fi / 네트워크
+Wi-Fi back	Wi-Fi 복구됨
+Wi-Fi is off	Wi-Fi 꺼짐
+Wi-Fi lost	Wi-Fi 끊김
+Wi-Fi, sound, battery, the bell and the clock, each step of them. Click an icon to use a picture of your own for it, its brush (top left) for a color of its own; the x goes back to the pack's	Wi-Fi, 소리, 배터리, 종, 시계의 각 단계예요. 아이콘을 클릭하면 내 이미지를 쓸 수 있고, 붓(왼쪽 위)으로 아이콘 전용 색을 정할 수 있어요. x를 누르면 팩 기본값으로 돌아가요
+Wide	넓게
+Widgets	위젯
+Width of the edge zone where the mouse brings the pill back	마우스를 올리면 캡슐이 돌아오는 가장자리 영역의 너비
+Win+A opens the island's control center	Win+A를 누르면 아일랜드의 제어 센터가 열려요
+Win+J minimizes the island to its line and brings it back	Win+J를 누르면 아일랜드가 선으로 최소화되고, 다시 누르면 돌아와요
+Win+L stays Windows' (it locks the PC)	Win+L은 그대로 Windows 기능이에요 (PC 잠금)
+Win+N and Win+A can open the island's notifications and control center instead of Windows'	Win+N과 Win+A로 Windows 대신 아일랜드의 알림과 제어 센터를 열 수 있어요
+Win+N opens the island's notifications	Win+N을 누르면 아일랜드의 알림이 열려요
+Win+X menu	Win+X 메뉴
+Wind	바람
+Window maximized	창 최대화됨
+Window over it	창이 위에 있을 때
+Windows	Windows
+Windows 10	Windows 10
+Windows 10's, where it has them	Windows 10의 아이콘 (있는 경우)
+Windows 11	Windows 11
+Windows Settings	Windows 설정
+Windows Update	Windows 업데이트
+Windows accent	Windows 강조 색
+Windows doesn't report a temperature on this PC	이 PC에서는 Windows가 온도를 알려주지 않아요
+Windows or another app uses them too, the island takes them first	Windows나 다른 앱도 사용하지만 아일랜드가 먼저 가져가요
+Windows places	Windows 장소
+Windows stopped while a monitor answered a brightness call (DDC/CI). To turn it on again: island settings > Control center > Brightness of external monitors (DDC/CI).	모니터가 밝기 요청(DDC/CI)에 응답하는 동안 Windows가 멈췄어요. 다시 켜려면 아일랜드 설정 > 제어 센터 > 외부 모니터 밝기(DDC/CI)로 가세요.
+Windows'	Windows 글꼴
+Windows' own icons	Windows 자체 아이콘
+Windows' own: no notification sounds	Windows의 것: 알림 소리 없음
+Windows' share window didn't open	Windows 공유 창이 열리지 않았어요
+Windows, Windows 10 and Emoji are Windows' own fonts. The online ones (all free to use: MIT, Apache 2.0 or ISC) go online once, when chosen: about 150 small SVG pictures are downloaded from cdn.jsdelivr.net (a plain request for each file, nothing about you or your PC is sent), kept in the mod's folder, and never downloaded again. An icon a pack hasn't stays Windows'. Your folder: a picture (PNG, SVG, ICO...) per icon, named after it	Windows, Windows 10, Emoji는 Windows 자체 글꼴이에요. 온라인 팩(모두 무료: MIT, Apache 2.0, ISC)은 선택할 때 한 번 온라인을 사용해요. cdn.jsdelivr.net에서 작은 SVG 이미지 약 150개를 다운로드해(파일마다 일반 요청이며 사용자나 PC 정보는 전송되지 않아요) 모드 폴더에 보관하고 다시 다운로드하지 않아요. 팩에 없는 아이콘은 Windows 것을 그대로 써요. 내 폴더: 아이콘마다 이름이 같은 이미지(PNG, SVG, ICO...) 하나
+With a click	클릭하면
+With a click, the line only grows under the mouse and opens when clicked (the hidden Bar's clock too)	클릭하면 선이 마우스 아래에서만 커지고 클릭해야 열려요 (숨겨진 바의 시계도 마찬가지예요)
+With her games on she has fun too, which goes down while nobody plays with her. Bored, and later sad, she hops on the pill with a pleading look, at most every 30 minutes. Never in full screen, in Do not disturb or over a notification	게임을 켜 두면 재미도 생기는데, 아무도 놀아주지 않으면 줄어들어요. 심심하다가 슬퍼지면 애원하는 눈빛으로 캡슐에서 폴짝폴짝 뛰어요. 최대 30분에 한 번만요. 전체 화면, 방해 금지 중, 알림 위에서는 하지 않아요
+With its window's title	창 제목으로
+With names	이름 포함
+With the Bar style	바 스타일일 때
+With the Fixed style	고정 스타일일 때
+With the Island style	아일랜드 스타일일 때
+With the fill on, the timer's item on the pill shows only its icon and the minimized line only fills, with no time. The stopwatch keeps its time	채우기를 켜면 캡슐의 타이머 항목은 아이콘만 표시하고 최소화된 선은 시간 없이 채워지기만 해요. 스톱워치는 시간을 그대로 표시해요
+With the island hidden, only this notch's line shows and opens it	아일랜드가 숨겨져 있으면 이 노치의 선만 표시되고, 이 선만 아일랜드를 열 수 있어요
+With the line on, a click on the arrow keeps this monitor's island open until you click it again	선을 켜면 화살표를 클릭했을 때 다시 클릭할 때까지 이 모니터의 아일랜드가 열린 채로 있어요
+With the mouse	마우스로
+Without Git Bash, Claude Code runs its status line in PowerShell: copy the line into its script, after it reads its input into $stdin (see the README)	Git Bash가 없으면 Claude Code는 PowerShell에서 상태 줄을 실행해요. 입력을 $stdin으로 읽은 뒤 스크립트에 이 줄을 복사하세요 (README 참고)
+Working hard from	바쁨 기준
+Working…	실행 중…
+Workspace	작업 영역
+World clocks	세계 시계
+World clocks (Windows' additional clocks)	세계 시계 (Windows의 추가 시계)
+World clocks inside the clock	시계 안에 세계 시계 표시
+Write	입력
+Writes the charge level as a number next to its icon	아이콘 옆에 충전량을 숫자로 표시해요
+Writes the month as a number, like 9/10, not as a name	9/10처럼 월을 이름 대신 숫자로 표시해요
+Writes the volume level as a number next to its icon	아이콘 옆에 볼륨 수준을 숫자로 표시해요
+Y M D	년 월 일
+Yaaawn… so sleepy.	하아암… 졸려요.
+Year	연도
+Yes, change	예, 변경
+Yesterday	어제
+Your best 5	나의 최고 기록 5개
+Your best results show here, kept only on this PC.	최고 기록이 여기에 표시돼요. 이 PC에만 저장돼요.
+Your city (like Campinas)	내 도시 (예: 서울)
+Your command	내 명령
+Your commands	내 명령
+Your events and your agendas' events	내 일정과 추가한 캘린더의 일정
+Your folder (none chosen yet)	내 폴더 (아직 선택하지 않음)
+Your folder…	내 폴더…
+Your location wasn't found yet, trying again	아직 위치를 찾지 못해서 다시 시도하는 중이에요
+Your own colors	직접 지정한 색
+Z to A	가나다 역순
+Zoom	줌
+Zzz… Do not disturb is on.	쿨쿨… 방해 금지가 켜져 있어요.
+Zzz… come back soon.	쿨쿨… 곧 돌아오세요.
+checking	확인 중
+click when the pill turns this color	캡슐이 이 색으로 바뀌면 클릭하세요
+en	ko
+from Windhawk	Windhawk 제공
+good	좋음
+hours	시간
+icons saved	아이콘 저장됨
+in %d h	%d시간 후
+in %d h %d min	%d시간 %d분 후
+in %d min	%d분 후
+in a row	연속
+installed	설치됨
+komorebi	komorebi
+komorebi (start, stop, reload)	komorebi (시작, 중지, 다시 불러오기)
+komorebi isn't installed	komorebi가 설치되어 있지 않아요
+komorebi's layout	komorebi 레이아웃
+komorebi: hide the workspaces without windows	komorebi: 창이 없는 작업 영역 숨기기
+komorebi: its layout on the pill (a menu changes it)	komorebi: 캡슐에 레이아웃 표시 (메뉴로 변경)
+komorebi: with masir (focus follows the mouse)	komorebi: masir와 함께 사용 (포커스가 마우스를 따라감)
+komorebi: with whkd (its shortcuts)	komorebi: whkd와 함께 사용 (바로 가기)
+min	분
+missed	놓침
+more	더
+moves	번
+not connected	연결되지 않음
+not yet!	아직이에요!
+notification	알림
+notifications	알림
+now	지금
+off	꺼짐
+off the beat	박자를 놓침
+on	켜짐
+perfect	완벽
+pts	점
+sec	초
+starting now	지금 시작
+tab	탭
+taken by another command	다른 명령에서 사용 중
+taken by another of the island's shortcuts	아일랜드의 다른 바로 가기에서 사용 중
+taken by one of your commands	내 명령 중 하나에서 사용 중
+taken by the island's Win+N or Win+A	아일랜드의 Win+N 또는 Win+A에서 사용 중
+this	이 기능
+too slow	너무 느려요
+use Win, Ctrl or Alt with a key	Win, Ctrl, Alt 중 하나와 키를 함께 사용하세요
+week	주
+what to change	변경할 항목
+winget couldn't list them	winget이 목록을 가져오지 못했어요
+winget isn't installed	winget이 설치되어 있지 않아요
+yesterday	어제
+“Restore what changed” on this option undoes it later	이 옵션의 “변경한 내용 복원”을 누르면 나중에 되돌릴 수 있어요
+…and then what else it says it needs	…그다음 필요하다고 나오는 나머지
+✓ All of them are there	✓ 모두 있어요
+✓ Copied	✓ 복사됨
+✓ Emptied	✓ 비웠어요
+✓ Exported	✓ 내보냈어요
+✓ Saved	✓ 저장됨

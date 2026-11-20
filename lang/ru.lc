@@ -1,0 +1,1684 @@
+ (all apps)	 (все приложения)
+ (all monitors)	 (все мониторы)
+ by caliberda	 от caliberda
+ events	 событ.
+ files	 файлов
+ in progress	 в процессе
+ shortcuts imported	 сочетаний импортировано
+ · HDR: SDR content	 · HDR: SDR-контент
+ · almost full	 · почти заполнено
+ · click to hide	 · нажмите, чтобы скрыть
+ · drag to move	 · перетащите для перемещения
+ · hidden, click to show	 · скрыто, нажмите, чтобы показать
+ · main island	 · главный остров
+ · no sound	 · без звука
+ · on the island, Ctrl+drag works too	 · на острове можно перетаскивать с Ctrl
+ · plain color while Windows' energy saver is on	 · сплошной цвет, пока включена экономия энергии Windows
+ · plain color: Windows' transparency effects are off (Personalization > Colors)	 · сплошной цвет: эффекты прозрачности Windows отключены (Персонализация > Цвета)
+ · press the new keys (Esc cancels)	 · нажмите новые клавиши (Esc — отмена)
+ · this island	 · этот остров
+ · whkd isn't installed (winget install LGUG2Z.whkd)	 · whkd не установлен (winget install LGUG2Z.whkd)
+"Following the bell": out of the pill, as now; or at a point of the screen, sliding in from its nearest edge	«Следом за колокольчиком»: из капсулы, как сейчас; или в точке экрана, выезжая с ближайшего края
+"Follows the line": as wide as each line; the others keep the widest line's width. A longer line ends with …	«По ширине строки»: ширина каждой строки; остальные сохраняют ширину самой длинной строки. Более длинная строка заканчивается на …
+%d items	%d элем.
+%d of %d	%d из %d
+%s at %s	%s в %s
+%s couldn't run	Не удалось выполнить: %s
+%s ran	Выполнено: %s
+%zu of %zu events	%zu из %zu событий
+(the wheel turns the pages)	(колесо мыши листает страницы)
++  New event	+  Новое событие
++  New shortcut	+  Новое сочетание
++ Add alarm	+ Добавить будильник
++ Line	+ Линия
++ saves the current settings as a profile, to switch back to them later.	+ сохраняет текущие настройки как профиль, чтобы позже вернуться к ним.
+.ics link or file path	Ссылка или путь к .ics
+1 day	1 день
+1 item	1 элемент
+10 min	10 мин
+12 h AM/PM	12 ч AM/PM
+2 min	2 мин
+24 h	24 ч
+30 days	30 дней
+30 s	30 с
+5-hour session	5-часовая сессия
+7 days	7 дней
+A Pomodoro ended	Помидор закончился
+A USB device plugged in	Подключено USB-устройство
+A Windows update came before Microsoft published the files Windhawk needs to change the taskbar (taskbar.dll %s). Until they're out, the dock and the taskbar's look stay off and the island keeps working. They come back by themselves at the next sign-in after that.	Обновление Windows вышло раньше, чем Microsoft опубликовала файлы, нужные Windhawk для изменения панели задач (taskbar.dll %s). Пока их нет, док и вид панели задач отключены, а остров работает как обычно. После их выхода они вернутся сами при следующем входе в систему.
+A banner closes when you click anywhere outside it and the island; calls, alarms and reminders stay until you answer them	Баннер закрывается щелчком в любом месте вне него и острова; звонки, будильники и напоминания остаются, пока вы не ответите
+A bolt over her and she's proud; with her care on, it gives her energy	Над ней молния, и она гордится; при включённом уходе это даёт ей энергию
+A browser's download standing still shows paused	Остановившаяся загрузка браузера показана как пауза
+A bubble on the island says when Caps Lock is turned on or off	Всплывающая подсказка на острове сообщает, когда Caps Lock включается или выключается
+A bubble on the island says when Num Lock is turned on or off	Всплывающая подсказка на острове сообщает, когда Num Lock включается или выключается
+A card for each event: its switch, where its sound comes from and a play button. The three icons: the island's own sound, the Glass pack (25 small sound files, about 1.3 MB, downloaded once from jsDelivr's CDN, cdn.jsdelivr.net, the first time you pick it; only the files are asked for, nothing about you is sent) or a file of yours (.wav, .mp3...)	Карточка для каждого события: переключатель, источник звука и кнопка воспроизведения. Три значка: собственный звук острова, пакет Glass (25 небольших звуковых файлов, около 1,3 МБ, скачиваются один раз с CDN jsDelivr, cdn.jsdelivr.net, при первом выборе; запрашиваются только файлы, ничего о вас не отправляется) или ваш файл (.wav, .mp3...)
+A click on an item opens it; when you don't use it, the pill can shrink into a thin line	Щелчок по элементу открывает его; когда капсулой не пользуются, она может сжаться до тонкой линии
+A click on the bell opens Windows' own notification center instead of the island's list	Щелчок по колокольчику открывает центр уведомлений самой Windows вместо списка острова
+A cuddle, just one?	Приласкаешь? Хоть разок?
+A download finished	Загрузка завершена
+A drive was connected	Подключён накопитель
+A file with all of it (agenda links too)	Файл со всем (включая ссылки на календари)
+A flash, and she's startled	Вспышка, и она пугается
+A focus time ended	Время фокуса закончилось
+A grid on the pill that opens all your apps, Store apps too, like macOS: search them by typing, your favorites first (the star), then all of them in alphabetical order	Сетка в капсуле, которая открывает все ваши приложения, включая приложения из Store, как в macOS: ищите их, просто набирая текст, сначала избранные (звёздочка), затем все по алфавиту
+A line while a window is maximized	Линия, пока окно развёрнуто
+A line with the mouse away	Линия, пока мышь далеко
+A little document copies itself beside her	Рядом с ней копируется маленький документ
+A little fruit would be nice.	Не отказалась бы от фруктика.
+A long title keeps scrolling while it plays	Длинное название прокручивается во время воспроизведения
+A new notification	Новое уведомление
+A new song	Новая песня
+A notch with no items disappears, the one with the bell too. It comes back when an item or a notification comes to it, and while you drag items between the notches here. The strip kept on the screen stays the same	Вырез без элементов исчезает, в том числе вырез с колокольчиком. Он возвращается, когда появляется элемент или уведомление, а также пока вы перетаскиваете элементы между вырезами здесь. Зарезервированная полоса на экране не меняется
+A notification with a one-time code (4 to 8 digits, like a sign-in or a bank code) gets a Copy code button on its banner and in the list. The code goes to the clipboard and stays out of its history	У уведомления с одноразовым кодом (от 4 до 8 цифр, например для входа или из банка) на баннере и в списке появляется кнопка «Копировать код». Код попадает в буфер обмена, но не в его журнал
+A notification's text stays on one line, and under the mouse it scrolls to its end and back instead of opening on up to three lines. With animations reduced or off, it opens on three lines as usual	Текст уведомления остаётся в одной строке и под мышью прокручивается до конца и обратно, а не раскрывается на три строки. При уменьшенных или выключенных анимациях он раскрывается на три строки как обычно
+A picture for this icon	Картинка для этого значка
+A plug comes up beside her and she's curious	Рядом с ней появляется штекер, и ей любопытно
+A reminder, an alarm or a timer	Напоминание, будильник или таймер
+A reminder, an alarm or a timer ending	Напоминание, будильник или конец таймера
+A right click on the island shows a gear: it opens these settings	Щелчок правой кнопкой по острову показывает шестерёнку: она открывает эти настройки
+A ring along the edge shows the charge: green above 40%, yellow down to 20%, red below. Not as the line, nor on the Bar style	Кольцо по краю показывает заряд: зелёное выше 40 %, жёлтое до 20 %, красное ниже. Не в виде линии и не в стиле «Панель»
+A screenshot	Снимок экрана
+A screenshot was taken	Сделан снимок экрана
+A short notice with the cover, title and artist when the song changes (not for pauses or the first song); a click opens What's playing	Короткое уведомление с обложкой, названием и исполнителем при смене песни (не при паузе и не для первой песни); щелчок открывает «Сейчас играет»
+A sip of water?	Глоточек воды?
+A small light that lives on the pill as an item of its own: move it in the order like the others, in every style. Her eyes follow the mouse, she blinks, dances with the music of the apps you check and shows what the PC is doing; she rests when nothing moves. While she moves the island is drawn again up to 30 times a second: on a slow PC, her dance and Her eyes follow the mouse off make it lighter	Маленький огонёк, который живёт на капсуле как отдельный элемент: перемещайте его в порядке, как остальные, в любом стиле. Её глаза следят за мышью, она моргает, танцует под музыку отмеченных приложений и показывает, чем занят ПК; когда ничего не происходит, она отдыхает. Пока она двигается, остров перерисовывается до 30 раз в секунду: на медленном ПК станет легче, если выключить её танец и «Глаза следят за мышью»
+A sneeze	Чих
+A sneeze, by herself	Чихнула сама
+A sound for this event	Звук для этого события
+A summary of the PC, the island's settings and its last 300 log lines (the dock's are in Windhawk's log)	Сведения о ПК, настройки острова и последние 300 строк журнала (журнал дока — в журнале Windhawk)
+A tap	Тычок
+A task can be given a day. It shows under the task (red when it passed, not done), and the dated tasks come first, the soonest on top. Tasks without a date stay as they are	Задаче можно назначить день. Он показывается под задачей (красным, если он прошёл, а задача не выполнена), а задачи с датой идут первыми, ближайшая сверху. Задачи без даты остаются как есть
+A title too long to fit scrolls across while it plays	Слишком длинное название прокручивается во время воспроизведения
+A to Z	От А до Я
+A yawn	Зевок
+A yawn, by herself	Зевнула сама
+AI usage	Использование ИИ
+About	О программе
+Accent	Акцент
+Accent color	Цвет акцента
+Accessibility	Специальные возможности
+Add	Добавить
+Add  (Enter)	Добавить  (Enter)
+Add a folder	Добавить папку
+Add a separator line · drag it between icons, click it to remove	Добавить разделительную линию · перетащите между значками, щёлкните, чтобы убрать
+Add an open app	Добавить открытое приложение
+Add clocks in Windows' date and time settings (Additional clocks)	Добавьте часы в настройках даты и времени Windows (Дополнительные часы)
+Add controls	Добавить элементы
+Add note  (Ctrl+Enter)	Добавить заметку  (Ctrl+Enter)
+Add provider	Добавить сервис
+Add the shortcuts you want to remember	Добавьте сочетания клавиш, которые хотите запомнить
+Added to your commands	Добавлено в ваши команды
+Adds a button for sleep, restart and shut down	Добавляет кнопку сна, перезагрузки и выключения
+Adds a button that lists the keyboard shortcuts	Добавляет кнопку со списком сочетаний клавиш
+Adds a button that mutes and unmutes the microphone	Добавляет кнопку включения и отключения микрофона
+Adds a button that opens your quick notes	Добавляет кнопку быстрых заметок
+Adds a button that opens your to-do list	Добавляет кнопку списка дел
+Adds a button that switches Windows between light and dark	Добавляет кнопку переключения Windows между светлой и тёмной темой
+Adds a button to switch profiles from the pill	Добавляет кнопку переключения профилей на капсуле
+Adds a small arrow at the pill's end that hides it to its line	Добавляет на конце капсулы стрелку, которая сворачивает её в линию
+Adds a timer, a stopwatch and a Pomodoro to the pill	Добавляет на капсулу таймер, секундомер и Pomodoro
+Adds a way to reach the tray icons of other apps from the pill	Добавляет доступ к значкам области уведомлений других приложений с капсулы
+Adds the Recycle Bin to the pill	Добавляет Корзину на капсулу
+Adds the day and the month to the clock	Добавляет в часы день и месяц
+Adds the notifications bell to the pill	Добавляет на капсулу колокольчик уведомлений
+Adds the seconds to the time	Добавляет к времени секунды
+Adds the weekday to the clock	Добавляет в часы день недели
+Adds the year to the clock	Добавляет в часы год
+Affection	Ласка
+After its app: stays	После приложения: остаётся
+After its app: the one before	После приложения: прежний
+Again to put every setting back to its default (notes, tasks, events and profiles stay)	Ещё раз, чтобы сбросить все настройки по умолчанию (заметки, задачи, события и профили сохранятся)
+Agendas	Календари
+Ah… ah… achoo!	Ап… ап… апчхи!
+Airplane mode	Режим «в самолёте»
+Alarm	Будильник
+Alarms	Будильники
+All	Все
+All apps	Все приложения
+All day	Весь день
+All done	Всё готово
+All files	Все файлы
+All quiet here.	Тут всё тихо.
+All reactions	Все реакции
+All set	Всё готово
+All up to date	Всё обновлено
+Already added	Уже добавлено
+Also on the minimized line	Также на свёрнутой линии
+Also shows the title of the window in focus, like the page or the file open in it	Также показывает заголовок окна в фокусе, например открытую в нём страницу или файл
+Always	Всегда
+Always on the pill, even with nothing playing	Всегда на капсуле, даже если ничего не играет
+Always shown	Всегда на виду
+Always, or only once what's in it weighs this much (it comes and goes by itself)	Всегда или только когда её содержимое весит столько (появляется и исчезает сама)
+Amber	Янтарный
+An app appears here once it plays music; only the ones you check make her dance	Приложение появится здесь, когда заиграет музыка; танцевать её заставляют только отмеченные
+An app appears here once it plays something	Приложение появится здесь, когда что-нибудь воспроизведёт
+An arrow drops into her and she's proud; with her care on, it feeds her	В неё падает стрелка, и она гордится; при включённом уходе это её кормит
+Angry	Злится
+Animations	Анимации
+App	Приложение
+App in focus	Активное приложение
+Applies to every monitor, and the island restarts to apply it	Применяется ко всем мониторам, остров перезапустится
+Apply	Применить
+Apps	Приложения
+Apps (launcher)	Приложения (запуск)
+Apps (winget, in a terminal)	Приложения (winget, в терминале)
+Apps and tools	Приложения и инструменты
+Apps she dances to	Приложения, под которые она танцует
+Apps that bring the visualizer	Приложения, вызывающие визуализатор
+Apps that look for lyrics	Приложения, для которых ищется текст
+Apps with notifications	Приложения с уведомлениями
+Apps with unsaved work can stop it.	Приложения с несохранёнными данными могут помешать.
+Are you working or just pretending?	Ты работаешь или делаешь вид?
+Area that brings it back	Область возврата
+Arguments (if any)	Аргументы (если есть)
+Arguments (optional)	Аргументы (необязательно)
+Ask before restarting, shutting down or signing out	Спрашивать перед перезагрузкой, выключением или выходом
+Ask every time	Спрашивать каждый раз
+Ask the first time	Спросить в первый раз
+Asleep · Do not disturb is on	Спит · включён режим «Не беспокоить»
+Asleep · no mouse or keyboard for %s min	Спит · мышь и клавиатура не тронуты %s мин
+Attentive	Внимательный
+Audio visualizer	Визуализатор звука
+Audio visualizer (bars moving with the sound)	Визуализатор звука (полосы, движущиеся под звук)
+Auto	Авто
+Auto (light or dark)	Авто (светлая или тёмная)
+Auto, inverted (the other way from Windows)	Авто, инверсия (противоположно Windows)
+Automatic	Автоматически
+Available	Доступно
+BSP	BSP
+Back	Назад
+Back to default	По умолчанию
+Back to focus	Вернуться к фокусу
+Backup	Резервная копия
+Backup (notes, tasks, profiles and settings)	Резервная копия (заметки, задачи, профили и настройки)
+Balanced	Сбалансированный
+Banner corners	Углы баннера
+Banner size	Размер баннера
+Banner width	Ширина баннера
+Banners	Баннеры
+Banners (notifications on the pill)	Баннеры (уведомления в капсуле)
+Banners close on a click outside	Закрывать баннеры щелчком снаружи
+Banners even with the pill minimized	Баннеры даже при свёрнутой капсуле
+Banners in the pill	Баннеры в капсуле
+Banners show each new notification coming out of the pill	Баннеры показывают каждое новое уведомление, выезжающее из капсулы
+Banners still appear while the pill is minimized to its line	Баннеры появляются, даже когда капсула свёрнута в линию
+Bar	Панель
+Bar: along the whole top edge, like macOS' menu bar	Панель: вдоль всего верхнего края, как строка меню macOS
+Bar: hide as its line too	Панель: тоже скрывать в линию
+Bar: items at the screen's corners	Панель: элементы по углам экрана
+Bar: items keep their side of the clock	Панель: элементы остаются на своей стороне от часов
+Bars' height	Высота полос
+Bars' width	Ширина полос
+Base frequency	Базовая частота
+Battery	Батарея
+Battery charging	Зарядка батареи
+Battery charging (own color)	Зарядка батареи (свой цвет)
+Battery percentage beside its icon	Процент заряда рядом со значком
+Black	Чёрный
+Blue	Синий
+Bluetooth	Bluetooth
+Bluetooth & devices	Bluetooth и устройства
+Bluetooth audio connected	Bluetooth-аудио подключено
+Bluetooth is off	Bluetooth выключен
+Bluish when lonely, warmer when the processor works hard or she is hungry, paler when thirsty or tired	Голубеет, когда одиноко, теплеет, когда процессор сильно загружен или она голодна, бледнеет от жажды или усталости
+Bootstrap (online)	Bootstrap (онлайн)
+Bored · nobody has played with her for %s h	Ей скучно · с ней никто не играл %s ч
+Bottom	Снизу
+Bottom left	Снизу слева
+Bottom right	Снизу справа
+Break	Перерыв
+Brightness	Яркость
+Brightness of external monitors (DDC/CI)	Яркость внешних мониторов (DDC/CI)
+Brightness of external monitors turned off	Яркость внешних мониторов отключена
+Brings the visualizer	Вызывает визуализатор
+Browsers never tell the taskbar a download is paused or failed: one whose bar stands still for 30 s turns yellow	Браузеры никогда не сообщают панели задач о паузе или ошибке загрузки: загрузка, чья полоса стоит 30 с, становится жёлтой
+Bugs and ideas	Ошибки и идеи
+Built-in display	Встроенный дисплей
+Button on the island (its icon on the pill)	Кнопка на острове (её значок в капсуле)
+Buttons on the pill	Кнопки на капсуле
+By date modified	По дате изменения
+By name	По имени
+By size	По размеру
+By type	По типу
+CPU temperature	Температура ЦП
+CPU, RAM and VRAM use	Загрузка CPU, RAM и VRAM
+CPU, RAM, VRAM and GPU use	Загрузка CPU, RAM, VRAM и GPU
+Cached	В кэше
+Calculator	Калькулятор
+Calendar	Календарь
+Calendar full: delete past events in the gear	Календарь заполнен: удалите прошедшие события в шестерёнке
+Calendar with today big	Календарь с крупным сегодняшним днём
+Calls and alarms silent in Do not disturb	Звонки и будильники без звука в режиме «Не беспокоить»
+Calm	Спокойный
+Calm · nothing going on	Спокойна · ничего не происходит
+Camera	Камера
+Cancel	Отмена
+Caps Lock bubble	Уведомление Caps Lock
+Caps Lock off	Caps Lock выключен
+Caps Lock on	Caps Lock включён
+Captions	Субтитры
+Care pace	Темп ухода
+Cast	Трансляция
+Center	По центру
+Change the order with Ctrl + drag on the island	Менять порядок, перетаскивая с Ctrl на острове
+Changes are saved in the one in use · the pencil renames, saves or deletes	Изменения сохраняются в используемом профиле · карандаш: переименовать, сохранить или удалить
+Charger plugged in	Зарядка подключена
+Charging	Зарядка
+Charging battery color	Цвет батареи при зарядке
+Charging battery color (own)	Цвет батареи при зарядке (свой)
+Check every	Проверять каждые
+Choose	Выбрать
+Choose a JSON file	Выберите файл JSON
+Choose a power plan	Выберите схему питания
+Choose a program or a file	Выберите программу или файл
+Choose it…	Выбрать…
+Choose the folder with your pictures	Выберите папку с изображениями
+Choose...	Выбрать...
+Chooses how many animations play, on every monitor	Выбирает, сколько анимаций воспроизводится, на всех мониторах
+Chooses which monitors show the island, with a map of your screens	Выбирает, на каких мониторах показан остров, по схеме экранов
+Choose…	Выбрать…
+Circle	Круг
+City not found	Город не найден
+Claude Code	Claude Code
+Claude Code (terminal)	Claude Code (терминал)
+Claude Code gives its limits to its status line, run in Git Bash: copy the line into its script, after it reads its input with input=$(cat) (see the README)	Claude Code передаёт лимиты своей строке состояния, которая работает в Git Bash: скопируйте строку в её скрипт после того, как он прочитает входные данные через input=$(cat) (см. README)
+Claude Code tells its limits with a Pro or Max plan, after its first answer in a session	Claude Code сообщает лимиты с планом Pro или Max, после первого ответа в сессии
+Clear	Ясно
+Clear all	Очистить всё
+Click (or press Space) when the ring reaches her. The beat follows the music that is playing, or is steady without it. 32 beats, and hits in a row are worth more.	Нажимайте (или пробел), когда кольцо дойдёт до неё. Ритм следует за играющей музыкой, а без неё он ровный. 32 удара, а попадания подряд дают больше очков.
+Click a screen to choose where the island appears.	Нажмите на экран, чтобы выбрать, где появится остров.
+Click a screen to place the main island there (alerts and tray).	Нажмите на экран, чтобы разместить на нём главный остров (оповещения и область уведомлений).
+Click and press the keys	Нажмите и введите сочетание
+Click to play	Нажмите, чтобы играть
+Click to play again	Нажмите, чтобы сыграть ещё раз
+Click to record	Щёлкните для записи
+Clicking a screenshot notice opens the picture in Explorer	Нажатие на уведомление о снимке экрана открывает картинку в Проводнике
+Clicks go through the pill	Щелчки проходят сквозь капсулу
+Clipboard	Буфер обмена
+Clock	Часы
+Clock against the screen's edge	Часы у края экрана
+Clock and calendar	Часы и календарь
+Clock and calendar (agendas: the calendar's gear)	Часы и календарь (календари: шестерёнка календаря)
+Clock font	Шрифт часов
+Clock in the middle (the other items move around it)	Часы посередине (остальные элементы вокруг)
+Close it to finish	Закройте, чтобы завершить
+Cloud jump	Прыжки по облакам
+Clouds	Облака
+Codex	Codex
+Codex keeps its limits in its logs on this PC: they show after its next answer	Codex хранит лимиты в своих журналах на этом ПК: они появятся после его следующего ответа
+Color filters	Цветные фильтры
+Color for downloads and other apps	Цвет для загрузок и других приложений
+Color for file copies	Цвет копирования файлов
+Color for the battery charging	Цвет зарядки батареи
+Colors	Цвета
+Colors following the app in front (its title bar or its icon)	Цвета следуют за активным приложением (его заголовок или значок)
+Colors: like Windows (light or dark with it), always light or always dark, or the colors of the app in front	Цвета: как в Windows (светлые или тёмные вместе с ней), всегда светлые или всегда тёмные, или цвета активного приложения
+Columns	Столбцы
+Command (cmd, without a window)	Команда (cmd, без окна)
+Command line	Командная строка
+Committed	Выделено
+Compact (cover only)	Компактный (только обложка)
+Completed	Выполнено
+Compressed	Архивы
+Connect	Подключить
+Connected	Подключено
+Connecting...	Подключение...
+Content hidden	Содержимое скрыто
+Control Panel	Панель управления
+Control center	Центр управления
+Control center buttons on the pill	Кнопки центра управления на капсуле
+Copied	Скопировано
+Copy	Копировать
+Copy code	Копировать код
+Copy the line	Скопировать строку
+Copy verification codes	Копировать коды подтверждения
+Copying files	Копирование файлов
+Copying or moving files	Копирование или перемещение файлов
+Coral	Коралловый
+Cores / threads	Ядра / потоки
+Corners	Углы
+Couldn't change the hotspot.	Не удалось изменить хот-спот.
+Couldn't connect.	Не удалось подключиться.
+Couldn't connect. Check the password.	Не удалось подключиться. Проверьте пароль.
+Couldn't download it: click to try again	Не удалось скачать: нажмите, чтобы повторить
+Couldn't download them: click it again to try	Не удалось скачать: щёлкните ещё раз, чтобы повторить
+Couldn't empty it	Не удалось очистить
+Couldn't forget the network.	Не удалось забыть сеть.
+Couldn't reach lrclib.net	Не удалось подключиться к lrclib.net
+Couldn't read it	Не удалось прочитать
+Couldn't save in that folder	Не удалось сохранить в эту папку
+Counting the pixels on your screen.	Считаю пиксели на экране.
+Counts down to Pomodoro's next part	Отсчитывает время до следующей части Pomodoro
+Counts down to alarms	Отсчитывает время до будильников
+Counts down to events	Отсчитывает время до событий
+Counts down to the timer's end	Отсчитывает время до конца таймера
+Cover and title	Обложка и название
+Cover and title on the pill	Обложка и название на капсуле
+Cuddle	Погладить
+Current	Текущий
+Custom	Свой
+Custom (JSON file)	Пользовательский (файл JSON)
+Customize…	Настроить…
+Cyan	Бирюзовый
+Cycles through the pictures of a folder as your wallpaper	Меняет обои, перебирая изображения из папки
+D M Y	Д М Г
+Dances with the music	Танцует под музыку
+Dancing · %s is playing	Танцует · играет %s
+Dark	Тёмная
+Dark mode	Тёмный режим
+Date	Дата
+Date modified	Дата изменения
+Date order	Порядок даты
+Dates on tasks	Даты у задач
+Day and month	День и месяц
+Day of the week	День недели
+Delete	Удалить
+Delete %zu past events?	Удалить прошедшие события (%zu)?
+Delete it?	Удалить?
+Delete past events	Удалить прошедшие события
+Desktop	Рабочий стол
+Details	Подробности
+Details as cards	Подробности карточками
+Device	Устройство
+Device Manager	Диспетчер устройств
+Devices	Устройства
+Disconnect	Отключить
+Disconnected	Отключено
+Disconnecting...	Отключение...
+Dismiss	Закрыть
+Display	Экран
+Display brightness	Яркость экрана
+Do not disturb	Не беспокоить
+Do not disturb turned on or off	Режим «Не беспокоить» включён или выключен
+Do not disturb: silent	Не беспокоить: без звука
+Dock	Док
+Documents	Документы
+Don't stop now!	Только не останавливайся!
+Done	Готово
+Download	Загрузка
+Download finished	Загрузка завершена
+Download peak (1 min)	Пик загрузки (1 мин)
+Download pictures from the web (goes online)	Загружать изображения из интернета (нужен доступ в сеть)
+Downloading	Загрузка
+Downloading the icons	Скачивание значков
+Downloads	Загрузки
+Downloads and other apps	Загрузки и другие приложения
+Downloads and other apps (own color)	Загрузки и другие приложения (свой цвет)
+Downloads, installs and other apps' progress; red for an error, yellow paused	Ход загрузок, установок и других приложений; красный — ошибка, жёлтый — пауза
+Drag an icon to another notch or place	Перетащите значок в другой вырез или на другое место
+Drag an icon to change the order	Перетащите значок, чтобы изменить порядок
+Drag from one notch to another · click to hide	Перетащите из одного выреза в другой · нажмите, чтобы скрыть
+Drag the groups to reorder them, the minimize arrow stays last	Перетащите группы, чтобы изменить порядок; стрелка сворачивания остаётся последней
+Drag the pill to any spot on the screen (not with notches)	Перетащите капсулу в любое место экрана (не с вырезами)
+Drag to change the order or to put one on the pill · middle click, or the pin after a moment on an icon: kept on the pill	Перетащите, чтобы изменить порядок или поместить на капсулу · средняя кнопка или булавка при задержке на значке: остаётся на капсуле
+Drag to change the order · click to hide	Перетащите, чтобы изменить порядок · нажмите, чтобы скрыть
+Dreaming of pixels.	Вижу сны о пикселях.
+Drinking	Питьё
+Drive	Диск
+Drizzle	Морось
+Drop files on the pill to keep them here, then drag them into another app	Перетащите файлы на капсулу, чтобы сохранить их здесь, затем перетащите в другое приложение
+Drop files on the pill to keep them there, then drag them out into another app later (their places are kept, not copies)	Перетащите файлы на капсулу, чтобы оставить их там, а потом перетащите в другое приложение (хранится их расположение, а не копии)
+Drop it, I've got it.	Отпускай, я держу.
+Duplicate	Дублировать
+Each bar sways on its own, softly, as loud as the sound; off, they jump with the beat	Каждая полоса плавно качается сама по себе в такт громкости; выключено — прыгают в ритм
+Each new one opens the pill for a moment	Каждое новое ненадолго открывает капсулу
+Each notch hides alone instead of all at once (Fixed only)	Каждый вырез скрывается отдельно, а не все сразу (только «Фиксированный»)
+Each screen has its own island	У каждого экрана свой остров
+Eating	Еда
+Edge	Край
+Edge around	Рамка вокруг
+Edge distance	Отступ от края
+Edit	Изменить
+Edit command	Изменить команду
+Edit provider	Изменить сервис
+Edit task	Изменить задачу
+Efficiency	Эффективность
+Eight colors, Windows' accent or your own	Восемь цветов, цвет акцента Windows или свой
+Eject	Извлечь
+Ejecting…	Извлечение…
+Emoji	Эмодзи
+Empty	Пусто
+Empty it? Click again	Очистить? Нажмите ещё раз
+Empty the bin	Очистить корзину
+Emptying…	Очистка…
+Energy	Энергия
+Energy, food, water and love go down slowly while you use the PC, and you look after her in her panel. She never goes away, never asks in full screen or Do not disturb, and makes no sound unless her sounds are on	Энергия, еда, вода и ласка медленно убывают, пока ты пользуешься ПК, а заботиться о ней можно в её панели. Она никогда не исчезает, ничего не просит в полноэкранном режиме или в режиме «Не беспокоить» и не издаёт звуков, если её звуки не включены
+English letters	Английские буквы
+Error	Ошибка
+Essential	Основное
+Essential: the clock, the battery, the control center, the volume, the notifications' bell and what's playing	Основное: часы, батарея, центр управления, громкость, колокольчик уведомлений и то, что сейчас играет
+Ethernet	Ethernet
+Even when minimized	Даже в свёрнутом виде
+Event	Событие
+Events in the calendar	События в календаре
+Events, 	События, 
+Every day	Каждый день
+Every option explained step by step, the roadmap and your votes	Каждая настройка шаг за шагом, планы и ваши голоса
+Everyday	На каждый день
+Everyday: also the next event, the weather (goes online), the timer, your folders, the apps with notifications and the song's cover	На каждый день: ещё следующее событие, погода (нужен интернет), таймер, ваши папки, приложения с уведомлениями и обложка песни
+Everything	Всё
+Everything: most of the items, from notes and tasks to the network's speed	Всё: почти все элементы, от заметок и задач до скорости сети
+Excuse me!	Простите!
+Expanded card when the mouse rests on a live item	Раскрывать карточку, когда мышь задерживается на активном элементе
+Export	Экспорт
+Export the island's backup	Экспорт резервной копии острова
+Extend	Расширить
+Extra wide	Очень широкий
+Fade	Затухание
+Fade the line after	Скрыть линию через
+Fan	Вентилятор
+Favorite moved or deleted	Избранный файл перемещён или удалён
+Favorites	Избранное
+Favorites are full	Избранное заполнено
+Faísca	Faísca
+Faísca, a pet on the island	Faísca, питомец на острове
+Faísca, the island's pet	Faísca, питомец острова
+Feels like	Ощущается как
+Fetches pictures for banners from the web, it needs an internet connection	Загружает изображения для баннеров из интернета, нужно подключение
+File Explorer	Проводник
+File copied	Файл скопирован
+File copies	Копирование файлов
+File copies (own color)	Копирование файлов (свой цвет)
+File moved	Файл перемещён
+Files	Файлы
+Files are being copied	Копируются файлы
+Files are being moved	Перемещаются файлы
+Files copied or moved by Windows (its copy window)	Файлы, копируемые или перемещаемые Windows (окно копирования)
+Files dragged out	Перетащенные файлы
+Files dragged out of the folders panel or the shelf into an app: copied or moved, or asked (the first time, remembered, or every time)	Файлы, перетаскиваемые с панели папок или с полки в приложение: копируются или перемещаются, либо спрашивать (в первый раз с запоминанием или каждый раз)
+Files dragged out of the island are:	Файлы, перетащенные из острова:
+Fill	Фон
+Fill animation	Анимация заливки
+Find the six pairs of the island's own icons. The shortest time wins.	Найдите шесть пар со значками самого острова. Побеждает наименьшее время.
+Finding your location…	Определяем ваше расположение…
+Finish	Завершить
+Finish keeps all of it; Cancel puts back what was there before	«Завершить» сохраняет всё; «Отмена» возвращает то, что было раньше
+Five small games with your best results, kept only on this PC (no internet)	Пять небольших игр с твоими лучшими результатами, которые хранятся только на этом ПК (без интернета)
+Fixed	Фиксированный
+Fixed: joined to the top edge, keeping its room (the windows stay below it)	Фиксированный: прижата к верхнему краю и занимает своё место (окна остаются под ней)
+Floating	Плавающий
+Fluent (online)	Fluent (онлайн)
+Focus	Фокус
+Focused right along with you.	Сосредоточилась вместе с тобой.
+Focused · Pomodoro's focus time	Сосредоточена · время фокуса Pomodoro
+Fog	Туман
+Fold the apps with notifications into an arrow (out when one comes, and under the mouse)	Свернуть приложения с уведомлениями в стрелку (раскрывается при новом и под мышью)
+Folder	Папка
+Folders	Папки
+Folders and places	Папки и места
+Folders and places (your shortcuts)	Папки и места (ваши ярлыки)
+Folders mixed with files	Папки вместе с файлами
+Folds the app icons into an arrow, they come out for new ones or on hover	Сворачивает значки приложений в стрелку, раскрываются при новых и при наведении
+Following the bell	Следом за колокольчиком
+Following the mouse is unavailable with notches on the main island.	Следование за мышью недоступно, если на главном острове есть вырезы.
+Follows Windows or forces a 24 hour or 12 hour clock	Следует настройке Windows или принудительно включает 24- или 12-часовой формат
+Follows Windows' measurement system or forces Celsius or Fahrenheit	Следует системе мер Windows или принудительно использует Цельсий или Фаренгейт
+Follows the line	По ширине строки
+Follows the mouse	Следует за мышью
+Food	Еда
+For OLED screens: the minimized line fades away after this long, back when the mouse reaches it	Для OLED-экранов: свёрнутая линия исчезает через это время и возвращается, когда к ней подходит мышь
+Forget	Забыть
+Forget it?	Забыть?
+Frames a second	Кадров в секунду
+Freezing drizzle	Ледяная морось
+Freezing rain	Ледяной дождь
+Frequency	Частота
+From square to fully round corners (not with the bar or notches)	От прямых до полностью круглых углов (не с панелью и не с вырезами)
+Frosted glass on the bar and the Fixed style's strip	Матовое стекло на панели и полосе стиля «Фиксированный»
+Frosted look for the bar and the Fixed strip, needs Windows transparency	Матовый вид панели и фиксированной полосы, нужна прозрачность Windows
+Fruit rain	Фруктовый дождь
+Frustrated	Расстроена
+Full screen: silent	Полный экран: без звука
+Fun	Веселье
+Game over	Игра окончена
+Game: caught	Игра: поймала
+Game: missed	Игра: мимо
+Game: new record	Игра: новый рекорд
+Games in exclusive full screen still draw over it. In some games it can cost some performance, or bother anti-cheat systems	Игры в эксклюзивном полноэкранном режиме всё равно рисуются поверх. В некоторых играх это может снизить производительность или помешать античит-системам
+Games in her panel	Игры в её панели
+Gap between the pill and the screen edge (not with the bar or notches)	Отступ между капсулой и краем экрана (не с панелью и не с вырезами)
+General	Общие
+Gives chosen apps their own icons, clock and order while they're in front (in the Island style, their own spot too). Each style has its own list	Даёт выбранным приложениям собственные значки, часы и порядок, пока они на переднем плане (в стиле «Остров» — и собственное место). У каждого стиля свой список
+Glass	Стекло
+Glass blur	Размытие стекла
+Glass: see-through and blurred, like on macOS	Стекло: прозрачное и размытое, как в macOS
+Glass: see-through and blurred, with a bright edge (Windows' blur: needs its transparency effects)	Стекло: прозрачное и размытое, со светлой каймой (размытие Windows: нужны её эффекты прозрачности)
+GlazeWM's workspaces	Рабочие области GlazeWM
+GlazeWM: hide the workspaces without windows	GlazeWM: скрывать рабочие области без окон
+GlazeWM: its workspaces on the pill (a click switches)	GlazeWM: рабочие области на капсуле (щелчок переключает)
+Glow and hops can leave the island	Свечение и прыжки могут выходить за остров
+Glow and particles	Свечение и частицы
+Glowing in my little corner.	Свечусь в своём уголке.
+Got your file. I'll hold it.	Твой файл у меня. Я подержу.
+Graphics card temperature	Температура видеокарты
+Graphics card use (GPU)	Загрузка видеокарты (GPU)
+Graphite	Графит
+Green	Зелёный
+Grid	Сетка
+Grid columns	Столбцы сетки
+Happy · a notification came	Радуется · пришло уведомление
+Hard to read: too alike	Плохо читается: цвета слишком похожи
+Heavy rain	Сильный дождь
+Hehe.	Хе-хе.
+Help translate the island	Помогите перевести остров
+Her color	Её цвет
+Her color changes with the mood	Цвет меняется с настроением
+Her eyes and body turn toward the mouse, more the closer it is	Глаза и тело поворачиваются к мыши, тем сильнее, чем она ближе
+Her eyes follow the mouse	Глаза следят за мышью
+Her glow, rings and hops may go past the island, also over a maximized app; off, she stays inside it	Её свечение, кольца и прыжки могут выходить за остров, в том числе поверх развёрнутого приложения; если выключено, она остаётся внутри
+Her light tints the island around her and flows through it in waves when she blinks, hops, dances or reacts	Её свет окрашивает остров вокруг неё и проходит по нему волнами, когда она моргает, прыгает, танцует или реагирует
+Her own color	Её собственный цвет
+Her size	Её размер
+Her sounds off	Её звуки выключены
+Her volume	Её громкость
+Heroicons (online)	Heroicons (онлайн)
+Hex	HEX
+Hey! That hurt.	Эй! Мне больно.
+Hibernate	Гибернация
+Hidden, a small pill with the time stays instead of the line (the line while a window is under it). The Bar hidden with Win+J closes into it too	При скрытии вместо линии остаётся маленькая капсула со временем (линия, пока под ней есть окно). Панель, скрытая через Win+J, тоже сжимается в неё
+Hide a notch with nothing in it	Скрывать пустой вырез
+Hide after	Скрывать через
+Hide as its line until the mouse reaches it	Скрывать в линию, пока не подведёте мышь
+Hide each notch on its own (not all together)	Скрывать каждый вырез отдельно (а не все вместе)
+Hide past events after	Скрывать прошедшие события через
+Hide the Windows banners	Скрыть баннеры Windows
+Hide the numbers	Скрыть цифры
+Hides when the mouse leaves, or only while a window is maximized or over it	Скрывается, когда уходит мышь, или только пока окно развёрнуто или лежит поверх
+Hiding	Скрытие
+Hiding and notifications	Скрытие и уведомления
+Hiding: when and how it becomes the line	Скрытие: когда и как он превращается в линию
+Highlight behind the item under the mouse	Подсветка под элементом, на который наведена мышь
+Hihi!	Хи-хи!
+Hmm, interesting.	Хм, интересно.
+Hmph.	Хмф.
+Hold Ctrl and drag an item on the island (in any style) to another place, or to another notch. Its items jiggle while Ctrl is held with the mouse on it	Удерживая Ctrl, перетащите элемент на острове (в любом стиле) в другое место или в другой вырез. Пока Ctrl удерживается, а мышь находится над островом, его элементы покачиваются
+Holding · something is dragged over the island	Держит · что-то перетаскивают над островом
+Holidays in the calendar (goes online)	Праздники в календаре (нужен интернет)
+Home folder	Домашняя папка
+Horizontal stack	Горизонтальный стек
+Hot · the graphics card at %s	Жарко · видеокарта на %s
+Hot · the memory at %s	Жарко · память на %s
+Hot · the processor at %s	Жарко · процессор на %s
+How big she is on the pill and on the line; above 100% she goes past the pill's edges	Её размер на капсуле и на линии; больше 100% она выходит за края капсулы
+How big the banner is, its texts and buttons with it	Размер баннера вместе с его текстом и кнопками
+How big the line is on the pill	Размер строки на капсуле
+How big the previous, play and next buttons on the pill are, as far as the pill is tall	Размер кнопок «назад», «воспроизведение» и «вперёд» на капсуле, насколько позволяет её высота
+How busy the processor, the memory or the graphics card must be, for 5 seconds, before she shows it	Насколько должны быть загружены процессор, память или видеокарта в течение 5 секунд, прежде чем она это покажет
+How fast her needs come back as you use the PC: calm (about a day), normal (8 hours) or attentive (3 hours)	Как быстро возвращаются её потребности, пока ты пользуешься ПК: спокойно (около суток), обычно (8 часов) или внимательно (3 часа)
+How it moves; paused it breathes, an error shakes, done flashes with a check, canceled drains back	Как анимируется: пауза — «дыхание», ошибка — дрожь, готово — вспышка с галочкой, отмена — откат
+How loud all her sounds are	Насколько громко звучат все её звуки
+How many	Сколько
+How many files it keeps: the oldest goes when a new one comes	Сколько файлов хранится: самый старый уходит, когда приходит новый
+How many icons show before the list starts to scroll	Сколько значков показывается до начала прокрутки списка
+How much of the AI agents' limits is used and when each starts over, read on this PC (no login and nothing online)	Сколько лимитов ИИ-агентов израсходовано и когда каждый начнётся заново; читается на этом ПК (без входа и без интернета)
+How much the bars move with the sound (they follow the playing app's own sound)	Насколько полосы движутся под звук (следуют за звуком воспроизводящего приложения)
+How often she does something by herself while idle (looks around, hops, spins, stretches)	Как часто она что-то делает сама, когда ничего не происходит (оглядывается, подпрыгивает, кружится, потягивается)
+How round the banner's corners are	Насколько скруглены углы баннера
+How round the notch curves are in the Fixed style	Насколько скруглены изгибы выреза в стиле «Фиксированный»
+How solid the island's fill is, from see-through to full	Насколько плотна заливка острова: от прозрачной до полной
+How strongly the glass blurs what is behind it	Насколько сильно стекло размывает то, что за ним
+How tall the bars can grow (as far as the pill allows)	Насколько высокими могут быть полосы (в пределах капсулы)
+How the What's playing panel looks: the usual one, Pixel (Android), One UI (Samsung), Windows 11, or only the cover with the buttons over it. It opens from What's playing or the cover on the pill	Как выглядит панель «Сейчас играет»: обычная, Pixel (Android), One UI (Samsung), Windows 11 или только обложка с кнопками поверх неё. Она открывается из «Сейчас играет» или по обложке на капсуле
+How visible the thin line is when the pill is hidden	Насколько заметна тонкая линия, когда капсула скрыта
+How visible the thin outline around the pill is	Насколько заметна тонкая рамка вокруг капсулы
+How wide each bar is; the item grows with them	Ширина каждой полосы; элемент растёт вместе с ними
+How wide the banner is (a longer text fits on its lines)	Ширина баннера (более длинный текст помещается в строки)
+Humidity	Влажность
+Hungry · food at %s	Голодна · еда на %s
+I give up. For today.	Сдаюсь. На сегодня.
+I got such a fright!	Я так испугалась!
+I like it!	Мне нравится!
+I'm all alone…	Я осталась совсем одна…
+I'm bored…	Мне скучно…
+I'm drying up here.	Я тут пересохла.
+Icon	Значок
+Icon and color	Значок и цвет
+Icon colors	Цвета значков
+Icon pack	Набор значков
+Icon size	Размер значков
+Iconoir (online)	Iconoir (онлайн)
+Icons	Значки
+Icons of the apps with notifications	Значки приложений с уведомлениями
+Icons per app (Bar)	Значки для каждого приложения (панель)
+Icons per app (Fixed style)	Значки для каждого приложения (стиль «Фиксированный»)
+Icons that aren't pinned	Незакреплённые значки
+Ignored (not counted)	Игнорируются (не учитываются)
+Import	Импорт
+Import a backup of the island	Импорт резервной копии острова
+Import a file	Импорт файла
+Import shortcuts (like komorebi's whkdrc)	Импорт сочетаний (как whkdrc от komorebi)
+In the bar, sends items to the screen corners: with the clock in the middle, the ones before it go to the left and the others to the right; without it, the first separator line of the order splits them. With two separator lines the bar has three parts instead: left corner, middle of the screen (the clock joins it) and right corner	В стиле панели переносит элементы в углы экрана: если часы посередине — те, что перед ними, слева, остальные справа; если часы не посередине — их делит первая разделительная линия в порядке. Если разделительных линий две, у панели три части: левый угол, середина экрана (часы входят в неё) и правый угол
+In the island's Do not disturb, calls, alarms and reminders don't ring either (they still show on the pill)	В режиме «Не беспокоить» острова звонки, будильники и напоминания тоже не звучат (они по-прежнему видны в капсуле)
+In the pill	В капсуле
+In the pill with a sound, even in Do not disturb	В капсуле со звуком, даже в режиме «Не беспокоить»
+In the terminal	В терминале
+In use	Используется
+In use: close what's open on it	Используется: закройте открытое на нём
+Installed apps	Установленные приложения
+Instrumental	Инструментальная
+Ionicons (online)	Ionicons (онлайн)
+Island	Остров
+Island backup (*.txt)	Резервная копия острова (*.txt)
+Island font	Шрифт острова
+Island memory	Память острова
+Island settings	Настройки острова
+Island: a pill floating at the top, the windows go under it	Остров: капсула, парящая вверху, окна проходят под ней
+It couldn't start.	Не удалось запустить.
+It ended with an error (0x%08X). Turn the mod off and on in Windhawk to start it again.	Он завершился с ошибкой (0x%08X). Выключите и снова включите мод в Windhawk, чтобы запустить его снова.
+It failed (see the terminal)	Не удалось (см. терминал)
+It goes to the screen with the mouse	Переходит на экран, где находится мышь
+It runs only while the island is on. A time missed while the PC slept or the island was off isn't made up.	Работает только при включённом острове. Время, пропущенное, пока ПК спал или остров был выключен, не наверстывается.
+It's getting hot in here, huh?	Тут жарковато, да?
+Items in the bar	Элементы на панели
+Items on the pill	Элементы на капсуле
+Its focus or break ending, while it runs	Конец фокуса или перерыва во время работы
+Its look (profile):	Её вид (профиль):
+Its style, size, hiding and animations are in Windhawk's settings for this mod	Стиль, размер, скрытие и анимации — в настройках этого мода в Windhawk
+JSON file	Файл JSON
+Just one little game?	Ну хоть одну партию?
+Just watching…	Просто смотрю…
+Keep as it is	Оставить как есть
+Keep as it is: the items the pill had before	Оставить как есть: элементы, которые были на капсуле раньше
+Keep it open	Оставить открытым
+Keep their list open	Держать их список открытым
+Keeping an eye on you.	Приглядываю за тобой.
+Keeps the note on the pill when no app has media; a click opens the panel	Оставляет ноту на капсуле, когда ни одно приложение не воспроизводит медиа; щелчок открывает панель
+Keyboard language	Язык клавиатуры
+Keyboard language (like Windows' input indicator)	Язык клавиатуры (как индикатор ввода Windows)
+Keyboard shortcut (optional)	Сочетание клавиш (необязательно)
+Keyboard shortcuts	Сочетания клавиш
+Keyboard shortcuts button	Кнопка сочетаний клавиш
+Keys	Клавиши
+Language	Язык
+Language of the island's texts (it starts again)	Язык текстов острова (он перезапустится)
+Language of the notes	Язык заметок
+Language settings	Языковые параметры
+Large	Большой
+Largest first	Сначала большие
+Later	Позже
+Leaves only the play and pause button on the pill, without previous and next	Оставляет на капсуле только кнопку воспроизведения и паузы, без предыдущего и следующего
+Leaves out GlazeWM workspaces that have no windows	Скрывает рабочие области GlazeWM без окон
+Leaves out komorebi workspaces that have no windows	Скрывает рабочие области komorebi без окон
+Left	Слева
+Less round	Менее круглые
+Let go to add it to your commands	Отпустите, чтобы добавить в ваши команды
+Let go to put it on the shelf	Отпустите, чтобы положить на полку
+Let's play?	Поиграем?
+Light	Светлая
+Light and dark mode	Светлая и тёмная тема
+Light and dark mode button	Кнопка светлой и тёмной темы
+Light and shadow like macOS 27	Свет и тень как в macOS 27
+Light rain	Лёгкий дождь
+Lighter tint and livelier colors on the glass	Более светлый оттенок и яркие цвета на стекле
+Lights up the item the mouse is over	Подсвечивает элемент под мышью
+Like Ctrl+Shift+S, or Ctrl+K, Ctrl+S	Например, Ctrl+Shift+S или Ctrl+K, Ctrl+S
+Like Windows	Как в Windows
+Like the island	Как у острова
+Like the island: only the shapes of the emojis and of your pictures, in the island's colors. Their own: as they are	Как у острова: только форма эмодзи и ваших картинок, в цветах острова. Собственные: как есть
+Like the other icons	Как у остальных значков
+Like the panels	Как у панелей
+Line added · drag it between icons, click it to remove	Линия добавлена · перетащите между значками, щёлкните, чтобы убрать
+Line opacity	Прозрачность линии
+Line that opens the island	Линия, открывающая остров
+Liquid wave	Жидкая волна
+Listening · %s is playing	Слушает · играет %s
+Live activities like the iPhone's	Живые активности, как на iPhone
+Lively	Живой
+Loading...	Загрузка...
+Location	Расположение
+Location off or not allowed in Windows	Расположение выключено или не разрешено в Windows
+Lock	Блокировка
+Logs	Журналы
+Lonely · love at %s	Скучает · ласка на %s
+Long	Длинная
+Long notification texts scroll under the mouse	Длинный текст уведомления прокручивается под мышью
+Longest line on the pill	Длина строки на капсуле
+Longest width the song title may take on the pill	Максимальная ширина названия песни на капсуле
+Look	Вид
+Look and dock	Вид и док
+Looking for networks...	Поиск сетей...
+Looking for the lyrics…	Поиск текста песни…
+Looking…	Поиск…
+Looks for lyrics	Ищет тексты песен
+Love	Ласка
+Low battery	Низкий заряд
+Low battery… same here.	Батарея садится… я тоже.
+Lucide (online)	Lucide (онлайн)
+Lyrics are looked for only for songs (with an artist, 45 s to 20 min, not videos)	Тексты ищутся только для песен (с исполнителем, от 45 с до 20 мин, не видео)
+Lyrics are off for this app (in the settings, What's playing)	Тексты для этого приложения выключены (в настройках, «Сейчас играет»)
+Lyrics as an icon	Текст песни значком
+Lyrics color	Цвет текста песни
+Lyrics color (own)	Цвет текста песни (свой)
+Lyrics from lrclib.net	Текст песен с lrclib.net
+Lyrics replace the song title	Текст вместо названия песни
+Lyrics size	Размер текста песни
+Lyrics size on the pill	Размер текста песни на капсуле
+M D Y	М Д Г
+Made in Brazil, new versions bring fixes and what users ask for	Сделано в Бразилии, новые версии приносят исправления и то, что просят пользователи
+Magnifier	Лупа
+Main island	Главный остров
+Makes her dance and react	Заставляет её танцевать и реагировать
+Makes the What's playing panel bigger than the other panels; on a short screen it still fits and scrolls	Делает панель «Сейчас играет» больше остальных панелей; на низком экране она всё равно помещается и прокручивается
+Makes the pill taller or shorter (not with the bar)	Делает капсулу выше или ниже (не с панелью)
+Manage profiles	Управление профилями
+Marks holidays in the calendar, it needs an internet connection	Отмечает праздники в календаре, нужен интернет
+Material (online)	Material (онлайн)
+Media buttons	Кнопки мультимедиа
+Media buttons on the pill	Кнопки мультимедиа на капсуле
+Media buttons size	Размер кнопок медиа
+Media panel size	Размер панели медиа
+Media panel style	Стиль панели медиа
+Medium	Средний
+Memory	Память
+Memory use (RAM)	Использование памяти (RAM)
+Merges an app's notifications into one icon, Phone Link's phone apps included	Объединяет уведомления приложения в один значок, включая телефонные приложения из Связи с телефоном
+Meteocons (colored)	Meteocons (цветные)
+Microphone	Микрофон
+Microphone button (mute)	Кнопка микрофона (отключение звука)
+Microphone, camera and location in use	Микрофон, камера и местоположение используются
+Microphone, camera and location in use (and which app)	Микрофон, камера и местоположение используются (и каким приложением)
+Middle	Середина
+Minimize	Свернуть
+Minimize arrow at the end of the pill	Стрелка сворачивания в конце капсулы
+Missed	Пропущено
+Mission accomplished.	Миссия выполнена.
+Mistakes	Ошибки
+Mixer	Микшер
+Mobile data	Мобильные данные
+Mobile hotspot	Мобильный хот-спот
+Monitor	Монитор
+Monitor 	Монитор 
+Monitors	Мониторы
+Monocle (the window in focus fills the screen)	Monocle (окно в фокусе занимает весь экран)
+Month as a number (9/10)	Месяц числом (9/10)
+More Windows controls	Другие элементы управления Windows
+More in Explorer	Ещё в Проводнике
+More options in: %s	Другие параметры в: %s
+More, more!	Ещё, ещё!
+Mostly clear	Преимущественно ясно
+Mouse away	Мышь далеко
+Move	Переместить
+Move the mouse (or the arrows) to catch fruit and drops: they feed her and quench her thirst. Letting one fall costs a life, and so does catching a rock or a bolt. Three lives.	Двигай мышь (или стрелки), чтобы ловить фрукты и капли: они кормят её и утоляют жажду. Упущенный предмет стоит жизни, и пойманный камень или молния тоже. Три жизни.
+Move the mouse over her to pet her. Click to tap her (she doesn't like too many).	Проведи по ней мышью, чтобы погладить. Щёлкни, чтобы потрогать её (много она не любит).
+Move the pill by dragging it	Перемещайте капсулу перетаскиванием
+Moved	Перемещено
+Music	Музыка
+Muted	Без звука
+My head is so full right now.	Голова забита до отказа.
+My location	Моё расположение
+My moves are sharp today.	Сегодня у меня движения чёткие.
+My site, with my other projects and a Discord link	Мой сайт с другими проектами и ссылкой на Discord
+My tummy is rumbling.	У меня живот урчит.
+Nailed it!	Получилось!
+Name	Имя
+Name (like Downloads)	Название (например, Загрузки)
+Name (optional)	Название (необязательно)
+Narrator	Экранный диктор
+Narrow	Узкий
+Nearby networks appear once location access is on: click to turn on "Let desktop apps access your location"	Ближайшие сети появятся, когда включён доступ к местоположению: нажмите, чтобы включить «Разрешить классическим приложениям доступ к вашему местоположению»
+Needs Windows' transparency effects: click to open Personalization > Colors	Нужны эффекты прозрачности Windows: нажмите, чтобы открыть Персонализация > Цвета
+Needs a fill on (downloads or charging)	Нужна включённая заливка (загрузки или зарядка)
+Needs the bar style and the clock in the middle	Нужны стиль панели и часы посередине
+Needs the date or the year on the clock	Нужна дата или год в часах
+Needs the notches	Нужны вырезы
+Needs the notches (Fixed style)	Нужны вырезы (стиль «Фиксированный»)
+Needs “%s” on	Нужно включить «%s»
+Needs “%s” or “%s” on	Нужно включить «%s» или «%s»
+Network	Сеть
+Network & internet	Сеть и Интернет
+Network cable	Сетевой кабель
+Network connections	Сетевые подключения
+Network name	Имя сети
+Network speed	Скорость сети
+Network speed (up and down)	Скорость сети (отправка и загрузка)
+Never	Никогда
+New command	Новая команда
+New desktop	Новый рабочий стол
+New notification	Новое уведомление
+New record	Новый рекорд
+New task	Новая задача
+Newest first	Сначала новые
+Next	Далее
+Next event	Следующее событие
+Night light	Ночной свет
+Night light isn't available here	Ночной свет здесь недоступен
+No Bluetooth	Нет Bluetooth
+No USB drives	Нет USB-накопителей
+No Wi-Fi adapter	Нет адаптера Wi-Fi
+No agendas yet.	Календарей пока нет.
+No alarms yet	Будильников пока нет
+No apps found	Приложения не найдены
+No apps using this output	Ни одно приложение не использует этот выход
+No date	Без даты
+No distractions.	Никаких отвлечений.
+No events	Нет событий
+No icon's picture in that folder	В этой папке нет картинок значков
+No internet	Нет интернета
+No lyrics found for this song	Для этой песни текст не найден
+No mistakes	Без ошибок
+No notes yet	Заметок пока нет
+No notifications	Нет уведомлений
+No paired devices	Нет сопряжённых устройств
+No pictures in this folder	В этой папке нет изображений
+No profile in use: click one to apply it	Профиль не используется: нажмите на один, чтобы применить
+No profiles yet	Профилей пока нет
+No record yet	Рекорда пока нет
+No reminder (the bell turns it on)	Без напоминания (колокольчик включает его)
+No settings match the search	Нет настроек, подходящих под поиск
+Nobody has talked to me in a while.	Со мной давно никто не разговаривал.
+Nobody plays with me anymore…	Со мной больше никто не играет…
+None	Нет
+None found	Ничего не найдено
+None yet: a program, a folder, a link or a command line, a click away	Пока нет: программа, папка, ссылка или командная строка в один клик
+Normal	Обычный
+Not a backup of the island	Это не резервная копия острова
+Not an .ics link (Google: Secret address in iCal format)	Это не ссылка .ics (Google: Закрытый адрес в формате iCal)
+Not available here	Здесь недоступно
+Not available on this PC	Недоступно на этом ПК
+Not checked yet	Ещё не проверено
+Not chosen	Не выбрано
+Not for the Bar style	Не для стиля «Панель»
+Not with the Liquid Glass	Не с Liquid Glass
+Not with the notches	Не с вырезами
+Not with the notches: each one keeps its place and items for every app	Не с вырезами: каждый сохраняет своё место и элементы для всех приложений
+Notch curves	Изгибы вырезов
+Notches	Вырезы
+Notes	Заметки
+Notes button	Кнопка заметок
+Nothing found	Ничего не найдено
+Nothing in it	Пусто
+Nothing playing	Ничего не играет
+Nothing to do	Дел нет
+Nothing to do around here.	Тут совсем нечего делать.
+Nothing to share	Нечем поделиться
+Nothing waiting	Ничего нет
+Notice when switching desktops	Уведомление при смене рабочего стола
+Notification	Уведомление
+Notifications	Уведомления
+Notifications (bell)	Уведомления (колокольчик)
+Notifications too	И уведомления тоже
+Notify when a USB drive is plugged in	Уведомлять при подключении USB-накопителя
+Now	Сейчас
+Num Lock bubble	Уведомление Num Lock
+Num Lock off	Num Lock выключен
+Num Lock on	Num Lock включён
+Number of columns in the icon grid (Grid style only)	Число столбцов в сетке значков (только стиль «Сетка»)
+OK	ОК
+Off	Выкл.
+Off until you turn it on. Every event below has its own switch and source; nothing plays over a full-screen app or with Do not disturb on	Выключено, пока вы не включите. Ниже у каждого события свой переключатель и свой источник; ничего не звучит поверх полноэкранного приложения и при включённом «Не беспокоить»
+Off while “%s” is on	Выключено, пока включено «%s»
+Off with no animations (“None”)	Выключено без анимаций («Нет»)
+Off with only the cover on the pill	Выключено, когда на капсуле только обложка
+Off with the bar style	Выключено в стиле панели
+Off with the items at the screen's corners	Недоступно, когда элементы в углах экрана
+Off with the notches (Fixed style)	Выключено с вырезами (стиль «Фиксированный»)
+Off, these actions run at the first click, with no question	Если выключено, эти действия выполняются с первого щелчка без вопроса
+Off: nothing is sent	Выключено: ничего не отправляется
+Off: only the app's icon peeks out of the line	Выкл.: из линии выглядывает только значок приложения
+Oldest first	Сначала старые
+On	Вкл.
+On a laptop, the battery's percentage as it charges	На ноутбуке — процент заряда батареи во время зарядки
+On battery	От батареи
+On cloud nine…	Как на седьмом небе…
+On every monitor	На каждом мониторе
+On every notch	На всех вырезах
+On one monitor	На одном мониторе
+On the battery's notch or the pill	На вырезе с батареей или на капсуле
+On the beat	В ритме
+On the monitor with the mouse	На мониторе с мышью
+On the shelf	На полке
+On-screen keyboard	Экранная клавиатура
+Once	Один раз
+Once per version, a notice from the pill opens this page	Раз в версию уведомление из капсулы открывает эту страницу
+One UI (Samsung)	One UI (Samsung)
+One icon per app (Phone Link's phone apps together)	Один значок на приложение (телефонные приложения вместе)
+Only 16 commands can have a shortcut.	Сочетание клавиш можно задать только для 16 команд.
+Only Claude Code in a terminal: the Claude desktop app doesn't leave its limits on this PC	Только Claude Code в терминале: настольное приложение Claude не оставляет свои лимиты на этом ПК
+Only a file on this computer	Только файл на этом компьютере
+Only a folder on this computer	Только папка на этом компьютере
+Only a picture on this computer	Только картинка на этом компьютере
+Only an icon on the pill while the song has lyrics, instead of the line sung now; a click opens them	Только значок на капсуле, пока у песни есть текст, вместо звучащей строки; щелчок открывает текст
+Only files on this PC can be shared, not folders	Можно делиться только файлами на этом ПК, не папками
+Only for emoji and pictures of your own	Только для эмодзи и своих картинок
+Only for the Bar style	Только для стиля «Панель»
+Only for the Island style	Только для стиля «Остров»
+Only for the notes below; the island keeps its language	Только для заметок ниже; язык острова не меняется
+Only https links or file paths	Только ссылки https или пути к файлам
+Only on the main island: change it in its settings	Только на главном острове: измените в его настройках
+Only play and pause	Только воспроизведение и пауза
+Only the bar's items over what is behind it; with the frosted look, only the blur	Только элементы панели поверх того, что за ней; с матовым видом — только размытие
+Only the clock when hidden	Только часы при скрытии
+Only the cover on the pill	Только обложка на капсуле
+Only the main clock shows on the pill; the other clocks list when the mouse rests on it	На капсуле виден только основной циферблат; остальные часы показываются списком, когда мышь задерживается на нём
+Only with Your folder as the pack	Только с пакетом «Ваша папка»
+Only with the Glass off (it blurs them already), on the bar or on the Fixed style without notches and not hiding as a line	Только при выключенном «Стекле» (оно уже размывает), на панели или в стиле «Фиксированный» без вырезов и без скрытия в линию
+Only with the Grid style	Только со стилем «Сетка»
+Only with the icons opening in the pill	Только когда значки открываются в капсуле
+Ooh, a notification!	Ой, уведомление!
+Oops, I yawned.	Ой, я зевнула.
+Opacity	Прозрачность
+Open	Открыть
+Open Windhawk	Открыть Windhawk
+Open Windows Update	Открыть Центр обновления Windows
+Open Windows mixer	Открыть микшер Windows
+Open an app to give it a place	Откройте приложение, чтобы задать ему место
+Open in Explorer	Открыть в Проводнике
+Open in terminal	Открыть в терминале
+Open it	Открыть
+Open panels with the mouse	Открывать панели наведением мыши
+Open something	Открыть что-то
+Open the Windows notification center	Открыть центр уведомлений Windows
+Opens a panel with your folder and place shortcuts	Открывает панель с ярлыками папок и мест
+Opens a program, a file, a folder, a link or a settings page, like the Run box (Win+R).	Открывает программу, файл, папку, ссылку или страницу параметров, как окно «Выполнить» (Win+R).
+Opens pickers for the fill, text and icon colors	Открывает выбор цветов заливки, текста и значков
+Opens the line	Открывает линию
+Opens the unpinned icons as a list in the pill, a grid or a named list	Открывает незакреплённые значки списком в капсуле, сеткой или списком с именами
+Other apps' icons before scrolling	Значки других приложений до прокрутки
+Other apps' tray icons	Значки области уведомлений других приложений
+Other files	Другие файлы
+Output	Вывод
+Overcast	Пасмурно
+Overdue	Просрочено
+PC screen only	Только экран ПК
+Padding before the first item and after the last one	Отступ перед первым элементом и после последнего
+Panels and buttons	Панели и кнопки
+Panels as wide as the island	Панели шириной с остров
+Panels open as wide as the island is	Панели открываются той же ширины, что и остров
+Panels size	Размер панелей
+Partial	Частично
+Partly cloudy	Переменная облачность
+Password	Пароль
+Paste an .ics link (Google Calendar: Settings, your calendar, Secret address in iCal format) or a file's path.	Вставьте ссылку .ics (Google Календарь: Настройки, ваш календарь, Закрытый адрес в формате iCal) или путь к файлу.
+Pause	Пауза
+Paused	Приостановлено
+Paused (every monitor)	Приостановлено (все мониторы)
+Performance	Производительность
+Personality	Характер
+Personalization	Персонализация
+Phosphor (online)	Phosphor (онлайн)
+Picks a color theme from the swatches	Выбирает цветовую тему из образцов
+Picks the screen spot for the pill, on a grid	Выбирает место капсулы на экране по сетке
+Picture copied	Изображение скопировано
+Pictures	Изображения
+Pictures, videos and documents show a small preview, as in Explorer, in the folders panel and on the shelf	Изображения, видео и документы показывают маленький предпросмотр, как в Проводнике, на панели папок и на полке
+Pill	Капсула
+Pill corners	Углы капсулы
+Pill floats, Fixed keeps its room on the screen, Bar spans the edge	Капсула плавает, «Фиксированный» занимает место на экране, «Панель» тянется по краю
+Pill height	Высота капсулы
+Pill items	Элементы капсулы
+Pill switches in the panel	Переключатели капсулы в панели
+Pin a folder to the island	Закрепить папку на острове
+Pink	Розовый
+Pixel (Android)	Pixel (Android)
+Place	Расположение
+Place (or drag the pill)	Расположение (или перетащите капсулу)
+Place (the bar is at the top)	Расположение (панель вверху)
+Place (the notches are at the top)	Расположение (вырезы вверху)
+Place and icons per app	Место и значки для каждого приложения
+Plan: 	Схема: 
+Play	Играть
+Plug me in?	Подключишь меня к розетке?
+Point to a JSON file with "name" and "windows" (or a list of them) to show other services here	Укажите JSON-файл с полями "name" и "windows" (или их списком), чтобы показывать здесь другие сервисы
+Pomodoro finished	Помидор завершён
+Power	Питание
+Power button	Кнопка питания
+Power button (sleep, restart, shut down)	Кнопка питания (сон, перезагрузка, выключение)
+Power draw	Потребление
+Power options	Параметры питания
+Power plan	Схема питания
+Press	Нажать
+Press the keys	Нажмите клавиши
+Press the keys (Tab moves on)…	Нажмите клавиши (Tab — далее)…
+Pressing Win+A opens the island's control center instead of Windows'	Win+A открывает центр управления острова вместо центра Windows
+Pressing Win+N opens the island's notifications instead of Windows'	Win+N открывает уведомления острова вместо уведомлений Windows
+Pressure	Давление
+Privacy	Конфиденциальность
+Processor	Процессор
+Processor use (CPU)	Загрузка процессора (CPU)
+Profile 	Профиль 
+Profiles	Профили
+Profiles button (switch profiles)	Кнопка профилей (переключение профилей)
+Program, file, folder, link or ms-settings:	Программа, файл, папка, ссылка или ms-settings:
+Programs and Features	Программы и компоненты
+Project	Проецировать
+Proud	Гордится
+Puts a button on the pill that locks the PC	Помещает на капсулу кнопку блокировки ПК
+Puts a button on the pill that opens Calculator	Помещает на капсулу кнопку открытия Калькулятора
+Puts a button on the pill that opens File Explorer	Помещает на капсулу кнопку открытия Проводника
+Puts a button on the pill that opens Task Manager	Помещает на капсулу кнопку открытия Диспетчера задач
+Puts a button on the pill that opens Windows' Settings	Помещает на капсулу кнопку открытия параметров Windows
+Puts a button on the pill that opens the Start button's right-click menu (the one of Win+X)	Добавляет на капсулу кнопку, которая открывает контекстное меню кнопки «Пуск» (то же, что и Win+X)
+Puts a button on the pill that opens the accessibility options	Помещает на капсулу кнопку открытия специальных возможностей
+Puts a button on the pill that opens the clipboard history	Помещает на капсулу кнопку открытия журнала буфера обмена
+Puts a button on the pill that opens the emoji panel	Помещает на капсулу кнопку открытия панели эмодзи
+Puts a button on the pill that opens the on-screen keyboard	Помещает на капсулу кнопку открытия экранной клавиатуры
+Puts a button on the pill that shows or hides the touch keyboard	Помещает на капсулу кнопку, которая показывает или скрывает сенсорную клавиатуру
+Puts a button on the pill that shows the desktop	Помещает на капсулу кнопку «Показать рабочий стол»
+Puts a button on the pill that takes a screenshot	Помещает на капсулу кнопку снимка экрана
+Puts a button on the pill that turns live captions on	Помещает на капсулу кнопку включения субтитров
+Puts a button on the pill to cast the screen	Помещает на капсулу кнопку трансляции экрана
+Puts a button on the pill to choose the display mode	Помещает на капсулу кнопку выбора режима проецирования
+Puts a button on the pill to start, stop or reload komorebi	Помещает на капсулу кнопку запуска, остановки или перезагрузки komorebi
+Puts a one-click Airplane mode button on the pill	Помещает на капсулу кнопку режима «в самолёте» в один клик
+Puts a one-click Bluetooth button on the pill	Помещает на капсулу кнопку Bluetooth в один клик
+Puts a one-click Mobile hotspot button on the pill	Помещает на капсулу кнопку мобильного хот-спота в один клик
+Puts a one-click Night light button on the pill	Помещает на капсулу кнопку ночного света в один клик
+Puts a one-click Wi-Fi and network button on the pill	Помещает на капсулу кнопку Wi-Fi и сети в один клик
+Puts previous, play and next buttons right on the pill	Помещает кнопки «Назад», «Играть» и «Далее» прямо на капсулу
+Puts the clock in the middle with the other items around it	Помещает часы посередине, остальные элементы вокруг них
+Rain	Дождь
+Rain chance	Вероятность дождя
+Rainbow	Радуга
+Reacts to what the PC is doing	Реагирует на то, что делает ПК
+Reading…	Чтение…
+Reads limits from a JSON file on this PC ({"name", "windows"})	Читает лимиты из JSON-файла на этом ПК ({"name", "windows"})
+Record shortcut	Записать сочетание
+Record: %s	Рекорд: %s
+Recycle Bin	Корзина
+Recycle Bin appears	Корзина появляется
+Red	Красный
+Reflex	Реакция
+Remember my choice (it's in the island's settings)	Запомнить мой выбор (он в настройках острова)
+Reminder	Напоминание
+Repeat	Повторить
+Repeat all	Повторять всё
+Repeat off	Повтор выключен
+Repeat one	Повторять трек
+Reply	Ответить
+Report a bug or suggest an idea, GitHub tells you when it comes out	Сообщите об ошибке или предложите идею, GitHub уведомит о выходе
+Reset	Сбросить
+Restart	Перезагрузить
+Restart now?	Перезагрузить сейчас?
+Resting the mouse on an item opens its panel, and it closes a moment after the mouse leaves. Buttons that do something still need a click; a click keeps the panel open	Если задержать мышь на элементе, откроется его панель; она закроется вскоре после того, как мышь уйдёт. Кнопкам, которые что-то делают, по-прежнему нужен щелчок; щелчок оставляет панель открытой
+Restore what changed	Вернуть изменённое
+Resume	Продолжить
+Reverse the wheel (up is the next song)	Обратить колесо (вверх — следующая песня)
+Right	Справа
+Ring with the battery's charge	Кольцо с зарядом батареи
+Room at the pill's ends	Место по краям капсулы
+Room between the bars	Расстояние между полосами
+Round	Раунд
+Rounds the corners where the bar meets the screen, like a screen's own round corners	Скругляет углы там, где панель встречается с экраном, как собственные скруглённые углы экрана
+Rows	Строки
+Run a command line	Выполнить командную строку
+Run by itself, at a time	Выполнять самостоятельно в заданное время
+Runs in cmd.exe without a window; a terminal shows only if it fails.	Выполняется в cmd.exe без окна; терминал появляется, только если она завершится с ошибкой.
+Sad · nobody has played with her for %s h	Грустит · с ней никто не играл %s ч
+Safe to remove	Можно извлекать
+Same as main: changes here apply to it too · + creates this monitor's profile	Как у главного: изменения здесь действуют и на него · + создаёт профиль этого монитора
+Same as the main one	Как у главного
+Save	Сохранить
+Save  (Enter)	Сохранить  (Enter)
+Save Windows' icons	Сохранить значки Windows
+Save Windows' icons puts a picture of every icon in the folder, named after it (wifi.png, battery-5.png...): replace the ones you want, and they show a moment later	«Сохранить значки Windows» кладёт в папку картинку каждого значка, названную по нему (wifi.png, battery-5.png...): замените нужные, и они появятся через мгновение
+Save current here	Сохранить текущие сюда
+Save current settings	Сохранить текущие настройки
+Save texts	Сохранить тексты
+Save the island's logs	Сохранить журналы острова
+Save the island's texts to translate	Сохранить тексты острова для перевода
+Save...	Сохранить...
+Saved ✓	Сохранено ✓
+Saved.	Сохранено.
+Saves a backup file or loads one; Reset puts every setting back to its default (clicked twice)	Сохраняет файл резервной копии или загружает его; «Сбросить» возвращает все настройки по умолчанию (два нажатия)
+Saves every text of the island in a file, in the language chosen if it isn't English, to translate or fix. Send it in a new issue at the Windhawk repository	Сохраняет все тексты острова в файл (на выбранном языке, если это не английский), чтобы перевести или исправить. Отправьте его в новом issue в репозитории Windhawk
+Saving Windows' icons…	Сохранение значков Windows…
+Saving…	Сохранение…
+Scales only the icons on the pill (their room too)	Масштабирует только значки на капсуле (и место под них)
+Scales only the texts on the pill: the clock, percentages and titles	Масштабирует только текст на капсуле: часы, проценты и названия
+Scales the control center, calendar and other panels	Масштабирует центр управления, календарь и другие панели
+Scales the pill, icons and panels together	Масштабирует капсулу, значки и панели вместе
+Screen	Экран
+Screen brightness	Яркость экрана
+Screen brightness (the mouse wheel changes it)	Яркость экрана (меняется колесом мыши)
+Screens	Экраны
+Screenshot	Снимок экрана
+Screenshot notifications open the picture (in Explorer)	Уведомления о снимках открывают картинку (в Проводнике)
+Scrolling	Прокрутка
+Scrolling on the player skips songs instead of changing the volume	Прокрутка на плеере переключает песни вместо изменения громкости
+Scrolling up skips to the next song and scrolling down to the one before, instead of the other way round	Прокрутка вверх переключает на следующую песню, вниз — на предыдущую, а не наоборот
+Search	Поиск
+Search apps	Поиск приложений
+Search here (a name or *.pdf)	Искать здесь (имя или *.pdf)
+Search results	Результаты поиска
+Second screen only	Только второй экран
+Seconds	Секунды
+Seconds the pill waits after the mouse leaves before it hides	Сколько секунд капсула ждёт после ухода мыши, прежде чем скрыться
+See it in a terminal	Смотреть в терминале
+See what's new in this version	Посмотрите, что нового в этой версии
+See-through bar	Прозрачная панель
+See-through blurred pill with a bright edge, needs Windows transparency	Прозрачная размытая капсула со светлой каймой, нужна прозрачность Windows
+See-through only on the desktop	Прозрачная только на рабочем столе
+Separator line · drag to move · click to remove	Разделительная линия · перетащите, чтобы переместить · щёлкните, чтобы убрать
+Set a timer	Запустить таймер
+Set an alarm	Поставить будильник
+Set up	Настроить
+Sets the order of day, month and year when the date shows	Задаёт порядок дня, месяца и года при показе даты
+Settings	Параметры
+Settings back to their defaults	Настройки сброшены по умолчанию
+Setup assistant	Мастер настройки
+Share	Поделиться
+Shared memory	Общая память
+She asked to play	Она попросилась поиграть
+She asks to play when bored	Просится поиграть, когда скучно
+She giggles with a note	Она хихикает с нотой
+She jumps from cloud to cloud by herself; you only steer her sideways with the mouse or the arrows. Grey clouds vanish after a jump and some move.	Она сама прыгает с облака на облако, а вы лишь направляете её в стороны мышью или стрелками. Серые облака исчезают после прыжка, а некоторые движутся.
+She jumps, startled, then smiles and sparkles	Она подпрыгивает от неожиданности, потом улыбается и искрится
+She makes sounds	Она издаёт звуки
+She pants when the processor, the memory or the graphics card works hard, gets tired when the battery is low and keeps still during Pomodoro's focus	Она пыхтит, когда процессор, память или видеокарта сильно загружены, устаёт при низком заряде и замирает во время фокуса «Помодоро»
+She reacts to everything below; off, choose each reaction	Она реагирует на всё ниже; если выключено, выберите каждую реакцию
+She smiles as the Wi-Fi arcs come back	Она улыбается, когда возвращаются дуги Wi-Fi
+She woke up: you came back	Она проснулась: ты вернулся
+She's proud, and a check mark is drawn	Она гордится, и рисуется галочка
+She's sad, with a question mark	Ей грустно, над ней вопросительный знак
+She's startled by a ringing alarm mark	Её пугает звенящий знак тревоги
+Shelf	Полка
+Shelf for files	Полка для файлов
+Shelf holds	Полка хранит
+Shh, nobody wakes me up now.	Тсс, теперь меня никто не разбудит.
+Shh… focus mode.	Тсс… режим фокуса.
+Short	Короткая
+Short name	Короткое имя
+Shortcut: let clicks through the pill	Сочетание клавиш: пропускать щелчки сквозь капсулу
+Shortcuts	Сочетания клавиш
+Shortcuts to programs and files (or command lines) you add, with their own icons, a click away in their panel; any of them can be a button on the pill or have a keyboard shortcut (set in its editor)	Ярлыки программ и файлов (или командные строки), которые вы добавляете, со своими значками, в один клик в их панели; любой может стать кнопкой в капсуле или получить сочетание клавиш (в его редакторе)
+Show	Показать
+Show %zu hidden	Показать скрытые (%zu)
+Show VLC 3 from its window's title	Показывать VLC 3 по заголовку окна
+Show a notice when the song changes	Показывать уведомление при смене песни
+Show all	Показать все
+Show desktop	Показать рабочий стол
+Show what they say	Показывать содержимое
+Show what's copied (a bubble under the pill)	Показывать скопированное (пузырёк под капсулой)
+Showers	Ливни
+Shown under the mouse; up to 16 letters, empty is Faísca	Показывается под мышью; до 16 символов, пусто — Faísca
+Shows GlazeWM's workspaces on the pill, a dot each; a click switches to it	Показывает рабочие области GlazeWM на капсуле, по точке на каждую; щелчок переключает на неё
+Shows a banner on the pill when a notification arrives	Показывает баннер на капсуле при поступлении уведомления
+Shows a bubble under the pill with what you just copied	Показывает пузырёк под капсулой с только что скопированным
+Shows a mark and the app name while the mic, camera or location is used	Показывает метку и имя приложения, когда используются микрофон, камера или местоположение
+Shows a notice each time a USB drive is plugged in	Показывает уведомление при каждом подключении USB-накопителя
+Shows a notice when the battery goes under 20% and under 10%	Показывает уведомление, когда заряд батареи падает ниже 20 % и ниже 10 %
+Shows a notice when the charger is plugged in	Показывает уведомление, когда подключается зарядка
+Shows a notice when you turn Do not disturb on or off	Показывает уведомление, когда вы включаете или выключаете режим «Не беспокоить»
+Shows a notice with the device's name when Bluetooth audio connects	Показывает уведомление с названием устройства, когда подключается Bluetooth-аудио
+Shows an icon on the pill for each app with notifications	Показывает на капсуле значок для каждого приложения с уведомлениями
+Shows an icon to open or eject plugged-in USB drives	Показывает значок для открытия или извлечения подключённых USB-накопителей
+Shows bars that move with the sound that is playing	Показывает полосы, движущиеся под воспроизводимый звук
+Shows how busy the graphics card is; a click opens its panel	Показывает, насколько загружена видеокарта; щелчок открывает её панель
+Shows how busy the processor is	Показывает загрузку процессора
+Shows how long until the next event, alarm, timer or Pomodoro part	Показывает время до следующего события, будильника, таймера или части Pomodoro
+Shows how much memory is in use	Показывает, сколько памяти используется
+Shows how much video memory is in use	Показывает, сколько видеопамяти используется
+Shows komorebi's workspaces and layout on the pill, a menu changes it	Показывает рабочие области и раскладку komorebi на капсуле, меню меняет её
+Shows notices for the charger, low battery, Bluetooth audio and Do not disturb	Показывает уведомления о зарядке, низком заряде, звуке Bluetooth и режиме «Не беспокоить»
+Shows pending app and Windows updates from winget and Windows Update	Показывает ожидающие обновления приложений и Windows из winget и Windows Update
+Shows small bubbles with names and app notifications on hover	Показывает при наведении маленькие пузырьки с именами и уведомлениями приложений
+Shows the battery icon on the pill	Показывает значок батареи на капсуле
+Shows the control center's icon, click for Wi-Fi, Bluetooth, volume and more	Показывает значок центра управления: Wi-Fi, Bluetooth, громкость и другое
+Shows the cover and the song title on the pill	Показывает обложку и название песни на капсуле
+Shows the current keyboard language, like the Windows indicator	Показывает текущий язык клавиатуры, как индикатор Windows
+Shows the current upload and download speed	Показывает текущую скорость отправки и загрузки
+Shows the extra clocks you added in Windows	Показывает дополнительные часы, добавленные в Windows
+Shows the graphics card's temperature when its driver gives it, in °C or °F like the weather	Показывает температуру видеокарты, если драйвер её сообщает, в °C или °F, как в погоде
+Shows the icon and name of the app in focus on this monitor	Показывает значок и имя активного приложения на этом мониторе
+Shows the keys that let clicks through, click them to record a combination	Показывает клавиши, пропускающие щелчки; щёлкните по ним, чтобы записать сочетание
+Shows the minimize keys, click them to record a new combination	Показывает клавиши сворачивания, нажмите на них, чтобы записать новое сочетание
+Shows the notifications	Показывает уведомления
+Shows the number and name of the virtual desktop for a moment when you switch to it, also when the island is minimized	На мгновение показывает номер и название виртуального рабочего стола при переключении на него, в том числе при свёрнутом острове
+Shows the playing song or video with its cover and controls	Показывает воспроизводимую песню или видео с обложкой и кнопками
+Shows the processor's temperature when Windows reports one, in °C or °F like the weather	Показывает температуру процессора, если Windows её сообщает, в °C или °F, как в погоде
+Shows the screen brightness, scroll the wheel on it to change	Показывает яркость экрана, колесо мыши меняет её
+Shows the time on the pill	Показывает время на капсуле
+Shows the two switches at the end of the song's panel, for the buttons and for the cover and title on the pill. They stay in these settings either way	Показывает в конце панели песни два переключателя: для кнопок и для обложки с названием на капсуле. В этих настройках они остаются в любом случае
+Shows the virtual desktops, scroll the wheel on it to switch; a click opens their list, where the pencil renames one (Windows 11 24H2 and later)	Показывает виртуальные рабочие столы, колесо переключает их; щелчок открывает их список, где карандаш переименовывает стол (Windows 11 24H2 и новее)
+Shows the volume icon, click for the volume panel	Показывает значок громкости, нажатие открывает панель громкости
+Shows the volume sliders, the link to Windows' mixer and the Mixer with each app's volume under the player in the song's panel. Turn off for a panel with only the player	Показывает под плеером в панели песни ползунки громкости, ссылку на микшер Windows и микшер с громкостью каждого приложения. Выключите, чтобы в панели остался только плеер
+Shows the weather, it needs an internet connection	Показывает погоду, нужен интернет
+Shows this action in the power button's menu; if only one is on, a click on the button runs it	Показывает это действие в меню кнопки питания; если включено только одно, щелчок по кнопке выполняет его
+Shrinks the pill to a thin line on the screen edge when idle	В простое сжимает капсулу до тонкой линии у края экрана
+Shuffle	Перемешать
+Shut down	Завершение работы
+Shut down now?	Выключить сейчас?
+Sign out	Выйти
+Sign out now?	Выйти сейчас?
+Simple	Простой
+Size	Размер
+Sizes	Размеры
+Skip	Пропустить
+Sky	Небо
+Sleep	Сон
+Slide	Сдвиг
+Small	Маленький
+Smallest first	Сначала малые
+Smooth bars (like the iPhone)	Плавные полосы (как на iPhone)
+Smoothness of the animations, matching the screen or a fixed rate	Плавность анимаций: по частоте экрана или фиксированная
+Snooze	Отложить
+Snoozed: shows again in 5 minutes	Отложено: появится снова через 5 минут
+Snow	Снег
+Snow showers	Снегопады
+Something just came in!	Что-то пришло!
+Song changed	Трек сменился
+Song lyrics	Текст песни
+Song lyrics (goes online: lrclib.net)	Текст песни (нужен интернет: lrclib.net)
+Sort by	Сортировать по
+Sound	Звук
+Sound files	Звуковые файлы
+Sound output	Вывод звука
+Sound waves come out of her	От неё расходятся звуковые волны
+Sounds of each event	Звуки каждого события
+Space	Пробел
+Speed	Скорость
+Speeds up or slows down the animations, on every monitor	Ускоряет или замедляет анимации на всех мониторах
+Spinning like crazy.	Кручусь как бешеная.
+Splits the island into notches against the top edge, around the camera; the Island and Fixed styles each keep their own	Делит остров на вырезы у верхнего края вокруг камеры; стили «Остров» и «Фиксированный» хранят каждый свой выбор
+Square	Прямые
+Stands the pill up on the left and right edges (not with notches)	Ставит капсулу вертикально у левого и правого краёв (не с вырезами)
+Start	Старт
+Startled	Испуг
+Starts over in	Начнётся заново через
+Status	Состояние
+Status notices: charger, low battery, Bluetooth audio, Do not disturb	Уведомления о состоянии: зарядка, низкий заряд, звук Bluetooth, «Не беспокоить»
+Stay over borderless full-screen apps	Оставаться поверх безрамочных полноэкранных приложений
+Sticky keys	Залипание клавиш
+Stop	Стоп
+Stop keeping it open	Больше не оставлять открытым
+Stop poking me!	Хватит тыкать!
+Stop, that tickles!	Перестань, щекотно!
+Stopped	Остановлено
+Stops Windows' own banners so you only see the island's	Отключает собственные баннеры Windows, остаются только баннеры острова
+Stopwatch	Секундомер
+Style	Стиль
+Style (the options of the style chosen under it)	Стиль (параметры выбранного стиля под ним)
+Sure?	Точно?
+Switches, adds, renames, updates or deletes your profiles	Переключает, добавляет, переименовывает, обновляет или удаляет профили
+System	Система
+System alerts (the charger, a low battery, Bluetooth, Do not disturb and the desktop) show as a wide compact pill: the icon in a circle of its color at the left, the title, and the value at the right end (a battery as a small battery, a headset's as a ring). They keep their time and their queue	Системные оповещения (зарядка, низкий заряд, Bluetooth, «Не беспокоить» и рабочий стол) выглядят как широкая компактная «таблетка»: слева значок в круге своего цвета, затем название, а на правом краю значение (заряд батареи как маленькая батарейка, заряд наушников как кольцо). Время показа и очередь не меняются
+System sounds (notifications)	Системные звуки (уведомления)
+Tabler (online)	Tabler (онлайн)
+Take care of Faísca	Заботиться о Faísca
+Task	Задача
+Task Manager	Диспетчер задач
+Task view	Представление задач
+Taskbar back to Windows' default for now	Панель задач пока как в Windows по умолчанию
+Tasks	Задачи
+Tasks button	Кнопка задач
+Tasks with a date in the calendar	Задачи с датой в календаре
+Tell me what's new after an update	Сообщать о новом после обновления
+Temperature	Температура
+Temperature unit	Единица температуры
+Text	Текст
+Text size	Размер текста
+Texts in this language reviewed by %s	Тексты на этом языке проверил(а) %s
+Texts to translate (*.json)	Тексты для перевода (*.json)
+That path is too long	Слишком длинный путь
+That sound off	Этот звук выключен
+The Bar also shrinks to a thin line on the screen's edge when the mouse is away, and comes back as the mouse reaches the line. Windows then use the strip it kept, and the Bar shows over them	Панель тоже сворачивается в тонкую линию у края экрана, когда мышь далеко, и возвращается, когда мышь доходит до линии. Окна занимают полосу, которую она резервировала, а панель появляется поверх них
+The Bar style	Стиль «Панель»
+The PC shuts down after it. Esc or a click stops it.	После этого ПК выключится. Esc или щелчок — отмена.
+The app in focus on this monitor (its icon and name)	Активное приложение на этом мониторе (значок и имя)
+The apps heard playing, also players without Windows' media controls; with some on, only they bring it. With none on, any sound does	Приложения, которые были слышны, в том числе плееры без медиаэлементов Windows; если некоторые включены, визуализатор вызывают только они. Если ни одно не включено — любой звук
+The apps seen playing; a click turns one's lyrics off, and nothing of its songs is sent to lrclib.net	Приложения, которые что-то воспроизводили; щелчок выключает тексты для приложения, и ничего о его песнях не отправляется на lrclib.net
+The apps seen playing; only the ones you check make her dance and react to songs. Empty until an app plays	Приложения, замеченные при воспроизведении; танцевать и реагировать на песни её заставляют только отмеченные. Пусто, пока приложение не заиграет
+The apps' notifications come in a capsule like the pill: the photo or icon at the left, the name and the message on one line, the app's icon at the right. Under the mouse it opens to the whole text and the reply. Calls, alarms and reminders keep their buttons as they are	Уведомления приложений приходят в капсуле, как сама капсула: слева фото или значок, имя и сообщение в одной строке, справа значок приложения. Под мышью она раскрывается: весь текст и ответ. Звонки, будильники и напоминания сохраняют свои кнопки
+The bar at the top, or upright on the left or the right edge, its items one under the other; windows keep out of its strip	Панель сверху или вертикально у левого или правого края, её элементы друг под другом; окна не заходят на её полосу
+The bar doesn't minimize	Панель не сворачивается
+The bar's inner corners	Внутренние углы панели
+The bar's side	Сторона панели
+The bars' color; the rainbow gives each bar its own, going around slowly	Цвет полос; радуга даёт каждой полосе свой цвет, который медленно меняется
+The battery icon's color while it charges; green is the usual, like a phone's	Цвет значка батареи во время зарядки; обычно зелёный, как на телефоне
+The battery's charge while a laptop charges	Заряд батареи, пока ноутбук заряжается
+The bell opens Windows' notification center	Колокольчик открывает центр уведомлений Windows
+The buttons on the panels	Кнопки на панелях
+The calendar marks the days that have a task due with a small dash, and lists those tasks with the day's events, where a tick completes them. Needs the dates on tasks	Календарь отмечает короткой чертой дни, на которые назначена задача, и показывает эти задачи вместе с событиями дня, где галочка отмечает их выполненными. Нужны даты у задач
+The calendar opens as a card: today big at its left, the month beside it, buttons for the alarms, the timer and your agendas, and the day's events	Календарь открывается карточкой: крупный сегодняшний день слева, месяц рядом, кнопки будильников, таймера и ваших календарей и события дня
+The charger plugged in	Подключено зарядное устройство
+The charger was plugged in	Подключена зарядка
+The clock on the pill and in the calendar, in a font of its own	Часы на капсуле и в календаре — своим шрифтом
+The control center's buttons	Кнопки центра управления
+The cover's	Цвет обложки
+The day's events and holidays under the month, the next ones and the button to add one. Off, the calendar shows only the clock and the month; reminders and the countdown keep working	События и праздники дня под месяцем, ближайшие события и кнопка добавления. Если выключено, календарь показывает только часы и месяц; напоминания и обратный отсчёт продолжают работать
+The dock is chosen in Windhawk, in this mod's settings: Taskbar (the dock, the Windows taskbar transparent or with only the apps, or unchanged); the island can't change it	Док выбирается в Windhawk, в настройках этого мода: «Панель задач» (док, прозрачная панель задач Windows или только с приложениями, либо без изменений); остров не может этого изменить
+The dock is optional: it takes the taskbar's place, and it's chosen in Windhawk	Док не обязателен: он занимает место панели задач и выбирается в Windhawk
+The dock is set up in Windhawk	Док настраивается в Windhawk
+The edge zone as wide as the pill	Зона у края шириной с капсулу
+The effect shown when the wallpaper changes	Эффект при смене обоев
+The favorite's drive isn't connected	Диск с избранным файлом не подключён
+The folder with your icons	Папка с вашими значками
+The folder with your wallpapers	Папка с вашими обоями
+The glass gets a sheen, a beveled edge, light along its bottom and a soft shadow around it, and the panels' cards look like glass too (idea by Thiago Silva)	Стекло получает блик, скошенную кромку, свет снизу и мягкую тень вокруг, а карточки панелей тоже выглядят как стекло (идея Thiago Silva)
+The graphics card is flying!	Видеокарта летит!
+The hotspot isn't available now.	Хот-спот сейчас недоступен.
+The icons'	Как у значков
+The internet is back	Интернет вернулся
+The internet went away	Пропал интернет
+The island follows the mouse between screens.	Остров следует за мышью между экранами.
+The island handles notifications and their sounds (Windows' stay quiet)	Остров обрабатывает уведомления и их звуки (Windows молчит)
+The island is the pill at the top of the screen: the clock, the control center, your notifications and what's playing	Остров — это капсула вверху экрана: часы, центр управления, ваши уведомления и то, что сейчас играет
+The island shows the notifications and plays their sounds, Windows stays quiet	Остров показывает уведомления и воспроизводит их звуки, Windows молчит
+The island stopped working	Остров перестал работать
+The island takes the color of the app in front	Остров принимает цвет активного приложения
+The island's	Как у острова
+The island's logs	Журналы острова
+The island's: no banners or sounds from it	Острова: без его баннеров и звуков
+The items before the clock in the order stay at one corner and the others at the other, without changing sides as items come and go	Элементы перед часами в порядке остаются в одном углу, а остальные в другом и не меняют сторону, когда элементы появляются и исчезают
+The keys below make the pill let clicks through to what's under it, and again take them back; it stays shown	Клавиши ниже пропускают щелчки сквозь капсулу к тому, что под ней, а повторное нажатие возвращает как было; капсула остаётся видимой
+The keys below send the island to its line, and again bring it back	Клавиши ниже сворачивают остров в линию и снова возвращают его
+The komorebi buttons also start and stop masir, so focus follows the mouse	Кнопки komorebi также запускают и останавливают masir: фокус следует за мышью
+The komorebi buttons also start and stop whkd, its shortcut helper	Кнопки komorebi также запускают и останавливают whkd, помощник сочетаний клавиш
+The line sung now on the pill (place it in the order above), all of them in its panel. Each song's title and artist are sent to lrclib.net (songs only: not videos, voice messages or the apps turned off below)	Строка, которую поют сейчас, на капсуле (расположите в порядке выше), весь текст — в панели. Название и исполнитель каждой песни отправляются на lrclib.net (только песни: не видео, голосовые сообщения и не выключенные ниже приложения)
+The line's color, on the pill and lit in the panel	Цвет строки на капсуле и подсветка в панели
+The list stays open after you click an icon (In the pill style)	Список остаётся открытым после нажатия на значок (стиль «В капсуле»)
+The memory is packed!	Память забита под завязку!
+The minimize arrow keeps the island open	Стрелка сворачивания оставляет остров открытым
+The mod's site	Сайт мода
+The mouse at the edge, anywhere along the pill's width, brings it back, also with the line invisible	Мышь у края в любом месте по ширине капсулы возвращает её, даже если линия невидима
+The name has 1 to 32 characters (a letter outside English, like an accented one, counts as two or three).	Имя содержит от 1 до 32 символов (символ не из английского алфавита, например кириллица, считается за два или три).
+The next alarm that's on	Следующий включённый будильник
+The one chosen on the map	Выбранный на схеме
+The password has 8 to 63 letters, numbers or symbols, without accents.	Пароль содержит от 8 до 63 букв, цифр или символов, без диакритических знаков.
+The password has at least 8 characters.	Пароль должен быть не короче 8 символов.
+The pill as a loading bar	Капсула как индикатор загрузки
+The pill can stay, or become a thin line while the mouse is away or while a window is maximized; the mouse on the line brings it back	Капсула может оставаться на месте или превращаться в тонкую линию, пока мышь далеко или окно развёрнуто; мышь на линии возвращает её
+The pill fills like a loading bar with downloads	Капсула заполняется, как полоса загрузки, при скачивании
+The pill fills with the battery's charge while charging	При зарядке капсула заполняется по уровню заряда батареи
+The pill glows with her	Капсула светится вместе с ней
+The pill lights up in several colors. Click (or press Space) only when it turns her color. Five rounds; the average counts, and each wrong click adds 300 ms to the total.	Таблетка загорается разными цветами. Нажимайте (или пробел) только когда она станет цвета питомца. Пять раундов; считается среднее, а каждый неверный клик добавляет 300 мс к общему времени.
+The pill shows the song's cover without its title. Hover it to read the title	Капсула показывает обложку песни без названия. Наведите мышь, чтобы прочитать название
+The pill takes clicks again	Капсула снова принимает щелчки
+The pill's and the panels' texts, in a font from your PC (click it again to pick another)	Тексты капсулы и панелей шрифтом с вашего ПК (нажмите ещё раз, чтобы выбрать другой)
+The pill's other items	Остальные элементы капсулы
+The pill's shape	Форма капсулы
+The processor is sweating. So am I.	Процессор вспотел. Я тоже.
+The progress apps show on their taskbar button (downloads, copies, installs)	Прогресс, который приложения показывают на кнопке панели задач (загрузки, копирование, установка)
+The room between the bars; the item grows with it	Расстояние между полосами; элемент растёт вместе с ним
+The settings' own icons	Собственные значки настроек
+The sky as emoji, with the icon pack chosen in the Icons tab, or with a set of weather pictures downloaded once when chosen (Meteocons in color, Weather Icons in one color)	Небо в виде эмодзи, с пакетом значков, выбранным на вкладке «Значки», или с набором картинок погоды, который скачивается один раз при выборе (Meteocons — цветные, Weather Icons — одноцветные)
+The small pill with the time touches the screen's edge, straight on that side and as thin as its text, covering less of what's under it. The mouse on it opens the island as usual	Маленькая капсула со временем касается края экрана, прямая с этой стороны и тонкая, как её текст, и меньше закрывает то, что под ней. Наведение мыши открывает остров как обычно
+The song changed	Сменилась песня
+The text's	Цвет текста
+The timer fills the pill with color	Таймер заливает капсулу цветом
+The title and the text, in the pill and in this list	Заголовок и текст, в капсуле и в этом списке
+The volume changed	Изменилась громкость
+The weather panel shows feels like, humidity, wind, UV, rain, pressure and clouds as small cards, like a phone's	Панель погоды показывает ощущаемую температуру, влажность, ветер, УФ, дождь, давление и облачность маленькими карточками, как на телефоне
+The weather service didn't answer	Служба погоды не ответила
+The wheel on what's playing changes the song (not the volume)	Колесо над воспроизводимым меняет песню (не громкость)
+Their own	Собственные
+Their sliders talk to the monitor over its cable. Turn off if a monitor flickers or a dock or MST hub resets when the control center opens	Их ползунки обращаются к монитору по кабелю. Отключите, если монитор мерцает или док-станция или MST-концентратор перезапускается при открытии центра управления
+Thinking about nothing. On purpose.	Ни о чём не думаю. Специально.
+Thirsty · water at %s	Хочет пить · вода на %s
+This PC	Этот компьютер
+This assistant sets the main choices in a few steps, and each one changes the island at once; everything else is in the tabs on the left	Этот мастер задаёт основные параметры за несколько шагов, и каждый сразу меняет остров; всё остальное — на вкладках слева
+This computer has no battery	У этого компьютера нет батареи
+This isn't working.	Так не пойдёт.
+This monitor's profile: changes here apply to every monitor using it	Профиль этого монитора: изменения здесь действуют на все мониторы, которые его используют
+This one's good!	А это неплохо!
+Three	Три
+Thumbnails of the files	Миниатюры файлов
+Thunderstorm	Гроза
+Thunderstorm with hail	Гроза с градом
+Tiling	Мозаика
+Time (hour:minute)	Время (часы:минуты)
+Time for a break	Пора отдохнуть
+Time format	Формат времени
+Time until the next	Время до следующего
+Time's up	Время вышло
+Timer	Таймер
+Timer on the minimized line	Таймер на свёрнутой линии
+Timer, stopwatch and Pomodoro	Таймер, секундомер и Pomodoro
+Tips under the icons and buttons (their names, an app's notifications)	Подсказки под значками и кнопками (их имена, уведомления приложений)
+Tired · the battery at %s, unplugged	Устала · батарея на %s, без зарядки
+Title	Заголовок
+Title width	Ширина названия
+To talk to me and follow my projects	Чтобы пообщаться со мной и следить за моими проектами
+To use “%s”, change:	Чтобы использовать «%s», измените:
+Today	Сегодня
+Today's color	Цвет сегодняшнего дня
+Together for %s days	Вместе дней: %s
+Together for 1 day	Вместе 1 день
+Together since today	Вместе с сегодняшнего дня
+Tomorrow	Завтра
+Too many agendas	Слишком много календарей
+Top	Сверху
+Top left	Сверху слева
+Top right	Сверху справа
+Topics	Темы
+Total	Всего
+Touch keyboard	Сенсорная клавиатура
+Transition	Переход
+Translucent glass: a lighter tint and livelier colors	Полупрозрачное стекло: светлее оттенок и ярче цвета
+Tray icons	Значки области уведомлений
+Try again	Повторить
+Try again, or share the file from Explorer	Повторите попытку или поделитесь файлом из Проводника
+Turn it on once in Windows' settings: from then on the island switches it	Включите его один раз в параметрах Windows, после этого остров сможет его переключать
+Turn it up, I know this one.	Сделай громче, эту я знаю!
+Turn on Claude Code, Codex or Custom in the settings	Включите Claude Code, Codex или Пользовательский в настройках
+Turned off	Выключено
+Turned on	Включено
+Turns the island's animations on or off, on every monitor	Включает или выключает анимации острова на всех мониторах
+Type	Тип
+Type the command line.	Введите командную строку.
+Type the time as hours and minutes, like 08:30.	Введите время в часах и минутах, например 08:30.
+Type to filter the shortcuts…	Введите, чтобы отфильтровать сочетания…
+Type what it opens.	Введите, что открывать.
+Type your note here…	Введите заметку здесь…
+USB connected	USB подключён
+USB drive	USB-накопитель
+USB drive plugged in	USB-накопитель подключён
+USB drives	USB-накопители
+USB drives icon on the pill (open or eject them)	Значок USB-накопителей на капсуле (открыть или извлечь)
+UV index	УФ-индекс
+Ugh.	Ну вот.
+Ultrawide vertical stack	Сверхширокая вертикальная стопка
+Unavailable	Недоступно
+Up to 40 favorite files	Не более 40 избранных файлов
+Upcoming events	Ближайшие события
+Upcoming holidays	Ближайшие праздники
+Update	Обновить
+Update all	Обновить всё
+Update ticked	Обновить отмеченные
+Updated %lld days ago	Обновлено %lld дн. назад
+Updated %lld h ago	Обновлено %lld ч назад
+Updated %lld min ago	Обновлено %lld мин назад
+Updated now	Обновлено только что
+Updates	Обновления
+Updates (winget and Windows Update)	Обновления (winget и Windows Update)
+Upload	Отправка
+Upload peak (1 min)	Пик отправки (1 мин)
+Upright on the left and right edges	Вертикально у левого и правого краёв
+Usage	Использование
+Use my location	Использовать моё расположение
+Utilization	Загрузка
+VLC 3 doesn't tell Windows' media controls what it plays, so the island can't see it. With this on, while VLC makes sound, the island reads the song's name from VLC's window title, shows it with VLC's icon, and its buttons press play/pause, previous and next in VLC. No cover or time, and VLC must show the name in its window title (its default)	VLC 3 не сообщает медиаэлементам управления Windows, что играет, поэтому остров его не видит. Если включить, пока VLC воспроизводит звук, остров читает название песни из заголовка окна VLC, показывает его со значком VLC, а его кнопки нажимают в VLC воспроизведение/паузу, предыдущий и следующий. Без обложки и времени; VLC должен показывать название в заголовке окна (так по умолчанию)
+Vertical stack	Вертикальная стопка
+Vertical stack, main on the right	Вертикальная стопка, главное справа
+Vice (neon sunset)	Vice (неоновый закат)
+Video memory in use (VRAM)	Занято видеопамяти (VRAM)
+Videos	Видео
+Violet	Фиолетовый
+Virtual desktops	Виртуальные рабочие столы
+Virtual desktops (the mouse wheel switches them)	Виртуальные рабочие столы (колесо мыши переключает)
+Visualizer color	Цвет визуализатора
+Visualizer color (own)	Цвет визуализатора (свой)
+Visualizer sensitivity	Чувствительность визуализатора
+Volume	Громкость
+Volume and mixer in the panel	Громкость и микшер в панели
+Volume mixer	Микшер громкости
+Volume percentage beside its icon	Процент громкости рядом со значком
+Waiting for valid data in the chosen file	Ожидание корректных данных в выбранном файле
+Wallpaper	Обои
+Wallpaper (the wheel: the next one)	Обои (колесо: следующие)
+Wallpaper transition	Смена обоев
+Wallpapers from a folder (with a transition)	Обои из папки (с переходом)
+Wasted	Wasted
+Wasted now?	Wasted прямо сейчас?
+Water	Вода
+Weather	Погода
+Weather (goes online)	Погода (нужен интернет)
+Weather Icons	Weather Icons
+Weather data by Open-Meteo.com	Данные о погоде: Open-Meteo.com
+Weather icons	Значки погоды
+Website	Сайт
+Week	Неделя
+Weekday	День недели
+Weekdays	По будням
+Weekends	По выходным
+Welcome to Mac Island & Dock	Добро пожаловать в Mac Island & Dock
+What Claude Code in a terminal gives its status line (a line in its script, see the item's panel). The Claude desktop app doesn't leave its limits on this PC, so it can't show here	То, что Claude Code в терминале передаёт своей строке состояния (одна строка в её скрипте, см. панель элемента). Настольное приложение Claude не оставляет свои лимиты на этом ПК, поэтому здесь оно не отображается
+What Codex writes in its logs on this PC	То, что Codex записывает в свои журналы на этом ПК
+What it does	Что он делает
+What it opens	Что открывает
+What needs doing?	Что нужно сделать?
+What she reacts to shows up here, with her sound	Здесь появится, на что она реагирует, и её звук
+What's new	Что нового
+What's playing	Сейчас играет
+What's playing on the minimized line	«Сейчас играет» на свёрнутой линии
+What's playing's buttons and pictures	Кнопки и картинки воспроизведения
+What's that?	А это что?
+When it hides	Когда скрывать
+Where banners show	Где появляются баннеры
+Where did the internet go?	Куда делся интернет?
+Where the island appears	Где появляется остров
+Where the items go along the bar. Automatic: around the clock when it's in the middle, otherwise at the right end	Где располагаются элементы на панели. Автоматически: вокруг часов, если они посередине, иначе у правого края
+While a line is sung, it takes the title and artist's place; between lines they come back	Пока звучит строка, она занимает место названия и исполнителя; между строками они возвращаются
+While a timer or Pomodoro counts down, the pill fills with color until it ends (orange, green on a break, fainter when paused) and pulses a moment at the end. The stopwatch doesn't fill	Пока идёт отсчёт таймера или Pomodoro, капсула постепенно заливается цветом до конца (оранжевым, на перерыве зелёным, на паузе бледнее) и в конце ненадолго пульсирует. Секундомер не заливает
+While a timer, Pomodoro or the stopwatch runs, the line becomes a small pill with its ring and its time (with Only the clock, the time goes beside the clock)	Пока идёт таймер, помидор или секундомер, линия становится маленькой капсулой с кольцом и временем (с «Только часы при скрытии» время показано рядом с часами)
+While an app's window is maximized on this monitor, the bar goes back to its usual look (frosted, with the frosted glass on), so the window doesn't show behind it	Пока окно приложения развёрнуто на этом мониторе, панель возвращается к обычному виду (матовому, если включено матовое стекло), чтобы окно не просвечивало
+While music plays in the apps checked below she dances, a new move each bar, following the beat	Пока в отмеченных ниже приложениях играет музыка, она танцует, в каждом такте новое движение, в такт
+While music plays, a timer or the stopwatch runs, or a download or copy fills the pill, resting the mouse on that item (or on the pill, when only one is live) grows the pill into its card: the cover, title and buttons; the big time with pause and cancel; the percent. It shrinks back when the mouse leaves. Not for an item that Open panels with the mouse opens, nor with a banner place chosen	Пока играет музыка, идёт таймер или секундомер либо загрузка или копирование заполняет «таблетку», задержка мыши на этом элементе (или на «таблетке», если активен только один) раскрывает её в карточку: обложка, название и кнопки; крупное время с паузой и отменой; проценты. Когда мышь уходит, карточка сворачивается. Не работает для элемента, который открывает «Открывать панели мышью», и при выбранном месте для уведомлений
+While something plays, the line becomes a thin pill with the song's cover and moving bars; the mouse on it opens the island, as on the line (with Only the clock, they go beside the clock)	Пока что-то играет, линия превращается в тонкую капсулу с обложкой песни и движущимися полосками; наведите на неё мышь, чтобы открыть остров, как с линией (с «Только часы при скрытии» они стоят рядом с часами)
+While the app is in front, the pill moves there and shows only the lit icons.	Пока приложение на переднем плане, капсула переходит туда и показывает только подсвеченные значки.
+While the app is in front, the pill moves there and shows only the lit icons. Dragging it then changes its place too.	Пока приложение на переднем плане, капсула переходит туда и показывает только подсвеченные значки. Перетаскивание капсулы тоже меняет её место.
+While the island is minimized to its line (or the Bar is hidden), she stays there in a tiny pill; the mouse on it opens the island, as on the line	Пока остров свёрнут в линию (или панель скрыта), она остаётся там в крошечной капсуле; наведите на неё мышь, чтобы открыть остров, как на линии
+While the timer runs	Пока работает таймер
+White	Белый
+Whoa!	Ой!
+Wi-Fi / network	Wi-Fi / сеть
+Wi-Fi back	Wi-Fi вернулся
+Wi-Fi is off	Wi-Fi выключен
+Wi-Fi lost	Wi-Fi пропал
+Wi-Fi, sound, battery, the bell and the clock, each step of them. Click an icon to use a picture of your own for it, its brush (top left) for a color of its own; the x goes back to the pack's	Wi-Fi, звук, батарея, колокольчик и часы, каждое их состояние. Нажмите на значок, чтобы поставить свою картинку, на его кисть (слева вверху) — для своего цвета; x возвращает значок набора
+Wide	Широкий
+Widgets	Виджеты
+Width of the edge zone where the mouse brings the pill back	Ширина зоны у края, где мышь возвращает капсулу
+Win+A opens the island's control center	Win+A открывает центр управления острова
+Win+J minimizes the island to its line and brings it back	Win+J сворачивает остров в линию и возвращает его
+Win+L stays Windows' (it locks the PC)	Win+L остаётся за Windows (блокировка ПК)
+Win+N and Win+A can open the island's notifications and control center instead of Windows'	Win+N и Win+A могут открывать уведомления и центр управления острова вместо Windows
+Win+N opens the island's notifications	Win+N открывает уведомления острова
+Win+X menu	Меню Win+X
+Wind	Ветер
+Window maximized	Окно развёрнуто
+Window over it	Окно поверх
+Windows	Windows
+Windows 10	Windows 10
+Windows 10's, where it has them	Значки Windows 10, где они есть
+Windows 11	Windows 11
+Windows Settings	Параметры Windows
+Windows Update	Центр обновления Windows
+Windows accent	Акцент Windows
+Windows doesn't report a temperature on this PC	Windows не сообщает температуру на этом ПК
+Windows or another app uses them too, the island takes them first	Их использует и Windows или другое приложение, остров перехватывает первым
+Windows places	Места Windows
+Windows stopped while a monitor answered a brightness call (DDC/CI). To turn it on again: island settings > Control center > Brightness of external monitors (DDC/CI).	Windows остановилась, пока монитор отвечал на запрос яркости (DDC/CI). Чтобы включить снова: настройки острова > Центр управления > Яркость внешних мониторов (DDC/CI).
+Windows'	Шрифт Windows
+Windows' own icons	Значки самой Windows
+Windows' own: no notification sounds	Windows: без звуков уведомлений
+Windows' share window didn't open	Окно общего доступа Windows не открылось
+Windows, Windows 10 and Emoji are Windows' own fonts. The online ones (all free to use: MIT, Apache 2.0 or ISC) go online once, when chosen: about 150 small SVG pictures are downloaded from cdn.jsdelivr.net (a plain request for each file, nothing about you or your PC is sent), kept in the mod's folder, and never downloaded again. An icon a pack hasn't stays Windows'. Your folder: a picture (PNG, SVG, ICO...) per icon, named after it	Windows, Windows 10 и Emoji — шрифты самой Windows. Онлайн-наборы (все бесплатные: MIT, Apache 2.0 или ISC) выходят в интернет один раз, при выборе: с cdn.jsdelivr.net скачивается около 150 маленьких SVG-картинок (простой запрос на каждый файл, ничего о вас или вашем ПК не отправляется), они хранятся в папке мода и больше не скачиваются. Значок, которого нет в наборе, остаётся значком Windows. Ваша папка: по картинке (PNG, SVG, ICO...) на значок, названной по нему
+With a click	Щелчком
+With a click, the line only grows under the mouse and opens when clicked (the hidden Bar's clock too)	При выборе щелчка линия под мышью только увеличивается и открывается по щелчку (часы скрытой панели тоже)
+With her games on she has fun too, which goes down while nobody plays with her. Bored, and later sad, she hops on the pill with a pleading look, at most every 30 minutes. Never in full screen, in Do not disturb or over a notification	С включёнными играми у неё есть и веселье, которое убывает, пока с ней никто не играет. Заскучав, а потом загрустив, она подпрыгивает на капсуле и умоляюще смотрит, не чаще раза в 30 минут. Никогда в полноэкранном режиме, в режиме «Не беспокоить» или поверх уведомления
+With its window's title	С заголовком окна
+With names	С именами
+With the Bar style	Со стилем «Панель»
+With the Fixed style	Со стилем «Закреплённый»
+With the Island style	Со стилем «Остров»
+With the fill on, the timer's item on the pill shows only its icon and the minimized line only fills, with no time. The stopwatch keeps its time	При включённой заливке элемент таймера на капсуле показывает только значок, а свёрнутая линия только заливается, без времени. Секундомер сохраняет своё время
+With the island hidden, only this notch's line shows and opens it	Когда остров скрыт, видна только линия этого выреза, и только она его открывает
+With the line on, a click on the arrow keeps this monitor's island open until you click it again	Когда линия включена, щелчок по стрелке оставляет остров этого монитора открытым до следующего щелчка
+With the mouse	Наведением мыши
+Without Git Bash, Claude Code runs its status line in PowerShell: copy the line into its script, after it reads its input into $stdin (see the README)	Без Git Bash Claude Code запускает строку состояния в PowerShell: скопируйте строку в её скрипт после того, как он прочитает входные данные в $stdin (см. README)
+Working hard from	Тяжёлая работа от
+Working…	Выполнение…
+Workspace	Рабочая область
+World clocks	Мировое время
+World clocks (Windows' additional clocks)	Мировое время (дополнительные часы Windows)
+World clocks inside the clock	Мировые часы внутри часов
+Write	Ввод
+Writes the charge level as a number next to its icon	Показывает уровень заряда числом рядом со значком
+Writes the month as a number, like 9/10, not as a name	Показывает месяц числом (например, 9/10), а не названием
+Writes the volume level as a number next to its icon	Показывает уровень громкости числом рядом со значком
+Y M D	Г М Д
+Yaaawn… so sleepy.	Аааах… так хочется спать.
+Year	Год
+Yes, change	Да, изменить
+Yesterday	Вчера
+Your best 5	Твои 5 лучших
+Your best results show here, kept only on this PC.	Здесь появятся твои лучшие результаты; они хранятся только на этом ПК.
+Your city (like Campinas)	Ваш город (например, Москва)
+Your command	Ваша команда
+Your commands	Ваши команды
+Your events and your agendas' events	Ваши события и события из календарей
+Your folder (none chosen yet)	Ваша папка (ещё не выбрана)
+Your folder…	Ваша папка…
+Your location wasn't found yet, trying again	Ваше расположение пока не найдено, пробуем снова
+Your own colors	Свои цвета
+Z to A	От Я до А
+Zoom	Масштаб
+Zzz… Do not disturb is on.	Zzz… включён режим «Не беспокоить».
+Zzz… come back soon.	Zzz… возвращайся скорее.
+checking	проверка
+click when the pill turns this color	нажмите, когда таблетка станет этого цвета
+en	ru
+from Windhawk	из Windhawk
+good	хорошо
+hours	часов
+icons saved	значков сохранено
+in %d h	через %d ч
+in %d h %d min	через %d ч %d мин
+in %d min	через %d мин
+in a row	подряд
+installed	установлена
+komorebi	komorebi
+komorebi (start, stop, reload)	komorebi (старт, стоп, перезагрузка)
+komorebi isn't installed	komorebi не установлен
+komorebi's layout	Раскладка komorebi
+komorebi: hide the workspaces without windows	komorebi: скрывать рабочие области без окон
+komorebi: its layout on the pill (a menu changes it)	komorebi: раскладка на капсуле (меню меняет её)
+komorebi: with masir (focus follows the mouse)	komorebi: с masir (фокус следует за мышью)
+komorebi: with whkd (its shortcuts)	komorebi: с whkd (его сочетания клавиш)
+min	мин
+missed	мимо
+more	ещё
+moves	ходов
+not connected	не подключено
+not yet!	ещё рано!
+notification	уведомление
+notifications	уведомлений
+now	сейчас
+off	выкл.
+off the beat	мимо ритма
+on	вкл.
+perfect	идеально
+pts	очк.
+sec	сек
+starting now	начинается сейчас
+tab	вкладка
+taken by another command	уже занято другой командой
+taken by another of the island's shortcuts	занято другим сочетанием острова
+taken by one of your commands	уже занято одной из ваших команд
+taken by the island's Win+N or Win+A	занято Win+N или Win+A острова
+this	это
+too slow	слишком медленно
+use Win, Ctrl or Alt with a key	используйте Win, Ctrl или Alt с клавишей
+week	неделя
+what to change	что изменить
+winget couldn't list them	winget не удалось получить список
+winget isn't installed	winget не установлен
+yesterday	вчера
+“Restore what changed” on this option undoes it later	«Вернуть изменённое» у этого параметра потом всё отменит
+…and then what else it says it needs	…и затем то, что ещё потребуется
+✓ All of them are there	✓ Все уже там
+✓ Copied	✓ Скопировано
+✓ Emptied	✓ Очищена
+✓ Exported	✓ Экспортировано
+✓ Saved	✓ Сохранено

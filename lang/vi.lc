@@ -1,0 +1,1684 @@
+ (all apps)	 (mọi ứng dụng)
+ (all monitors)	 (mọi màn hình)
+ by caliberda	 của caliberda
+ events	 sự kiện
+ files	 tệp
+ in progress	 đang thực hiện
+ shortcuts imported	 phím tắt đã nhập
+ · HDR: SDR content	 · HDR: nội dung SDR
+ · almost full	 · sắp đầy
+ · click to hide	 · bấm để ẩn
+ · drag to move	 · kéo để di chuyển
+ · hidden, click to show	 · đang ẩn, bấm để hiện
+ · main island	 · Island chính
+ · no sound	 · tắt tiếng
+ · on the island, Ctrl+drag works too	 · trên Island, Ctrl+kéo cũng được
+ · plain color while Windows' energy saver is on	 · dùng nền đơn sắc khi bật chế độ tiết kiệm năng lượng của Windows
+ · plain color: Windows' transparency effects are off (Personalization > Colors)	 · dùng nền đơn sắc vì hiệu ứng trong suốt của Windows đang tắt (Cá nhân hóa > Màu sắc)
+ · press the new keys (Esc cancels)	 · nhấn tổ hợp phím mới (Esc để hủy)
+ · this island	 · Island này
+ · whkd isn't installed (winget install LGUG2Z.whkd)	 · chưa cài whkd (winget install LGUG2Z.whkd)
+"Following the bell": out of the pill, as now; or at a point of the screen, sliding in from its nearest edge	Chọn “Theo biểu tượng chuông” để hiện thông báo từ Island; hoặc chọn một vị trí trên màn hình để thông báo trượt vào từ mép gần nhất
+"Follows the line": as wide as each line; the others keep the widest line's width. A longer line ends with …	“Theo độ dài câu hát” tự điều chỉnh chiều rộng theo từng câu. Các lựa chọn còn lại giữ chiều rộng cố định theo câu dài nhất; phần vượt quá giới hạn được thay bằng dấu …
+%d items	%d mục
+%d of %d	%d / %d
+%s at %s	%s lúc %s
+%s couldn't run	%s không chạy được
+%s ran	%s đã chạy
+%zu of %zu events	%zu / %zu sự kiện
+(the wheel turns the pages)	(lăn chuột để chuyển trang)
++  New event	+  Sự kiện mới
++  New shortcut	+  Phím tắt mới
++ Add alarm	+ Thêm báo thức
++ Line	+ Vạch
++ saves the current settings as a profile, to switch back to them later.	Bấm + để lưu cài đặt hiện tại thành một cấu hình mới và sử dụng lại khi cần.
+.ics link or file path	Liên kết .ics hoặc đường dẫn tệp
+1 day	1 ngày
+1 item	1 mục
+10 min	10 phút
+12 h AM/PM	12 giờ SA/CH
+2 min	2 phút
+24 h	24 giờ
+30 days	30 ngày
+30 s	30 giây
+5-hour session	Phiên 5 giờ
+7 days	7 ngày
+A Pomodoro ended	Một Pomodoro đã kết thúc
+A USB device plugged in	Một thiết bị USB được cắm vào
+A Windows update came before Microsoft published the files Windhawk needs to change the taskbar (taskbar.dll %s). Until they're out, the dock and the taskbar's look stay off and the island keeps working. They come back by themselves at the next sign-in after that.	Một bản cập nhật Windows đến trước khi Microsoft công bố các tệp Windhawk cần để thay đổi thanh tác vụ (taskbar.dll %s). Cho đến khi chúng có, Dock và giao diện thanh tác vụ tạm tắt, đảo vẫn hoạt động. Sau đó chúng tự quay lại ở lần đăng nhập tiếp theo.
+A banner closes when you click anywhere outside it and the island; calls, alarms and reminders stay until you answer them	Thông báo nổi đóng khi bạn bấm vào bất kỳ đâu bên ngoài nó và Island; cuộc gọi, báo thức và lời nhắc vẫn giữ nguyên cho đến khi bạn xử lý
+A bolt over her and she's proud; with her care on, it gives her energy	Một tia sét phía trên và cô ấy tự hào; khi bật chăm sóc, điều này cho cô ấy năng lượng
+A browser's download standing still shows paused	Hiện trạng thái tạm dừng nếu tiến trình tải xuống của trình duyệt không thay đổi
+A bubble on the island says when Caps Lock is turned on or off	Hiện thông báo nhỏ trên Island khi bật hoặc tắt Caps Lock
+A bubble on the island says when Num Lock is turned on or off	Hiện thông báo nhỏ trên Island khi bật hoặc tắt Num Lock
+A card for each event: its switch, where its sound comes from and a play button. The three icons: the island's own sound, the Glass pack (25 small sound files, about 1.3 MB, downloaded once from jsDelivr's CDN, cdn.jsdelivr.net, the first time you pick it; only the files are asked for, nothing about you is sent) or a file of yours (.wav, .mp3...)	Mỗi sự kiện một thẻ: công tắc, nguồn âm thanh và nút phát. Ba biểu tượng: âm thanh riêng của Island, gói Glass (25 tệp âm thanh nhỏ, khoảng 1,3 MB, tải một lần từ CDN của jsDelivr, cdn.jsdelivr.net, khi bạn chọn lần đầu; chỉ yêu cầu các tệp, không gửi gì về bạn) hoặc tệp của bạn (.wav, .mp3...)
+A click on an item opens it; when you don't use it, the pill can shrink into a thin line	Bấm vào từng mục để mở. Khi không sử dụng, Island có thể thu gọn thành một vạch mảnh
+A click on the bell opens Windows' own notification center instead of the island's list	Nhấp vào chuông sẽ mở trung tâm thông báo của chính Windows thay vì danh sách của Island
+A cuddle, just one?	Một cái ôm thôi, được không?
+A download finished	Một tệp tải xuống đã xong
+A drive was connected	Đã kết nối một ổ đĩa
+A file with all of it (agenda links too)	Lưu tất cả vào một tệp (gồm cả liên kết lịch .ics)
+A flash, and she's startled	Một tia chớp, và cô ấy giật mình
+A focus time ended	Một phiên tập trung đã kết thúc
+A grid on the pill that opens all your apps, Store apps too, like macOS: search them by typing, your favorites first (the star), then all of them in alphabetical order	Một lưới trên Island mở tất cả ứng dụng của bạn, cả ứng dụng Store, giống macOS: gõ để tìm, mục yêu thích (ngôi sao) ở đầu, rồi tất cả theo thứ tự chữ cái
+A line while a window is maximized	Thu gọn khi có cửa sổ phóng to
+A line with the mouse away	Thu gọn khi đưa chuột ra ngoài
+A little document copies itself beside her	Một tài liệu nhỏ tự sao chép bên cạnh cô ấy
+A little fruit would be nice.	Có miếng trái cây thì tuyệt.
+A long title keeps scrolling while it plays	Tên bài hát dài sẽ chạy chữ liên tục khi đang phát
+A new notification	Một thông báo mới
+A new song	Một bài hát mới
+A notch with no items disappears, the one with the bell too. It comes back when an item or a notification comes to it, and while you drag items between the notches here. The strip kept on the screen stays the same	Notch không có mục nào sẽ biến mất, kể cả Notch có chuông. Notch hiện lại khi có mục hoặc thông báo mới, và trong lúc bạn kéo các mục giữa các Notch tại đây. Dải dành riêng trên màn hình vẫn giữ nguyên
+A notification with a one-time code (4 to 8 digits, like a sign-in or a bank code) gets a Copy code button on its banner and in the list. The code goes to the clipboard and stays out of its history	Thông báo có mã dùng một lần (4 đến 8 chữ số, như mã đăng nhập hay mã ngân hàng) sẽ có nút Sao chép mã trên thông báo nổi và trong danh sách. Mã được chép vào bảng nhớ tạm và không lưu vào lịch sử của nó
+A notification's text stays on one line, and under the mouse it scrolls to its end and back instead of opening on up to three lines. With animations reduced or off, it opens on three lines as usual	Văn bản thông báo giữ trên một dòng, khi rê chuột sẽ cuộn đến cuối rồi quay lại thay vì mở thành tối đa ba dòng. Khi giảm hoặc tắt hiệu ứng, văn bản vẫn mở thành ba dòng như thường lệ
+A picture for this icon	Ảnh riêng cho biểu tượng này
+A plug comes up beside her and she's curious	Một phích cắm hiện lên bên cạnh và cô ấy tò mò
+A reminder, an alarm or a timer	Lời nhắc, báo thức hoặc hẹn giờ
+A reminder, an alarm or a timer ending	Lời nhắc, báo thức hoặc hẹn giờ kết thúc
+A right click on the island shows a gear: it opens these settings	Bấm chuột phải vào Island, rồi bấm biểu tượng bánh răng để mở cài đặt
+A ring along the edge shows the charge: green above 40%, yellow down to 20%, red below. Not as the line, nor on the Bar style	Vòng ở viền hiển thị mức pin: xanh lá trên 40%, vàng đến 20%, đỏ khi thấp hơn. Không hiện khi ở dạng đường kẻ hoặc kiểu Bar
+A screenshot	Một ảnh chụp màn hình
+A screenshot was taken	Vừa chụp màn hình
+A short notice with the cover, title and artist when the song changes (not for pauses or the first song); a click opens What's playing	Thông báo ngắn có ảnh bìa, tên bài và nghệ sĩ khi đổi bài hát (không hiện khi tạm dừng hoặc ở bài đầu tiên); bấm để mở Đang phát
+A sip of water?	Cho mình một ngụm nước nhé?
+A small light that lives on the pill as an item of its own: move it in the order like the others, in every style. Her eyes follow the mouse, she blinks, dances with the music of the apps you check and shows what the PC is doing; she rests when nothing moves. While she moves the island is drawn again up to 30 times a second: on a slow PC, her dance and Her eyes follow the mouse off make it lighter	Một đốm sáng nhỏ sống trên viên như một mục riêng: di chuyển nó trong thứ tự như các mục khác, ở mọi kiểu. Mắt cô ấy nhìn theo chuột, cô ấy chớp mắt, nhảy theo nhạc của các ứng dụng bạn chọn và cho thấy máy tính đang làm gì; khi không có gì chuyển động, cô ấy nghỉ. Khi cô ấy chuyển động, đảo được vẽ lại tới 30 lần mỗi giây: trên máy tính chậm, tắt điệu nhảy và «Mắt nhìn theo chuột» sẽ nhẹ hơn
+A sneeze	Hắt hơi
+A sneeze, by herself	Tự hắt hơi một cái
+A sound for this event	Âm thanh cho sự kiện này
+A summary of the PC, the island's settings and its last 300 log lines (the dock's are in Windhawk's log)	Thông tin máy tính, cài đặt Island và 300 dòng nhật ký gần nhất. Nhật ký của Dock nằm trong nhật ký Windhawk
+A tap	Chạm nhẹ
+A task can be given a day. It shows under the task (red when it passed, not done), and the dated tasks come first, the soonest on top. Tasks without a date stay as they are	Có thể đặt một ngày cho công việc. Ngày hiện dưới công việc (màu đỏ khi đã quá hạn mà chưa xong), và các công việc có ngày được xếp trước, gần nhất ở trên cùng. Công việc không có ngày giữ nguyên
+A title too long to fit scrolls across while it plays	Tên bài hát dài quá khung sẽ tự chạy chữ khi đang phát
+A to Z	A đến Z
+A yawn	Ngáp
+A yawn, by herself	Tự ngáp một cái
+AI usage	Mức sử dụng AI
+About	Giới thiệu
+Accent	Màu nhấn
+Accent color	Màu nhấn
+Accessibility	Trợ năng
+Add	Thêm
+Add  (Enter)	Thêm  (Enter)
+Add a folder	Thêm thư mục
+Add a separator line · drag it between icons, click it to remove	Thêm đường kẻ phân cách · kéo vào giữa các biểu tượng, bấm để xóa
+Add an open app	Thêm ứng dụng đang mở
+Add clocks in Windows' date and time settings (Additional clocks)	Thêm đồng hồ trong cài đặt Ngày & giờ của Windows, mục Additional clocks
+Add controls	Thêm nút điều khiển
+Add note  (Ctrl+Enter)	Thêm ghi chú  (Ctrl+Enter)
+Add provider	Thêm dịch vụ
+Add the shortcuts you want to remember	Lưu các phím tắt cần nhớ để tra cứu nhanh
+Added to your commands	Đã thêm vào lệnh của bạn
+Adds a button for sleep, restart and shut down	Thêm nút với các tùy chọn Ngủ, Khởi động lại và Tắt máy
+Adds a button that lists the keyboard shortcuts	Hiện nút xem nhanh danh sách phím tắt
+Adds a button that mutes and unmutes the microphone	Hiện nút tắt/bật nhanh micrô
+Adds a button that opens your quick notes	Hiện nút mở nhanh bảng ghi chú
+Adds a button that opens your to-do list	Hiện nút mở danh sách việc cần làm
+Adds a button that switches Windows between light and dark	Hiện nút đổi nhanh giao diện Sáng / Tối của Windows
+Adds a button to switch profiles from the pill	Hiện nút đổi nhanh cấu hình ngay trên Island
+Adds a small arrow at the pill's end that hides it to its line	Hiện nút mũi tên nhỏ ở cuối Island để thu gọn thành vạch mảnh
+Adds a timer, a stopwatch and a Pomodoro to the pill	Hiện bộ hẹn giờ, bấm giờ và Pomodoro trên Island
+Adds a way to reach the tray icons of other apps from the pill	Hiện nút mở các biểu tượng khay hệ thống trên Island
+Adds the Recycle Bin to the pill	Hiện Thùng rác trên Island
+Adds the day and the month to the clock	Hiện thêm ngày và tháng cạnh đồng hồ
+Adds the notifications bell to the pill	Hiện chuông thông báo trên Island
+Adds the seconds to the time	Hiện thêm số giây trên đồng hồ
+Adds the weekday to the clock	Hiện thêm thứ trong tuần cạnh đồng hồ
+Adds the year to the clock	Hiện thêm năm trên đồng hồ
+Affection	Âu yếm
+After its app: stays	Khi chuyển khỏi ứng dụng: giữ cấu hình
+After its app: the one before	Khi chuyển khỏi ứng dụng: về cấu hình trước
+Again to put every setting back to its default (notes, tasks, events and profiles stay)	Bấm lần nữa để đưa mọi cài đặt về mặc định (ghi chú, việc cần làm, sự kiện và cấu hình được giữ lại)
+Agendas	Lịch liên kết
+Ah… ah… achoo!	A… a… hắt xì!
+Airplane mode	Chế độ máy bay
+Alarm	Báo thức
+Alarms	Báo thức
+All	Tất cả
+All apps	Tất cả ứng dụng
+All day	Cả ngày
+All done	Đã hoàn thành tất cả
+All files	Tất cả tệp
+All quiet here.	Ở đây yên ắng lắm.
+All reactions	Mọi phản ứng
+All set	Thiết lập hoàn tất
+All up to date	Tất cả đều đã được cập nhật
+Already added	Đã có trong danh sách
+Also on the minimized line	Cũng hiện trên vạch thu gọn
+Also shows the title of the window in focus, like the page or the file open in it	Hiện thêm tiêu đề cửa sổ đang hoạt động, chẳng hạn tên trang web hoặc tệp đang mở
+Always	Luôn hiện
+Always on the pill, even with nothing playing	Luôn hiện trên Island, kể cả khi không phát gì
+Always shown	Luôn hiện
+Always, or only once what's in it weighs this much (it comes and goes by itself)	Luôn hiển thị, hoặc chỉ hiển thị khi dung lượng trong Thùng rác đạt ngưỡng đã chọn; biểu tượng tự ẩn khi không còn đủ điều kiện
+Amber	Hổ phách
+An app appears here once it plays music; only the ones you check make her dance	Ứng dụng sẽ xuất hiện ở đây khi phát nhạc; chỉ những ứng dụng được đánh dấu mới khiến cô ấy nhảy
+An app appears here once it plays something	Ứng dụng xuất hiện ở đây sau khi phát nội dung
+An arrow drops into her and she's proud; with her care on, it feeds her	Một mũi tên rơi vào cô ấy và cô ấy tự hào; khi bật chăm sóc, điều này cho cô ấy ăn
+Angry	Giận dữ
+Animations	Hiệu ứng chuyển động
+App	Ứng dụng
+App in focus	Ứng dụng đang hoạt động
+Applies to every monitor, and the island restarts to apply it	Áp dụng cho tất cả màn hình. Island sẽ khởi động lại để áp dụng thay đổi
+Apply	Áp dụng
+Apps	Ứng dụng
+Apps (launcher)	Ứng dụng (trình khởi chạy)
+Apps (winget, in a terminal)	Ứng dụng (winget trong terminal)
+Apps and tools	Ứng dụng & công cụ
+Apps she dances to	Ứng dụng cô ấy nhảy theo
+Apps that bring the visualizer	Ứng dụng hiện sóng nhạc
+Apps that look for lyrics	Ứng dụng được phép tìm lời bài hát
+Apps with notifications	Ứng dụng có thông báo
+Apps with unsaved work can stop it.	Các ứng dụng chưa lưu dữ liệu có thể ngăn thao tác này.
+Are you working or just pretending?	Bạn đang làm việc hay chỉ giả vờ thế?
+Area that brings it back	Chiều rộng vùng kích hoạt
+Arguments (if any)	Tham số (nếu có)
+Arguments (optional)	Tham số (không bắt buộc)
+Ask before restarting, shutting down or signing out	Hỏi trước khi khởi động lại, tắt máy hoặc đăng xuất
+Ask every time	Hỏi mỗi lần
+Ask the first time	Hỏi lần đầu
+Asleep · Do not disturb is on	Đang ngủ · Không làm phiền đang bật
+Asleep · no mouse or keyboard for %s min	Đang ngủ · không có chuột hay bàn phím trong %s phút
+Attentive	Chu đáo
+Audio visualizer	Sóng nhạc
+Audio visualizer (bars moving with the sound)	Sóng nhạc (các cột chuyển động theo âm thanh)
+Auto	Tự động
+Auto (light or dark)	Tự động (theo chế độ Sáng/Tối)
+Auto, inverted (the other way from Windows)	Tự động đảo ngược (ngược với chế độ của Windows)
+Automatic	Tự động
+Available	Khả dụng
+BSP	BSP
+Back	Quay lại
+Back to default	Khôi phục mặc định
+Back to focus	Tiếp tục tập trung
+Backup	Sao lưu
+Backup (notes, tasks, profiles and settings)	Sao lưu (ghi chú, việc cần làm, cấu hình và cài đặt)
+Balanced	Cân bằng
+Banner corners	Độ bo góc thông báo nổi
+Banner size	Kích thước thông báo nổi
+Banner width	Chiều rộng thông báo nổi
+Banners	Thông báo nổi
+Banners (notifications on the pill)	Thông báo nổi (thông báo trên Island)
+Banners close on a click outside	Thông báo nổi đóng khi bấm ra ngoài
+Banners even with the pill minimized	Hiện thông báo nổi cả khi Island đang thu gọn
+Banners in the pill	Thông báo nổi trên Island
+Banners show each new notification coming out of the pill	Thông báo nổi xuất hiện từ Island khi có thông báo mới
+Banners still appear while the pill is minimized to its line	Vẫn hiển thị thông báo nổi khi Island đang thu gọn thành vạch
+Bar	Thanh
+Bar: along the whole top edge, like macOS' menu bar	Thanh: trải dài theo cạnh trên, tương tự thanh menu của macOS
+Bar: hide as its line too	Thanh: cũng ẩn thành vạch
+Bar: items at the screen's corners	Thanh: đặt các mục ở hai đầu màn hình
+Bar: items keep their side of the clock	Thanh: các mục giữ nguyên phía của đồng hồ
+Bars' height	Chiều cao cột
+Bars' width	Độ rộng cột
+Base frequency	Xung nhịp cơ bản
+Battery	Pin
+Battery charging	Đang sạc pin
+Battery charging (own color)	Đang sạc pin (màu tùy chọn)
+Battery percentage beside its icon	Phần trăm pin cạnh biểu tượng
+Black	Đen
+Blue	Xanh dương
+Bluetooth	Bluetooth
+Bluetooth & devices	Bluetooth & thiết bị
+Bluetooth audio connected	Đã kết nối âm thanh Bluetooth
+Bluetooth is off	Bluetooth đang tắt
+Bluish when lonely, warmer when the processor works hard or she is hungry, paler when thirsty or tired	Ngả xanh khi cô đơn, ấm hơn khi bộ xử lý làm việc nặng hoặc khi đói, nhạt hơn khi khát hoặc mệt
+Bootstrap (online)	Bootstrap (trực tuyến)
+Bored · nobody has played with her for %s h	Buồn chán · đã %s giờ không ai chơi với cô ấy
+Bottom	Dưới
+Bottom left	Góc dưới bên trái
+Bottom right	Góc dưới bên phải
+Break	Nghỉ ngơi
+Brightness	Độ sáng
+Brightness of external monitors (DDC/CI)	Độ sáng màn hình ngoài (DDC/CI)
+Brightness of external monitors turned off	Đã tắt độ sáng màn hình ngoài
+Brings the visualizer	Hiện sóng nhạc
+Browsers never tell the taskbar a download is paused or failed: one whose bar stands still for 30 s turns yellow	Trình duyệt không báo trạng thái tạm dừng hoặc lỗi tải xuống cho thanh tác vụ. Nếu tiến trình không thay đổi trong 30 giây, Island sẽ hiển thị trạng thái tạm dừng bằng màu vàng
+Bugs and ideas	Báo lỗi & góp ý
+Built-in display	Màn hình tích hợp
+Button on the island (its icon on the pill)	Nút trên Island
+Buttons on the pill	Các nút trên Island
+By date modified	Theo ngày sửa
+By name	Theo tên
+By size	Theo dung lượng
+By type	Theo loại tệp
+CPU temperature	Nhiệt độ CPU
+CPU, RAM and VRAM use	Mức sử dụng CPU, RAM và VRAM
+CPU, RAM, VRAM and GPU use	Mức sử dụng CPU, RAM, VRAM và GPU
+Cached	Bộ nhớ đệm
+Calculator	Máy tính
+Calendar	Lịch
+Calendar full: delete past events in the gear	Lịch đã đầy: bấm vào biểu tượng bánh răng để xóa bớt sự kiện cũ
+Calendar with today big	Lịch với ngày hiện tại nổi bật
+Calls and alarms silent in Do not disturb	Tắt âm cuộc gọi và báo thức khi bật Không làm phiền
+Calm	Điềm tĩnh
+Calm · nothing going on	Bình yên · không có gì xảy ra
+Camera	Camera
+Cancel	Hủy
+Caps Lock bubble	Thông báo Caps Lock
+Caps Lock off	Caps Lock tắt
+Caps Lock on	Caps Lock bật
+Captions	Phụ đề trực tiếp
+Care pace	Nhịp chăm sóc
+Cast	Truyền màn hình (Cast)
+Center	Giữa
+Change the order with Ctrl + drag on the island	Đổi thứ tự bằng Ctrl + kéo trên Island
+Changes are saved in the one in use · the pencil renames, saves or deletes	Thay đổi được lưu vào cấu hình đang dùng. Bấm biểu tượng bút chì để đổi tên, lưu cài đặt hoặc xóa cấu hình
+Charger plugged in	Đã cắm sạc
+Charging	Đang sạc
+Charging battery color	Màu pin khi đang sạc
+Charging battery color (own)	Màu pin khi đang sạc (riêng)
+Check every	Kiểm tra mỗi
+Choose	Chọn
+Choose a JSON file	Chọn tệp JSON
+Choose a power plan	Chọn chế độ nguồn (Power plan)
+Choose a program or a file	Chọn chương trình hoặc tệp
+Choose it…	Chọn…
+Choose the folder with your pictures	Chọn thư mục chứa ảnh của bạn
+Choose...	Chọn...
+Chooses how many animations play, on every monitor	Chọn mức độ hiệu ứng chuyển động cho tất cả màn hình
+Chooses which monitors show the island, with a map of your screens	Chọn màn hình hiển thị Island trên sơ đồ màn hình thực tế
+Choose…	Chọn…
+Circle	Vòng tròn
+City not found	Không tìm thấy thành phố
+Claude Code	Claude Code
+Claude Code (terminal)	Claude Code (terminal)
+Claude Code gives its limits to its status line, run in Git Bash: copy the line into its script, after it reads its input with input=$(cat) (see the README)	Claude Code cung cấp hạn mức qua thanh trạng thái (status line). Nếu dùng Git Bash, dán dòng lệnh vào script của thanh trạng thái, sau lệnh input=$(cat) đọc dữ liệu đầu vào (xem README)
+Claude Code tells its limits with a Pro or Max plan, after its first answer in a session	Hạn mức của Claude Code chỉ có với gói Pro hoặc Max và xuất hiện sau câu trả lời đầu tiên trong phiên
+Clear	Trời quang
+Clear all	Xóa tất cả
+Click (or press Space) when the ring reaches her. The beat follows the music that is playing, or is steady without it. 32 beats, and hits in a row are worth more.	Nhấp chuột (hoặc nhấn Space) khi vòng tròn chạm vào bé. Nhịp theo bản nhạc đang phát, hoặc đều đặn nếu không có nhạc. 32 nhịp, và trúng liên tiếp được nhiều điểm hơn.
+Click a screen to choose where the island appears.	Bấm vào một màn hình để chọn nơi đặt Island.
+Click a screen to place the main island there (alerts and tray).	Bấm vào một màn hình để đặt Island chính ở đó (hiện thông báo và khay hệ thống).
+Click and press the keys	Bấm vào đây rồi nhấn tổ hợp phím
+Click to play	Nhấp để chơi
+Click to play again	Nhấp để chơi lại
+Click to record	Bấm để ghi
+Clicking a screenshot notice opens the picture in Explorer	Bấm thông báo chụp màn hình để mở ảnh trong File Explorer
+Clicks go through the pill	Bấm xuyên qua Island
+Clipboard	Bộ nhớ tạm
+Clock	Đồng hồ
+Clock against the screen's edge	Đồng hồ sát cạnh màn hình
+Clock and calendar	Đồng hồ & lịch
+Clock and calendar (agendas: the calendar's gear)	Đồng hồ & lịch (thêm lịch .ics ở nút bánh răng trong lịch)
+Clock font	Phông chữ đồng hồ
+Clock in the middle (the other items move around it)	Giữ đồng hồ ở chính giữa (các mục khác xếp hai bên)
+Close it to finish	Đóng ứng dụng để hoàn tất
+Cloud jump	Nhảy qua mây
+Clouds	Mây
+Codex	Codex
+Codex keeps its limits in its logs on this PC: they show after its next answer	Codex lưu thông tin hạn mức trong nhật ký trên máy này; dữ liệu sẽ xuất hiện sau câu trả lời tiếp theo
+Color filters	Bộ lọc màu
+Color for downloads and other apps	Màu khi tải xuống và chạy tác vụ
+Color for file copies	Màu tiến trình sao chép tệp
+Color for the battery charging	Màu khi đang sạc pin
+Colors	Màu sắc
+Colors following the app in front (its title bar or its icon)	Đổi màu theo ứng dụng đang hoạt động (lấy từ thanh tiêu đề hoặc biểu tượng)
+Colors: like Windows (light or dark with it), always light or always dark, or the colors of the app in front	Chọn màu theo chế độ sáng/tối của Windows, luôn sáng, luôn tối hoặc theo ứng dụng đang hoạt động
+Columns	Chia cột
+Command (cmd, without a window)	Lệnh (cmd, không hiện cửa sổ)
+Command line	Dòng lệnh
+Committed	Đã cấp phát
+Compact (cover only)	Gọn (chỉ ảnh bìa)
+Completed	Đã hoàn tất
+Compressed	Tệp nén
+Connect	Kết nối
+Connected	Đã kết nối
+Connecting...	Đang kết nối...
+Content hidden	Đã ẩn nội dung
+Control Panel	Control Panel
+Control center	Trung tâm điều khiển
+Control center buttons on the pill	Nút trung tâm điều khiển trên Island
+Copied	Sao chép
+Copy	Sao chép
+Copy code	Sao chép mã
+Copy the line	Sao chép dòng lệnh
+Copy verification codes	Sao chép mã xác minh
+Copying files	Đang sao chép tệp
+Copying or moving files	Sao chép hoặc di chuyển tệp
+Coral	San hô
+Cores / threads	Nhân / luồng
+Corners	Hai góc
+Couldn't change the hotspot.	Không đổi được điểm phát sóng.
+Couldn't connect.	Không kết nối được.
+Couldn't connect. Check the password.	Không kết nối được. Hãy kiểm tra lại mật khẩu.
+Couldn't download it: click to try again	Không tải được: bấm để thử lại
+Couldn't download them: click it again to try	Không tải được: bấm lần nữa để thử lại
+Couldn't empty it	Không thể dọn sạch thùng rác
+Couldn't forget the network.	Không thể quên mạng này.
+Couldn't reach lrclib.net	Không kết nối được tới lrclib.net
+Couldn't read it	Không đọc được dữ liệu
+Couldn't save in that folder	Không lưu được vào thư mục đó
+Counting the pixels on your screen.	Mình đang đếm điểm ảnh trên màn hình.
+Counts down to Pomodoro's next part	Đếm ngược đến khi kết thúc giai đoạn tập trung hoặc nghỉ hiện tại của Pomodoro
+Counts down to alarms	Đếm ngược tới giờ báo thức
+Counts down to events	Đếm ngược tới sự kiện sắp diễn ra
+Counts down to the timer's end	Đếm ngược đến khi hết thời gian hẹn giờ
+Cover and title	Ảnh bìa và tên bài
+Cover and title on the pill	Hiện ảnh bìa và tên bài trên Island
+Cuddle	Vuốt ve
+Current	Hiện tại
+Custom	Tùy chỉnh
+Custom (JSON file)	Tùy chỉnh (tệp JSON)
+Customize…	Tùy chỉnh…
+Cyan	Lục lam
+Cycles through the pictures of a folder as your wallpaper	Luân phiên dùng các ảnh trong thư mục làm hình nền
+D M Y	Ngày / Tháng / Năm
+Dances with the music	Nhảy theo nhạc
+Dancing · %s is playing	Đang nhảy · %s đang phát
+Dark	Tối
+Dark mode	Chế độ tối
+Date	Ngày
+Date modified	Ngày sửa đổi
+Date order	Thứ tự ngày tháng
+Dates on tasks	Ngày cho công việc
+Day and month	Ngày và tháng
+Day of the week	Thứ trong tuần
+Delete	Xóa
+Delete %zu past events?	Xóa %zu sự kiện đã qua?
+Delete it?	Xóa mục này?
+Delete past events	Xóa sự kiện đã qua
+Desktop	Màn hình nền
+Details	Chi tiết
+Details as cards	Chi tiết dạng thẻ
+Device	Thiết bị
+Device Manager	Device Manager
+Devices	Thiết bị
+Disconnect	Ngắt kết nối
+Disconnected	Đã ngắt kết nối
+Disconnecting...	Đang ngắt kết nối...
+Dismiss	Bỏ qua
+Display	Màn hình
+Display brightness	Độ sáng màn hình
+Do not disturb	Không làm phiền
+Do not disturb turned on or off	Bật hoặc tắt Không làm phiền
+Do not disturb: silent	Không làm phiền: im lặng
+Dock	Dock
+Documents	Tài liệu
+Don't stop now!	Đừng dừng lại nha!
+Done	Xong
+Download	Tải xuống
+Download finished	Tải xuống xong
+Download peak (1 min)	Đỉnh tải xuống (1 phút)
+Download pictures from the web (goes online)	Tải ảnh trong thông báo từ internet
+Downloading	Đang tải xuống
+Downloading the icons	Đang tải các biểu tượng
+Downloads	Tải xuống
+Downloads and other apps	Tải xuống và ứng dụng khác
+Downloads and other apps (own color)	Tải xuống và ứng dụng khác (màu tùy chọn)
+Downloads, installs and other apps' progress; red for an error, yellow paused	Tiến trình tải xuống, cài đặt hoặc xử lý của ứng dụng; đỏ khi lỗi, vàng khi tạm dừng
+Drag an icon to another notch or place	Kéo biểu tượng sang Notch hoặc vị trí khác
+Drag an icon to change the order	Kéo biểu tượng để đổi thứ tự
+Drag from one notch to another · click to hide	Kéo qua lại giữa các Notch · bấm để ẩn
+Drag the groups to reorder them, the minimize arrow stays last	Kéo các nhóm để đổi vị trí, nút mũi tên thu gọn luôn nằm cuối
+Drag the pill to any spot on the screen (not with notches)	Kéo Island tới bất kỳ đâu trên màn hình (không dùng được khi bật Notch)
+Drag to change the order or to put one on the pill · middle click, or the pin after a moment on an icon: kept on the pill	Kéo để sắp xếp hoặc đưa biểu tượng lên Island. Bấm chuột giữa, hoặc rê chuột lên biểu tượng rồi bấm nút ghim, để luôn giữ biểu tượng trên Island
+Drag to change the order · click to hide	Kéo để đổi thứ tự · bấm để ẩn
+Dreaming of pixels.	Mình đang mơ về điểm ảnh.
+Drinking	Uống
+Drive	Ổ đĩa
+Drizzle	Mưa phùn
+Drop files on the pill to keep them here, then drag them into another app	Thả tệp lên Island để giữ ở đây, rồi kéo sang ứng dụng khác
+Drop files on the pill to keep them there, then drag them out into another app later (their places are kept, not copies)	Thả tệp lên Island để giữ trong khay, rồi kéo sang ứng dụng khác khi cần. Khay chỉ lưu đường dẫn, không tạo bản sao của tệp
+Drop it, I've got it.	Thả ra đi, mình giữ rồi.
+Duplicate	Nhân đôi màn hình
+Each bar sways on its own, softly, as loud as the sound; off, they jump with the beat	Mỗi cột chuyển động mượt theo cường độ âm thanh. Khi tắt, các cột nhảy theo nhịp nhạc
+Each new one opens the pill for a moment	Tạm mở rộng Island mỗi khi có thông báo mới
+Each notch hides alone instead of all at once (Fixed only)	Tự động ẩn từng Notch riêng lẻ thay vì ẩn tất cả cùng lúc (chỉ áp dụng cho kiểu Cố định)
+Each screen has its own island	Mỗi màn hình hiển thị một Island riêng
+Eating	Ăn
+Edge	Khoảng cách đến mép
+Edge around	Viền bao quanh
+Edge distance	Khoảng cách tới mép màn hình
+Edit	Sửa
+Edit command	Sửa lệnh
+Edit provider	Sửa dịch vụ
+Edit task	Sửa việc cần làm
+Efficiency	Tiết kiệm điện
+Eight colors, Windows' accent or your own	Tám màu, màu nhấn của Windows hoặc màu riêng của bạn
+Eject	Tháo an toàn
+Ejecting…	Đang tháo thiết bị…
+Emoji	Emoji
+Empty	Trống
+Empty it? Click again	Bấm lần nữa để dọn sạch Thùng rác
+Empty the bin	Dọn sạch thùng rác
+Emptying…	Đang dọn Thùng rác…
+Energy	Năng lượng
+Energy, food, water and love go down slowly while you use the PC, and you look after her in her panel. She never goes away, never asks in full screen or Do not disturb, and makes no sound unless her sounds are on	Năng lượng, thức ăn, nước và yêu thương giảm dần khi bạn dùng PC, và bạn chăm sóc cô ấy trong bảng của cô ấy. Cô ấy không bao giờ biến mất, không đòi gì khi toàn màn hình hay Không làm phiền, và không phát ra âm thanh trừ khi bật âm thanh của cô ấy
+English letters	Chữ tiếng Anh
+Error	Lỗi
+Essential	Thiết yếu
+Essential: the clock, the battery, the control center, the volume, the notifications' bell and what's playing	Thiết yếu: đồng hồ, pin, trung tâm điều khiển, âm lượng, chuông thông báo và nội dung đang phát
+Ethernet	Mạng dây (Ethernet)
+Even when minimized	Cả khi đang thu gọn
+Event	Sự kiện
+Events in the calendar	Sự kiện trong lịch
+Events, 	Sự kiện, 
+Every day	Hằng ngày
+Every option explained step by step, the roadmap and your votes	Hướng dẫn từng tùy chọn, lộ trình phát triển và bình chọn tính năng
+Everyday	Thường dùng
+Everyday: also the next event, the weather (goes online), the timer, your folders, the apps with notifications and the song's cover	Thường dùng: thêm sự kiện sắp tới, thời tiết (cần internet), hẹn giờ, thư mục, ứng dụng có thông báo và ảnh bìa bài hát
+Everything	Tất cả
+Everything: most of the items, from notes and tasks to the network's speed	Tất cả: bật hầu hết các mục, từ ghi chú và việc cần làm đến tốc độ mạng
+Excuse me!	Xin lỗi nha!
+Expanded card when the mouse rests on a live item	Mở thẻ mở rộng khi chuột dừng trên mục đang hoạt động
+Export	Xuất
+Export the island's backup	Xuất tệp sao lưu của Island
+Extend	Mở rộng (Extend)
+Extra wide	Rất rộng
+Fade	Mờ dần
+Fade the line after	Ẩn dần vạch thu gọn sau
+Fan	Quạt
+Favorite moved or deleted	Tệp yêu thích đã bị di chuyển hoặc xóa
+Favorites	Yêu thích
+Favorites are full	Danh sách yêu thích đã đầy
+Faísca	Faísca
+Faísca, a pet on the island	Faísca, thú cưng trên Island
+Faísca, the island's pet	Faísca, thú cưng của Island
+Feels like	Nhiệt độ cảm nhận
+Fetches pictures for banners from the web, it needs an internet connection	Tải ảnh trong thông báo từ internet (cần kết nối mạng)
+File Explorer	File Explorer
+File copied	Đã sao chép tệp
+File copies	Sao chép tệp
+File copies (own color)	Sao chép tệp (màu tùy chọn)
+File moved	Đã di chuyển tệp
+Files	Tệp
+Files are being copied	Đang sao chép tệp
+Files are being moved	Đang di chuyển tệp
+Files copied or moved by Windows (its copy window)	Tiến trình sao chép hoặc di chuyển tệp của Windows
+Files dragged out	Kéo tệp ra ngoài
+Files dragged out of the folders panel or the shelf into an app: copied or moved, or asked (the first time, remembered, or every time)	Chọn cách xử lý khi kéo tệp từ bảng thư mục hoặc khay tệp sang ứng dụng khác: sao chép, di chuyển, hỏi lần đầu rồi ghi nhớ, hoặc hỏi mỗi lần
+Files dragged out of the island are:	Khi kéo tệp ra khỏi Island:
+Fill	Nền
+Fill animation	Kiểu hiệu ứng lấp đầy
+Find the six pairs of the island's own icons. The shortest time wins.	Tìm sáu cặp biểu tượng của chính Island. Thời gian ngắn nhất sẽ thắng.
+Finding your location…	Đang tìm vị trí của bạn…
+Finish	Hoàn tất
+Finish keeps all of it; Cancel puts back what was there before	Chọn Hoàn tất để lưu mọi thay đổi; chọn Hủy để khôi phục cài đặt trước khi bắt đầu
+Five small games with your best results, kept only on this PC (no internet)	Năm trò chơi nhỏ với kết quả tốt nhất của bạn, chỉ lưu trên máy này (không cần internet)
+Fixed	Cố định
+Fixed: joined to the top edge, keeping its room (the windows stay below it)	Cố định: gắn vào cạnh trên và dành riêng một vùng hiển thị, để cửa sổ không che Island
+Floating	Cửa sổ nổi
+Fluent (online)	Fluent (trực tuyến)
+Focus	Tập trung
+Focused right along with you.	Mình cũng đang tập trung cùng bạn.
+Focused · Pomodoro's focus time	Tập trung · thời gian tập trung Pomodoro
+Fog	Sương mù
+Fold the apps with notifications into an arrow (out when one comes, and under the mouse)	Gom biểu tượng ứng dụng có thông báo vào nút mũi tên; tự mở rộng khi có thông báo mới hoặc khi rê chuột lên nút
+Folder	Thư mục
+Folders	Thư mục
+Folders and places	Thư mục & lối tắt
+Folders and places (your shortcuts)	Thư mục & lối tắt nhanh
+Folders mixed with files	Xếp chung thư mục với tệp
+Folds the app icons into an arrow, they come out for new ones or on hover	Thu gọn các biểu tượng ứng dụng vào nút mũi tên; mở rộng khi có thông báo mới hoặc khi rê chuột lên nút
+Following the bell	Theo biểu tượng chuông
+Following the mouse is unavailable with notches on the main island.	Không thể chuyển Island theo con trỏ khi Island chính đang dùng Notch.
+Follows Windows or forces a 24 hour or 12 hour clock	Dùng định dạng giờ của Windows hoặc chọn riêng định dạng 24 giờ hay 12 giờ
+Follows Windows' measurement system or forces Celsius or Fahrenheit	Dùng hệ đo lường của Windows hoặc chọn riêng độ C hay độ F
+Follows the line	Theo độ dài câu hát
+Follows the mouse	Theo con trỏ chuột
+Food	Thức ăn
+For OLED screens: the minimized line fades away after this long, back when the mouse reaches it	Dành cho màn hình OLED: vạch thu gọn mờ dần rồi biến mất sau thời gian đã chọn, và hiện lại khi đưa chuột vào
+Forget	Quên mạng
+Forget it?	Quên mạng này?
+Frames a second	Giới hạn khung hình (FPS)
+Freezing drizzle	Mưa phùn đóng băng
+Freezing rain	Mưa đóng băng
+Frequency	Xung nhịp
+From square to fully round corners (not with the bar or notches)	Từ vuông vức đến bo tròn hoàn toàn (không áp dụng cho kiểu Thanh hay Notch)
+Frosted glass on the bar and the Fixed style's strip	Kính mờ cho kiểu Thanh và dải nền của kiểu Cố định
+Frosted look for the bar and the Fixed strip, needs Windows transparency	Làm mờ nền của kiểu Thanh và dải nền của kiểu Cố định. Cần bật hiệu ứng trong suốt của Windows
+Fruit rain	Mưa trái cây
+Frustrated	Bực bội
+Full screen: silent	Toàn màn hình: im lặng
+Fun	Niềm vui
+Game over	Kết thúc
+Game: caught	Trò chơi: bắt được
+Game: missed	Trò chơi: trượt
+Game: new record	Trò chơi: kỷ lục mới
+Games in exclusive full screen still draw over it. In some games it can cost some performance, or bother anti-cheat systems	Trò chơi ở chế độ toàn màn hình độc quyền vẫn vẽ đè lên. Ở một số trò chơi, tùy chọn này có thể giảm hiệu năng hoặc ảnh hưởng đến hệ thống chống gian lận
+Games in her panel	Trò chơi trong bảng của cô ấy
+Gap between the pill and the screen edge (not with the bar or notches)	Khoảng cách từ Island tới mép màn hình (không áp dụng cho Thanh hay Notch)
+General	Chung
+Gives chosen apps their own icons, clock and order while they're in front (in the Island style, their own spot too). Each style has its own list	Đặt biểu tượng, đồng hồ và thứ tự riêng cho các ứng dụng đã chọn khi chúng đang ở phía trước (ở kiểu Island, cả vị trí riêng). Mỗi kiểu có danh sách riêng
+Glass	Hiệu ứng kính
+Glass blur	Độ mờ của kính
+Glass: see-through and blurred, like on macOS	Kính: nền trong suốt kết hợp hiệu ứng làm mờ, tương tự macOS
+Glass: see-through and blurred, with a bright edge (Windows' blur: needs its transparency effects)	Kính: nền trong suốt, làm mờ nội dung phía sau và có viền sáng. Cần bật hiệu ứng trong suốt của Windows
+GlazeWM's workspaces	Workspace của GlazeWM
+GlazeWM: hide the workspaces without windows	GlazeWM: ẩn các workspace không có cửa sổ
+GlazeWM: its workspaces on the pill (a click switches)	GlazeWM: hiện các workspace trên Island (bấm để chuyển)
+Glow and hops can leave the island	Ánh sáng và cú nhảy có thể ra ngoài Island
+Glow and particles	Phát sáng & hạt
+Glowing in my little corner.	Mình đang tỏa sáng trong góc nhỏ của mình.
+Got your file. I'll hold it.	Mình nhận file của bạn rồi, mình giữ cho.
+Graphics card temperature	Nhiệt độ card đồ họa
+Graphics card use (GPU)	Mức dùng card đồ họa (GPU)
+Graphite	Xám than chì
+Green	Xanh lá
+Grid	Dạng lưới
+Grid columns	Số cột của lưới
+Happy · a notification came	Vui · có thông báo mới
+Hard to read: too alike	Khó đọc: màu chữ và nền quá giống nhau
+Heavy rain	Mưa lớn
+Hehe.	Hề hề.
+Help translate the island	Giúp dịch Island
+Her color	Màu của cô ấy
+Her color changes with the mood	Màu đổi theo tâm trạng
+Her eyes and body turn toward the mouse, more the closer it is	Mắt và thân hướng về phía chuột, chuột càng gần thì càng quay nhiều
+Her eyes follow the mouse	Mắt nhìn theo chuột
+Her glow, rings and hops may go past the island, also over a maximized app; off, she stays inside it	Ánh sáng, vòng sáng và cú nhảy của cô ấy có thể ra ngoài Island, cả trên ứng dụng đang phóng to; khi tắt, cô ấy ở bên trong
+Her light tints the island around her and flows through it in waves when she blinks, hops, dances or reacts	Ánh sáng của cô ấy tô màu Island quanh cô ấy và lan qua đó thành từng đợt sóng khi cô ấy chớp mắt, nhảy, nhảy múa hoặc phản ứng
+Her own color	Màu riêng của cô ấy
+Her size	Kích thước của cô ấy
+Her sounds off	Âm thanh của cô ấy đang tắt
+Her volume	Âm lượng của cô ấy
+Heroicons (online)	Heroicons (trực tuyến)
+Hex	Hex
+Hey! That hurt.	Này! Đau đó.
+Hibernate	Ngủ đông
+Hidden, a small pill with the time stays instead of the line (the line while a window is under it). The Bar hidden with Win+J closes into it too	Giữ một Island nhỏ hiển thị giờ thay cho vạch thu gọn; chuyển về vạch khi có cửa sổ nằm phía sau. Kiểu Thanh cũng thu gọn về dạng này khi nhấn Win+J
+Hide a notch with nothing in it	Ẩn Notch trống
+Hide after	Độ trễ trước khi ẩn
+Hide as its line until the mouse reaches it	Tự động thu gọn Island
+Hide each notch on its own (not all together)	Ẩn riêng từng Notch (thay vì ẩn cùng lúc)
+Hide past events after	Ẩn sự kiện đã qua sau
+Hide the Windows banners	Ẩn thông báo nổi của Windows
+Hide the numbers	Ẩn các con số
+Hides when the mouse leaves, or only while a window is maximized or over it	Ẩn khi đưa chuột ra khỏi Island, khi có cửa sổ phóng to hoặc khi có cửa sổ che vị trí của Island, tùy lựa chọn bên dưới
+Hiding	Tự động ẩn
+Hiding and notifications	Tự động ẩn và thông báo
+Hiding: when and how it becomes the line	Tự động ẩn: điều kiện và cách thu gọn
+Highlight behind the item under the mouse	Làm sáng nền mục dưới trỏ chuột
+Hihi!	Hí hí!
+Hmm, interesting.	Hmm, thú vị đó.
+Hmph.	Hứ.
+Hold Ctrl and drag an item on the island (in any style) to another place, or to another notch. Its items jiggle while Ctrl is held with the mouse on it	Giữ Ctrl và kéo một mục trên Island (ở mọi kiểu) sang vị trí khác hoặc sang Notch khác. Các mục sẽ rung khi bạn giữ Ctrl và đặt chuột trên Island
+Holding · something is dragged over the island	Đang giữ · có thứ đang được kéo qua đảo
+Holidays in the calendar (goes online)	Hiện ngày lễ trong lịch (cần internet)
+Home folder	Thư mục người dùng
+Horizontal stack	Xếp chồng ngang
+Hot · the graphics card at %s	Nóng · card đồ họa ở mức %s
+Hot · the memory at %s	Nóng · bộ nhớ ở mức %s
+Hot · the processor at %s	Nóng · bộ xử lý ở mức %s
+How big she is on the pill and on the line; above 100% she goes past the pill's edges	Cô ấy lớn cỡ nào trên viên và trên vạch; trên 100% cô ấy vượt ra khỏi mép viên
+How big the banner is, its texts and buttons with it	Điều chỉnh kích thước thông báo nổi, bao gồm cả chữ và các nút bên trong
+How big the line is on the pill	Cỡ chữ lời bài hát hiển thị trên Island
+How big the previous, play and next buttons on the pill are, as far as the pill is tall	Kích thước các nút trước, phát và sau trên Island, tối đa bằng chiều cao của Island
+How busy the processor, the memory or the graphics card must be, for 5 seconds, before she shows it	Bộ xử lý, bộ nhớ hoặc card đồ họa phải bận đến mức nào, trong 5 giây, thì cô ấy mới thể hiện ra
+How fast her needs come back as you use the PC: calm (about a day), normal (8 hours) or attentive (3 hours)	Nhu cầu của cô ấy quay lại nhanh thế nào khi bạn dùng PC: thong thả (khoảng một ngày), bình thường (8 giờ) hoặc chu đáo (3 giờ)
+How it moves; paused it breathes, an error shakes, done flashes with a check, canceled drains back	Chọn hiệu ứng tiến trình. Khi tạm dừng, độ sáng tăng giảm theo nhịp; khi lỗi, thanh rung nhẹ; khi hoàn tất, dấu tích nhấp nháy; khi hủy, thanh rút về đầu
+How loud all her sounds are	Độ lớn của mọi âm thanh của cô ấy
+How many	Mức độ
+How many files it keeps: the oldest goes when a new one comes	Số tệp tối đa trong khay. Khi khay đầy, thêm tệp mới sẽ bỏ mục cũ nhất khỏi khay
+How many icons show before the list starts to scroll	Số biểu tượng tối đa trước khi danh sách bắt đầu cuộn
+How much of the AI agents' limits is used and when each starts over, read on this PC (no login and nothing online)	Hiển thị phần hạn mức đã sử dụng và thời điểm đặt lại của các AI agent. Dữ liệu được đọc từ máy này, không cần đăng nhập hay truy cập internet
+How much the bars move with the sound (they follow the playing app's own sound)	Độ nhạy của các cột sóng theo âm lượng của ứng dụng đang phát
+How often she does something by herself while idle (looks around, hops, spins, stretches)	Mức thường xuyên cô ấy tự làm gì đó khi rảnh (nhìn quanh, nhảy lên, xoay vòng, vươn vai)
+How round the banner's corners are	Độ bo tròn góc của thông báo nổi
+How round the notch curves are in the Fixed style	Độ uốn cong của góc Notch ở kiểu Cố định
+How solid the island's fill is, from see-through to full	Điều chỉnh độ đục của nền Island, từ trong suốt hoàn toàn đến không trong suốt
+How strongly the glass blurs what is behind it	Mức làm mờ nội dung phía sau lớp kính
+How tall the bars can grow (as far as the pill allows)	Các cột có thể cao đến đâu (trong giới hạn của Island)
+How the What's playing panel looks: the usual one, Pixel (Android), One UI (Samsung), Windows 11, or only the cover with the buttons over it. It opens from What's playing or the cover on the pill	Giao diện bảng Đang phát: như thường lệ, Pixel (Android), One UI (Samsung), Windows 11, hoặc chỉ ảnh bìa với các nút nằm trên. Bảng mở từ Đang phát hoặc ảnh bìa trên Island
+How visible the thin line is when the pill is hidden	Điều chỉnh độ đục của vạch thu gọn khi Island đang ẩn
+How visible the thin outline around the pill is	Điều chỉnh độ đục của đường viền quanh Island
+How wide each bar is; the item grows with them	Độ rộng của mỗi cột; mục sẽ rộng ra theo
+How wide the banner is (a longer text fits on its lines)	Chiều rộng của thông báo nổi; tăng chiều rộng để mỗi dòng chứa được nhiều chữ hơn
+Humidity	Độ ẩm
+Hungry · food at %s	Đói · thức ăn còn %s
+I give up. For today.	Mình bỏ cuộc. Hôm nay thôi.
+I got such a fright!	Mình giật mình quá!
+I like it!	Mình thích!
+I'm all alone…	Mình lại một mình rồi…
+I'm bored…	Chán quá…
+I'm drying up here.	Mình khô cả người rồi.
+Icon	Biểu tượng
+Icon and color	Biểu tượng & màu sắc
+Icon colors	Màu biểu tượng
+Icon pack	Bộ biểu tượng
+Icon size	Cỡ biểu tượng
+Iconoir (online)	Iconoir (trực tuyến)
+Icons	Biểu tượng
+Icons of the apps with notifications	Biểu tượng của ứng dụng có thông báo
+Icons per app (Bar)	Biểu tượng theo ứng dụng (kiểu Thanh)
+Icons per app (Fixed style)	Biểu tượng theo ứng dụng (kiểu Cố định)
+Icons that aren't pinned	Cách hiển thị biểu tượng chưa ghim
+Ignored (not counted)	Đã bỏ qua (không đếm)
+Import	Nhập
+Import a backup of the island	Nhập tệp sao lưu của Island
+Import a file	Chọn tệp để nhập
+Import shortcuts (like komorebi's whkdrc)	Nhập từ tệp cấu hình (như whkdrc của komorebi)
+In the bar, sends items to the screen corners: with the clock in the middle, the ones before it go to the left and the others to the right; without it, the first separator line of the order splits them. With two separator lines the bar has three parts instead: left corner, middle of the screen (the clock joins it) and right corner	Ở kiểu Thanh, xếp các mục về hai đầu màn hình: khi đồng hồ ở giữa, các mục trước nó nằm bên trái, còn lại bên phải; khi đồng hồ không ở giữa, vạch phân cách đầu tiên trong thứ tự sẽ chia chúng. Với hai vạch phân cách, Thanh chia thành ba phần: góc trái, giữa màn hình (đồng hồ nằm trong phần này) và góc phải
+In the island's Do not disturb, calls, alarms and reminders don't ring either (they still show on the pill)	Khi bật Không làm phiền của Island, cuộc gọi, báo thức và lời nhắc cũng không phát âm thanh, nhưng vẫn hiển thị trên Island
+In the pill	Ngay trên Island
+In the pill with a sound, even in Do not disturb	Hiển thị trên Island kèm âm báo, kể cả khi bật Không làm phiền
+In the terminal	Mở trong Terminal
+In use	Đang dùng
+In use: close what's open on it	Ổ đĩa đang được sử dụng. Hãy đóng các tệp đang mở trên ổ đĩa rồi thử lại
+Installed apps	Ứng dụng đã cài đặt
+Instrumental	Nhạc không lời
+Ionicons (online)	Ionicons (trực tuyến)
+Island	Island
+Island backup (*.txt)	Tệp sao lưu Island (*.txt)
+Island font	Phông chữ của Island
+Island memory	Trí nhớ của Island
+Island settings	Cài đặt Island
+Island: a pill floating at the top, the windows go under it	Island: thanh nổi ở cạnh trên; cửa sổ có thể nằm phía sau Island
+It couldn't start.	Không khởi động được.
+It ended with an error (0x%08X). Turn the mod off and on in Windhawk to start it again.	Đảo đã dừng do lỗi (0x%08X). Hãy tắt rồi bật lại mod trong Windhawk để chạy lại đảo.
+It failed (see the terminal)	Thất bại (xem chi tiết trong Terminal)
+It goes to the screen with the mouse	Island tự chuyển sang màn hình đang có trỏ chuột
+It runs only while the island is on. A time missed while the PC slept or the island was off isn't made up.	Chỉ chạy khi Island đang bật. Giờ bị lỡ lúc máy ngủ hoặc Island tắt sẽ không được chạy bù.
+It's getting hot in here, huh?	Ở đây nóng nhỉ?
+Items in the bar	Các mục trên thanh
+Items on the pill	Các mục trên Island
+Its focus or break ending, while it runs	Đếm ngược đến khi kết thúc giai đoạn tập trung hoặc nghỉ hiện tại
+Its look (profile):	Cấu hình giao diện:
+Its style, size, hiding and animations are in Windhawk's settings for this mod	Chỉnh kiểu dáng, kích thước, chế độ tự động ẩn và hiệu ứng của Dock trong phần cài đặt mod trên Windhawk
+JSON file	Tệp JSON
+Just one little game?	Chỉ một ván thôi nhé?
+Just watching…	Mình chỉ đang ngắm thôi…
+Keep as it is	Giữ nguyên
+Keep as it is: the items the pill had before	Giữ nguyên: giữ các mục đã có trên Island trước khi thiết lập
+Keep it open	Giữ luôn mở
+Keep their list open	Giữ danh sách mở sau khi chọn
+Keeping an eye on you.	Mình đang để mắt đến bạn nè.
+Keeps the note on the pill when no app has media; a click opens the panel	Giữ biểu tượng nốt nhạc trên Island khi không có ứng dụng nào phát nội dung; bấm để mở bảng
+Keyboard language	Ngôn ngữ bàn phím
+Keyboard language (like Windows' input indicator)	Ngôn ngữ bàn phím (như chỉ báo bộ gõ trên thanh tác vụ)
+Keyboard shortcut (optional)	Phím tắt (không bắt buộc)
+Keyboard shortcuts	Phím tắt
+Keyboard shortcuts button	Nút tra cứu phím tắt
+Keys	Tổ hợp phím
+Language	Ngôn ngữ
+Language of the island's texts (it starts again)	Ngôn ngữ hiển thị của Island (Island sẽ tự khởi động lại)
+Language of the notes	Ngôn ngữ ghi chú cập nhật
+Language settings	Cài đặt ngôn ngữ
+Large	Lớn
+Largest first	Lớn nhất trước
+Later	Để sau
+Leaves only the play and pause button on the pill, without previous and next	Chỉ giữ nút phát và tạm dừng trên Island, không có nút trước và tiếp theo
+Leaves out GlazeWM workspaces that have no windows	Ẩn các workspace của GlazeWM không có cửa sổ
+Leaves out komorebi workspaces that have no windows	Ẩn các workspace của komorebi không có cửa sổ
+Left	Trái
+Less round	Ít bo tròn
+Let go to add it to your commands	Thả ra để thêm vào lệnh của bạn
+Let go to put it on the shelf	Thả ra để đặt vào khay tệp
+Let's play?	Chơi với mình nhé?
+Light	Sáng
+Light and dark mode	Chế độ Sáng / Tối
+Light and dark mode button	Nút đổi chế độ Sáng / Tối
+Light and shadow like macOS 27	Ánh sáng và bóng đổ như macOS 27
+Light rain	Mưa nhỏ
+Lighter tint and livelier colors on the glass	Nền kính nhạt hơn, màu sắc tươi hơn
+Lights up the item the mouse is over	Làm sáng nhẹ mục mà chuột đang trỏ vào
+Like Ctrl+Shift+S, or Ctrl+K, Ctrl+S	VD: Ctrl+Shift+S, hoặc Ctrl+K, Ctrl+S
+Like Windows	Theo Windows
+Like the island	Theo màu Island
+Like the island: only the shapes of the emojis and of your pictures, in the island's colors. Their own: as they are	Theo màu Island: dùng hình dạng của emoji và ảnh riêng, rồi tô theo màu Island. Màu gốc: giữ nguyên màu của emoji và ảnh
+Like the other icons	Giống các biểu tượng khác
+Like the panels	Giống các bảng
+Line added · drag it between icons, click it to remove	Đã thêm đường kẻ · kéo vào giữa các biểu tượng, bấm để xóa
+Line opacity	Độ đục của vạch thu gọn
+Line that opens the island	Vạch kích hoạt Island
+Liquid wave	Sóng nước
+Listening · %s is playing	Đang nghe · %s đang phát
+Live activities like the iPhone's	Hoạt động trực tiếp như trên iPhone
+Lively	Hoạt bát
+Loading...	Đang tải...
+Location	Vị trí
+Location off or not allowed in Windows	Vị trí đang tắt hoặc chưa được Windows cho phép
+Lock	Khóa máy
+Logs	Nhật ký
+Lonely · love at %s	Cô đơn · yêu thương còn %s
+Long	Dài
+Long notification texts scroll under the mouse	Văn bản thông báo dài cuộn khi rê chuột
+Longest line on the pill	Chiều rộng lời bài hát trên Island
+Longest width the song title may take on the pill	Độ rộng tối đa dành cho tên bài hát trên Island
+Look	Giao diện
+Look and dock	Giao diện & Dock
+Looking for networks...	Đang quét mạng Wi-Fi...
+Looking for the lyrics…	Đang tìm lời bài hát…
+Looking…	Đang tìm…
+Looks for lyrics	Tự tìm lời bài hát
+Love	Yêu thương
+Low battery	Pin yếu
+Low battery… same here.	Pin yếu rồi… mình cũng thế.
+Lucide (online)	Lucide (trực tuyến)
+Lyrics are looked for only for songs (with an artist, 45 s to 20 min, not videos)	Chỉ tìm lời cho bài hát có thông tin nghệ sĩ và thời lượng từ 45 giây đến 20 phút; không tìm cho video
+Lyrics are off for this app (in the settings, What's playing)	Đã tắt tìm lời cho ứng dụng này (bật lại trong Cài đặt > Đang phát)
+Lyrics as an icon	Lời bài hát dạng biểu tượng
+Lyrics color	Màu lời bài hát
+Lyrics color (own)	Màu lời bài hát (tùy chọn)
+Lyrics from lrclib.net	Nguồn lời bài hát: lrclib.net
+Lyrics replace the song title	Dùng lời bài hát thay tên bài
+Lyrics size	Cỡ chữ lời bài hát
+Lyrics size on the pill	Cỡ chữ lời bài hát trên Island
+M D Y	Tháng / Ngày / Năm
+Made in Brazil, new versions bring fixes and what users ask for	Được phát triển tại Brazil; các phiên bản mới sửa lỗi và bổ sung tính năng theo đề xuất của người dùng
+Magnifier	Kính lúp
+Main island	Island chính
+Makes her dance and react	Khiến cô ấy nhảy và phản ứng
+Makes the What's playing panel bigger than the other panels; on a short screen it still fits and scrolls	Làm bảng Đang phát lớn hơn các bảng khác; trên màn hình thấp, bảng vẫn vừa màn hình và có thể cuộn
+Makes the pill taller or shorter (not with the bar)	Điều chỉnh chiều cao của Island (không áp dụng cho kiểu Thanh)
+Manage profiles	Quản lý cấu hình
+Marks holidays in the calendar, it needs an internet connection	Đánh dấu các ngày lễ trong năm trên lịch (cần internet)
+Material (online)	Material (trực tuyến)
+Media buttons	Nút điều khiển nhạc
+Media buttons on the pill	Hiện nút điều khiển nhạc trên Island
+Media buttons size	Cỡ nút phương tiện
+Media panel size	Kích thước bảng phương tiện
+Media panel style	Kiểu bảng phương tiện
+Medium	Vừa
+Memory	Bộ nhớ
+Memory use (RAM)	Mức sử dụng RAM
+Merges an app's notifications into one icon, Phone Link's phone apps included	Gom thông báo của mỗi ứng dụng vào một biểu tượng; các ứng dụng điện thoại qua Phone Link được gộp chung
+Meteocons (colored)	Meteocons (có màu)
+Microphone	Micrô
+Microphone button (mute)	Nút bật/tắt micrô
+Microphone, camera and location in use	Chỉ báo sử dụng micrô, camera và vị trí
+Microphone, camera and location in use (and which app)	Cho biết ứng dụng nào đang sử dụng micrô, camera hoặc vị trí
+Middle	Ở giữa
+Minimize	Thu gọn
+Minimize arrow at the end of the pill	Nút mũi tên thu gọn ở cuối Island
+Missed	Đã lỡ
+Mission accomplished.	Hoàn thành nhiệm vụ.
+Mistakes	Lỗi
+Mixer	Bộ trộn âm lượng
+Mobile data	Dữ liệu di động
+Mobile hotspot	Điểm phát sóng di động
+Monitor	Màn hình
+Monitor 	Màn hình 
+Monitors	Màn hình
+Monocle (the window in focus fills the screen)	Monocle (cửa sổ đang hoạt động chiếm toàn bộ màn hình)
+Month as a number (9/10)	Viết tháng bằng số (9/10)
+More Windows controls	Các công cụ khác của Windows
+More in Explorer	Xem đầy đủ trong Explorer
+More options in: %s	Còn nhiều tùy chọn khác trong: %s
+More, more!	Nữa đi, nữa đi!
+Mostly clear	Trời ít mây
+Mouse away	Chuột ở ngoài
+Move	Di chuyển
+Move the mouse (or the arrows) to catch fruit and drops: they feed her and quench her thirst. Letting one fall costs a life, and so does catching a rock or a bolt. Three lives.	Di chuột (hoặc dùng phím mũi tên) để hứng trái cây và giọt nước: chúng giúp cô ấy no và hết khát. Để rơi một món sẽ mất một mạng, hứng phải đá hay tia sét cũng vậy. Có ba mạng.
+Move the mouse over her to pet her. Click to tap her (she doesn't like too many).	Di chuột lên cô ấy để vuốt ve. Nhấp để chạm nhẹ (cô ấy không thích bị chạm nhiều).
+Move the pill by dragging it	Cho phép kéo chuột để di chuyển Island
+Moved	Di chuyển
+Music	Nhạc
+Muted	Đã tắt tiếng
+My head is so full right now.	Đầu mình đầy ắp rồi.
+My location	Vị trí của tôi
+My moves are sharp today.	Hôm nay mình nhảy chuẩn lắm.
+My site, with my other projects and a Discord link	Trang cá nhân, các dự án khác của tôi và cộng đồng Discord
+My tummy is rumbling.	Bụng mình đang kêu ục ục.
+Nailed it!	Quá đỉnh!
+Name	Tên
+Name (like Downloads)	Tên (VD: Tải xuống)
+Name (optional)	Tên (không bắt buộc)
+Narrator	Trình đọc màn hình (Narrator)
+Narrow	Hẹp
+Nearby networks appear once location access is on: click to turn on "Let desktop apps access your location"	Mạng ở gần sẽ hiện khi bật quyền truy cập vị trí. Bấm để bật “Cho phép ứng dụng máy tính truy cập vị trí của bạn”
+Needs Windows' transparency effects: click to open Personalization > Colors	Cần bật hiệu ứng trong suốt của Windows. Bấm để mở Cá nhân hóa > Màu sắc
+Needs a fill on (downloads or charging)	Cần bật tiến trình tải xuống hoặc mức pin khi sạc trên Island
+Needs the bar style and the clock in the middle	Cần chọn kiểu Thanh và bật giữ đồng hồ ở giữa
+Needs the date or the year on the clock	Cần bật hiện ngày hoặc năm trên đồng hồ
+Needs the notches	Cần bật Notch
+Needs the notches (Fixed style)	Cần bật Notch (kiểu Cố định)
+Needs “%s” on	Cần bật “%s”
+Needs “%s” or “%s” on	Cần bật “%s” hoặc “%s”
+Network	Mạng
+Network & internet	Mạng & Internet
+Network cable	Mạng dây
+Network connections	Kết nối mạng (Network Connections)
+Network name	Tên mạng
+Network speed	Tốc độ mạng
+Network speed (up and down)	Tốc độ mạng (tải lên / tải xuống)
+Never	Không bao giờ
+New command	Lệnh mới
+New desktop	Màn hình ảo mới
+New notification	Thông báo mới
+New record	Kỷ lục mới
+New task	Việc cần làm mới
+Newest first	Mới nhất trước
+Next	Tiếp
+Next event	Sự kiện sắp tới
+Night light	Ánh sáng đêm
+Night light isn't available here	Ánh sáng đêm hiện không khả dụng
+No Bluetooth	Không có Bluetooth
+No USB drives	Không có ổ USB
+No Wi-Fi adapter	Không tìm thấy bộ điều hợp Wi-Fi
+No agendas yet.	Chưa thêm lịch liên kết nào.
+No alarms yet	Chưa có báo thức nào
+No apps found	Không tìm thấy ứng dụng
+No apps using this output	Không có ứng dụng nào đang phát âm thanh ở đầu ra này
+No date	Không có ngày
+No distractions.	Không xao nhãng nhé.
+No events	Không có sự kiện
+No icon's picture in that folder	Không tìm thấy tệp ảnh biểu tượng trong thư mục này
+No internet	Không có kết nối internet
+No lyrics found for this song	Không tìm thấy lời cho bài hát này
+No mistakes	Không lỗi
+No notes yet	Chưa có ghi chú nào
+No notifications	Không có thông báo
+No paired devices	Chưa ghép đôi thiết bị nào
+No pictures in this folder	Thư mục này không có ảnh nào
+No profile in use: click one to apply it	Chưa dùng cấu hình nào. Bấm một cấu hình để áp dụng
+No profiles yet	Chưa tạo cấu hình nào
+No record yet	Chưa có kỷ lục
+No reminder (the bell turns it on)	Không có lời nhắc (bấm chuông để bật)
+No settings match the search	Không tìm thấy cài đặt nào phù hợp
+Nobody has talked to me in a while.	Lâu rồi không ai nói chuyện với mình.
+Nobody plays with me anymore…	Chẳng còn ai chơi với mình nữa…
+None	Không dùng
+None found	Không tìm thấy
+None yet: a program, a folder, a link or a command line, a click away	Chưa có lệnh nào. Thêm chương trình, thư mục, liên kết hoặc dòng lệnh để mở nhanh
+Normal	Bình thường
+Not a backup of the island	Tệp này không phải bản sao lưu của Island
+Not an .ics link (Google: Secret address in iCal format)	Liên kết .ics không hợp lệ (Google Calendar: Địa chỉ bí mật ở định dạng iCal)
+Not available here	Không hỗ trợ tại đây
+Not available on this PC	Máy tính này không hỗ trợ
+Not checked yet	Chưa kiểm tra
+Not chosen	Chưa chọn
+Not for the Bar style	Không dùng cho kiểu Thanh
+Not with the Liquid Glass	Không dùng với Liquid Glass
+Not with the notches	Không dùng với Notch
+Not with the notches: each one keeps its place and items for every app	Không áp dụng khi dùng Notch; vị trí và các mục trên mỗi Notch được giữ nguyên cho mọi ứng dụng
+Notch curves	Độ bo cong Notch
+Notches	Notch
+Notes	Ghi chú
+Notes button	Nút mở ghi chú
+Nothing found	Không có kết quả
+Nothing in it	Trống
+Nothing playing	Chưa phát nội dung nào
+Nothing to do	Chưa có việc cần làm
+Nothing to do around here.	Ở đây chẳng có gì làm cả.
+Nothing to share	Không có gì để chia sẻ
+Nothing waiting	Không có bản cập nhật nào
+Notice when switching desktops	Thông báo khi chuyển màn hình nền
+Notification	Thông báo
+Notifications	Thông báo
+Notifications (bell)	Thông báo (hình chuông)
+Notifications too	Cả thông báo nữa
+Notify when a USB drive is plugged in	Thông báo khi kết nối ổ USB
+Now	Hiện tại
+Num Lock bubble	Thông báo Num Lock
+Num Lock off	Num Lock tắt
+Num Lock on	Num Lock bật
+Number of columns in the icon grid (Grid style only)	Số cột hiển thị trong bảng lưới biểu tượng (chỉ áp dụng cho Dạng lưới)
+OK	OK
+Off	Tắt
+Off until you turn it on. Every event below has its own switch and source; nothing plays over a full-screen app or with Do not disturb on	Tắt cho đến khi bạn bật. Mỗi sự kiện bên dưới có công tắc và nguồn riêng; không phát gì khi có ứng dụng toàn màn hình hoặc khi bật Không làm phiền
+Off while “%s” is on	Không dùng được khi đang bật “%s”
+Off with no animations (“None”)	Không dùng được khi đã tắt hiệu ứng chuyển động (“Không dùng”)
+Off with only the cover on the pill	Tắt khi chỉ hiện ảnh bìa trên Island
+Off with the bar style	Không áp dụng cho kiểu Thanh
+Off with the items at the screen's corners	Không dùng khi các mục ở hai góc màn hình
+Off with the notches (Fixed style)	Không áp dụng khi bật Notch (kiểu Cố định)
+Off, these actions run at the first click, with no question	Khi tắt, các thao tác này chạy ngay ở lần bấm đầu tiên mà không hỏi
+Off: nothing is sent	Đã tắt: không gửi dữ liệu
+Off: only the app's icon peeks out of the line	Khi tắt, chỉ biểu tượng ứng dụng xuất hiện trên vạch thu gọn
+Oldest first	Cũ nhất trước
+On	Bật
+On a laptop, the battery's percentage as it charges	Trên laptop, lấp đầy Island theo mức phần trăm pin đang sạc
+On battery	Đang dùng pin
+On cloud nine…	Lâng lâng trên mây…
+On every monitor	Trên mọi màn hình
+On every notch	Trên mọi Notch
+On one monitor	Trên 1 màn hình
+On the battery's notch or the pill	Trên Notch có pin hoặc Island
+On the beat	Theo nhịp
+On the monitor with the mouse	Theo màn hình có trỏ chuột
+On the shelf	Trong khay tệp
+On-screen keyboard	Bàn phím ảo
+Once	Một lần
+Once per version, a notice from the pill opens this page	Sau mỗi lần cập nhật, hiện thông báo trên Island để mở trang này; chỉ hiện một lần cho mỗi phiên bản
+One UI (Samsung)	One UI (Samsung)
+One icon per app (Phone Link's phone apps together)	Mỗi ứng dụng một biểu tượng (gộp chung ứng dụng từ Phone Link)
+Only 16 commands can have a shortcut.	Chỉ 16 lệnh có thể có phím tắt.
+Only Claude Code in a terminal: the Claude desktop app doesn't leave its limits on this PC	Chỉ hỗ trợ Claude Code chạy trong terminal. Ứng dụng Claude trên máy tính không lưu thông tin hạn mức tại máy này
+Only a file on this computer	Chỉ tệp trên máy tính này
+Only a folder on this computer	Chỉ nhận thư mục trên máy tính này
+Only a picture on this computer	Chỉ nhận ảnh trên máy tính này
+Only an icon on the pill while the song has lyrics, instead of the line sung now; a click opens them	Chỉ hiện một biểu tượng trên Island khi bài hát có lời, thay cho dòng đang hát; bấm để mở lời bài hát
+Only files on this PC can be shared, not folders	Chỉ chia sẻ được tệp trên máy này, không chia sẻ được thư mục
+Only for emoji and pictures of your own	Chỉ cho emoji và ảnh riêng của bạn
+Only for the Bar style	Chỉ dành cho kiểu Thanh
+Only for the Island style	Chỉ dành cho kiểu Island
+Only for the notes below; the island keeps its language	Chỉ đổi ngôn ngữ ghi chú bên dưới; ngôn ngữ giao diện Island giữ nguyên
+Only https links or file paths	Chỉ nhận đường dẫn tệp hoặc liên kết bắt đầu bằng https
+Only on the main island: change it in its settings	Chỉ chỉnh được trên Island chính (hãy mở cài đặt của Island chính)
+Only play and pause	Chỉ phát và tạm dừng
+Only the bar's items over what is behind it; with the frosted look, only the blur	Ẩn màu nền của thanh, chỉ giữ các mục hiển thị; nếu bật kính mờ thì giữ lại lớp làm mờ nền
+Only the clock when hidden	Chỉ hiện đồng hồ khi thu gọn
+Only the cover on the pill	Chỉ hiện ảnh bìa trên Island
+Only the main clock shows on the pill; the other clocks list when the mouse rests on it	Chỉ đồng hồ chính hiện trên Island; các đồng hồ khác hiện thành danh sách khi chuột dừng trên nó
+Only with Your folder as the pack	Chỉ khi chọn Thư mục của bạn làm bộ biểu tượng
+Only with the Glass off (it blurs them already), on the bar or on the Fixed style without notches and not hiding as a line	Cần tắt Hiệu ứng kính vì hiệu ứng này đã làm mờ nền. Chỉ áp dụng cho kiểu Thanh, hoặc kiểu Cố định không dùng Notch và không bật tự động thu gọn
+Only with the Grid style	Chỉ áp dụng cho kiểu Dạng lưới
+Only with the icons opening in the pill	Chỉ áp dụng khi chọn hiển thị biểu tượng Ngay trên Island
+Ooh, a notification!	Ồ, có thông báo!
+Oops, I yawned.	Ôi, mình ngáp rồi.
+Opacity	Độ đục của nền
+Open	Mở
+Open Windhawk	Mở Windhawk
+Open Windows Update	Mở Windows Update
+Open Windows mixer	Mở bộ trộn âm lượng của Windows
+Open an app to give it a place	Mở một ứng dụng để thiết lập vị trí Island riêng cho ứng dụng đó
+Open in Explorer	Mở bằng Explorer
+Open in terminal	Mở trong terminal
+Open it	Mở
+Open panels with the mouse	Mở bảng khi rê chuột
+Open something	Mở ứng dụng hoặc tệp
+Open the Windows notification center	Mở trung tâm thông báo của Windows
+Opens a panel with your folder and place shortcuts	Mở bảng truy cập nhanh các thư mục đã ghim và lối tắt hệ thống
+Opens a program, a file, a folder, a link or a settings page, like the Run box (Win+R).	Mở chương trình, tệp, thư mục, liên kết hoặc trang cài đặt, tương tự hộp thoại Run (Win+R).
+Opens pickers for the fill, text and icon colors	Mở bảng chọn màu riêng cho nền, chữ và biểu tượng
+Opens the line	Cách mở lại Island
+Opens the unpinned icons as a list in the pill, a grid or a named list	Hiển thị các biểu tượng chưa ghim ngay trên Island, theo dạng lưới hoặc danh sách có tên
+Other apps' icons before scrolling	Số biểu tượng hiển thị trước khi cuộn
+Other apps' tray icons	Biểu tượng khay hệ thống của ứng dụng khác
+Other files	Tệp khác
+Output	Thiết bị phát
+Overcast	Trời âm u
+Overdue	Quá hạn
+PC screen only	Chỉ màn hình máy tính
+Padding before the first item and after the last one	Khoảng trống đệm ở hai đầu trái phải của Island
+Panels and buttons	Bảng và nút
+Panels as wide as the island	Mở bảng rộng bằng Island
+Panels open as wide as the island is	Các bảng mở ra có chiều rộng bằng Island
+Panels size	Kích thước các bảng
+Partial	Cơ bản
+Partly cloudy	Có mây rải rác
+Password	Mật khẩu
+Paste an .ics link (Google Calendar: Settings, your calendar, Secret address in iCal format) or a file's path.	Dán liên kết .ics hoặc đường dẫn tệp. Với Google Calendar, vào Cài đặt, chọn lịch rồi lấy “Địa chỉ bí mật ở định dạng iCal”.
+Pause	Tạm dừng
+Paused	Đã tạm dừng
+Paused (every monitor)	Đã tạm dừng (mọi màn hình)
+Performance	Hiệu năng cao
+Personality	Tính cách
+Personalization	Cá nhân hóa (Personalization)
+Phosphor (online)	Phosphor (trực tuyến)
+Picks a color theme from the swatches	Chọn tông màu chủ đạo cho Island
+Picks the screen spot for the pill, on a grid	Chọn vị trí đặt Island trên lưới màn hình
+Picture copied	Đã sao chép ảnh
+Pictures	Hình ảnh
+Pictures, videos and documents show a small preview, as in Explorer, in the folders panel and on the shelf	Hiện ảnh thu nhỏ của ảnh, video và tài liệu trong bảng thư mục và khay tệp, tương tự File Explorer
+Pill	Island
+Pill corners	Độ bo góc Island
+Pill floats, Fixed keeps its room on the screen, Bar spans the edge	Island nổi trên màn hình; Cố định dành riêng một vùng hiển thị; Thanh trải dài theo cạnh màn hình
+Pill height	Chiều cao Island
+Pill items	Mục trên Island
+Pill switches in the panel	Công tắc Island trong bảng
+Pin a folder to the island	Ghim thư mục lên Island
+Pink	Hồng
+Pixel (Android)	Pixel (Android)
+Place	Vị trí
+Place (or drag the pill)	Vị trí (hoặc kéo trực tiếp Island)
+Place (the bar is at the top)	Vị trí (kiểu Thanh luôn nằm ở cạnh trên)
+Place (the notches are at the top)	Vị trí (Notch luôn nằm ở cạnh trên)
+Place and icons per app	Vị trí và biểu tượng theo ứng dụng
+Plan: 	Chế độ: 
+Play	Chơi
+Plug me in?	Cắm sạc cho mình nhé?
+Point to a JSON file with "name" and "windows" (or a list of them) to show other services here	Trỏ tới tệp JSON có "name" và "windows" (hoặc danh sách các mục đó) để hiển thị dịch vụ khác tại đây
+Pomodoro finished	Pomodoro xong
+Power	Nguồn
+Power button	Nút nguồn
+Power button (sleep, restart, shut down)	Nút nguồn (ngủ, khởi động lại, tắt máy)
+Power draw	Công suất tiêu thụ
+Power options	Tùy chọn nguồn (Power Options)
+Power plan	Chế độ nguồn (Power Plan)
+Press	Bấm phím
+Press the keys	Nhấn tổ hợp phím
+Press the keys (Tab moves on)…	Nhấn tổ hợp phím (nhấn Tab để sang ô tiếp)…
+Pressing Win+A opens the island's control center instead of Windows'	Nhấn Win+A sẽ mở Trung tâm điều khiển của Island thay vì của Windows
+Pressing Win+N opens the island's notifications instead of Windows'	Nhấn Win+N sẽ mở bảng Thông báo của Island thay vì của Windows
+Pressure	Áp suất khí quyển
+Privacy	Quyền riêng tư
+Processor	Bộ xử lý (CPU)
+Processor use (CPU)	Mức sử dụng CPU
+Profile 	Cấu hình 
+Profiles	Cấu hình
+Profiles button (switch profiles)	Nút chuyển đổi cấu hình
+Program, file, folder, link or ms-settings:	Chương trình, tệp, thư mục, liên kết hoặc ms-settings:
+Programs and Features	Programs and Features
+Project	Chiếu màn hình (Project)
+Proud	Tự hào
+Puts a button on the pill that locks the PC	Thêm nút khóa nhanh máy tính lên Island
+Puts a button on the pill that opens Calculator	Thêm nút mở nhanh Máy tính (Calculator) lên Island
+Puts a button on the pill that opens File Explorer	Thêm nút mở nhanh File Explorer lên Island
+Puts a button on the pill that opens Task Manager	Thêm nút mở nhanh Task Manager lên Island
+Puts a button on the pill that opens Windows' Settings	Thêm nút mở Cài đặt Windows lên Island
+Puts a button on the pill that opens the Start button's right-click menu (the one of Win+X)	Thêm vào Island một nút mở menu chuột phải của nút Start (menu Win+X)
+Puts a button on the pill that opens the accessibility options	Thêm nút mở tùy chọn Trợ năng lên Island
+Puts a button on the pill that opens the clipboard history	Thêm nút mở lịch sử bộ nhớ tạm (Clipboard) lên Island
+Puts a button on the pill that opens the emoji panel	Thêm nút mở bảng biểu tượng cảm xúc (Emoji) lên Island
+Puts a button on the pill that opens the on-screen keyboard	Thêm nút mở bàn phím ảo lên Island
+Puts a button on the pill that shows or hides the touch keyboard	Thêm nút hiện hoặc ẩn bàn phím cảm ứng lên Island
+Puts a button on the pill that shows the desktop	Thêm nút thu nhỏ mọi cửa sổ để hiện màn hình nền lên Island
+Puts a button on the pill that takes a screenshot	Thêm nút chụp ảnh màn hình lên Island
+Puts a button on the pill that turns live captions on	Thêm nút bật Phụ đề trực tiếp trên Island
+Puts a button on the pill to cast the screen	Thêm nút truyền màn hình (Cast) lên Island
+Puts a button on the pill to choose the display mode	Thêm nút chọn chế độ xuất màn hình (Project) lên Island
+Puts a button on the pill to start, stop or reload komorebi	Thêm nút bật, tắt hoặc tải lại komorebi lên Island
+Puts a one-click Airplane mode button on the pill	Thêm nút bật/tắt nhanh Chế độ máy bay lên Island
+Puts a one-click Bluetooth button on the pill	Thêm nút bật/tắt Bluetooth trên Island
+Puts a one-click Mobile hotspot button on the pill	Thêm nút bật/tắt nhanh Điểm phát sóng di động lên Island
+Puts a one-click Night light button on the pill	Thêm nút bật/tắt nhanh Ánh sáng đêm lên Island
+Puts a one-click Wi-Fi and network button on the pill	Thêm nút truy cập nhanh Wi-Fi và mạng trên Island
+Puts previous, play and next buttons right on the pill	Hiện trực tiếp các nút Bài trước, Phát/Tạm dừng và Bài tiếp trên Island
+Puts the clock in the middle with the other items around it	Giữ đồng hồ cố định ở giữa và xếp các mục khác hai bên
+Rain	Mưa
+Rain chance	Khả năng mưa
+Rainbow	Cầu vồng
+Reacts to what the PC is doing	Phản ứng theo những gì máy tính đang làm
+Reading…	Đang đọc…
+Reads limits from a JSON file on this PC ({"name", "windows"})	Đọc hạn mức từ tệp JSON trên máy này ({"name", "windows"})
+Record shortcut	Ghi phím tắt
+Record: %s	Kỷ lục: %s
+Recycle Bin	Thùng rác
+Recycle Bin appears	Điều kiện hiển thị Thùng rác
+Red	Đỏ
+Reflex	Phản xạ
+Remember my choice (it's in the island's settings)	Nhớ lựa chọn này (có thể đổi lại trong cài đặt Island)
+Reminder	Nhắc nhở
+Repeat	Lặp lại
+Repeat all	Lặp lại tất cả
+Repeat off	Tắt lặp lại
+Repeat one	Lặp lại một bài
+Reply	Trả lời
+Report a bug or suggest an idea, GitHub tells you when it comes out	Báo lỗi hoặc đề xuất tính năng trên GitHub để được thông báo khi vấn đề được xử lý hoặc tính năng được bổ sung
+Reset	Đặt lại
+Restart	Khởi động lại
+Restart now?	Khởi động lại máy ngay?
+Resting the mouse on an item opens its panel, and it closes a moment after the mouse leaves. Buttons that do something still need a click; a click keeps the panel open	Để chuột trên một mục sẽ mở bảng của nó, và bảng đóng ngay sau khi chuột rời đi. Các nút thực hiện thao tác vẫn cần bấm; bấm sẽ giữ bảng mở
+Restore what changed	Hoàn tác thay đổi
+Resume	Tiếp tục
+Reverse the wheel (up is the next song)	Đảo chiều con lăn (lăn lên là bài tiếp theo)
+Right	Phải
+Ring with the battery's charge	Vòng hiển thị mức pin
+Room at the pill's ends	Khoảng đệm hai đầu Island
+Room between the bars	Khoảng cách giữa các cột
+Round	Vòng
+Rounds the corners where the bar meets the screen, like a screen's own round corners	Bo các góc trong tại chỗ thanh tiếp giáp với vùng hiển thị, tạo cảm giác như màn hình có góc bo tròn
+Rows	Chia hàng
+Run a command line	Chạy một dòng lệnh
+Run by itself, at a time	Tự chạy vào một giờ
+Runs in cmd.exe without a window; a terminal shows only if it fails.	Chạy lệnh bằng cmd.exe ở chế độ ẩn cửa sổ; chỉ mở terminal nếu lệnh thất bại.
+Sad · nobody has played with her for %s h	Buồn bã · đã %s giờ không ai chơi với cô ấy
+Safe to remove	Có thể tháo thiết bị an toàn
+Same as main: changes here apply to it too · + creates this monitor's profile	Dùng chung cấu hình với Island chính: thay đổi ở đây cũng áp dụng cho Island chính. Bấm + để tạo cấu hình riêng cho màn hình này
+Same as the main one	Giống Island chính
+Save	Lưu
+Save  (Enter)	Lưu  (Enter)
+Save Windows' icons	Lưu biểu tượng của Windows
+Save Windows' icons puts a picture of every icon in the folder, named after it (wifi.png, battery-5.png...): replace the ones you want, and they show a moment later	Lưu ảnh các biểu tượng của Windows vào thư mục, với tên như wifi.png, battery-5.png… Thay ảnh tương ứng để tùy chỉnh; biểu tượng sẽ được cập nhật sau ít giây
+Save current here	Lưu cài đặt hiện tại vào đây
+Save current settings	Lưu thiết lập hiện tại
+Save texts	Lưu văn bản
+Save the island's logs	Lưu nhật ký Island
+Save the island's texts to translate	Lưu văn bản Island để dịch
+Save...	Lưu thành tệp...
+Saved ✓	Đã lưu ✓
+Saved.	Đã lưu.
+Saves a backup file or loads one; Reset puts every setting back to its default (clicked twice)	Xuất cài đặt ra tệp sao lưu hoặc nhập từ tệp đã lưu. Bấm Đặt lại hai lần để khôi phục cài đặt mặc định
+Saves every text of the island in a file, in the language chosen if it isn't English, to translate or fix. Send it in a new issue at the Windhawk repository	Lưu mọi văn bản của Island vào một tệp (theo ngôn ngữ đã chọn nếu không phải tiếng Anh) để dịch hoặc sửa. Gửi tệp trong một issue mới ở kho Windhawk
+Saving Windows' icons…	Đang lưu biểu tượng của Windows…
+Saving…	Đang lưu…
+Scales only the icons on the pill (their room too)	Điều chỉnh kích thước biểu tượng và khoảng trống dành cho biểu tượng trên Island
+Scales only the texts on the pill: the clock, percentages and titles	Chỉ chỉnh cỡ chữ trên Island: đồng hồ, phần trăm và tiêu đề
+Scales the control center, calendar and other panels	Điều chỉnh kích thước Trung tâm điều khiển, lịch và các bảng khác
+Scales the pill, icons and panels together	Thay đổi đồng thời kích thước Island, biểu tượng và các bảng
+Screen	Theo màn hình
+Screen brightness	Độ sáng màn hình
+Screen brightness (the mouse wheel changes it)	Độ sáng màn hình (lăn chuột để chỉnh)
+Screens	Màn hình
+Screenshot	Chụp màn hình
+Screenshot notifications open the picture (in Explorer)	Mở ảnh chụp màn hình trong Explorer khi bấm vào thông báo
+Scrolling	Cuộn ngang
+Scrolling on the player skips songs instead of changing the volume	Lăn chuột trên trình phát nhạc để chuyển bài thay vì chỉnh âm lượng
+Scrolling up skips to the next song and scrolling down to the one before, instead of the other way round	Lăn lên để chuyển sang bài tiếp theo và lăn xuống để quay lại bài trước, thay vì ngược lại
+Search	Tìm kiếm
+Search apps	Tìm ứng dụng
+Search here (a name or *.pdf)	Tìm tại đây (tên tệp hoặc *.pdf)
+Search results	Kết quả tìm kiếm
+Second screen only	Chỉ màn hình thứ hai
+Seconds	Số giây
+Seconds the pill waits after the mouse leaves before it hides	Thời gian chờ sau khi đưa chuột ra khỏi Island trước khi tự động thu gọn
+See it in a terminal	Xem trong cửa sổ Terminal
+See what's new in this version	Xem những điểm mới trong phiên bản này
+See-through bar	Thanh trong suốt
+See-through blurred pill with a bright edge, needs Windows transparency	Island trong suốt, có viền sáng và hiệu ứng làm mờ nội dung phía sau. Cần bật hiệu ứng trong suốt của Windows
+See-through only on the desktop	Chỉ trong suốt khi ở màn hình nền
+Separator line · drag to move · click to remove	Đường kẻ phân cách · kéo để di chuyển · bấm để xóa
+Set a timer	Đặt hẹn giờ
+Set an alarm	Đặt báo thức
+Set up	Thiết lập
+Sets the order of day, month and year when the date shows	Chọn thứ tự hiển thị ngày, tháng, năm trên đồng hồ
+Settings	Cài đặt
+Settings back to their defaults	Đã khôi phục cài đặt mặc định
+Setup assistant	Trợ lý thiết lập
+Share	Chia sẻ
+Shared memory	Bộ nhớ đồ họa dùng chung
+She asked to play	Cô ấy rủ bạn chơi
+She asks to play when bored	Cô ấy rủ chơi khi buồn chán
+She giggles with a note	Cô ấy cười khúc khích cùng một nốt nhạc
+She jumps from cloud to cloud by herself; you only steer her sideways with the mouse or the arrows. Grey clouds vanish after a jump and some move.	Bé tự nhảy từ đám mây này sang đám mây khác; bạn chỉ điều khiển bé sang hai bên bằng chuột hoặc phím mũi tên. Mây xám biến mất sau một lần nhảy và có đám mây di chuyển.
+She jumps, startled, then smiles and sparkles	Cô ấy giật mình nhảy lên, rồi mỉm cười và tóe lửa
+She makes sounds	Cô ấy phát âm thanh
+She pants when the processor, the memory or the graphics card works hard, gets tired when the battery is low and keeps still during Pomodoro's focus	Cô ấy thở dốc khi bộ xử lý, bộ nhớ hoặc card đồ họa làm việc nặng, mệt khi pin yếu và nằm yên trong lúc tập trung Pomodoro
+She reacts to everything below; off, choose each reaction	Cô ấy phản ứng với mọi thứ bên dưới; khi tắt, hãy chọn từng phản ứng
+She smiles as the Wi-Fi arcs come back	Cô ấy mỉm cười khi các vòng Wi-Fi hiện lại
+She woke up: you came back	Cô ấy thức dậy: bạn đã quay lại
+She's proud, and a check mark is drawn	Cô ấy tự hào, và một dấu tích được vẽ ra
+She's sad, with a question mark	Cô ấy buồn, kèm một dấu chấm hỏi
+She's startled by a ringing alarm mark	Cô ấy giật mình vì một dấu báo động đang reo
+Shelf	Khay tệp
+Shelf for files	Khay tệp
+Shelf holds	Khay giữ tối đa
+Shh, nobody wakes me up now.	Suỵt, giờ không ai đánh thức mình được.
+Shh… focus mode.	Suỵt… chế độ tập trung.
+Short	Ngắn
+Short name	Tên ngắn
+Shortcut: let clicks through the pill	Phím tắt: cho phép bấm xuyên qua Island
+Shortcuts	Phím tắt
+Shortcuts to programs and files (or command lines) you add, with their own icons, a click away in their panel; any of them can be a button on the pill or have a keyboard shortcut (set in its editor)	Thêm lối tắt đến chương trình, tệp hoặc dòng lệnh, mỗi mục có biểu tượng riêng và mở được từ bảng lệnh. Bạn có thể đưa bất kỳ mục nào lên Island làm nút truy cập nhanh hoặc gán phím tắt cho nó (trong trình sửa lệnh)
+Show	Hiện
+Show %zu hidden	Hiện %zu sự kiện đã ẩn
+Show VLC 3 from its window's title	Hiện VLC 3 từ tiêu đề cửa sổ của nó
+Show a notice when the song changes	Hiện thông báo khi đổi bài hát
+Show all	Hiện tất cả
+Show desktop	Hiện màn hình nền
+Show what they say	Hiện nội dung thông báo
+Show what's copied (a bubble under the pill)	Hiện nội dung vừa sao chép
+Showers	Mưa rào
+Shown under the mouse; up to 16 letters, empty is Faísca	Hiện khi rê chuột; tối đa 16 ký tự, để trống là Faísca
+Shows GlazeWM's workspaces on the pill, a dot each; a click switches to it	Hiện các workspace của GlazeWM trên Island, mỗi workspace một chấm; bấm để chuyển sang workspace đó
+Shows a banner on the pill when a notification arrives	Hiển thị thông báo nổi từ Island khi có thông báo mới
+Shows a bubble under the pill with what you just copied	Hiện khung nhỏ dưới Island cho biết nội dung bạn vừa sao chép
+Shows a mark and the app name while the mic, camera or location is used	Hiện dấu chỉ báo và tên ứng dụng đang sử dụng micrô, camera hoặc vị trí
+Shows a notice each time a USB drive is plugged in	Hiện thông báo mỗi khi kết nối ổ USB
+Shows a notice when the battery goes under 20% and under 10%	Hiện thông báo khi pin xuống dưới 20% và dưới 10%
+Shows a notice when the charger is plugged in	Hiện thông báo khi cắm sạc
+Shows a notice when you turn Do not disturb on or off	Hiện thông báo khi bạn bật hoặc tắt Không làm phiền
+Shows a notice with the device's name when Bluetooth audio connects	Hiện thông báo kèm tên thiết bị khi kết nối âm thanh Bluetooth
+Shows an icon on the pill for each app with notifications	Hiện biểu tượng trên Island cho từng ứng dụng có thông báo
+Shows an icon to open or eject plugged-in USB drives	Hiện biểu tượng để mở hoặc tháo an toàn các ổ USB đang kết nối
+Shows bars that move with the sound that is playing	Hiện các cột sóng nhạc nhấp nhô theo âm thanh đang phát
+Shows how busy the graphics card is; a click opens its panel	Hiển thị mức tải của card đồ họa; bấm để mở bảng của nó
+Shows how busy the processor is	Hiện phần trăm tải của CPU
+Shows how long until the next event, alarm, timer or Pomodoro part	Hiện thời gian còn lại đến sự kiện, báo thức, khi hẹn giờ kết thúc hoặc khi Pomodoro chuyển giai đoạn
+Shows how much memory is in use	Hiện mức dung lượng RAM đang dùng
+Shows how much video memory is in use	Hiện mức dung lượng VRAM đang dùng
+Shows komorebi's workspaces and layout on the pill, a menu changes it	Hiện các workspace và bố cục cửa sổ của komorebi trên Island (bấm để đổi nhanh)
+Shows notices for the charger, low battery, Bluetooth audio and Do not disturb	Thông báo trạng thái sạc, pin yếu, thiết bị âm thanh Bluetooth và chế độ Không làm phiền
+Shows pending app and Windows updates from winget and Windows Update	Hiển thị các bản cập nhật ứng dụng và Windows đang chờ, lấy từ winget và Windows Update
+Shows small bubbles with names and app notifications on hover	Hiện chú thích tên mục hoặc nội dung thông báo khi đưa chuột vào biểu tượng
+Shows the battery icon on the pill	Hiện biểu tượng pin trên Island
+Shows the control center's icon, click for Wi-Fi, Bluetooth, volume and more	Hiện nút mở Trung tâm điều khiển (Wi-Fi, Bluetooth, âm lượng, độ sáng...)
+Shows the cover and the song title on the pill	Hiện ảnh bìa album và tên bài hát đang phát trên Island
+Shows the current keyboard language, like the Windows indicator	Hiện ngôn ngữ bàn phím / chế độ gõ hiện tại trên Island
+Shows the current upload and download speed	Hiện tốc độ mạng tải lên và tải xuống theo thời gian thực
+Shows the extra clocks you added in Windows	Hiển thị các đồng hồ bổ sung đã thiết lập trong Windows
+Shows the graphics card's temperature when its driver gives it, in °C or °F like the weather	Hiển thị nhiệt độ card đồ họa nếu driver cung cấp, theo °C hoặc °F như thời tiết
+Shows the icon and name of the app in focus on this monitor	Hiện biểu tượng và tên ứng dụng đang hoạt động trên màn hình này
+Shows the keys that let clicks through, click them to record a combination	Hiện các phím cho phép bấm xuyên qua; bấm vào để ghi tổ hợp phím
+Shows the minimize keys, click them to record a new combination	Hiện phím tắt thu gọn Island, bấm vào để đổi sang tổ hợp phím khác
+Shows the notifications	Hiển thị thông báo
+Shows the number and name of the virtual desktop for a moment when you switch to it, also when the island is minimized	Hiện số và tên của màn hình nền ảo trong giây lát khi bạn chuyển sang đó, kể cả khi Island đang thu nhỏ
+Shows the playing song or video with its cover and controls	Hiện bài hát hoặc video đang phát kèm ảnh bìa và nút điều khiển
+Shows the processor's temperature when Windows reports one, in °C or °F like the weather	Hiển thị nhiệt độ bộ xử lý nếu Windows cung cấp, theo °C hoặc °F như thời tiết
+Shows the screen brightness, scroll the wheel on it to change	Hiện độ sáng màn hình, hỗ trợ lăn chuột ngay trên biểu tượng để tăng giảm
+Shows the time on the pill	Hiện đồng hồ trên Island
+Shows the two switches at the end of the song's panel, for the buttons and for the cover and title on the pill. They stay in these settings either way	Hiện ở cuối bảng bài hát hai công tắc cho các nút và cho ảnh bìa, tên bài trên Island. Dù bật hay tắt, chúng vẫn có trong phần cài đặt này
+Shows the virtual desktops, scroll the wheel on it to switch; a click opens their list, where the pencil renames one (Windows 11 24H2 and later)	Hiện các màn hình ảo (Virtual desktops), lăn chuột để chuyển nhanh; bấm để mở danh sách, nơi biểu tượng bút chì đổi tên màn hình (Windows 11 24H2 trở lên)
+Shows the volume icon, click for the volume panel	Hiện biểu tượng âm lượng; bấm để mở bảng điều chỉnh âm lượng
+Shows the volume sliders, the link to Windows' mixer and the Mixer with each app's volume under the player in the song's panel. Turn off for a panel with only the player	Hiện thanh âm lượng, liên kết mở bộ trộn âm lượng của Windows và bộ trộn từng ứng dụng dưới trình phát trong bảng bài hát. Tắt đi để bảng chỉ còn trình phát
+Shows the weather, it needs an internet connection	Hiện nhiệt độ và thời tiết hiện tại (cần internet)
+Shows this action in the power button's menu; if only one is on, a click on the button runs it	Hiện thao tác này trong menu nút nguồn; nếu chỉ bật một thao tác, bấm nút sẽ thực hiện ngay
+Shrinks the pill to a thin line on the screen edge when idle	Thu gọn Island thành một vạch mảnh ở mép màn hình khi không sử dụng
+Shuffle	Phát ngẫu nhiên
+Shut down	Tắt máy
+Shut down now?	Tắt máy tính ngay?
+Sign out	Đăng xuất
+Sign out now?	Đăng xuất khỏi Windows ngay?
+Simple	Đơn giản
+Size	Kích thước
+Sizes	Kích thước
+Skip	Bỏ qua
+Sky	Bầu trời
+Sleep	Ngủ (Sleep)
+Slide	Trượt ngang
+Small	Nhỏ
+Smallest first	Nhỏ nhất trước
+Smooth bars (like the iPhone)	Sóng nhạc mượt (kiểu iPhone)
+Smoothness of the animations, matching the screen or a fixed rate	Chọn tốc độ khung hình của hiệu ứng: theo tần số quét màn hình hoặc một mức cố định
+Snooze	Báo lại sau
+Snoozed: shows again in 5 minutes	Đã hoãn báo thức; sẽ báo lại sau 5 phút
+Snow	Tuyết rơi
+Snow showers	Tuyết rào
+Something just came in!	Có gì mới đến nè!
+Song changed	Đổi bài hát
+Song lyrics	Lời bài hát
+Song lyrics (goes online: lrclib.net)	Lời bài hát (tải từ lrclib.net)
+Sort by	Sắp xếp theo
+Sound	Âm thanh
+Sound files	Tệp âm thanh
+Sound output	Thiết bị đầu ra âm thanh
+Sound waves come out of her	Sóng âm phát ra từ cô ấy
+Sounds of each event	Âm thanh của từng sự kiện
+Space	Space
+Speed	Tốc độ
+Speeds up or slows down the animations, on every monitor	Tăng hoặc giảm tốc độ chuyển động trên tất cả màn hình
+Spinning like crazy.	Quay vù vù luôn.
+Splits the island into notches against the top edge, around the camera; the Island and Fixed styles each keep their own	Chia Island thành các Notch sát cạnh trên, bố trí quanh camera. Kiểu Island và Cố định lưu cấu hình Notch riêng
+Square	Vuông
+Stands the pill up on the left and right edges (not with notches)	Xoay dọc Island khi đặt ở cạnh trái hoặc phải màn hình (không dùng với Notch)
+Start	Bắt đầu
+Startled	Giật mình
+Starts over in	Đặt lại hạn mức sau
+Status	Trạng thái
+Status notices: charger, low battery, Bluetooth audio, Do not disturb	Báo trạng thái: cắm sạc, pin yếu, âm thanh Bluetooth, Không làm phiền
+Stay over borderless full-screen apps	Hiện trên ứng dụng toàn màn hình không viền
+Sticky keys	Phím dính (Sticky Keys)
+Stop	Dừng
+Stop keeping it open	Ngừng giữ luôn mở
+Stop poking me!	Đừng chọc mình nữa!
+Stop, that tickles!	Thôi mà, nhột quá!
+Stopped	Đã dừng
+Stops Windows' own banners so you only see the island's	Ẩn thông báo nổi của Windows để chỉ hiển thị thông báo nổi của Island
+Stopwatch	Bấm giờ
+Style	Kiểu dáng
+Style (the options of the style chosen under it)	Chọn kiểu hiển thị; các tùy chọn tương ứng nằm bên dưới
+Sure?	Bạn chắc chắn chứ?
+Switches, adds, renames, updates or deletes your profiles	Chuyển đổi, thêm, đổi tên, cập nhật hoặc xóa cấu hình
+System	Hệ thống
+System alerts (the charger, a low battery, Bluetooth, Do not disturb and the desktop) show as a wide compact pill: the icon in a circle of its color at the left, the title, and the value at the right end (a battery as a small battery, a headset's as a ring). They keep their time and their queue	Các thông báo hệ thống (sạc, pin yếu, Bluetooth, Không làm phiền và màn hình nền) hiện thành một viên thuốc rộng và gọn: biểu tượng trong vòng tròn cùng màu ở bên trái, tiêu đề, và giá trị ở đầu bên phải (pin là một ô pin nhỏ, pin tai nghe là một vòng tròn). Thời gian hiển thị và hàng đợi giữ nguyên
+System sounds (notifications)	Âm thanh hệ thống (thông báo)
+Tabler (online)	Tabler (trực tuyến)
+Take care of Faísca	Chăm sóc Faísca
+Task	Việc cần làm
+Task Manager	Task Manager
+Task view	Xem tác vụ (Task View)
+Taskbar back to Windows' default for now	Thanh tác vụ tạm về mặc định của Windows
+Tasks	Việc cần làm
+Tasks button	Nút mở danh sách việc cần làm
+Tasks with a date in the calendar	Công việc có ngày trong lịch
+Tell me what's new after an update	Giới thiệu thay đổi sau mỗi lần cập nhật
+Temperature	Nhiệt độ
+Temperature unit	Đơn vị nhiệt độ
+Text	Chữ
+Text size	Cỡ chữ
+Texts in this language reviewed by %s	Văn bản ngôn ngữ này được %s rà soát
+Texts to translate (*.json)	Văn bản cần dịch (*.json)
+That path is too long	Đường dẫn quá dài
+That sound off	Âm thanh này đang tắt
+The Bar also shrinks to a thin line on the screen's edge when the mouse is away, and comes back as the mouse reaches the line. Windows then use the strip it kept, and the Bar shows over them	Thanh cũng thu thành một vạch mỏng ở cạnh màn hình khi chuột rời đi, và hiện lại khi chuột chạm vào vạch. Cửa sổ sẽ dùng vùng mà Thanh từng dành riêng, còn Thanh hiển thị phía trên chúng
+The Bar style	Kiểu Thanh
+The PC shuts down after it. Esc or a click stops it.	Sau đó máy tính sẽ tắt. Nhấn Esc hoặc bấm chuột để hủy.
+The app in focus on this monitor (its icon and name)	Ứng dụng đang hoạt động trên màn hình này (biểu tượng và tên)
+The apps heard playing, also players without Windows' media controls; with some on, only they bring it. With none on, any sound does	Các ứng dụng đã phát âm thanh, kể cả trình phát không có điều khiển phương tiện của Windows; khi bật một số ứng dụng, chỉ chúng mới hiện sóng nhạc. Khi không bật ứng dụng nào, mọi âm thanh đều hiện
+The apps seen playing; a click turns one's lyrics off, and nothing of its songs is sent to lrclib.net	Các ứng dụng đã từng phát nội dung. Bấm vào ứng dụng để tắt tìm lời bài hát; thông tin bài hát từ ứng dụng đó sẽ không được gửi đến lrclib.net
+The apps seen playing; only the ones you check make her dance and react to songs. Empty until an app plays	Các ứng dụng đã thấy phát nhạc; chỉ những ứng dụng bạn đánh dấu mới khiến cô ấy nhảy và phản ứng với bài hát. Trống cho đến khi có ứng dụng phát
+The apps' notifications come in a capsule like the pill: the photo or icon at the left, the name and the message on one line, the app's icon at the right. Under the mouse it opens to the whole text and the reply. Calls, alarms and reminders keep their buttons as they are	Thông báo của ứng dụng đến trong một viên con nhộng giống viên đảo: ảnh hoặc biểu tượng ở bên trái, tên và tin nhắn trên một dòng, biểu tượng ứng dụng ở bên phải. Khi đưa chuột vào, nó mở ra toàn bộ nội dung và ô trả lời. Cuộc gọi, báo thức và lời nhắc vẫn giữ các nút của chúng
+The bar at the top, or upright on the left or the right edge, its items one under the other; windows keep out of its strip	Đặt thanh ở cạnh trên, hoặc dọc cạnh trái/phải với các mục xếp từ trên xuống. Cửa sổ được giữ ngoài vùng dành cho thanh
+The bar doesn't minimize	Kiểu Thanh không hỗ trợ thu gọn
+The bar's inner corners	Góc trong của thanh
+The bar's side	Cạnh đặt thanh
+The bars' color; the rainbow gives each bar its own, going around slowly	Màu của sóng nhạc; chọn Cầu vồng để các cột sóng chuyển sắc liên tục
+The battery icon's color while it charges; green is the usual, like a phone's	Màu biểu tượng pin khi đang sạc; mặc định là xanh lá, giống điện thoại
+The battery's charge while a laptop charges	Mức pin khi máy tính xách tay đang sạc
+The bell opens Windows' notification center	Chuông mở trung tâm thông báo của Windows
+The buttons on the panels	Các nút trên bảng
+The calendar marks the days that have a task due with a small dash, and lists those tasks with the day's events, where a tick completes them. Needs the dates on tasks	Lịch đánh dấu bằng một vạch nhỏ những ngày có công việc đến hạn và liệt kê các công việc đó cùng sự kiện của ngày, nơi một cú nhấp đánh dấu hoàn thành. Cần bật ngày cho công việc
+The calendar opens as a card: today big at its left, the month beside it, buttons for the alarms, the timer and your agendas, and the day's events	Hiển thị lịch dạng thẻ: ngày hiện tại nổi bật bên trái, lịch tháng bên cạnh, kèm sự kiện trong ngày và các nút mở báo thức, hẹn giờ, lịch liên kết
+The charger plugged in	Bộ sạc được cắm vào
+The charger was plugged in	Đã cắm bộ sạc
+The clock on the pill and in the calendar, in a font of its own	Đồng hồ trên Island và trong lịch, bằng phông chữ riêng
+The control center's buttons	Các nút của trung tâm điều khiển
+The cover's	Theo ảnh bìa
+The day's events and holidays under the month, the next ones and the button to add one. Off, the calendar shows only the clock and the month; reminders and the countdown keep working	Sự kiện và ngày lễ trong ngày bên dưới lịch tháng, các sự kiện sắp tới và nút thêm sự kiện. Khi tắt, lịch chỉ hiện đồng hồ và tháng; lời nhắc và đếm ngược vẫn hoạt động
+The dock is chosen in Windhawk, in this mod's settings: Taskbar (the dock, the Windows taskbar transparent or with only the apps, or unchanged); the island can't change it	Chọn Dock trong Windhawk > cài đặt mod > Thanh tác vụ. Bạn có thể dùng Dock, làm trong suốt thanh tác vụ Windows, chỉ giữ các ứng dụng hoặc giữ nguyên thanh tác vụ. Không thể đổi lựa chọn này từ cài đặt Island
+The dock is optional: it takes the taskbar's place, and it's chosen in Windhawk	Bạn có thể bật Dock để thay thế thanh tác vụ; tùy chọn này nằm trong cài đặt mod trên Windhawk
+The dock is set up in Windhawk	Dock được chỉnh trong phần cài đặt mod của Windhawk
+The edge zone as wide as the pill	Vùng ở mép rộng bằng Island
+The effect shown when the wallpaper changes	Hiệu ứng chuyển cảnh mỗi khi đổi hình nền
+The favorite's drive isn't connected	Ổ đĩa chứa tệp yêu thích này hiện chưa được kết nối
+The folder with your icons	Thư mục chứa biểu tượng của bạn
+The folder with your wallpapers	Thư mục chứa ảnh hình nền của bạn
+The glass gets a sheen, a beveled edge, light along its bottom and a soft shadow around it, and the panels' cards look like glass too (idea by Thiago Silva)	Thêm độ bóng, cạnh vát, ánh sáng ở mép dưới và bóng đổ mềm cho kính; các thẻ trong bảng cũng có hiệu ứng kính (ý tưởng của Thiago Silva)
+The graphics card is flying!	Card đồ họa đang bay luôn!
+The hotspot isn't available now.	Hiện không dùng được điểm phát sóng.
+The icons'	Theo màu biểu tượng
+The internet is back	Internet đã trở lại
+The internet went away	Mất kết nối internet
+The island follows the mouse between screens.	Island tự chuyển sang màn hình có con trỏ chuột
+The island handles notifications and their sounds (Windows' stay quiet)	Dùng Island để hiển thị thông báo và phát âm báo thay cho Windows
+The island is the pill at the top of the screen: the clock, the control center, your notifications and what's playing	Island là thanh nổi ở cạnh trên màn hình, hiển thị đồng hồ, Trung tâm điều khiển, thông báo và nội dung đang phát
+The island shows the notifications and plays their sounds, Windows stays quiet	Island hiển thị thông báo và phát âm báo; Windows không phát âm báo để tránh trùng lặp
+The island stopped working	Đảo đã ngừng hoạt động
+The island takes the color of the app in front	Đổi màu Island theo ứng dụng đang hoạt động
+The island's	Theo Island
+The island's logs	Nhật ký Island
+The island's: no banners or sounds from it	Không làm phiền của Island: tắt thông báo nổi và âm báo
+The items before the clock in the order stay at one corner and the others at the other, without changing sides as items come and go	Các mục đứng trước đồng hồ theo thứ tự ở một góc, các mục còn lại ở góc kia, không đổi bên khi mục xuất hiện hoặc biến mất
+The keys below make the pill let clicks through to what's under it, and again take them back; it stays shown	Các phím bên dưới cho phép bấm xuyên qua Island xuống nội dung phía dưới, nhấn lại để trở về bình thường; Island vẫn hiển thị
+The keys below send the island to its line, and again bring it back	Nhấn tổ hợp phím dưới đây để thu gọn Island thành vạch mảnh, nhấn lần nữa để mở lại
+The komorebi buttons also start and stop masir, so focus follows the mouse	Các nút điều khiển komorebi cũng khởi động và dừng masir, giúp chuyển tiêu điểm sang cửa sổ dưới con trỏ chuột
+The komorebi buttons also start and stop whkd, its shortcut helper	Các nút điều khiển komorebi cũng khởi động và dừng whkd, công cụ xử lý phím tắt của komorebi
+The line sung now on the pill (place it in the order above), all of them in its panel. Each song's title and artist are sent to lrclib.net (songs only: not videos, voice messages or the apps turned off below)	Hiện câu hát hiện tại trên Island và toàn bộ lời bài hát trong bảng riêng; kéo mục ở phía trên để đổi vị trí. Tên bài hát và nghệ sĩ được gửi đến lrclib.net để tìm lời. Không áp dụng cho video, tin nhắn thoại hoặc các ứng dụng đã tắt bên dưới
+The line's color, on the pill and lit in the panel	Màu câu hát hiện tại trên Island và màu đánh dấu câu đó trong bảng lời bài hát
+The list stays open after you click an icon (In the pill style)	Không tự đóng danh sách sau khi bấm vào một biểu tượng (chỉ áp dụng cho kiểu Ngay trên Island)
+The memory is packed!	Bộ nhớ đầy ắp rồi!
+The minimize arrow keeps the island open	Mũi tên thu gọn giữ Island luôn mở
+The mod's site	Trang web của mod
+The mouse at the edge, anywhere along the pill's width, brings it back, also with the line invisible	Đưa chuột đến mép ở bất kỳ điểm nào trong chiều rộng của Island sẽ mở lại Island, kể cả khi vạch bị ẩn
+The name has 1 to 32 characters (a letter outside English, like an accented one, counts as two or three).	Tên mạng dài từ 1 đến 32 byte (UTF-8); chữ có dấu và ký tự đặc biệt có thể chiếm nhiều byte.
+The next alarm that's on	Báo thức tiếp theo đang bật
+The one chosen on the map	Màn hình được chọn trên sơ đồ
+The password has 8 to 63 letters, numbers or symbols, without accents.	Mật khẩu gồm 8 đến 63 chữ cái, chữ số hoặc ký hiệu, không dấu.
+The password has at least 8 characters.	Mật khẩu phải có ít nhất 8 ký tự.
+The pill as a loading bar	Dùng Island làm thanh tiến trình
+The pill can stay, or become a thin line while the mouse is away or while a window is maximized; the mouse on the line brings it back	Giữ Island luôn hiển thị, hoặc thu gọn thành vạch khi chuột ở ngoài hay có cửa sổ phóng to. Đưa chuột vào vạch để mở lại
+The pill fills like a loading bar with downloads	Biến Island thành thanh tiến trình khi tải tệp hoặc cài đặt
+The pill fills with the battery's charge while charging	Lấp đầy Island theo mức pin khi đang cắm sạc
+The pill glows with her	Viên phát sáng cùng cô ấy
+The pill lights up in several colors. Click (or press Space) only when it turns her color. Five rounds; the average counts, and each wrong click adds 300 ms to the total.	Viên thuốc sáng lên nhiều màu. Chỉ nhấp chuột (hoặc nhấn Space) khi nó chuyển sang màu của bé. Năm vòng; tính theo trung bình, và mỗi lần nhấp sai cộng thêm 300 ms vào tổng.
+The pill shows the song's cover without its title. Hover it to read the title	Island chỉ hiện ảnh bìa bài hát, không hiện tên bài. Rê chuột lên để đọc tên bài
+The pill takes clicks again	Island nhận lại thao tác bấm
+The pill's and the panels' texts, in a font from your PC (click it again to pick another)	Chữ trên Island và các bảng, bằng một phông chữ trên máy của bạn (bấm lại để chọn phông khác)
+The pill's other items	Các mục khác của Island
+The pill's shape	Hình dáng Island
+The processor is sweating. So am I.	CPU đang đổ mồ hôi. Mình cũng vậy.
+The progress apps show on their taskbar button (downloads, copies, installs)	Lấy tiến trình mà ứng dụng hiển thị trên nút thanh tác vụ, như tải xuống, sao chép tệp hoặc cài đặt
+The room between the bars; the item grows with it	Khoảng cách giữa các cột; mục sẽ rộng ra theo
+The settings' own icons	Biểu tượng riêng của phần cài đặt
+The sky as emoji, with the icon pack chosen in the Icons tab, or with a set of weather pictures downloaded once when chosen (Meteocons in color, Weather Icons in one color)	Bầu trời hiện bằng biểu tượng cảm xúc, bằng gói biểu tượng chọn ở tab Biểu tượng, hoặc bằng bộ hình thời tiết tải về một lần khi chọn (Meteocons có màu, Weather Icons một màu)
+The small pill with the time touches the screen's edge, straight on that side and as thin as its text, covering less of what's under it. The mouse on it opens the island as usual	Viên nhỏ hiển thị giờ chạm cạnh màn hình, thẳng ở phía đó và mỏng bằng chữ, che ít nội dung bên dưới hơn. Rê chuột lên sẽ mở Island như thường
+The song changed	Bài hát đã đổi
+The text's	Theo màu chữ
+The timer fills the pill with color	Hẹn giờ tô màu đầy Island
+The title and the text, in the pill and in this list	Hiện tiêu đề và nội dung trên cả Island lẫn danh sách này
+The volume changed	Âm lượng đã đổi
+The weather panel shows feels like, humidity, wind, UV, rain, pressure and clouds as small cards, like a phone's	Hiển thị nhiệt độ cảm nhận, độ ẩm, gió, chỉ số UV, mưa, áp suất và mây dưới dạng thẻ, tương tự ứng dụng thời tiết trên điện thoại
+The weather service didn't answer	Không nhận được phản hồi từ dịch vụ thời tiết
+The wheel on what's playing changes the song (not the volume)	Lăn chuột trên mục Đang phát để chuyển bài (thay vì chỉnh âm lượng)
+Their own	Màu gốc
+Their sliders talk to the monitor over its cable. Turn off if a monitor flickers or a dock or MST hub resets when the control center opens	Điều chỉnh độ sáng màn hình qua cáp bằng DDC/CI. Tắt nếu màn hình nhấp nháy hoặc đế kết nối, hub MST bị khởi động lại khi mở Trung tâm điều khiển
+Thinking about nothing. On purpose.	Mình đang không nghĩ gì. Cố ý đấy.
+Thirsty · water at %s	Khát · nước còn %s
+This PC	This PC
+This assistant sets the main choices in a few steps, and each one changes the island at once; everything else is in the tabs on the left	Trợ lý hướng dẫn thiết lập các tùy chọn chính qua một vài bước. Mọi thay đổi được áp dụng ngay lên Island; các tùy chọn khác nằm trong các tab bên trái
+This computer has no battery	Máy tính này không có pin
+This isn't working.	Thế này không ổn đâu.
+This monitor's profile: changes here apply to every monitor using it	Cấu hình của màn hình này: mọi thay đổi sẽ áp dụng cho tất cả màn hình dùng chung cấu hình này
+This one's good!	Bài này hay đó!
+Three	Ba Notch
+Thumbnails of the files	Ảnh thu nhỏ của tệp
+Thunderstorm	Giông bão
+Thunderstorm with hail	Giông kèm mưa đá
+Tiling	Chia ô (Tiling)
+Time (hour:minute)	Giờ (giờ:phút)
+Time for a break	Đến giờ nghỉ
+Time format	Định dạng giờ
+Time until the next	Đếm ngược đến mốc tiếp theo
+Time's up	Hết giờ
+Timer	Hẹn giờ
+Timer on the minimized line	Hiện bộ đếm giờ khi thu gọn
+Timer, stopwatch and Pomodoro	Hẹn giờ, bấm giờ và Pomodoro
+Tips under the icons and buttons (their names, an app's notifications)	Hiện chú thích khi rê chuột lên biểu tượng hoặc nút, gồm tên chức năng và thông báo của ứng dụng
+Tired · the battery at %s, unplugged	Mệt · pin còn %s, chưa cắm sạc
+Title	Tiêu đề
+Title width	Chiều rộng tên bài hát
+To talk to me and follow my projects	Trò chuyện với tác giả và theo dõi các dự án mới
+To use “%s”, change:	Để dùng “%s”, cần thay đổi các cài đặt sau:
+Today	Hôm nay
+Today's color	Màu đánh dấu ngày hôm nay
+Together for %s days	Bên nhau %s ngày
+Together for 1 day	Bên nhau 1 ngày
+Together since today	Bên nhau từ hôm nay
+Tomorrow	Ngày mai
+Too many agendas	Đã đạt giới hạn số lịch liên kết
+Top	Trên
+Top left	Góc trên bên trái
+Top right	Góc trên bên phải
+Topics	Chủ đề
+Total	Tổng dung lượng
+Touch keyboard	Bàn phím cảm ứng
+Transition	Hiệu ứng chuyển cảnh
+Translucent glass: a lighter tint and livelier colors	Kính bán trong suốt: nền nhạt hơn và màu sắc tươi hơn
+Tray icons	Khay hệ thống
+Try again	Thử lại
+Try again, or share the file from Explorer	Hãy thử lại, hoặc chia sẻ tệp từ File Explorer
+Turn it on once in Windows' settings: from then on the island switches it	Hãy bật một lần trong cài đặt Windows, sau đó đảo sẽ tự bật tắt được
+Turn it up, I know this one.	Mở to lên đi, bài này mình biết!
+Turn on Claude Code, Codex or Custom in the settings	Hãy bật Claude Code, Codex hoặc Tùy chỉnh trong cài đặt
+Turned off	Đã tắt
+Turned on	Đã bật
+Turns the island's animations on or off, on every monitor	Bật hoặc tắt hiệu ứng chuyển động của Island trên mọi màn hình
+Type	Loại tệp
+Type the command line.	Hãy nhập dòng lệnh.
+Type the time as hours and minutes, like 08:30.	Nhập giờ theo giờ và phút, ví dụ 08:30.
+Type to filter the shortcuts…	Nhập để tìm phím tắt…
+Type what it opens.	Nhập chương trình, đường dẫn hoặc liên kết cần mở.
+Type your note here…	Nhập nội dung ghi chú…
+USB connected	Đã kết nối USB
+USB drive	Ổ USB
+USB drive plugged in	Đã kết nối ổ USB
+USB drives	Ổ USB
+USB drives icon on the pill (open or eject them)	Hiện biểu tượng ổ USB trên Island để mở hoặc tháo thiết bị an toàn
+UV index	Chỉ số UV
+Ugh.	Haizz.
+Ultrawide vertical stack	Xếp chồng dọc siêu rộng (Ultrawide)
+Unavailable	Không khả dụng
+Up to 40 favorite files	Tối đa 40 tệp yêu thích
+Upcoming events	Sự kiện sắp tới
+Upcoming holidays	Ngày lễ sắp tới
+Update	Cập nhật
+Update all	Cập nhật tất cả
+Update ticked	Cập nhật các mục đã chọn
+Updated %lld days ago	Cập nhật %lld ngày trước
+Updated %lld h ago	Cập nhật %lld giờ trước
+Updated %lld min ago	Cập nhật %lld phút trước
+Updated now	Vừa cập nhật
+Updates	Cập nhật
+Updates (winget and Windows Update)	Kiểm tra cập nhật (winget & Windows Update)
+Upload	Tải lên
+Upload peak (1 min)	Đỉnh tải lên (1 phút)
+Upright on the left and right edges	Xoay dọc khi đặt ở cạnh trái / phải
+Usage	Mức sử dụng
+Use my location	Dùng vị trí của tôi
+Utilization	Mức sử dụng
+VLC 3 doesn't tell Windows' media controls what it plays, so the island can't see it. With this on, while VLC makes sound, the island reads the song's name from VLC's window title, shows it with VLC's icon, and its buttons press play/pause, previous and next in VLC. No cover or time, and VLC must show the name in its window title (its default)	VLC 3 không báo cho các điều khiển phương tiện của Windows biết nó đang phát gì nên Island không thấy được. Khi bật, lúc VLC phát ra âm thanh, Island đọc tên bài từ tiêu đề cửa sổ VLC, hiện cùng biểu tượng VLC, và các nút của nó bấm phát/tạm dừng, trước và sau trong VLC. Không có ảnh bìa hay thời gian, và VLC phải hiện tên trong tiêu đề cửa sổ (mặc định)
+Vertical stack	Xếp chồng dọc
+Vertical stack, main on the right	Xếp chồng dọc (cửa sổ chính bên phải)
+Vice (neon sunset)	Vice (hoàng hôn neon)
+Video memory in use (VRAM)	Bộ nhớ đồ họa đang dùng (VRAM)
+Videos	Video
+Violet	Tím
+Virtual desktops	Màn hình ảo
+Virtual desktops (the mouse wheel switches them)	Màn hình ảo (lăn chuột để chuyển)
+Visualizer color	Màu sóng nhạc
+Visualizer color (own)	Màu sóng nhạc (tùy chọn)
+Visualizer sensitivity	Độ nhạy sóng nhạc
+Volume	Âm lượng
+Volume and mixer in the panel	Âm lượng và bộ trộn trong bảng
+Volume mixer	Bộ trộn âm lượng
+Volume percentage beside its icon	Phần trăm âm lượng cạnh biểu tượng
+Waiting for valid data in the chosen file	Đang chờ dữ liệu hợp lệ trong tệp đã chọn
+Wallpaper	Hình nền
+Wallpaper (the wheel: the next one)	Đổi hình nền (lăn chuột để qua ảnh tiếp)
+Wallpaper transition	Hiệu ứng chuyển hình nền
+Wallpapers from a folder (with a transition)	Đổi hình nền từ thư mục (kèm hiệu ứng chuyển cảnh)
+Wasted	Wasted
+Wasted now?	Wasted ngay bây giờ?
+Water	Nước
+Weather	Thời tiết
+Weather (goes online)	Thời tiết (cần internet)
+Weather Icons	Weather Icons
+Weather data by Open-Meteo.com	Dữ liệu thời tiết từ Open-Meteo.com
+Weather icons	Biểu tượng thời tiết
+Website	Trang web
+Week	Tuần
+Weekday	Thứ trong tuần
+Weekdays	Thứ Hai đến thứ Sáu
+Weekends	Cuối tuần
+Welcome to Mac Island & Dock	Chào mừng đến với Mac Island & Dock
+What Claude Code in a terminal gives its status line (a line in its script, see the item's panel). The Claude desktop app doesn't leave its limits on this PC, so it can't show here	Dữ liệu hạn mức do Claude Code trong terminal cung cấp qua thanh trạng thái (status line); cần thêm dòng lệnh vào script của thanh trạng thái theo hướng dẫn trong bảng này. Ứng dụng Claude trên máy tính không lưu thông tin hạn mức cục bộ nên không hiển thị được ở đây
+What Codex writes in its logs on this PC	Thông tin hạn mức do Codex ghi vào nhật ký trên máy này
+What it does	Chức năng
+What it opens	Nội dung cần mở
+What needs doing?	Nhập việc cần làm…
+What she reacts to shows up here, with her sound	Những gì cô ấy phản ứng sẽ hiện ở đây, kèm âm thanh
+What's new	Có gì mới
+What's playing	Đang phát
+What's playing on the minimized line	Hiện nội dung đang phát khi thu gọn
+What's playing's buttons and pictures	Nút và hình ảnh của mục Đang phát
+What's that?	Cái gì thế?
+When it hides	Điều kiện tự động ẩn
+Where banners show	Vị trí hiện thông báo nổi
+Where did the internet go?	Mạng đi đâu mất rồi?
+Where the island appears	Màn hình hiển thị Island
+Where the items go along the bar. Automatic: around the clock when it's in the middle, otherwise at the right end	Vị trí các mục dọc theo thanh. Tự động: quanh đồng hồ khi đồng hồ ở giữa, nếu không thì ở đầu bên phải
+While a line is sung, it takes the title and artist's place; between lines they come back	Câu hát hiện tại thay thế tên bài và nghệ sĩ. Giữa các câu hát, tên bài và nghệ sĩ xuất hiện trở lại
+While a timer or Pomodoro counts down, the pill fills with color until it ends (orange, green on a break, fainter when paused) and pulses a moment at the end. The stopwatch doesn't fill	Khi hẹn giờ hoặc Pomodoro đang đếm ngược, Island được tô đầy dần bằng màu cho đến lúc kết thúc (cam, xanh lá khi nghỉ, nhạt hơn khi tạm dừng) rồi nhấp nháy nhẹ. Bấm giờ không tô
+While a timer, Pomodoro or the stopwatch runs, the line becomes a small pill with its ring and its time (with Only the clock, the time goes beside the clock)	Khi hẹn giờ, Pomodoro hoặc bấm giờ đang chạy, vạch thu gọn chuyển thành một Island nhỏ hiển thị vòng tiến trình và thời gian. Nếu bật “Chỉ hiện đồng hồ khi thu gọn”, bộ đếm giờ nằm cạnh đồng hồ
+While an app's window is maximized on this monitor, the bar goes back to its usual look (frosted, with the frosted glass on), so the window doesn't show behind it	Khi cửa sổ ứng dụng được phóng to trên màn hình này, thanh trở lại giao diện thường (mờ nếu bật kính mờ), để cửa sổ không hiện phía sau
+While music plays in the apps checked below she dances, a new move each bar, following the beat	Khi các ứng dụng được chọn bên dưới phát nhạc, cô ấy nhảy, mỗi ô nhịp một động tác mới, theo nhịp
+While music plays, a timer or the stopwatch runs, or a download or copy fills the pill, resting the mouse on that item (or on the pill, when only one is live) grows the pill into its card: the cover, title and buttons; the big time with pause and cancel; the percent. It shrinks back when the mouse leaves. Not for an item that Open panels with the mouse opens, nor with a banner place chosen	Khi nhạc đang phát, đồng hồ hẹn giờ hoặc bấm giờ đang chạy, hoặc một lượt tải xuống hay sao chép đang lấp đầy viên thuốc, dừng chuột trên mục đó (hoặc trên viên thuốc khi chỉ có một hoạt động) sẽ mở viên thuốc thành thẻ của nó: ảnh bìa, tiêu đề và các nút; thời gian lớn kèm tạm dừng và hủy; phần trăm. Thẻ thu lại khi chuột rời đi. Không áp dụng cho mục mà Mở bảng bằng chuột đã mở, và khi đã chọn vị trí cho thông báo
+While something plays, the line becomes a thin pill with the song's cover and moving bars; the mouse on it opens the island, as on the line (with Only the clock, they go beside the clock)	Khi đang phát, vạch sẽ thành một viên mỏng có ảnh bìa bài hát và các thanh chuyển động; đưa chuột vào sẽ mở Island như với vạch (khi bật Chỉ hiện đồng hồ, chúng nằm cạnh đồng hồ)
+While the app is in front, the pill moves there and shows only the lit icons.	Khi ứng dụng này đang hoạt động, Island chuyển đến vị trí đã đặt và chỉ hiển thị các biểu tượng được chọn.
+While the app is in front, the pill moves there and shows only the lit icons. Dragging it then changes its place too.	Khi ứng dụng này đang hoạt động, Island chuyển đến vị trí đã đặt và chỉ hiển thị các biểu tượng được chọn. Kéo Island lúc này cũng sẽ cập nhật vị trí riêng của ứng dụng.
+While the island is minimized to its line (or the Bar is hidden), she stays there in a tiny pill; the mouse on it opens the island, as on the line	Khi Island thu gọn thành vạch (hoặc Thanh bị ẩn), cô ấy ở đó trong một viên nhỏ; đưa chuột vào sẽ mở Island, như trên vạch
+While the timer runs	Khi bộ hẹn giờ đang chạy
+White	Trắng
+Whoa!	Ối!
+Wi-Fi / network	Wi-Fi / mạng
+Wi-Fi back	Wi-Fi đã có lại
+Wi-Fi is off	Wi-Fi đang tắt
+Wi-Fi lost	Mất Wi-Fi
+Wi-Fi, sound, battery, the bell and the clock, each step of them. Click an icon to use a picture of your own for it, its brush (top left) for a color of its own; the x goes back to the pack's	Tùy chỉnh biểu tượng Wi-Fi, âm thanh, pin, chuông và đồng hồ ở từng trạng thái. Bấm biểu tượng để chọn ảnh riêng, hoặc bấm cây cọ ở góc trên bên trái để đổi màu; bấm dấu × để dùng lại biểu tượng của bộ đang chọn
+Wide	Rộng
+Widgets	Widgets
+Width of the edge zone where the mouse brings the pill back	Chiều rộng vùng ở mép màn hình mà khi đưa chuột vào, Island sẽ hiện lại
+Win+A opens the island's control center	Dùng Win+A để mở Trung tâm điều khiển của Island
+Win+J minimizes the island to its line and brings it back	Dùng Win+J để thu gọn / mở lại Island
+Win+L stays Windows' (it locks the PC)	Win+L là phím khóa máy mặc định của Windows
+Win+N and Win+A can open the island's notifications and control center instead of Windows'	Win+N và Win+A có thể mở thông báo và trung tâm điều khiển của Island thay cho của Windows
+Win+N opens the island's notifications	Dùng Win+N để mở bảng Thông báo của Island
+Win+X menu	Menu Win+X
+Wind	Gió
+Window maximized	Cửa sổ phóng to
+Window over it	Cửa sổ che khuất
+Windows	Theo Windows
+Windows 10	Windows 10
+Windows 10's, where it has them	Dùng biểu tượng Windows 10 nếu có
+Windows 11	Windows 11
+Windows Settings	Cài đặt Windows
+Windows Update	Windows Update
+Windows accent	Màu nhấn của Windows
+Windows doesn't report a temperature on this PC	Windows không cung cấp nhiệt độ trên máy này
+Windows or another app uses them too, the island takes them first	Phím tắt trùng với Windows hoặc ứng dụng khác; Island sẽ nhận tổ hợp phím này trước
+Windows places	Lối tắt hệ thống Windows
+Windows stopped while a monitor answered a brightness call (DDC/CI). To turn it on again: island settings > Control center > Brightness of external monitors (DDC/CI).	Windows đã dừng khi một màn hình đang phản hồi yêu cầu độ sáng (DDC/CI). Để bật lại: cài đặt Island > Trung tâm điều khiển > Độ sáng màn hình ngoài (DDC/CI).
+Windows'	Của Windows
+Windows' own icons	Biểu tượng gốc của Windows
+Windows' own: no notification sounds	Không làm phiền của Windows: tắt âm báo thông báo
+Windows' share window didn't open	Cửa sổ chia sẻ của Windows không mở được
+Windows, Windows 10 and Emoji are Windows' own fonts. The online ones (all free to use: MIT, Apache 2.0 or ISC) go online once, when chosen: about 150 small SVG pictures are downloaded from cdn.jsdelivr.net (a plain request for each file, nothing about you or your PC is sent), kept in the mod's folder, and never downloaded again. An icon a pack hasn't stays Windows'. Your folder: a picture (PNG, SVG, ICO...) per icon, named after it	Windows, Windows 10 và Emoji dùng phông chữ có sẵn của Windows. Các bộ trực tuyến dùng giấy phép MIT, Apache 2.0 hoặc ISC. Khi chọn một bộ, mod tải khoảng 150 tệp SVG nhỏ từ cdn.jsdelivr.net và lưu vào thư mục của mod để dùng lại. Mỗi tệp được tải bằng một yêu cầu thông thường, không kèm thông tin cá nhân hay cấu hình máy. Biểu tượng còn thiếu được thay bằng biểu tượng Windows. Với “Thư mục của bạn”, đặt một ảnh PNG, SVG, ICO… cho mỗi biểu tượng và đặt tên tệp tương ứng
+With a click	Bấm chuột
+With a click, the line only grows under the mouse and opens when clicked (the hidden Bar's clock too)	Với lựa chọn “Bấm chuột”, rê chuột lên vạch chỉ làm vạch lớn hơn; Island chỉ mở khi bấm. Đồng hồ thu gọn của kiểu Thanh cũng hoạt động như vậy
+With her games on she has fun too, which goes down while nobody plays with her. Bored, and later sad, she hops on the pill with a pleading look, at most every 30 minutes. Never in full screen, in Do not disturb or over a notification	Khi bật trò chơi, cô ấy còn có niềm vui, và nó giảm dần khi không ai chơi cùng. Khi buồn chán, rồi buồn bã, cô ấy nhảy nhẹ trên Island với ánh mắt nài nỉ, nhiều nhất 30 phút một lần. Không bao giờ khi toàn màn hình, khi Không làm phiền hay khi có thông báo
+With its window's title	Kèm tiêu đề cửa sổ
+With names	Danh sách kèm tên
+With the Bar style	Với kiểu Thanh
+With the Fixed style	Với kiểu Cố định
+With the Island style	Với kiểu Island
+With the fill on, the timer's item on the pill shows only its icon and the minimized line only fills, with no time. The stopwatch keeps its time	Khi bật tô màu, mục hẹn giờ trên Island chỉ hiện biểu tượng và vạch thu gọn chỉ tô màu, không hiện thời gian. Bấm giờ vẫn hiện thời gian
+With the island hidden, only this notch's line shows and opens it	Khi Island ẩn, chỉ giữ vạch kích hoạt của Notch này để mở lại Island
+With the line on, a click on the arrow keeps this monitor's island open until you click it again	Khi bật vạch thu gọn, bấm mũi tên sẽ giữ Island của màn hình này luôn mở cho đến khi bấm lại
+With the mouse	Rê chuột
+Without Git Bash, Claude Code runs its status line in PowerShell: copy the line into its script, after it reads its input into $stdin (see the README)	Nếu không có Git Bash, Claude Code chạy thanh trạng thái (status line) bằng PowerShell. Dán dòng lệnh vào script của thanh trạng thái, sau đoạn đọc dữ liệu đầu vào vào $stdin (xem README)
+Working hard from	Làm việc nặng từ
+Working…	Đang xử lý…
+Workspace	Không gian làm việc
+World clocks	Đồng hồ thế giới
+World clocks (Windows' additional clocks)	Đồng hồ thế giới (lấy từ đồng hồ phụ của Windows)
+World clocks inside the clock	Đồng hồ thế giới trong đồng hồ
+Write	Nhập văn bản
+Writes the charge level as a number next to its icon	Hiện con số phần trăm pin ngay cạnh biểu tượng pin
+Writes the month as a number, like 9/10, not as a name	Viết tháng bằng số (như 9/10) thay vì viết chữ
+Writes the volume level as a number next to its icon	Hiện con số mức âm lượng ngay cạnh biểu tượng loa
+Y M D	Năm / Tháng / Ngày
+Yaaawn… so sleepy.	Ngááp… buồn ngủ quá.
+Year	Năm
+Yes, change	Áp dụng thay đổi
+Yesterday	Hôm qua
+Your best 5	5 kết quả tốt nhất
+Your best results show here, kept only on this PC.	Kết quả tốt nhất của bạn hiện ở đây, chỉ lưu trên máy này.
+Your city (like Campinas)	Tên thành phố (ví dụ: Hà Nội)
+Your command	Lệnh của bạn
+Your commands	Lệnh của bạn
+Your events and your agendas' events	Sự kiện tự tạo và sự kiện từ các lịch .ics
+Your folder (none chosen yet)	Thư mục của bạn (chưa chọn)
+Your folder…	Thư mục của bạn…
+Your location wasn't found yet, trying again	Chưa tìm thấy vị trí của bạn, đang thử lại
+Your own colors	Tự chọn màu riêng
+Z to A	Z đến A
+Zoom	Phóng to
+Zzz… Do not disturb is on.	Khò… Không làm phiền đang bật.
+Zzz… come back soon.	Khò… sớm quay lại nhé.
+checking	đang kiểm tra
+click when the pill turns this color	nhấp khi viên thuốc chuyển sang màu này
+en	vi
+from Windhawk	từ cài đặt Windhawk
+good	tốt
+hours	giờ
+icons saved	biểu tượng đã lưu
+in %d h	còn %d giờ
+in %d h %d min	còn %d giờ %d phút
+in %d min	còn %d phút
+in a row	liên tiếp
+installed	đã cài
+komorebi	komorebi
+komorebi (start, stop, reload)	komorebi (bật, tắt, tải lại)
+komorebi isn't installed	chưa cài đặt komorebi
+komorebi's layout	Bố cục komorebi
+komorebi: hide the workspaces without windows	komorebi: ẩn các workspace trống không có cửa sổ
+komorebi: its layout on the pill (a menu changes it)	komorebi: hiện tên bố cục trên Island (bấm để đổi)
+komorebi: with masir (focus follows the mouse)	komorebi: chạy kèm masir (chuyển tiêu điểm theo chuột)
+komorebi: with whkd (its shortcuts)	komorebi: chạy kèm whkd (phím tắt của komorebi)
+min	phút
+missed	trượt
+more	mục nữa
+moves	lượt
+not connected	chưa kết nối
+not yet!	chưa đâu!
+notification	thông báo
+notifications	thông báo
+now	vừa xong
+off	tắt
+off the beat	lệch nhịp
+on	bật
+perfect	hoàn hảo
+pts	điểm
+sec	giây
+starting now	bắt đầu ngay
+tab	tab
+taken by another command	đã được lệnh khác dùng
+taken by another of the island's shortcuts	đã được phím tắt khác của Island dùng
+taken by one of your commands	đã được một trong các lệnh của bạn dùng
+taken by the island's Win+N or Win+A	đã trùng với phím tắt Win+N hoặc Win+A của Island
+this	mục này
+too slow	quá chậm
+use Win, Ctrl or Alt with a key	hãy kết hợp phím Win, Ctrl hoặc Alt với một phím khác
+week	tuần
+what to change	xem cách thiết lập
+winget couldn't list them	winget không lấy được danh sách
+winget isn't installed	máy chưa cài winget
+yesterday	hôm qua
+“Restore what changed” on this option undoes it later	Chọn “Hoàn tác thay đổi” ở tùy chọn này để khôi phục các cài đặt vừa sửa
+…and then what else it says it needs	…và các điều kiện bổ sung được hiển thị tiếp theo
+✓ All of them are there	✓ Đã đáp ứng tất cả điều kiện
+✓ Copied	✓ Đã sao chép
+✓ Emptied	✓ Đã dọn sạch
+✓ Exported	✓ Đã xuất
+✓ Saved	✓ Đã lưu
